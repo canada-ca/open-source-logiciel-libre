@@ -41,7 +41,7 @@ Source code may include, but are not limited to, code written for software proje
 
 > <=======
 
-## Attribution of Contribution
+## Attribution of Contribution (Inspired by France's Policy)
 
 ### Personal and Professional Contributions
 
@@ -51,19 +51,42 @@ Source code may include, but are not limited to, code written for software proje
 
 ## Contribution to Third-Party Projects
 
+### Authorization to Contribute
+
+Authorization to contribute to third-party open source projects is granted by default, subject to Crown Copyright laws *(need legal advice for this part)*.
+
+When contributing to external Open Source code, the choice of the licence must comply with the existing licence of the project. *Need wordsmithing*
+
 ## Contribution by Publishing a New Project
 
-## Authorization to Publish
+### Authorization to Publish
 
-* Authorization to publish new project is granted by default.
-* [TBD-Authority level] must provide justification [TBC - GC-EARB] not to release source code.
+Authorization to publish new project is granted by default, subject to ().
+
+[TBD-Authority level] must provide justification [TBC - GC-EARB] not to release source code.
+
+### Project Registration
+
+All new open source projects must be registered in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/) so that every existing project can easily be found and referenced in the Open Government Portal by other departements as well as the general public.
 
 ### Hosting Source Code
 
 #### Use of Public Repository
 
+All open source code must be published using a public repository such as, but not limited to:
+
 #### Use of Private Repository
 
-### Licencing Source
+### Licencing Source Code
 
 ### Intellectual Property
+
+### Official Languages
+
+All source code must be developed from the beginning supporting both official languages: English and French.
+
+### Accessibility Requirements
+
+All source code must be developed from the beginning supporting the Accessibility standards: WCAG,
+
+### Contingency Measures
