@@ -22,7 +22,9 @@
 
 ## Scope
 
-> The section below is adapted from France's policy on (Open Source Contribution)
+> The following section is adapted from France's policy on [Open Source Contribution Policy Scope](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/introduction.en.md#scope)
+======>
+
 Source code covered by this policy instrument are the ones:
 
 * developed internally by the administration; this includes
@@ -30,7 +32,14 @@ Source code covered by this policy instrument are the ones:
 
 This contribution policy aims at new developments. For the opening of existing source code, additional actions will be needed, such as defining the scope, reviewing quality and security, and ensuring compliance specifically on intellectual property.
 
+> <=======
+
+> The following section is adapted from United States' [Federal Source Code Policy definition of Custom-developed code](https://github.com/WhiteHouse/source-code-policy/blob/gh-pages/pages/Appendixa.md)
+======>
+
 Source code may include, but are not limited to, code written for software projects, modules, plugins, scripts, middleware, and APIs; it does not, however, include code that is truly exploratory or disposable in nature, such as that written by a developer experimenting with a new language or library.
+
+> <=======
 
 ## Hosting
 
