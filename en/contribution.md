@@ -44,10 +44,6 @@ All new source code created or modified, whether developed internally by GC empl
 - Ensuring that documentation related to the project are available in both official languages: English and French
 - Registered the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
-- Hiring organizations who contribute back to the OSS you use
-
-- Participating in events tied to OSS is a good way to learn more about it and ensure that there is a robust community.
-
 ### The senior departmental official, designated by the deputy head, is responsible for
 
 - Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party OSS projects and to publish new projects as OSS.
