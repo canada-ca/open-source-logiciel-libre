@@ -11,14 +11,18 @@ This standard takes effect on July 1, 2018.
 
 ## Scope
 
-All new source code created or modified, whether developed internally by GC employees or through negotiated contracts on behalf of the GC
+All new [Source Code](#source-code) created or modified, whether developed internally by GC employees or through negotiated contracts on behalf of the GC.
+
+For the opening of existing source codes, additional actions will be needed, such as defining the scope, reviewing quality and security, and ensuring compliance specifically on intellectual property.
+
+A list of exclusions is attached ...
 
 ## Objectives
 
 * Set the standards and best practices for opening source code
 * Publish as open source all new source code created or modified, whether developed internally by GC employees or through negotiated contracts on behalf of the GC
-* Support and be an active contributor (code, issues, testing, roadmap, ..) to OSS used by the GC and/or where there is benefit to Canadians
-* Encourage contributions to OSS released by the GC, whether it be code, commentary, bug reports, feature requests, or overall strategic direction
+* Support and be an active contributor to open source software used by the GC and/or where there is benefit to Canadians
+* Encourage contributions to open source software released by the GC
 
 ## Expected results
 
@@ -32,11 +36,8 @@ All new source code created or modified, whether developed internally by GC empl
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-- Ensuring that the source code does not contain [Protected Information](#protected-information), by:
-  - Keeping sensitive data such as credentials secure and separate from source code
-  - Not storing keys and other sensitive material in systems not approved for that purpose
-  - Doing code reviews to increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data
-  - Implementing controls sufficient to prevent unauthorized or inadvertent changes
+#### Ensuring that the source code is released as open source software
+
 - Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
 - Keeping track of changes using a version control system
 - Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence)
@@ -44,9 +45,21 @@ All new source code created or modified, whether developed internally by GC empl
 - Ensuring that documentation related to the project are available in both official languages: English and French
 - Registered the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
+#### Contributing to third-party open source software projects
+
+- Contributing code, issues, testing, roadmap to OSS projects
+- Supporting open source software initiatives and foundations to help ensure that critical code for modern technologies are monitored and supported
+
+#### Ensuring that the source code does not contain [Protected Information](#protected-information)
+
+- Keeping sensitive data such as credentials secure and separate from source code
+- Not storing keys and other sensitive material in systems not approved for that purpose
+- Doing code reviews to increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data
+- Implementing controls sufficient to prevent unauthorized or inadvertent changes
+
 ### The senior departmental official, designated by the deputy head, is responsible for
 
-- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party OSS projects and to publish new projects as OSS.
+- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software by default subject to legislation.
 
 ### The departmental Chief Information Officer (CIO) or equivalent is responsible for
 
@@ -78,8 +91,6 @@ In instances of non-compliance, deputy heads are responsible for taking correcti
 
 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.
 
-Potential corrective actions, including consequences, are included in Appendix C and align with the Framework for the Management of Compliance.
-
 ## Roles and responsibilities of government organizations
 
 ### Treasury Board of Canada Secretariat (Chief Information Officer Branch), in consultation with other departments, is responsible for the following
@@ -95,9 +106,9 @@ Potential corrective actions, including consequences, are included in Appendix C
 
 You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses).
 
-You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on [Managing Licence Obligations](9_Annex_Legal.md#managing-licence-obligations). As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
+When contributing to external open source software, the choice of the licence must comply with the existing licence of the project. Where a reciprocal licence obligation is in force, you need to license your code under the same licence. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
 
-Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
+Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the open source software licence yourself. The licence you choose should reflect your business requirements. All common open source software licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 
 Choosing an appropriate licence tends to revolve around the decision of whether to apply a reciprocal or permissive licence:
 
@@ -108,13 +119,19 @@ The following chart details other key differences in this decision and list exam
 
 |                                          | Permissive | Reciprocal |
 | ---------------------------------------- | ---------- | ---------- |
-| **Beneficiaries of the OSS release**         | Everyone: commercial software vendors, support services, etc. | Everyone, but only where they are willing to release their software as OSS, under the same licensing terms as were granted to them. |
-| **Beneficiaries of downstream code changes** | The whole community, but only where the business (or other developer) chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual distributes the modifications, as the licence then mandates releasing the changes under the same OSS licence. |
+| **Beneficiaries of the open source software release**         | Everyone: commercial software vendors, support services, etc. | Everyone, but only where they are willing to release their software as open source software, under the same licensing terms as were granted to them. |
+| **Beneficiaries of downstream code changes** | The whole community, but only where the business (or other developer) chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual distributes the modifications, as the licence then mandates releasing the changes under the same open source software licence. |
 | **Licence complexity**                       | Often very simple and understandable. | Relatively complex, requiring careful legal analysis (and some risk of misinterpretation). |
 | **Interoperability**                         | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
 | **Example licences**                         | MIT, Apache 2.0 | GPL 3.0, AGPL 3.0, LGPL 3.0 |
 
-[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
+[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an open source software licence by presenting definitions of the most widely used licenses.
+
+### Intellectual Property
+
+Crown copyright act implications... All code produced by civil servants is automatically covered by Crown Copyright?
+
+Project requesting transfer of IP to project owners?
 
 ### Protected Information
 
@@ -140,6 +157,10 @@ In order for source code to potentially be deemed protected, it would have to co
 It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
 
 Some security considerations to keep in mind when developing software:
+
+### Source Code
+
+Source code may include, but are not limited to, code written for software projects, modules, plugins, scripts, middleware, and APIs; it does not, however, include code that is truly exploratory or disposable in nature, such as that written by a developer experimenting with a new language or library.
 
 ### Source Code Repository
 
