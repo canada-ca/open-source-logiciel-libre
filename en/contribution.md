@@ -1,17 +1,17 @@
-# GC Standard on Open Source Code Contribution (DRAFT)
+# Government of Canada Standard on Open Source Code Contribution (DRAFT)
 
 ## Questions to be clarified
 
-* What current laws or policies supports/hinders/needs clarification to contribute open source code?
+* What current laws or policies support/hinder/need clarification to contribute open source code?
 * Any law or policy regarding the source code being administrative documents that are communicable and reusable?
 
 ## Effective date
 
-This standard takes effect on July 1, 2018.
+This standard takes effect on [Month Day, Year].
 
 ## Scope
 
-All new [Source Code](#source-code) created or modified, whether developed internally by GC employees or through negotiated contracts on behalf of the GC.
+All new [Source Code](#source-code) created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
 
 For the opening of existing source codes, additional actions will be needed, such as defining the scope, reviewing quality and security, and ensuring compliance specifically on intellectual property.
 
@@ -19,31 +19,33 @@ A list of exclusions is attached ...
 
 ## Objectives
 
-* Set the standards and best practices for opening source code
-* Publish as open source all new source code created or modified, whether developed internally by GC employees or through negotiated contracts on behalf of the GC
-* Support and be an active contributor to open source software used by the GC and/or where there is benefit to Canadians
-* Encourage contributions to open source software released by the GC
+* Set the standards and best practices for contributing to open source projects
+* Publish as open source all new source code created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
+* Encourage the release of existing Government of Canada source code as open source software projects.
+* Encourage contributions to open source software projects released by the Government of Canada
+* Support and be an active contributor to open source software used by the Government of Canada and/or where there is benefit to Canadians
 
 ## Expected results
 
-* Benefit from other developers and communities collaborating on the software, including those outside of government
-* Help ensure the viability and perreniality of a project into the future
-* Support an Open Government - Open by default approach
-* Improving the overall availability of re-usable technology in society and within government
+* Improving the overall availability of re-usable technology within government and society
 * Support and increase collaboration with other public administrations in Canada and around the world
+* Support an Open Government - Open by default approach
+* Help ensure the viability and perreniality of a Government of Canada project into the future
+* Benefit from other developers and communities collaborating on the software, including those outside of government
 
 ## Requirements
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-#### Ensuring that the source code is released as open source software
+#### Contributing by releasing Government of Canada projects as open source software by
 
 - Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
-- Keeping track of changes using a version control system
+- Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
 - Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence)
-- Offering users a mechanism to report bugs and issues, and being responsive to these reports
+- Keeping track of changes using a modern [Version Control System](#version-control-system).
+- Offering users a mechanism to report bugs and issues, *and being responsive to these reports*
 - Ensuring that documentation related to the project are available in both official languages: English and French
-- Registered the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+- Registering the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
 #### Contributing to third-party open source software projects
 
@@ -59,11 +61,11 @@ A list of exclusions is attached ...
 
 ### The senior departmental official, designated by the deputy head, is responsible for
 
-- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software by default subject to legislation.
+- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software by default, subject to legislation (Crown Copyright Act, etc.) and exception list.
 
 ### The departmental Chief Information Officer (CIO) or equivalent is responsible for
 
-- Ensuring that all new source developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements.
+- Ensuring that all new or modified source code developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements.
 
 ## Monitoring and reporting requirements are as follows
 
@@ -82,6 +84,7 @@ The Treasury Board of Canada Secretariat will monitor compliance with this stand
 - assessments under the Management Accountability Framework;
 - examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and
 - work performed in collaboration with departments.
+- *Application Portfolion Management review process?*
 
 Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).
 
@@ -171,3 +174,25 @@ Examples of open Internet source code repiositories, include, but are not limite
 - Bitbucket
 - Framagit
 - SourceForge
+
+### Version Control System
+
+A version control system provides the ability to maintain a full history of changes applied to the codebase so that...
+
+The preferred approach is to use a [Distributed Version Control System](#distributed-version-control-system) in order to ...
+
+#### Distributed Version Control System
+
+A distributed version control system provides the flexibility of multiple collaborators and teams working ...
+
+Examples of dcvs include, but are not limited to:
+
+- Git
+- Mercurial
+- Etc.
+
+#### Centralized Version Control System
+
+A centralized Version Control System may be used but...
+
+CVS are considered deprecated.
