@@ -1,4 +1,4 @@
-# GC Requirements for Source Code contribution
+# GC Requirements for Source Code contribution (DRAFT)
 
 ## Questions to be clarified
 
@@ -41,6 +41,27 @@ Source code may include, but are not limited to, code written for software proje
 
 > <=======
 
-## Hosting
+## Attribution of Contribution
 
-### Use of a repository
+### Personal and Professional Contributions
+
+### Crown Copyright
+
+## Contribution to Third-Party Projects
+
+## Contribution by Publishing a New Project
+
+## Authorization to Publish
+
+* Authorization to publish new project is granted by default.
+* [TBD-Authority level] must provide justification [TBC - GC-EARB] not to release source code.
+
+### Hosting Source Code
+
+#### Use of Public Repository
+
+#### Use of Private Repository
+
+### Licencing Source
+
+### Intellectual Property
