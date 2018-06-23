@@ -15,12 +15,12 @@ All new [Source Code](#source-code) created or modified, whether developed inter
 
 For the opening of existing source codes, additional actions will be needed, such as defining the scope, reviewing quality and security, and ensuring compliance specifically on intellectual property.
 
-A list of exclusions is attached ...
+A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ## Objectives
 
 * Set the standards and best practices for contributing to open source projects
-* Publish as open source all new source code created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
+* Encourage the publishing as open source of new source code created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
 * Encourage the release of existing Government of Canada source code as open source software projects.
 * Encourage contributions to open source software projects released by the Government of Canada
 * Support and be an active contributor to open source software used by the Government of Canada and/or where there is benefit to Canadians
@@ -37,7 +37,7 @@ A list of exclusions is attached ...
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-#### Contributing by releasing Government of Canada projects as open source software by
+#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to Canadians
 
 - Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
 - Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
@@ -46,10 +46,11 @@ A list of exclusions is attached ...
 - Offering users a mechanism to report bugs and issues, *and being responsive to these reports*
 - Ensuring that documentation related to the project are available in both official languages: English and French
 - Registering the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+- Explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
 
-#### Contributing to third-party open source software projects
+#### Encouraging and supporting internal contributions to third-party open source software projects used by the Government of Canada and/or where there is benefit to Canadians
 
-- Contributing code, issues, testing, roadmap to OSS projects
+- Contributing code, issues, testing, roadmap to open source software projects
 - Supporting open source software initiatives and foundations to help ensure that critical code for modern technologies are monitored and supported
 
 #### Ensuring that the source code does not contain [Protected Information](#protected-information)
@@ -61,11 +62,11 @@ A list of exclusions is attached ...
 
 ### The senior departmental official, designated by the deputy head, is responsible for
 
-- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software by default, subject to legislation (Crown Copyright Act, etc.) and exception list.
+- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software, subject to legislation (Crown Copyright Act, etc.) and exception list.
 
 ### The departmental Chief Information Officer (CIO) or equivalent is responsible for
 
-- Ensuring that all new or modified source code developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements.
+- Ensuring that all new or modified source code developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements. *Needs revision*
 
 ## Monitoring and reporting requirements are as follows
 
@@ -102,6 +103,10 @@ Consequences of non-compliance with this standard can include any measure allowe
 - Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government; and
 - Poviding support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.
 - Publishing and maintaining the list of exclusions from specific requirements.
+
+## Exceptions
+
+asdf
 
 ## Definitions
 
