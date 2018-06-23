@@ -37,7 +37,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to Canadians.
+#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to Canadians
 
 - Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
 - Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
