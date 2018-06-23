@@ -1,7 +1,7 @@
 {
-  "name": "open_first_whitepaper",
+  "name": "open-source-contribution-logiciel-libre",
   "version": "0.0.1",
-  "description": "The Treasury Board of Canada Secretariat is writing this whitepaper to pull together our thinking on how to shift government to an 'Open' approach.",
+  "description": "Draft requirements to contribute to open source projects - Brouillon des besoins pour contribuer à des projets de logiciels libre.",
   "main": "index.js",
   "scripts": {
     "test": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\""
