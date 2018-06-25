@@ -1,5 +1,5 @@
-# Open Source Contribution - Contribution aux logiciels libres
+# Open Source Contribution (Draft) - Contribution aux logiciels libres (Ébauche)
 
 Government of Canada draft requirements for open source contributions.
 
-Brouillon des besoins liés à la contribution aux logiciels libres Gouvernement du Canada.
+Ébauche des besoins liés à la contribution aux logiciels libres Gouvernement du Canada.
