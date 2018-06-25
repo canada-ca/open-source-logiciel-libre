@@ -37,7 +37,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ## Requirements
 
-### Release Government of Canada projects as open source software where there is benefit to the Government and to Canadians.
+### Release Government of Canada projects as open source software where there is benefit to the Government and to Canadians
 
 * Source code publicly released must be hosted in an open internet and public [Source Code Repository](#source-code-repository)
 * Projects must be registered in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/).
@@ -143,7 +143,7 @@ Some security considerations to keep in mind when developing software:
 
 *Clarification required about elements of testing mentioned above as protected information.*
 
-*moved from previous requiremnts*
+> moved from previous requiremnts
 
 * Keeping sensitive data such as credentials secure and separate from source code
 * Not storing keys and other sensitive material in systems not approved for that purpose
