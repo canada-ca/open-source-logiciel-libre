@@ -1,5 +1,7 @@
 # Government of Canada Standard on Open Source Code Contribution (DRAFT)
 
+> Notice: The Standard format has been used to help drive the discussion around the requirements to open source code and support open source projects. The content of this document may reside elsewhere than in a Standard.
+
 ## Questions to be clarified
 
 * What current laws or policies support/hinder/need clarification to contribute open source code?
@@ -37,36 +39,36 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to Canadians
+#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to the Government and to Canadians
 
-- Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
-- Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
-- Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence)
-- Keeping track of changes using a modern [Version Control System](#version-control-system).
-- Offering users a mechanism to report bugs and issues, *and being responsive to these reports*
-- Ensuring that documentation related to the project are available in both official languages: English and French
-- Registering the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
-- Explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
+* Help host the source code publicly in an open internet [Source Code Repository](#source-code-repository)
+* Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
+* Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence) for a Government project.
+* Keeping track of changes using a modern [Version Control System](#version-control-system).
+* Offering users a mechanism to report bugs and issues, *and being responsive to these reports*
+* Ensuring that documentation related to the project are available in both official languages: English and French
+* Registering the project in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+* Explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
 
 #### Encouraging and supporting internal contributions to third-party open source software projects used by the Government of Canada and/or where there is benefit to Canadians
 
-- Contributing code, issues, testing, roadmap to open source software projects
-- Supporting open source software initiatives and foundations to help ensure that critical code for modern technologies are monitored and supported
+* Contributing code, issues, testing, roadmap to open source software projects
+* Supporting open source software initiatives and foundations to help ensure that critical code for modern technologies are monitored and supported
 
 #### Ensuring that the source code does not contain [Protected Information](#protected-information)
 
-- Keeping sensitive data such as credentials secure and separate from source code
-- Not storing keys and other sensitive material in systems not approved for that purpose
-- Doing code reviews to increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data
-- Implementing controls sufficient to prevent unauthorized or inadvertent changes
+* Keeping sensitive data such as credentials secure and separate from source code
+* Not storing keys and other sensitive material in systems not approved for that purpose
+* Doing code reviews to increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data
+* Implementing controls sufficient to prevent unauthorized or inadvertent changes
 
 ### The senior departmental official, designated by the deputy head, is responsible for
 
-- Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software, subject to legislation (Crown Copyright Act, etc.) and exception list.
+* Overseeing the implementation of this standard in their department by granting authorization to contribute to third-party open source software projects and to publish new projects as open source software, subject to legislation (Crown Copyright Act, etc.) and exception list.
 
 ### The departmental Chief Information Officer (CIO) or equivalent is responsible for
 
-- Ensuring that all new or modified source code developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements. *Needs revision*
+* Ensuring that all new or modified source code developped by or on behalf of the department meets the requirements or are modifiable to enable them to meet these requirements. *Needs revision*
 
 ## Monitoring and reporting requirements are as follows
 
@@ -82,10 +84,10 @@ The senior departmental official, designated by the deputy head, is responsible 
 
 The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:
 
-- assessments under the Management Accountability Framework;
-- examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and
-- work performed in collaboration with departments.
-- *Application Portfolion Management review process?*
+* assessments under the Management Accountability Framework;
+* examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and
+* work performed in collaboration with departments.
+* *Application Portfolion Management review process?*
 
 Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).
 
@@ -99,14 +101,18 @@ Consequences of non-compliance with this standard can include any measure allowe
 
 ### Treasury Board of Canada Secretariat (Chief Information Officer Branch), in consultation with other departments, is responsible for the following
 
-- Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments;
-- Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government; and
-- Poviding support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.
-- Publishing and maintaining the list of exclusions from specific requirements.
+* Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments;
+* Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government; and
+* Poviding support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.
+* Publishing and maintaining the list of exclusions from specific requirements.
 
 ## Exceptions
 
-asdf
+*To be defined*
+Examples:
+
+* Code being tested and is disposable, not bringing value to Government or Canadians.
+* Software deemed of National security value.
 
 ## Definitions
 
@@ -120,8 +126,8 @@ Where you distribute a project consisting entirely of your own code, or consisti
 
 Choosing an appropriate licence tends to revolve around the decision of whether to apply a reciprocal or permissive licence:
 
-- Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
-- Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
+* Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
+* Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
 
 The following chart details other key differences in this decision and list example licences:
 
@@ -147,24 +153,30 @@ The Treasury Board [Directive on Departmental Security Management (DDSM)](https:
 
 In order for source code to potentially be deemed protected, it would have to contain any of the following information:
 
-- Information obtained in confidence
-- Information about federal-provincial affairs
-- Information about international affairs and defence
-- Information about law enforcement and investigations
-- Information about the safety of individuals
-- Information about the economic interests of Canada
-- Personal information
-- Third party information
-- Advice about certain aspects of operations of government
-- Information about testing procedures, tests, and audits
-- Information that is subject to solicitor-client privilege
-- Information that is subject to statutory prohibitions
-- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
-- Confidences of the Queen’s Privy Council for Canada
+* Information obtained in confidence
+* Information about federal-provincial affairs
+* Information about international affairs and defence
+* Information about law enforcement and investigations
+* Information about the safety of individuals
+* Information about the economic interests of Canada
+* Personal information
+* Third party information
+* Advice about certain aspects of operations of government
+* Information about testing procedures, tests, and audits
+* Information that is subject to solicitor-client privilege
+* Information that is subject to statutory prohibitions
+* Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
+* Confidences of the Queen’s Privy Council for Canada
 
 It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
 
 Some security considerations to keep in mind when developing software:
+
+* Tests: Unit testing, regression testing, integration testing, stress testing, etc.
+* Testing procedures: Manual inspections, Thread modeling, Pen testing, Name of devices, IP addresses, MAC addresses, etc.
+* Audits: Results of tests, logs, etc.
+
+*Clarification required about elements of testing mentioned above as protected information.*
 
 ### Source Code
 
@@ -174,11 +186,11 @@ Source code may include, but are not limited to, code written for software proje
 
 Examples of open Internet source code repiositories, include, but are not limited to:
 
-- Gitlab
-- Github
-- Bitbucket
-- Framagit
-- SourceForge
+* Gitlab
+* Github
+* Bitbucket
+* Framagit
+* SourceForge
 
 ### Version Control System
 
@@ -192,9 +204,9 @@ A distributed version control system provides the flexibility of multiple collab
 
 Examples of dcvs include, but are not limited to:
 
-- Git
-- Mercurial
-- Etc.
+* Git
+* Mercurial
+* Etc.
 
 #### Centralized Version Control System
 
