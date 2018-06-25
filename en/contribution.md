@@ -1,5 +1,7 @@
 # Government of Canada Standard on Open Source Code Contribution (DRAFT)
 
+> Notice: The Standard format has been used to help drive the discussion around the requirements to open source code and support open source projects. The content of this document may reside elsewhere than in a Standard.
+
 ## Questions to be clarified
 
 * What current laws or policies support/hinder/need clarification to contribute open source code?
@@ -37,11 +39,11 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Managers, functional specialists, and equivalents responsible for developing or overseeing development of source code are responsible for
 
-#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to Canadians
+#### Encouraging and supporting the release of Government of Canada projects as open source software where there is benefit to the Government and to Canadians
 
-- Hosting the source code publicly in an open internet [Source Code Repository](#source-code-repository)
+- Help host the source code publicly in an open internet [Source Code Repository](#source-code-repository)
 - Ensuring that the rights required to open the project source code are acquired through the contracting vehicules when hiring professional services. (IP+licence)
-- Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence)
+- Using an [Open Source Initiative approved licence](open-source-initiative-approved-licence) for a Government project.
 - Keeping track of changes using a modern [Version Control System](#version-control-system).
 - Offering users a mechanism to report bugs and issues, *and being responsive to these reports*
 - Ensuring that documentation related to the project are available in both official languages: English and French
@@ -165,6 +167,10 @@ In order for source code to potentially be deemed protected, it would have to co
 It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
 
 Some security considerations to keep in mind when developing software:
+
+- Tests: Unit testing, regression testing, integration testing, stress testing, etc.
+- Testing procedures: Manual inspections, Thread modeling, Pen testing, Name of devices, IP addresses, MAC addresses, etc.
+- Audits: Results of tests, logs, etc.
 
 ### Source Code
 
