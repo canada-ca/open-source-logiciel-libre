@@ -61,20 +61,15 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Ensuring that publicly released source code meets quality and security requirements
 
-* Source code must be peer reviewed.
-* Source code must not contain:
-  * [Protected Information](#protected-information)
+* Government of Canada source code publicly released as open source must:
+  * Be peer reviewed.
+  * Not contain [Protected Information](#protected-information).
 * Government of Canada projects publicly released as open source must:
   * Have controls sufficient to prevent unauthorized or inadvertent changes (project repo settings, might fit under different section)
   * Offer users a mechanism to report bugs and issues.
-  * Comply with official languages policies like all other information technology projects, including proprietary solutions projects:
-    * Projects resources and budget must be allocated to support:
-      * Bilingual graphical user interfaces
-      * End-users documentation
-    * Exclusions to this clause:
-      * Source code
-      * Configuration documentation
-      * Contributions to third-party projects *(might already be covered due to not being a Government of Canada project but needs to be clear)*
+* Government of Canada projects publicly released as open source should:
+  * Consider incorporating localization features as part of their development whenever applicable to increase its reuse.
+  * Consider providing documentation in both official languages to increase its adoption.
 
 ## Exceptions
 
