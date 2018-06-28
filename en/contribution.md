@@ -62,13 +62,19 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 ### Ensuring that publicly released source code meets quality and security requirements
 
 * Source code must be peer reviewed.
-* Source code must contain:
-  * Documentation related to the project in both official languages: English and French
 * Source code must not contain:
   * [Protected Information](#protected-information)
-* Projects publicly released as open source must:
+* Government of Canada projects publicly released as open source must:
   * Have controls sufficient to prevent unauthorized or inadvertent changes (project repo settings, might fit under different section)
   * Offer users a mechanism to report bugs and issues.
+  * Comply with official languages policies like all other information technology projects, including proprietary solutions projects:
+    * Projects resources and budget must be allocated to support:
+      * Bilingual graphical user interfaces
+      * End-users documentation
+    * Exclusions to this clause:
+      * Source code
+      * Configuration documentation
+      * Contributions to third-party projects *(might already be covered due to not being a Government of Canada project but needs to be clear)*
 
 ## Exceptions
 
@@ -77,7 +83,7 @@ Examples:
 
 * Code being tested and is disposable, not bringing value to Government or Canadians.
 * Software deemed of National security value.
-* Explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
+* Other reasons need explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
 
 ## Definitions
 
