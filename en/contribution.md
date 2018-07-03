@@ -11,6 +11,8 @@
   * Can employees of the Government of Canada  contribute code to projects that do not request intellectual property transfer.
   * Can contracted professional services be used to contribute to third-party projects?
   * When choosing a licence, what are the constraints and key considerations (patents?)?
+  * Can we provide financial support for foundations and initiatives? (*Can we do this? Why not? Need formal clarification*)
+
 
 ## Scope
 
@@ -46,13 +48,11 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Contribute to third-party open source software projects used by the Government of Canada and/or where there is benefit to the Government and Canadians
 
-* Open source software used by Government of Canada must be registered in the Open Resource Exchange.
+* Open source software used by Government of Canada must be registered in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/).
 * Code contributions must be done in accordance to Crown Copyright Law constraints.
-* Issues and bugs raised must be tracked internally as well as with the third party project issue tracking system. (To ensure that bugs are actually fixed, just like for proprietary software - Could just be an email with bug/issue #)
-* Third party open source software testing must be done in compliance of internal security guidelines.
+* Issues and bugs identified should be communicated to the third party project.
 * Results of testing that would provide value to third party project and do not disclose protected information must be shared back.
-* Feature requests must be tracked internally and using the third party project management platform.
-* Financial support for foundations and initiatives must abide by X rules/laws. (*Can we do this? Why not? Need formal clarification*)
+* Feature requests should be tracked internally and using the third party project management platform.
 
 ### Ensuring that publicly released source code meets quality and security requirements
 
