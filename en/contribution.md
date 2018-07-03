@@ -4,18 +4,20 @@
 
 ## Questions to be clarified
 
-* What current laws or policies support/hinder/need clarification to contribute open source code?
-* Any law or policy regarding the source code being administrative documents that are communicable and reusable?
+* What are  are the key legal considerations we need to keep in mind with respect to open source code?
+  * What are the legal obligations obligations that would prevent the disclosure of open source code?
+  * Is source code subject to ATIP requests?
+  * Is source code considered a “document/record” for the law?
+  * Can employees of the Government of Canada  contribute code to projects that do not request intellectual property transfer.
+  * Can contracted professional services be used to contribute to third-party projects?
+  * When choosing a licence, what are the constraints and key considerations (patents?)?
 
 ## Scope
 
-All new [Source Code](#source-code) created or modified, whether developed internally by the Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
+These requirements apply to:
 
-All open source software used by the Government of Canada.
-
-> To discuss: Added the "[and/or used by] Government of Canada" to include in scope third-party projects that do not necessarily generate new code. Thoughts?
-
-> To discuss: Would remove the "new" term from the sentence and manage "existing but not released as OSS" with Exceptions and clause explaining how we will be releasing it.
+* All new [Source Code](#source-code) created or modified, whether developed internally by the Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
+* All open source software used by the Government of Canada.
 
 A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
@@ -23,17 +25,14 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 * Set the standards and best practices for contributing to open source projects
 * Encourage the publishing as open source of new source code created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
-* Encourage the release of existing Government of Canada source code as open source software projects.
 * Encourage contributions to open source software projects released by the Government of Canada
-* Support and be an active contributor to open source software used by the Government of Canada and/or where there is benefit to Canadians
 * Improving the overall availability of re-usable technology within government and society
 * Support and increase collaboration with other public administrations in Canada and around the world
-* Support an Open Government - Open by default approach
 
 ## Expected results
 
-* Help ensure the viability and perreniality of a Government of Canada project into the future
-* Benefit from other developers and communities collaborating on the software, including those outside of government
+* Increase the number of Government of Canada projects released as open source.
+* Increase the number of Government of Canada contributions to third party open source projects.
 
 ## Requirements
 
@@ -47,12 +46,8 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### Contribute to third-party open source software projects used by the Government of Canada and/or where there is benefit to the Government and Canadians
 
-* Open source software used by Government of Canada must be registered in the Open Resource Exchange (*or APM? already part of the process*) to help identify community of practice. *Thoughts: Could this hinder the use of OSS?) Objective would be to increase awareness of other experts in the GC as well as point of contact to help adoption.*
-* Code contributions must be done in accordance to Crown Copyright Law constraints:
-  * Employee of the Government of Canada must contribute code only to projects that do not request intellectual property transfer.
-  * Contracted professional services can be used to contribute to third-party projects.
-    * *Intellectual property can be maintained by the contracted party? (To clarify how this should be defined with Justice)*
-  * Use compatible licence to the third-party project.
+* Open source software used by Government of Canada must be registered in the Open Resource Exchange.
+* Code contributions must be done in accordance to Crown Copyright Law constraints.
 * Issues and bugs raised must be tracked internally as well as with the third party project issue tracking system. (To ensure that bugs are actually fixed, just like for proprietary software - Could just be an email with bug/issue #)
 * Third party open source software testing must be done in compliance of internal security guidelines.
 * Results of testing that would provide value to third party project and do not disclose protected information must be shared back.
@@ -67,9 +62,6 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 * Government of Canada projects publicly released as open source must:
   * Have controls sufficient to prevent unauthorized or inadvertent changes (project repo settings, might fit under different section)
   * Offer users a mechanism to report bugs and issues.
-* Government of Canada projects publicly released as open source should:
-  * Consider incorporating localization features as part of their development whenever applicable to increase its reuse.
-  * Consider providing documentation in both official languages to increase its adoption.
 
 ## Exceptions
 
