@@ -13,7 +13,6 @@
   * When choosing a licence, what are the constraints and key considerations (patents?)?
   * Can we provide financial support for foundations and initiatives? (*Can we do this? Why not? Need formal clarification*)
 
-
 ## Scope
 
 These requirements apply to:
