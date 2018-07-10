@@ -14,10 +14,9 @@
   * Can we provide financial support for foundations and initiatives? (*Can we do this? Why not? Need formal clarification*)
 * What are some of the key IP considerations when dealing with Open Source Code?
   * If vendors hold IP, how can we ensure that the GC can provide explainability of system functionality and how outcomes were reached? (i.e. automated decisions?)
-  * What patents apply for software developed by the Government of Canada? For example, could it be considered an “Invention”, etc?   
+  * What patents apply for software developed by the Government of Canada? For example, could it be considered an “Invention”, etc?
   * When contributing to a third-party, some projects require contributors to transfer intellectual property of their work. Can a GoC employee transfer IP of work done as part of their job to third-party project? Contributors Licencing Agreement (IP transfers)
   * Can employees of the Government of Canada  contribute code to projects that do not request intellectual property transfer.
-
 
 ## Scope
 
@@ -80,7 +79,6 @@ Choosing an appropriate licence tends to revolve around the decision of whether 
 
 * Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
 * Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
-
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an open source software licence by presenting definitions of the most widely used licenses.
 
