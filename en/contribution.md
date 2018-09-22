@@ -111,17 +111,13 @@ Examples of open Internet source code repositories, include, but are not limited
 
 A version control system provides the ability to maintain a full history of changes applied to the codebase so that...
 
-The preferred approach is to use a [Distributed Version Control System](#distributed-version-control-system) in order to ...
+The preferred approach is to use a [Distributed Version Control System (DVCS)](#distributed-version-control-system) in order to ...
 
 #### Distributed Version Control System
 
 A distributed version control system provides the flexibility of multiple collaborators and teams working ...
 
-Examples of dcvs include, but are not limited to:
-
-* Git
-* Mercurial
-* Etc.
+Examples of DVCS include, but are not limited to Git & Mercurial.
 
 #### Centralized Version Control System
 
