@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/canada-ca/open-source-contribution-logiciel-libre#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.8.1"
+    "markdownlint-cli": "^0.8.2"
   },
   "dependencies": {}
 }
