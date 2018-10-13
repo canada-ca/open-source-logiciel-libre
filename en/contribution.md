@@ -17,6 +17,9 @@
   * What patents apply for software developed by the Government of Canada? For example, could it be considered an “Invention”, etc?
   * When contributing to a third-party, some projects require contributors to transfer intellectual property of their work. Can a GoC employee transfer IP of work done as part of their job to third-party project? Contributors Licencing Agreement (IP transfers)
   * Can employees of the Government of Canada  contribute code to projects that do not request intellectual property transfer.
+* Specific use cases:
+  * When forking a 3rd party open source project, how do I manage Intellectual Property (Copyrights) and Licences:
+    * Exemple would be a project that has added a CC on their licence like MIT. Do I keep the CC there, add Crown Copyright for our version? Can I/Should I change the licence? If so, when am I allowed to do so? What are the constraints?
 
 ## Scope
 
@@ -108,17 +111,13 @@ Examples of open Internet source code repositories, include, but are not limited
 
 A version control system provides the ability to maintain a full history of changes applied to the codebase so that...
 
-The preferred approach is to use a [Distributed Version Control System](#distributed-version-control-system) in order to ...
+The preferred approach is to use a [Distributed Version Control System (DVCS)](#distributed-version-control-system) in order to ...
 
 #### Distributed Version Control System
 
 A distributed version control system provides the flexibility of multiple collaborators and teams working ...
 
-Examples of dcvs include, but are not limited to:
-
-* Git
-* Mercurial
-* Etc.
+Examples of DVCS include, but are not limited to Git & Mercurial.
 
 #### Centralized Version Control System
 

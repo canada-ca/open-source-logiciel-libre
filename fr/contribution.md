@@ -1,4 +1,4 @@
-# Norme sur la contribution aux logiciels libres du Gouvernement du Canada
+# Norme sur la contribution aux logiciels libres du Gouvernement du Canada (Ébauche)
 
 > Note: Le format de la Norme a été utilisé afin de susciter la discussion autour des besoins requis pour libérer du code source ouvertement et à supporter des projets de logiciels libres. Le contenu final de ce document pourrait se retrouver ailleurs que dans une Norme.
 
