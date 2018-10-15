@@ -55,7 +55,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
     * Licence chosen for the project.
 * Changes to source code must be tracked using a [Version Control System](#version-control-system) and approved by a Government of Canada Project Maintainer.
 * Source code acquired through contracting vehicules when hiring professional services must require the intellectual property to be acquired as Crown Copyright.
-* A CONTRIBUTE document must be included in the project repository and provide clear instructions on contributions accepted to the project.
+* A CONTRIBUTING document must be included in the project repository and provide clear instructions on contributions accepted to the project.
 
 ### B. Contribute to third-party open source software projects used by the Government of Canada and/or where there is benefit to the Government and Canadians
 
