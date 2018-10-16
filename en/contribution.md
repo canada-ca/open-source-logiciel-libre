@@ -23,32 +23,22 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ## Requirements
 
-### A. Release all Government of Canada projects as open source code
-
-* Source code must be released and hosted in a public [Source Code Repository](#source-code-repository) Examples of open Internet source code repositories, include, but are not limited to: Gitlab, Github, Bitbucket, Framagit, SourceForge
-* Source code must be registered in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/).
-* Source code publicly released must use an [Open Source Initiative approved licence](open-source-initiative-approved-licence). Considerations as to how to determine appropriate licence provided in Annex. ([Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)], decision tree)
-  * A LICENCE document must be included in the project repository providing the details of:
-    * Crown Copyright.
-    * Licence chosen for the project.
-* Changes to source code must be tracked using a [Version Control System](#version-control-system) and approved by a Government of Canada Project Maintainer.
-* Source code acquired through contracting vehicules when hiring professional services must require the intellectual property to be acquired as Crown Copyright.
-* A CONTRIBUTING document must be included in the project repository and provide clear instructions on contributions accepted to the project.
-
-### B. Contribute to third-party open source software projects used by the Government of Canada and/or where there is benefit to the Government and Canadians
+### Contribute to third-party open source software projects used by the Government of Canada and/or where there is benefit to the Government and Canadians
 
 * Third-party open source software used by Government of Canada must be registered in the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 * Code contributions must be done in accordance to Crown Copyright Law constraints.
 * Issues, bugs and feature requests should be identified to the third party project through their issue tracking system.
+
+### Identification of Security Vulnerabilities & Involuntary Disclosure
+
+* See Cyber policy
 
 ## Exceptions
 
 *To be defined*
 Examples:
 
-* Code being tested and is disposable, not bringing value to Government or Canadians.
-* Software deemed of National security value.
-* Explaining and documenting why a project is not released if it has been deemed not having a benefit to Canadians.
+* Code contributions to projects requiring IP transfer.
 
 ## Definitions
 
