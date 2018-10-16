@@ -53,8 +53,6 @@ Examples:
 
 You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses).
 
-When contributing to external open source software, the choice of the licence must comply with the existing licence of the project. Where a reciprocal licence obligation is in force, you need to license your code under the same licence. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
-
 Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the open source software licence yourself. The licence you choose should reflect your business requirements. All common open source software licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 
 Choosing an appropriate licence tends to revolve around the decision of whether to apply a reciprocal or permissive licence:
@@ -103,7 +101,6 @@ Examples of DVCS include, but are not limited to Git & Mercurial.
 A centralized Version Control System may be used but...
 
 CVS are considered deprecated.
-
 
 ## Questions to be clarified
 
