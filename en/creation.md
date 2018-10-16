@@ -1,4 +1,4 @@
-# Government of Canada Standard on Contribution to Third Party Open Source Software (DRAFT)
+# Government of Canada Standard on Open Source Software Creation (DRAFT)
 
 > Notice: The Standard format has been used to help drive the discussion around the requirements to open source code and support open source projects. The content of this document may reside elsewhere than in a Standard. As such, not all sections of a Standard will be kept at this time.
 
@@ -6,19 +6,21 @@
 
 These requirements apply to:
 
-* All Open Source Software used by the Government of Canada.
+* All new [Source Code](#source-code) created or modified, whether developed internally by the Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
 
 A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ## Objectives
 
-* Set the standards and best practices for contributing to Third Party Open Source Software projects.
-* Support and be an active contributor to Third Party Open Source Software used by the Government of Canada and/or where there is benefit to Canadians.
-* Improving the overall availability of re-usable technology within government and society.
-* Support and increase collaboration with other public administrations in Canada and around the world.
+* Set the standards and best practices for contributing to open source projects
+* Encourage the publishing as open source of new source code created or modified, whether developed internally by Government of Canada employees or on behalf of the Government of Canada, whether through negotiated contracts or community contributions.
+* Support and be an active contributor to open source software used by the Government of Canada and/or where there is benefit to Canadians
+* Improving the overall availability of re-usable technology within government and society
+* Support and increase collaboration with other public administrations in Canada and around the world
 
 ## Expected results
 
+* Increase the number of Government of Canada projects released as open source.
 * Increase the number of Government of Canada contributions to third party open source software.
 
 ## Requirements
