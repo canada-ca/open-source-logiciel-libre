@@ -22,7 +22,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 ## Expected results
 
 * Increase the number of Government of Canada projects using third party open source software.
-* Ensure legal compliance to Third Party Licences.
+* Ensure legal compliance.
 * Increase security and resiliance of the overall IT environment.
 
 ## Requirements
