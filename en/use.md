@@ -30,9 +30,9 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 ### A. Licence Compliance
 
 * Use of a Third Party Open Source Software must be compliant with the licence applied to it.
-* Scanning of solutions developed internally must be done to ensure licence compliance.
+* A process must be in place to ensure that solutions developed internally and on behalf of the Government of Canada are licence compliance.
 
-### B. Security assessments
+### B. Software assessments
 
 * Third Party Open Source Software security assessments must be made available to the Government as a whole.
 
