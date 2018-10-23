@@ -34,7 +34,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ### B. Software assessments
 
-* Third Party Open Source Software security assessments must be made available to the Government as a whole.
+* Security assessments of Third Party Open Source Software must be made available to the Government as a whole for reuse.
 
 ## Definitions
 
