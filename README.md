@@ -1,4 +1,4 @@
-# Open Source Contribution (Draft) - Contribution aux logiciels libres (Ébauche)
+# Open Source Software Policy Instruments (Draft) - Instruments de politiques sur les logiciels libres (Ébauche)
 
 Government of Canada draft requirements for open source use, contribution and creation.
 
