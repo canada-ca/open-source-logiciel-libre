@@ -41,7 +41,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 *To be defined*
 Examples:
 
-* Code being tested and is disposable, not bringing value to Government or Canadians.
+* Code being tested, experimented with and is disposable, not bringing value to Government or Canadians.
 * Software deemed of National security value.
 * Code related to unreleased policy or law.
 * Code for a software that is going to be used to generate revenue for authorized department.
