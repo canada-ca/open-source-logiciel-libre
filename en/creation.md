@@ -34,7 +34,7 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
   * The licence must be clearly identified in the project repository.
 * Changes to source code must be tracked using a [Version Control System](#version-control-system) and approved by a Government of Canada Project Maintainer.
 * Source code acquired through contracting vehicules when hiring professional services must require the intellectual property to be acquired as Crown Copyright or contract must stipulate that the source code will be released under the project licence.
-* The project documentation must clearly identify how the community can contribute, if that is the case.
+* The project documentation must clearly identify how the community can contribute.
 
 ## Exceptions
 
