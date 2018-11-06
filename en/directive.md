@@ -1,3 +1,3 @@
 # Directive on Open Source Software
 
-_IN DEVELOPMENT_
+_IN DEVELOPMENT - v.0.1_
