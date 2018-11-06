@@ -1,6 +1,6 @@
 # Directive on Open Source Software
 
-_IN DEVELOPMENT - v.0.1_
+## IN DEVELOPMENT - v.0.1
 
 ## Introduction
 
@@ -34,5 +34,6 @@ _IN DEVELOPMENT - v.0.1_
 * Office of the Privacy Commissioner of Canada, and
 * Office of the Public Sector Integrity Commissioner of Canada.
 
+9.2 Agencies, Crown Corporations, or Agents of Parliament may enter into Specific Agreements with the Treasury Board of Canada Secretariat to adopt the requirements of this Directive and apply them to their organization, as required.
 
 ## 10. References
