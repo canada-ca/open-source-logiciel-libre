@@ -34,14 +34,14 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
   * The licence must be clearly identified in the project repository.
 * Changes to source code must be tracked using a [Version Control System](#version-control-system) and approved by a Government of Canada Project Maintainer.
 * Source code acquired through contracting vehicules when hiring professional services must require the intellectual property to be acquired as Crown Copyright or contract must stipulate that the source code will be released under the project licence.
-* The project documentation must clearly identify how the community can contribute, if that is the case.
+* The project documentation must clearly identify how the community can contribute.
 
 ## Exceptions
 
 *To be defined*
 Examples:
 
-* Code being tested and is disposable, not bringing value to Government or Canadians.
+* Code being tested, experimented with and is disposable, not bringing value to Government or Canadians.
 * Software deemed of National security value.
 * Code related to unreleased policy or law.
 * Code for a software that is going to be used to generate revenue for authorized department.

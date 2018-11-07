@@ -27,14 +27,20 @@ A list of exclusions is attached in the [Exceptions](#exceptions) section.
 
 ## Requirements
 
+The Assistant Deputy Minister responsible for the program using the Automated Decision System, or any other person named by the Deputy Head, is responsible for:
+
 ### A. Licence Compliance
 
 * Use of a Third Party Open Source Software must be compliant with the licence applied to it.
 * A process must be in place to ensure that solutions developed internally and on behalf of the Government of Canada are licence compliance.
 
-### B. Software assessments
+### B. Software Assessments
 
 * Security assessments of Third Party Open Source Software must be made available to the Government as a whole for reuse.
+
+### C. Maintenance and Support
+
+* Ensuring that processes are in place to maintain the integrity of the systems using OSS.
 
 ## Definitions
 
