@@ -8,7 +8,6 @@ The Government of Canada has been using Open Source Software as part of its tech
 
 ## 1. Effective Date
 
-
 This Directive takes effect on November 26, 2018.
 
 With the exception of section x.x.x, this Directive applies to any software, service and solution developed or procured after the effective date.
@@ -18,7 +17,6 @@ Current source code developed by or on behalf of the GC of systems in production
 Current source code developed by or on behalf of the GC must be reviewed to so it can be released under a TBS approved Open Source Licence.
 
 If not possible to release the source code as a whole, a strategy must be put in place where portions of the source code can gradually be released under a TBS approved Open Source Licence.
-
 
 ## 2. Authorities
 
@@ -51,7 +49,6 @@ If not possible to release the source code as a whole, a strategy must be put in
 5.2 This Directive also applies to systems that provide external services as defined in the Policy on Service.
 
 5.3 This Directive applies only to systems in production, and excludes Automated Decision Systems operating in test environments.
-
 
 ## 6. Requirements
 
@@ -118,6 +115,5 @@ The Assistant Deputy Minister responsible for the program using, contributing an
 ## 10. References
 
 ## 11. Enquiries
-
 
 ## Appendix A

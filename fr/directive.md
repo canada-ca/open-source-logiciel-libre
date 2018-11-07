@@ -56,15 +56,15 @@ Le sous-ministre adjoint responsable du programme qui utilise, contribue et cré
 
 ### 6.1 Utiliser des logiciels libres
 
-##### Propriété intellectuelle
+#### Propriété intellectuelle
 
 6.1.1 S'assurer que les droits nécessaires à la propriété intellectuelle du code source personnalisé élaboré pour le compte du gouvernement du Canada sont obtenus pour appuyer sa diffusion en vertu d'une licence de logiciel libre approuvée par le SCT.
 
-##### Licences
+#### Licences
 
 6.1.2 S'assurer que l'utilisation du code source et des logiciels obtenus dans le cadre d'une licence Open Source est conforme à ses termes et conditions.
 
-##### Sécurité
+#### Sécurité
 
 6.1.3 S'assurer qu'un processus d'évaluation est en place pour évaluer la sécurité des logiciels libres.
 
@@ -72,11 +72,11 @@ Le sous-ministre adjoint responsable du programme qui utilise, contribue et cré
 
 6.1.5 S'assurer qu'un processus est en place pour mettre à jour les vulnérabilités de sécurité connues des logiciels libres.
 
-##### Transparence
+#### Transparence
 
 6.1.6 Enregistrer les logiciels libres utilisés sur le site Web ou à l'emplacement conçu par le SCT.
 
-##### Assurance de la qualité
+#### Assurance de la qualité
 
 6.1.7 S'assurer que les employés concernés sont suffisamment formés à l'évaluation, la conception, le fonctionnement, l'utilisation et la mise en œuvre des logiciels libres.
 
