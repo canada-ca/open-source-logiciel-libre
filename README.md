@@ -29,7 +29,7 @@ Official translation will be done once a first version is completed.
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
 * http://gds-operations.github.io/guidelines/
 
---
+---
 
 ## Logiciels libres
 
