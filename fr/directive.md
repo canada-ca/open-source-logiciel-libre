@@ -84,6 +84,12 @@ Le sous-ministre adjoint responsable du programme qui utilise, contribue et cré
 
 ### 6.2 Contribuer à des projets de logiciels libres externes
 
+6.2.1 Autoriser tous les employés à contribuer à des projets externes de logiciels libres qui :
+
+6.2.1.1 sont pertinentes pour le ministère ou l'organisme.
+
+6.2.1.1.2 Ne demandent pas le transfert de la propriété intellectuelle.
+
 ### 6.3 Créer des logiciels libres
 
 ## 7. Conséquences
