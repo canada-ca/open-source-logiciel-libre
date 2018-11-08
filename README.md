@@ -10,7 +10,7 @@ The content of the repository was initially designed with a Standard template bu
 
 * [Directive in English](en/directive.md)
 
-## Translation
+### Translation
 
 During this drafting period, translation is being done manually and continuously by contributors as well as with the following tools and services:
 
@@ -20,7 +20,7 @@ During this drafting period, translation is being done manually and continuously
 
 Official translation will be done once a first version is completed.
 
-## References
+### References
 
 * Canada
   * Ville de Montréal (FR/EN): [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
@@ -41,7 +41,7 @@ Le contenu du répertoire était initialement sous la forme d'une Norme mais nou
 
 * [Directive en français](fr/directive.md)
 
-## Traduction
+### Traduction
 
 Durant la période d'ébauche, la traduction du contenu est faite de façon manuelle et continuelle par les contributrices et les contributeurs ainsi qu'avec l'aide des outils et services suivants:
 
@@ -49,7 +49,7 @@ Durant la période d'ébauche, la traduction du contenu est faite de façon manu
 * [Google Translate](https://translate.google.com/)
 * [Deepl Translator](https://www.deepl.com/translator)
 
-## Références
+### Références
 
 * Canada
   * Ville de Montréal (FR/EN): [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
