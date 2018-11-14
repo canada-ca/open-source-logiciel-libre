@@ -19,6 +19,8 @@ The objective of this directive is to maximize the use of open standards to avoi
 
 The Chief Information Officer (CIO) of departments and agencies is responsible for the following
 
-* Ensuring use of preferred open standards designated by the Treasury Board of Canada Secretariat. (Open Resource Exchange)
+* Ensuring use of open standards designated by the Treasury Board of Canada Secretariat (TBS).
 * Maximizing the use of open standards by the Government of Canada.
-* Proposing open standards for endorsment by the Treasury Board of Canada Secretariat for GC-wide use.
+* Proposing new open standards for GC and endorsment by TBS.
+
+* Ensuring that open standards requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.

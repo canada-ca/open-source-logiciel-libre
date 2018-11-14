@@ -22,8 +22,17 @@ The objective of this directive is to maximize the use of existing open source s
 The Chief Information Officer (CIO) of departments and agencies is responsible for the following
 
 * Maximizing the use of open source software by the requiring that all new purchases, upgrades or migrations (including cloud solutions) actively and fairly consider open source software.
-* Factoring in the use of open source software when calculating total cost of ownership of a solutions including exit or transition costs.
-* Selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (total cost of ownership) difference with closed-source solutions.
+* Factoring in the use of open source software when calculating total cost of ownership (TCO) of a solutions including exit or transition costs.
+* Selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions.
 * Ensuring that the use of open source software is compliant with its licence terms and conditions.
 * Maximizing contributions to the development of open source software used by departments and agencies and/or where there is benefit to Canadians.
-* Ensuring that open source software in use is added to the Open Resource Exchange.
+* Ensuring that open source software in use is added to the Treasury Board of Canada Secretariat (TBS) designated website.
+
+* Ensuring that an assessment process is in place to evaluate Open Source Software security.
+* Sharing the results of the security assessment process to the Government as a whole.
+* Ensuring that a process is in place to update Open Source Software known security vulnerabilities.
+* Ensuring that the relevant employees are sufficiently trained in the assessment, design, function, use and implementation of open source software.
+* Ensuring that the relevant employees have access to the tools and services required to use, assess, deploy and maintain Open Source Software in compliance with this Directive.
+* Ensuring that the necessary rights to the Intellectual Property of custom source code developed on behalf of the Government of Canada are obtained to support its release under a TBS approved Open Source Licence.
+
+* Ensuring that the open source software requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.

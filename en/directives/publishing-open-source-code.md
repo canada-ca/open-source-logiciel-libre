@@ -18,5 +18,21 @@ The objective of this directive is to maximize the release of source code, wheth
 
 The Chief Information Officer (CIO) and Information Management Senior Official (IMSO) of departments and agencies are responsible for the following
 
-* Maximizing the release of Government of Canada source code under an open source software licences designated by the Treasury Board of Canada Secretariat. (Apache, MIT, GPL, AGPL or LGPL.)
-* Ensuring that source code is released in an accessible and reusable format (Git) via an internet source code repository designated by the Treasury Board of Canada Secretariat. (Gitlab, Github, Bitbucket, Framagit, ..)
+* Maximizing the release of Government of Canada source code under an open source software licence designated by the Treasury Board of Canada Secretariat (TBS). (Apache, MIT, GPL, AGPL or LGPL.)
+* Ensuring that source code is released in an accessible and reusable format (Git) via an public source code repository.
+* Establishing and maintaining comprehensive inventories of source code of business value held by the department or agency to determine their eligibility and priority, and to plan for their effective release.
+* Ensuring that the project and its source code repository in the TBS designated website.
+
+* Ensuring that open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
+
+### Exceptions
+
+* Code that is being tested, experimented with and is disposable, not bringing value to Government or Canadians.
+* Code deemed of National security value.
+* Code related to unreleased policy or law.
+* Code that is going to be used to generate revenue for authorized department.
+
+Such exceptions will require:
+
+* Explaining and documenting why a project is not released.
+* Making the source code internally available to the Government as a whole.
