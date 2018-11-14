@@ -8,7 +8,7 @@ The Government of Canada has been using Open Source Software as part of its tech
 
 ## 1. Effective Date
 
-This Directive takes effect on November 26, 2018.
+This Directive takes effect on November xx, 2019.
 
 With the exception of section x.x.x, this Directive applies to any software, service and solution developed or procured after the effective date.
 
@@ -74,7 +74,7 @@ The Assistant Deputy Minister responsible for the program using, contributing an
 
 #### Transparency
 
-6.1.6 Registering Open Source Software in use in the TBS designed website or location.
+6.1.6 Registering Open Source Software in use in the TBS designated website or location.
 
 #### Quality Assurance
 
@@ -91,6 +91,32 @@ The Assistant Deputy Minister responsible for the program using, contributing an
 6.2.1.2 Are not requesting Intellectual Property transferred.
 
 ### 6.3 Creating Open Source Software
+
+#### Intellectual Property
+
+Ensuring that the necessary rights to the Intellectual Property of custom source code developed by or on behalf of the Government of Canada are obtained to support its release under a TBS approved Open Source Licence.
+
+#### Licences
+
+Releasing all custom source code developed by or on behalf of the Government of Canada under a TBS approved Open Source Licence, except for:
+
+* Code being tested, experimented with and is disposable, not bringing value to Government or Canadians.
+* Software deemed of National security value.
+* Code related to unreleased policy or law.
+* Code for a software that is going to be used to generate revenue for authorized department.
+
+Such exceptions will require:
+
+* Explaining and documenting why a project is not released.
+* Making the source code internally available to the Government as a whole.
+
+#### Transparency
+
+Ensuring that the source code developed is released and hosted on a public source code repository.
+
+Registering the source code project and its repository in the TBS designated website or location.
+
+#### Security
 
 ## 7. Consequences
 

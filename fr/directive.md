@@ -8,7 +8,7 @@ Le gouvernement du Canada utilise les logiciels libres dans le cadre de son éco
 
 ## 1. Date
 
-La présente directive entre en vigueur le 26 novembre 2018.
+La présente directive entre en vigueur le xx novembre 2019.
 
 À l'exception de l'article x.x.x, la présente directive s'applique à tout logiciel, service et solution développés ou acquis après la date d'entrée en vigueur.
 
@@ -62,7 +62,7 @@ Le sous-ministre adjoint responsable du programme qui utilise, contribue et cré
 
 #### Licences
 
-6.1.2 S'assurer que l'utilisation du code source et des logiciels obtenus dans le cadre d'une licence Open Source est conforme à ses termes et conditions.
+6.1.2 S'assurer que l'utilisation du code source et des logiciels obtenus dans le cadre d'une licence de logiciel libre est conforme à ses termes et conditions.
 
 #### Sécurité
 
@@ -91,6 +91,32 @@ Le sous-ministre adjoint responsable du programme qui utilise, contribue et cré
 6.2.1.1.2 Ne demandent pas le transfert de la propriété intellectuelle.
 
 ### 6.3 Créer des logiciels libres
+
+##### Propriété intellectuelle
+
+S'assurer que les droits nécessaires à la propriété intellectuelle du code source personnalisé élaboré par le gouvernement du Canada ou en son nom sont obtenus pour appuyer sa diffusion en vertu d'une licence de logiciel libre approuvée par le SCT.
+
+##### Licences
+
+Publication de tout le code source personnalisé élaboré par le gouvernement du Canada ou en son nom en vertu d'une licence de logiciel libre approuvée par le SCT, sauf pour :
+
+* Le code testé, expérimenté et jetable n'apporte aucune valeur au gouvernement ou aux Canadiens.
+* Logiciels considérés comme ayant une valeur de sécurité nationale.
+* Code lié à une politique ou à une loi non publiée.
+* Code pour un logiciel qui va être utilisé pour générer des revenus pour le service autorisé.
+
+De telles exceptions exigeront :
+
+* Expliquer et documenter pourquoi un projet n'est pas publié.
+* Mettre le code source à la disposition de l'ensemble du gouvernement à l'interne.
+
+##### Transparence
+
+S'assurer que le code source développé est publié et hébergé dans un dépôt de code source public.
+
+Enregistrer le projet de code source et son dépôt dans le site Web ou l'emplacement désigné par le SCT.
+
+#### Sécurité
 
 ## 7. Conséquences
 
