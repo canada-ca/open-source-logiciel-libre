@@ -1,1 +1,1 @@
-# Directive sur la publication de code source ouvert
+# Guide sur la publication de code source ouvert

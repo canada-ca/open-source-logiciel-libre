@@ -1,1 +1,1 @@
-# Directive sur les normes ouvertes
+# Guide sur les normes ouvertes
