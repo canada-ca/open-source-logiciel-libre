@@ -49,6 +49,8 @@ Durant la période d'ébauche, la traduction du contenu est faite de façon manu
 * [Google Translate](https://translate.google.com/)
 * [Deepl Translator](https://www.deepl.com/translator)
 
+La traduction finale sera faite lorsqu'une première version sera complétée.
+
 ### Références
 
 * Canada
