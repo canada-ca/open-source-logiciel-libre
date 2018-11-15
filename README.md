@@ -1,14 +1,17 @@
+[![Build Status](https://travis-ci.org/canada-ca/open-source-logiciel-libre.svg?branch=master)](https://travis-ci.org/canada-ca/open-source-logiciel-libre)
+
+([Français](#logiciels-libres))
+
 # Policy Instruments (Draft) - Instruments de politiques (Ébauche)
 
 ## Open Source Software
 
 Government of Canada draft requirements for open source use, contribution and creation.
 
-### Content
+### English Content
 
-The content of the repository was initially designed with a Standard template but we have now changed it to a Directive. It is still a draft and work in progress.
-
-* [Directive in English](en/directive.md)
+* [Directives](en/directives)
+* [Guides](en/guides)
 
 ### Translation
 
@@ -35,11 +38,12 @@ Official translation will be done once a first version is completed.
 
 Ébauche des besoins liés à l'utilisation, à la contribution et la création des logiciels libres Gouvernement du Canada.
 
-### Contenu
+### Contenu français
 
-Le contenu du répertoire était initialement sous la forme d'une Norme mais nous avons changé le format pour une Directive. Il s'agit toujours d'une ébauche et d'un travail en cours.
+* [Directives](fr/directives)
+* [Guides](fr/guides)
 
-* [Directive en français](fr/directive.md)
+La traduction officielle sera effectuée une fois la première version terminée.
 
 ### Traduction
 
