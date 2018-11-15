@@ -21,7 +21,7 @@ The Chief Information Officer (CIO) and Information Management Senior Official (
 * Maximizing the release of Government of Canada source code under an open source software licence designated by the Treasury Board of Canada Secretariat (TBS). (Apache, MIT, GPL, AGPL or LGPL.)
 * Ensuring that source code is released in an accessible and reusable format (Git) via an public source code repository.
 * Establishing and maintaining comprehensive inventories of source code of business value held by the department or agency to determine their eligibility and priority, and to plan for their effective release.
-* Ensuring that the project and its source code repository in the TBS designated website.
+* Ensuring that the project and its source code repository is registered in the TBS designated website.
 
 * Ensuring that open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
 
