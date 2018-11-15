@@ -4,7 +4,7 @@
 
 ## Authorities
 
-This directive is issued pursuant to sections 3 and 6.4.9 of the Policy on Management of Information Technology.
+This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 
 ## Objectives and expected results
 
