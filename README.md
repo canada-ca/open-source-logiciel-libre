@@ -11,6 +11,10 @@ Government of Canada draft requirements for open source use, contribution and cr
 ### English Content
 
 * [Directives](en/directives)
+  * [Open Standards](en/directives/open-standards.md)
+  * [Use of Open Source Software](en/directives/open-source-software.md)
+  * [Contribution to Open Source Software](en/directives/contributing-to-open-source-software.md)
+  * [Publication of Open Source Code](en/directives/publishing-open-source-code.md)
 * [Guides](en/guides)
 
 ### Translation
@@ -26,7 +30,9 @@ Official translation will be done once a first version is completed.
 ### References
 
 * Canada
-  * Ville de Montréal (FR/EN): [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
+  * Ville de Montréal (FR/EN):
+    * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
+    * [Directives](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
 * France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
@@ -41,6 +47,10 @@ Official translation will be done once a first version is completed.
 ### Contenu français
 
 * [Directives](fr/directives)
+  * [Normes Ouvertes](fr/directives/normes-ouvertes.md)
+  * [Utilisation de logiciels libres](fr/directives/logiciels-libres.md)
+  * [Contribution aux logiciels libres](fr/directives/contribution-à-des-logiciels-libres.md)
+  * [Publication de code source libre](fr/directives/publication-code-source-ouvert.md)
 * [Guides](fr/guides)
 
 La traduction officielle sera effectuée une fois la première version terminée.
@@ -58,7 +68,9 @@ La traduction finale sera faite lorsqu'une première version sera complétée.
 ### Références
 
 * Canada
-  * Ville de Montréal (FR/EN): [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
+  * Ville de Montréal (FR/EN):
+    * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
+    * [Directives](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
 * France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
