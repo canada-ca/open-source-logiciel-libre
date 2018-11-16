@@ -34,13 +34,17 @@ Official translation will be done once a first version is completed.
 ### References
 
 * Canada
-  * Ville de Montréal (FR/EN):
-    * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
-    * [Directives](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
-* France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source/en/)
+  * Montréal City (EN):
+    * [Policy concerning the use and development of Open Source Software and Hardware](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md#english-version)
+    * [Directive on contributing to an Open Source Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/ContributionAProjetLibre.md#english-version)
+    * [Directive on Publication and Maintenance of an Open-Source Municipal Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/PublicationProjetVille.md#english-version)
+* France (EN): [DINSIC Open-source contribution policy](https://disic.github.io/politique-de-contribution-open-source/en/)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
+  * Government Digital Services (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
-* http://gds-operations.github.io/guidelines/
+* Linux Foundation (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
+  * TODO Group (EN): [Guides](https://todogroup.org/guides/)
+* Google (EN): [Open Source Policy](https://opensource.google.com/docs/)
 
 ---
 
@@ -76,10 +80,13 @@ La traduction finale sera faite lorsqu'une première version sera complétée.
 ### Références
 
 * Canada
-  * Ville de Montréal (FR/EN):
+  * Ville de Montréal (FR):
     * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
-    * [Directives](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
+    * [Directive sur la publication et le maintien d’un projet Ville en libre](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
 * France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
-* United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
-* United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
-* http://gds-operations.github.io/guidelines/
+* Gouvernement de la Grande-Bretagne (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
+  * Services numériques gouvernementaux (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
+* Gouvernement fédéral des États-Unis d'Amérique (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
+* Fondation Linux (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
+  * Groupe TODO (EN): [Guides](https://todogroup.org/guides/)
+* Google (EN): [Politiques de logiciels libres](https://opensource.google.com/docs/)
