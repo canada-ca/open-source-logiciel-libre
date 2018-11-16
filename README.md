@@ -16,6 +16,10 @@ Government of Canada draft requirements for open source use, contribution and cr
   * [Contribution to Open Source Software](en/directives/contributing-to-open-source-software.md)
   * [Publication of Open Source Code](en/directives/publishing-open-source-code.md)
 * [Guides](en/guides)
+  * [Open Standards](en/guides/open-standards.md)
+  * [Use of Open Source Software](en/guides/open-source-software.md)
+  * [Contribution to Open Source Software](en/guides/contributing-to-open-source-software.md)
+  * [Publication of Open Source Code](en/guides/publishing-open-source-code.md)
 
 ### Translation
 
@@ -52,6 +56,10 @@ Official translation will be done once a first version is completed.
   * [Contribution aux logiciels libres](fr/directives/contribution-à-des-logiciels-libres.md)
   * [Publication de code source libre](fr/directives/publication-code-source-ouvert.md)
 * [Guides](fr/guides)
+  * [Normes Ouvertes](fr/guides/normes-ouvertes.md)
+  * [Utilisation de logiciels libres](fr/guides/logiciels-libres.md)
+  * [Contribution aux logiciels libres](fr/guides/contribution-à-des-logiciels-libres.md)
+  * [Publication de code source libre](fr/guides/publication-code-source-ouvert.md)
 
 La traduction officielle sera effectuée une fois la première version terminée.
 
