@@ -1,3 +1,1 @@
-# Guide sur les logiciels libres
-
-**Utiliser et contribuer!
+# Guide sur l'utilisation des logiciels libres
