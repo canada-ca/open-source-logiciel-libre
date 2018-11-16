@@ -37,7 +37,7 @@ Official translation will be done once a first version is completed.
   * Ville de Montréal (FR/EN):
     * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
     * [Directives](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
-* France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
+* France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source/en/)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
 * http://gds-operations.github.io/guidelines/
