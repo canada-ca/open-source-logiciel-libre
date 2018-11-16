@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/canada-ca/open-source-logiciel-libre.svg?branch=master)](https://travis-ci.org/canada-ca/open-source-logiciel-libre)
+[![Build Status](https://travis-ci.com/canada-ca/open-source-logiciel-libre.svg?branch=master)](https://travis-ci.com/canada-ca/open-source-logiciel-libre)
 
 ([Français](#logiciels-libres))
 
