@@ -4,7 +4,7 @@
   "description": "Draft requirements to contribute to open source projects - Brouillon des besoins pour contribuer à des projets de logiciels libre.",
   "main": "index.js",
   "scripts": {
-    "test": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\""
+    "test": "markdownlint \"*.md\" \"en/*/*.md\" \"fr/*/*.md\""
   },
   "repository": {
     "type": "git",
