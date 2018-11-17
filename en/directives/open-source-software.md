@@ -1,6 +1,22 @@
 # Directive on open source software
 
-## Authorities
+## IN DEVELOPMENT - v.0.1
+
+## Introduction
+
+The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery. As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences. It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
+
+## 1. Effective Date
+
+This Directive takes effect on November 26, 2018.
+
+With the exception of section x.x.x, this Directive applies to any software, service and solution developed or procured after the effective date.
+
+## 2. Authorities
+
+2.1 This Directive is issued under the authority of section 7 of the Financial Administration Act, and under section 6.4.9 of the Policy on Management of Information Technology;
+
+2.2 This Directive supports the Policy on Information Management, the Policy on Service, the Policy on Privacy Protection, and the Policy on Government Security.
 
 This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 

@@ -1,10 +1,24 @@
 # Directive sur les logiciels libres
 
-**Utiliser et contribuer!
+## EN DÉVELOPPEMENT - v.0.1
 
-## Authorities
+## Introduction
 
-This directive is issued pursuant to sections 3 and 6.4.9 of the Policy on Management of Information Technology.
+Le gouvernement du Canada utilise les logiciels libres dans le cadre de son écosystème technologique depuis des années et compte de plus en plus sur eux pour assurer le succès de ses services. Dans le cadre de son engagement à devenir un gouvernement numérique, elle doit également contribuer à des projets externes et publier son propre code source sous licence Open Source. Elle s'engage à le faire d'une manière compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.
+
+## 1. Date d'entrée en vigueur
+
+La présente directive entre en vigueur le 26 novembre 2018.
+
+À l'exception de l'article x.x.x, la présente directive s'applique à tout logiciel, service et solution développés ou acquis après la date d'entrée en vigueur.
+
+## 2. Autorités
+
+2.1 La présente directive est émise en vertu de l'article 7 de la Loi sur la gestion des finances publiques et de l'article 6.4.9 de la Politique sur la gestion des technologies de l'information ;
+
+2.2 La présente directive appuie la Politique sur la gestion de l'information, la Politique sur le service, la Politique sur la protection des renseignements personnels et la Politique sur la sécurité du gouvernement.
+
+This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 
 ## Objectives and expected results
 
