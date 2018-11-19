@@ -1,9 +1,5 @@
 # Directive sur les logiciels libres (Ébauche)
 
-## Introduction
-
-Le gouvernement du Canada utilise les logiciels libres dans le cadre de son écosystème technologique depuis des années et compte de plus en plus sur eux pour assurer le succès de ses services. Dans le cadre de son engagement à devenir un gouvernement numérique, elle doit également contribuer à des projets externes et publier son propre code source sous licence Open Source. Elle s'engage à le faire d'une manière compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.
-
 ## 1. Date d'entrée en vigueur
 
 La présente directive entre en vigueur le 26 novembre 2018.

@@ -23,4 +23,4 @@ Le dirigeant principal de l'information (DPI) des ministères et organismes a le
 * Maximiser l'utilisation de normes ouverte par le gouvernement du Canada.
 * Proposer de nouvelles normes ouvertese pour le GC et endossement par le SCT.
 
-* Faire en sorte que les exigences relatives aux normes ouvertes de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services. 
+* Faire en sorte que les exigences relatives aux normes ouvertes de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.

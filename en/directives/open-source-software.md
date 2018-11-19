@@ -1,9 +1,5 @@
 # Directive on open source software (Draft)
 
-## Introduction
-
-The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery. As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences. It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
-
 ## 1. Effective Date
 
 This Directive takes effect on November 26, 2018.

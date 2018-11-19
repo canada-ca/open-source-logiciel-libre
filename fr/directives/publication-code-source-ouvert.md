@@ -23,7 +23,7 @@ Le dirigeant principal de l'information (DPI) et le cadre supérieur responsable
 * Créer et tenir à jour un répertoire complet des codes source à valeur opérationnelle détenues par le ministère ou l'organisme en vue de déterminer leur admissibilité, leur ordre de priorité et la planification efficace de leur communication.
 * Veiller à ce que le projet et son référentiel de code source soit ajoutés au site Web désigné par le SCT.
 
-* Faire en sorte que les exigences relatives aux codes source ouverts de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services. 
+* Faire en sorte que les exigences relatives aux codes source ouverts de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.
 
 ### Exceptions
 

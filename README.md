@@ -2,11 +2,11 @@
 
 ([Français](#logiciels-libres))
 
-# Policy Instruments (Draft) - Instruments de politiques (Ébauche)
-
 ## Open Source Software
 
-Government of Canada draft requirements for open source use, contribution and creation.
+Government of Canada **draft** requirements for open source use, contribution and creation.
+
+The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery. As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences. It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
 
 ### English Content
 
@@ -50,7 +50,9 @@ Official translation will be done once a first version is completed.
 
 ## Logiciels libres
 
-Ébauche des besoins liés à l'utilisation, à la contribution et la création des logiciels libres Gouvernement du Canada.
+**Ébauche** des exigences liés à l'utilisation, à la contribution et la création des logiciels libres Gouvernement du Canada.
+
+Le gouvernement du Canada utilise les logiciels libres dans le cadre de son écosystème technologique depuis des années et compte de plus en plus sur eux pour assurer le succès de ses services. Dans le cadre de son engagement à devenir un gouvernement numérique, elle doit également contribuer à des projets externes et publier son propre code source sous licence Open Source. Elle s'engage à le faire d'une manière compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.
 
 ### Contenu français
 
