@@ -1,6 +1,4 @@
-# Directive on open source software
-
-## IN DEVELOPMENT - v.0.1
+# Directive on open source software (Draft)
 
 ## Introduction
 

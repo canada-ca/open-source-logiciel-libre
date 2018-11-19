@@ -1,4 +1,4 @@
-# Directive on contributing to open source software
+# Directive on contributing to open source software (Draft)
 
 ## Authorities
 

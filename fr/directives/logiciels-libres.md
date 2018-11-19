@@ -1,6 +1,4 @@
-# Directive sur les logiciels libres
-
-## EN DÉVELOPPEMENT - v.0.1
+# Directive sur les logiciels libres (Ébauche)
 
 ## Introduction
 

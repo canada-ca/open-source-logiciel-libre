@@ -1,4 +1,4 @@
-# Directive sur les normes ouvertes
+# Directive sur les normes ouvertes (Ébauche)
 
 ## Pouvoirs
 

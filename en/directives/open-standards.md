@@ -1,4 +1,4 @@
-# Directive on open standards
+# Directive on open standards (Draft)
 
 ## Authorities
 

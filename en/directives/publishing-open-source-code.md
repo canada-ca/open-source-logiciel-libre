@@ -1,4 +1,4 @@
-# Directive on publishing open source code
+# Directive on publishing open source code (Draft)
 
 ## Authorities
 

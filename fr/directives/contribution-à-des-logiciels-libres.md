@@ -1,4 +1,4 @@
-# Directive sur la contribution à des logiciels libres
+# Directive sur la contribution à des logiciels libres (Ébauche)
 
 ## Pouvoirs
 

@@ -1,4 +1,4 @@
-# Directive sur la publication de code source ouvert
+# Directive sur la publication de code source ouvert (Ébauche)
 
 ## Pouvoirs
 
