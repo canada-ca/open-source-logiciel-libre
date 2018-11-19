@@ -1,24 +1,26 @@
 # Directive sur les normes ouvertes
 
-## Authorities
+## Pouvoirs
 
-This directive is issued pursuant to sections 3 and 6.4.9 of the Policy on Management of Information Technology.
+La présente Directive est émise en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
-This Directive supports the Policy on Information Management.
+La présente directive appuie la [Politique sur la gestion de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12742).
 
-## Objectives and expected results
+## Objectifs et résultats escomptés
 
-The objective of this directive is to maximize the use of open standards to avoid lock-in, improve interoperability between systems, seek independence from data formats and vendors as well as substitutability of solutions and service providers.
+La présente Directive vise à maximiser l'utilisation de normes ouvertes pour éviter l'enfermement, améliorer l'interopérabilité entre les systèmes, rechercher une plus grande indépendance des formats de données et des fournisseurs ainsi que la substituabilité des solutions et des fournisseurs de services.
 
-### The expected results of this directive are as follows
+### Les résultats escomptés de la présente Directive sont les suivants
 
-* Enable greater flexibility in the management of information and communication technologies (ICT).
-* Improve the overall availability of re-usable technology within government and society.
+* Permettre une plus grande flexibilité dans la gestion des technologies de l'information et des communications (TIC).
+* Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
-## Requirements
+## Exigences
 
-The Chief Information Officer (CIO) of departments and agencies is responsible for the following
+Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
 
-* Ensuring use of preferred open standards designated by the Treasury Board of Canada Secretariat. (Open Resource Exchange)
-* Maximizing the use of open standards by the Government of Canada.
-* Proposing open standards for endorsment by the Treasury Board of Canada Secretariat for GC-wide use.
+* Veiller à l'utilisation des normes ouvertes désignées par le Secrétariat du Conseil du Trésor du Canada (SCT).
+* Maximiser l'utilisation de normes ouverte par le gouvernement du Canada.
+* Proposer de nouvelles normes ouvertese pour le GC et endossement par le SCT.
+
+* Faire en sorte que les exigences relatives aux normes ouvertes de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services. 

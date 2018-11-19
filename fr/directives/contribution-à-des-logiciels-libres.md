@@ -1,26 +1,26 @@
 # Directive sur la contribution à des logiciels libres
 
-## Authorities
+## Pouvoirs
 
-This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
+La présente Directive est émise en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
-This Directive supports the [Policy on Information Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12742) and the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108).
+La présente directive appuie la [Politique sur la gestion de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12742) et la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108).
 
-## Objectives and expected results
+## Objectifs et résultats escomptés
 
-The objective of this directive is to maximize contributions to the development of open source software used by the Government of Canada and/or where there is benefit to Canadians.
+La présente Directive vise à maximiser les contributions dans le développement de logiciels libres utilisés par le gouvernement du Canada et/ou lorsqu'il y a des avantages pour les Canadiens.
 
-### The expected results of this directive are as follows
+### Les résultats escomptés de la présente Directive sont les suivants
 
-* Support and increase collaboration with other public administrations in Canada and around the world.
-* Improve the overall availability of re-usable technology within government and society.
+* Soutenir et accroître la collaboration avec d'autres administrations publiques au Canada et dans le monde.
+* Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
-## Requirements
+## Exigences
 
-The Chief Information Officer (CIO) of departments and agencies is responsible for the following
+Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
 
-* Maximizing contributions to the development of open source software used by departments and agencies and/or where there is benefit to Canadians.
+* Maximiser les contributions dans le développement de logiciels libres utilisés par les ministères et les organismes et/ou lorsqu'il y a des avantages pour les Canadiens.
 
 * Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under the appropriate open source licence.
 
-* Ensuring that the open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
+* Faire en sorte que les exigences relatives aux codes source ouverts de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services. 
