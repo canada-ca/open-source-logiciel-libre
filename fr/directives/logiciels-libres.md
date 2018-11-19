@@ -1,37 +1,36 @@
 # Directive sur les logiciels libres (Ébauche)
 
-## 1. Date d'entrée en vigueur
+## Pouvoirs
 
-La présente directive entre en vigueur le 26 novembre 2018.
+La présente Directive est émise sous l'article 7 de la Loi sur la gestion des finances publiques et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
-À l'exception de l'article x.x.x, la présente directive s'applique à tout logiciel, service et solution développés ou acquis après la date d'entrée en vigueur.
+La présente directive appuie la Politique sur le service, la Politique sur la protection des renseignements personnels et la Politique sur la sécurité du gouvernement.
 
-## 2. Autorités
-
-2.1 La présente directive est émise en vertu de l'article 7 de la Loi sur la gestion des finances publiques et de l'article 6.4.9 de la Politique sur la gestion des technologies de l'information ;
-
-2.2 La présente directive appuie la Politique sur la gestion de l'information, la Politique sur le service, la Politique sur la protection des renseignements personnels et la Politique sur la sécurité du gouvernement.
-
-This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
-
-## Objectives and expected results
+## Objectifs et résultats escomptés
 
 The objective of this directive is to maximize the use of existing open source software to avoid lock-in, improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers. Another objective is to support and be an active contributor to the development of open source software used by the Government of Canada and/or where there is benefit to Canadians.
 
-### The expected results of this directive are as follows
+### Les résultats escomptés de la présente Directive sont les suivants
 
-* Enable greater flexibility in the management of information and communication technologies (ICT).
-* Support and increase collaboration with other public administrations in Canada and around the world
-* Canadians are able to reuse and contribute to open source software used by the GC to support meaningful engagement with their government and communities.
-* Improve the overall availability of re-usable technology within government and society.
+* Permettre une plus grande flexibilité dans la gestion des technologies de l'information et des communications (TIC).
+* Soutenir et accroître la collaboration avec d'autres administrations publiques au Canada et dans le monde.
+* Les Canadiens et les Canadiennes peuvent ré-utiliser et contribuer aux logiciels libres utilisés par le GC pour soutenir l'engagement constructif avec leur gouvernement et communautées.
+* Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
-## Requirements
+## Exigences
 
-The Chief Information Officer (CIO) of departments and agencies is responsible for the following
+Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
 
-* Maximizing the use of open source software by the requiring that all new purchases, upgrades or migrations (including cloud solutions) actively and fairly consider open source software.
-* Factoring in the use of open source software when calculating total cost of ownership of a solutions including exit or transition costs.
-* Selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (total cost of ownership) difference with closed-source solutions.
-* Ensuring that the use of open source software is compliant with its licence terms and conditions.
-* Maximizing contributions to the development of open source software used by departments and agencies and/or where there is benefit to Canadians.
-* Ensuring that open source software in use is added to the Open Resource Exchange.
+* Maximiser l'utilisation de logiciels libres en exigeant que tous les nouveaux achats, mises à niveau ou migrations (y compris les solutions infonuagique) envisagent activement et équitablement les logiciels libres pendant l'approvisionnement.
+* Intégrer l'utilisation de logiciels libres au calcul du coût total de propriété d'une solution, y compris les coûts d'abandon ou de transition.
+* Sélectionner les logiciels libres en fonction de leur flexibilité inhérente supplémentaire, lorsqu'il n'y a pas de différence importante de coût global (coût total de propriété) avec les solutions à source exclusive.
+* Veiller à ce que l'utilisation de logiciels libres soit conforme aux termes et conditions de la licence.
+* Veiller à ce que le les logiciels libres utilisés soient ajoutés au site Web désigné par le SCT.
+
+* Ensuring that an assessment process is in place to evaluate Open Source Software security.
+* Sharing the results of the security assessment process to the Government as a whole.
+* Ensuring that a process is in place to update Open Source Software known security vulnerabilities.
+* Ensuring that the relevant employees are sufficiently trained in the assessment, design, function, use and implementation of open source software.
+* Ensuring that the relevant employees have access to the tools and services required to use, assess, deploy and maintain Open Source Software in compliance with this Directive.
+
+* Faire en sorte que les exigences relatives aux logiciels libres de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.

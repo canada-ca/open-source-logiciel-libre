@@ -1,18 +1,10 @@
 # Directive on open source software (Draft)
 
-## 1. Effective Date
+## Authorities
 
-This Directive takes effect on November 26, 2018.
+This directive is issued under the authority of section 7 of the Financial Administration Act and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 
-With the exception of section x.x.x, this Directive applies to any software, service and solution developed or procured after the effective date.
-
-## 2. Authorities
-
-2.1 This Directive is issued under the authority of section 7 of the Financial Administration Act, and under section 6.4.9 of the Policy on Management of Information Technology;
-
-2.2 This Directive supports the Policy on Information Management, the Policy on Service, the Policy on Privacy Protection, and the Policy on Government Security.
-
-This directive is issued pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
+This Directive supports the Policy on Service, the Policy on Privacy Protection, and the Policy on Government Security.
 
 ## Objectives and expected results
 
