@@ -1,14 +1,12 @@
-# Directive on open source software (Draft)
+# Directive on using open source software (Draft)
 
 ## Authorities
 
-This directive is issued under the authority of section 7 of the Financial Administration Act and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
-
-This Directive supports the Policy on Service, the Policy on Privacy Protection, and the Policy on Government Security.
+This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 
 ## Objectives and expected results
 
-The objective of this directive is to maximize the use of existing open source software to avoid lock-in, improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers. Another objective is to support and be an active contributor to the development of open source software used by the Government of Canada and/or where there is benefit to Canadians.
+The objective of this directive is to maximize the use of open source software as key components of its technology ecosystem to improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers.
 
 ### The expected results of this directive are as follows
 

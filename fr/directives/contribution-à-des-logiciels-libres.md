@@ -2,13 +2,13 @@
 
 ## Pouvoirs
 
-La présente Directive est émise en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
+La présente Directive est émise sous l'article 7 de la [Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/f-11/) et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
 La présente directive appuie la [Politique sur la gestion de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12742) et la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108).
 
 ## Objectifs et résultats escomptés
 
-La présente Directive vise à maximiser les contributions dans le développement de logiciels libres utilisés par le gouvernement du Canada et/ou lorsqu'il y a des avantages pour les Canadiens.
+La présente Directive vise à supporter et maximiser les contributions dans le développement de logiciels libres utilisés par le gouvernement du Canada et/ou lorsqu'il y a des avantages pour les Canadiens.
 
 ### Les résultats escomptés de la présente Directive sont les suivants
 

@@ -1,14 +1,12 @@
-# Directive sur les logiciels libres (Ébauche)
+# Directive sur l'utilisation de logiciels libres (Ébauche)
 
 ## Pouvoirs
 
-La présente Directive est émise sous l'article 7 de la Loi sur la gestion des finances publiques et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
-
-La présente directive appuie la Politique sur le service, la Politique sur la protection des renseignements personnels et la Politique sur la sécurité du gouvernement.
+La présente Directive est émise sous l'article 7 de la [Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/f-11/) et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
 ## Objectifs et résultats escomptés
 
-The objective of this directive is to maximize the use of existing open source software to avoid lock-in, improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers. Another objective is to support and be an active contributor to the development of open source software used by the Government of Canada and/or where there is benefit to Canadians.
+The objective of this directive is to maximize the use of open source software as key components of its technology ecosystem to improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers.
 
 ### Les résultats escomptés de la présente Directive sont les suivants
 
