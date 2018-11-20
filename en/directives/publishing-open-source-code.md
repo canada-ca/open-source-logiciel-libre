@@ -12,7 +12,7 @@ The objective of this directive is to maximize the release of source code, wheth
 
 ### The expected results of this directive are as follows
 
-* Canadians are able to find, use and contribute to GC software projects and source code to support meaningful engagement with their government.
+* Canadians are able to find, reuse and contribute to GC software projects and source code to support meaningful engagement with their government.
 
 ## Requirements
 

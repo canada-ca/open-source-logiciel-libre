@@ -20,7 +20,7 @@ The objective of this directive is to support and maximize contributions to the 
 The Chief Information Officer (CIO) of departments and agencies is responsible for the following
 
 * Maximizing contributions to the development of open source software used by departments and agencies and/or where there is benefit to Canadians.
-
 * Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under the appropriate open source licence.
+* Ensuring that open source software used is added to the Treasury Board of Canada Secretariat (TBS) designated website.
 
 * Ensuring that the open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.

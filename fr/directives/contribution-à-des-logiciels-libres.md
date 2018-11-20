@@ -20,7 +20,7 @@ La présente Directive vise à supporter et maximiser les contributions dans le 
 Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
 
 * Maximiser les contributions dans le développement de logiciels libres utilisés par les ministères et les organismes et/ou lorsqu'il y a des avantages pour les Canadiens.
-
+* Veiller à ce que le les logiciels libres utilisés soient ajoutés au site Web désigné par le SCT.
 * Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under the appropriate open source licence.
 
 * Faire en sorte que les exigences relatives aux codes source ouverts de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.

@@ -12,7 +12,7 @@ La présente Directive vise à maximiser la communication de codes sources, qu'i
 
 ### Les résultats escomptés de la présente Directive sont les suivants
 
-* Les Canadiens et les Canadiennes peuvent trouver, utiliser et contribuer aux projets logiciels et codes sources du GC pour soutenir l'engagement constructif avec leur gouvernement.
+* Les Canadiens et les Canadiennes peuvent trouver, réutiliser et contribuer aux projets logiciels et codes sources du GC pour soutenir l'engagement constructif avec leur gouvernement.
 
 ## Exigences
 
