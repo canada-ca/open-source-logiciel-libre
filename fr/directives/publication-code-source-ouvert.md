@@ -16,7 +16,7 @@ La présente Directive vise à maximiser la communication de codes sources, qu'i
 
 ## Exigences
 
-Le dirigeant principal de l'information (DPI) et le cadre supérieur responsable de la gestion de l'information des ministères et organismes ont les responsabilités suivantes
+Le sous-ministre adjoint (SMA), ou tout autre personne désignée par le SMA, et le cadre supérieur responsable de la gestion de l'information des ministères et organismes ont les responsabilités suivantes:
 
 * Maximiser la communication des codes sources du gouvernement du Canada aux termes d'une licence ligociel libre sans restriction, tel que précisé par le Secrétariat du Conseil du Trésor du Canada (SCT). (Apache, MIT, GPL, AGPL or LGPL.)
 * Veiller à ce que les codes sources communiquées en formats accessibles et réutilisables (Git) par l'intermédiaire d'un référentiel de code source publique.

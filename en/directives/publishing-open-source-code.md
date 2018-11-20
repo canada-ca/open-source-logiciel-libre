@@ -16,7 +16,7 @@ The objective of this directive is to maximize the release of source code, wheth
 
 ## Requirements
 
-The Chief Information Officer (CIO) and Information Management Senior Official (IMSO) of departments and agencies are responsible for the following
+The Assistant Deputy Minister (ADM), or any other person named by the ADM, and Information Management Senior Official (IMSO) of departments and agencies are responsible for the following:
 
 * Maximizing the release of Government of Canada source code under an open source software licence designated by the Treasury Board of Canada Secretariat (TBS). (Apache, MIT, GPL, AGPL or LGPL.)
 * Ensuring that source code is released in an accessible and reusable format (Git) via an public source code repository.

@@ -12,21 +12,21 @@ L'objectif de cette directive est de maximiser l'utilisation des logiciels lires
 
 * Permettre une plus grande flexibilité dans la gestion des technologies de l'information et des communications (TIC).
 * Augmenter l'utilisation de logiciels libres par les départements et agences.
-* Soutenir et accroître la collaboration avec d'autres administrations publiques au Canada et dans le monde.
+* Soutenir et accroître la collaboration entre départements, agences et d'autres administrations publiques au Canada et dans le monde, incluant les membres de la société.
 * Les Canadiens et les Canadiennes peuvent ré-utiliser et contribuer aux logiciels libres utilisés par le GC pour soutenir l'engagement constructif avec leur gouvernement et communautées.
 * Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
 ## Exigences
 
-Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
+Le dirigeant principal de l'information (DPI) des ministères et organismes, ou tout autre personne désignée par le DPI, a les responsabilités suivantes:
 
-* Maximiser l'utilisation de logiciels libres en exigeant que tous les nouveaux achats, mises à niveau ou migrations (y compris les solutions infonuagique) envisagent activement et équitablement les logiciels libres pendant l'approvisionnement.
-* Intégrer l'utilisation de logiciels libres au calcul du coût total de propriété d'une solution, y compris les coûts d'abandon ou de transition.
+* Exiger que les logiciels libres soient considérés activement et équitablement pour toutes nouvelles technologies, mises à niveau ou migrations (y compris les solutions infonuagique).
 * Sélectionner les logiciels libres en fonction de leur flexibilité inhérente supplémentaire, lorsqu'il n'y a pas de différence importante de coût global (coût total de propriété) avec les solutions à source exclusive.
 * Veiller à ce que l'utilisation de logiciels libres soit conforme aux termes et conditions de la licence.
+* Partager les résultats des évaluations de sécurité des logiciels libres avec l'ensemble du gouvernement.
 
-* Ensuring that an assessment process is in place to evaluate Open Source Software security.
-* Sharing the results of the security assessment process to the Government as a whole.
+* Intégrer les coûts d'abandon ou de transition au calcul du coût total de propriété d'une solution.
+* Ensuring that an assessment process is in place to evaluate Open Source Software security. (Confirmer avec Cyber si ce besoin n'est pas en double)
 * Ensuring that a process is in place to update Open Source Software known security vulnerabilities.
 * Ensuring that the relevant employees are sufficiently trained in the assessment, design, function, use and implementation of open source software.
 * Ensuring that the relevant employees have access to the tools and services required to use, assess, deploy and maintain Open Source Software in compliance with this Directive.

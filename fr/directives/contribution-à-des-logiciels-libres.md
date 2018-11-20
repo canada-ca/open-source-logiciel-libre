@@ -8,19 +8,21 @@ La présente directive appuie la [Politique sur la gestion de l'information](htt
 
 ## Objectifs et résultats escomptés
 
-La présente Directive vise à supporter et maximiser les contributions dans le développement de logiciels libres utilisés par le gouvernement du Canada et/ou lorsqu'il y a des avantages pour les Canadiens.
+La présente Directive vise à supporter et maximiser les contributions dans le développement de logiciels libres utilisés par le gouvernement du Canada ou lorsqu'il y a des avantages pour les Canadiens.
 
 ### Les résultats escomptés de la présente Directive sont les suivants
 
-* Soutenir et accroître la collaboration avec d'autres administrations publiques au Canada et dans le monde.
-* Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
+* Soutenir et accroître la collaboration entre départements, agences et d'autres administrations publiques au Canada et dans le monde, incluant la société.
+* Améliorer la disponibilité et la qualité globale des technologies réutilisables au sein du gouvernement et de la société.
 
 ## Exigences
 
-Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
+Le sous-ministre adjoint (SMA) des ministères et organismes, ou tout autre personne désignée par le SMA, a les responsabilités suivantes
 
 * Maximiser les contributions dans le développement de logiciels libres utilisés par les ministères et les organismes et/ou lorsqu'il y a des avantages pour les Canadiens.
 * Veiller à ce que le les logiciels libres utilisés soient ajoutés au site Web désigné par le SCT.
 * Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under the appropriate open source licence.
+
+* Ensuring that a process is in place to inform project maintainers when security vulnerabilities are found, unlike issues.
 
 * Faire en sorte que les exigences relatives aux codes source ouverts de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.
