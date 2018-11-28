@@ -8,7 +8,7 @@ La présente directive appuie la [Politique sur la gestion de l'information](htt
 
 ## Objectifs et résultats escomptés
 
-La présente Directive vise à maximiser l'utilisation de normes ouvertes pour éviter l'enfermement, améliorer l'interopérabilité entre les systèmes, rechercher une plus grande indépendance des formats de données et des fournisseurs ainsi que la substituabilité des solutions et des fournisseurs de services.
+La présente Directive vise à maximiser l'utilisation de normes ouvertes pour éviter améliorer l'interopérabilité entre les systèmes, rechercher une plus grande indépendance des formats de données et des fournisseurs ainsi que la substituabilité des solutions et des fournisseurs de services.
 
 ### Les résultats escomptés de la présente Directive sont les suivants
 
@@ -21,6 +21,6 @@ Le dirigeant principal de l'information (DPI) des ministères et organismes a le
 
 * Veiller à l'utilisation des normes ouvertes désignées par le Secrétariat du Conseil du Trésor du Canada (SCT).
 * Maximiser l'utilisation de normes ouverte par le gouvernement du Canada.
-* Proposer de nouvelles normes ouvertese pour le GC et endossement par le SCT.
+* Proposer de nouvelles normes ouvertes à utiliser dans le GC et pour approbation par le SCT.
 
 * Faire en sorte que les exigences relatives aux normes ouvertes de la présente Directive, soient intégrées à tous les nouveaux projets d'acquisition, d'élaboration ou de modernisation des applications, systèmes ou solutions informatiques des ministères, à l'appui des programmes et services.
