@@ -9,7 +9,7 @@ Comment le faire, etc.
 
 ## Quelle licence puis-je utiliser (scénarios)
 
-## Acheter des logiciels libres?
+## Acheter des logiciels libres
 
 Note: penser aux questions de différents utilisateurs:
 
