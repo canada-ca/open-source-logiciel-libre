@@ -12,8 +12,8 @@ The objective of this directive is to maximize the use of open source software a
 
 #### The expected results of this directive are as follows
 
-* Enable greater flexibility in the management of information and communication technologies (ICT). (Too vague, need quantifiable results)
-* Increased use of open source software by departments and agencies. (syntax)
+* Enable greater flexibility in the management of information and communication technologies (ICT).
+* Increase the reuse of existing open source software and technology by departments and agencies.
 * Support and increase collaboration between departments, agencies and other public administrations in Canada and around the world, including society as a whole.
 * Canadians are able to reuse and contribute to open source software used by the GC to support meaningful engagement with their government and communities.
 * Improve the overall availability of re-usable technology within government and society.
