@@ -1,21 +1,23 @@
-# Directive sur les normes ouvertes (Ébauche)
+[Table des matières](../../README.md#contenu-français)
 
-## Pouvoirs
+## Directive sur les normes ouvertes (Ébauche)
+
+### Pouvoirs
 
 La présente Directive est émise sous l'article 7 de la [Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/f-11/) et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
 La présente directive appuie la [Politique sur la gestion de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12742).
 
-## Objectifs et résultats escomptés
+### Objectifs et résultats escomptés
 
 La présente Directive vise à maximiser l'utilisation de normes ouvertes pour éviter améliorer l'interopérabilité entre les systèmes, rechercher une plus grande indépendance des formats de données et des fournisseurs ainsi que la substituabilité des solutions et des fournisseurs de services.
 
-### Les résultats escomptés de la présente Directive sont les suivants
+#### Les résultats escomptés de la présente Directive sont les suivants
 
 * Permettre une plus grande flexibilité dans la gestion des technologies de l'information et des communications (TIC).
 * Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
-## Exigences
+### Exigences
 
 Le dirigeant principal de l'information (DPI) des ministères et organismes a les responsabilités suivantes
 

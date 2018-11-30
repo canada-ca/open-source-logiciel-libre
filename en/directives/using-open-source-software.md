@@ -1,14 +1,16 @@
-# Directive on using open source software (Draft)
+[Table of Contents](../../README.md#english-content)
 
-## Authorities
+## Directive on using open source software (Draft)
+
+### Authorities
 
 This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
 
-## Objectives and expected results
+### Objectives and expected results
 
 The objective of this directive is to maximize the use of open source software as key components of its technology ecosystem to improve interoperability between systems, seek independence from software, technologies and vendors as well as substitutability of solutions and service providers.
 
-### The expected results of this directive are as follows
+#### The expected results of this directive are as follows
 
 * Enable greater flexibility in the management of information and communication technologies (ICT). (Too vague, need quantifiable results)
 * Increased use of open source software by departments and agencies. (syntax)
@@ -16,7 +18,7 @@ The objective of this directive is to maximize the use of open source software a
 * Canadians are able to reuse and contribute to open source software used by the GC to support meaningful engagement with their government and communities.
 * Improve the overall availability of re-usable technology within government and society.
 
-## Requirements
+### Requirements
 
 The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following:
 
