@@ -3,7 +3,7 @@
 In this guide:
 
 * [Using as is - End users](#using-as-is---end-users)
-* [Using as is - Development projects](#using-as-is---development-project)
+* [Using as is - Development projects](#using-as-is---development-projects)
 
 ## Using as is - End users
 
