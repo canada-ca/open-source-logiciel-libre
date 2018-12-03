@@ -46,7 +46,6 @@ Recommended permissive licences (1) for Government of Canada open source code ar
 
 ##### Reciprocal licences
 
-
 * Appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains free and open source software.
 * Can also put a focus on benefiting other private-sector businesses that provide services and support.
 

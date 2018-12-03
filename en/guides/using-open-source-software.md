@@ -30,7 +30,7 @@ In general, the same factors applicable to an evaluation of the feature set and 
 * **Security** Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
 * **Functionality** Specific functionality needs depend on the business case for the software and need to be assessed on a case-by-case basis.
 * **Integration** Where a software package will interact with other pieces of software, or with particular data formats, compatibility and the ability to integrate the software and data together becomes a paramount consideration.
-developer
+
 ### Maintenance and Support
 
 #### Self-support
