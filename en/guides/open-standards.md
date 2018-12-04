@@ -1,1 +1,1 @@
-# Guidance on open standards
+# Guides for open standards
