@@ -1,5 +1,7 @@
 # Guides for Publishing Open Source Code
 
+> Note: Source code should be released as early as possible in the project's lifecycle to avoid the overhead downstream.
+
 ## Approvals
 
 Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
@@ -24,21 +26,20 @@ Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Mi
 ### Licencing
 
 The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
-However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent (the ADM ??).
+However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent, currently assumed to be the ADM.
 
 #### Choosing an open source software licence
 
-When the project is part of a larger Open Source ecosystem, use the license which is usually used in this ecosystem.
-Outbound rights/clauses must not exceed inbound rights/clauses.
-Otherwise choose a license which matches the goal of the project and its interactions with other projects.
-Choosing an appropriate licence tends to revolve around the decision of whether to apply a permissive or reciprocal licence.
+* When the project is part of a larger Open Source ecosystem, use the license which is usually used in this ecosystem.
+* Make sure that the outbound rights associated with the licence selected do not exceed inbound rights of any software components used in the source code; e.g.: it would not be possible to release a project under an MIT licence (permissive) if software components used within it were originally released under GPL3 (reciprocal).
+* If multiple licences can be applied, choose a licence which matches the goal of the project and its interactions with other projects: this tends to revolve around the decision of whether to apply a permissive or reciprocal licence and the degree to which .
 
 ##### Permissive licences
 
 Why choose a permissive licence?
 
-* Maximize the scope of downstream users and broad appeal to the entire private sector
-  * In essence, this means greater flexibility for end users and developers to reuse the software as they see fit, including as part of commercial software.
+* Maximizes the scope of downstream users and has a broad appeal to the entire private sector.
+  * In essence, this means greater flexibility for end users, developers and companies to reuse the software as they see fit, including as part of commercial software.
 
 Recommended permissive licences for Government of Canada open source code are:
 
@@ -49,8 +50,10 @@ If your project would like to use another permissive licence, please contact the
 
 ##### Reciprocal licences
 
+Why choose a reciprocal licence?
+
 * Appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains free and open source software.
-* Can also put a focus on benefiting other private-sector businesses that provide services and support.
+* It can also put a focus on benefiting other private-sector businesses that provide services and support.
 
 Recommended reciprocal licences for Government of Canada open source code are:
 
@@ -78,8 +81,11 @@ The Government of Canada also has an internal source code repository available t
 Before publishing your source code, it must include:
 
 * a LICENCE (see Licencing above) file containint a copy of the licence under under which the source code is released;
-* a README.md file providing information about the project, how to use it and general documentation about the project;
-* and a CONTRIBUTING.md file explaining how to contribute to the project.
+* a README.md file providing information about the project, how to use it and general documentation about the project.
+
+It should also include:
+
+* a CONTRIBUTING.md file explaining how to contribute to the project.
 
 You can find examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
 
