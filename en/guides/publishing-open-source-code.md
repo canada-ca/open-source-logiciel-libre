@@ -3,25 +3,28 @@
 ## Approvals
 
 Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
-Currently this is assumed to be the Assistant Deputy Minister (ADM), or any other person named by the ADM, and the Information Management Senior Official (IMSO) of departments and agencies (see [Copyright Law, Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7)).
+Currently this is assumed to be the Assistant Deputy Minister (ADM), or any other person named by the ADM, (because of the assignment of rights by an open source software licence) and the Information Management Senior Official (IMSO) of departments and agencies (like open information).
 
 ## Intellectual Property
 
 ### Copyright
 
-The [Copyright Act](http://laws-lois.justice.gc.ca/eng/acts/C-42/index.html) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty (Section 12).  This applies to source code.
+The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.  This applies to source code.
 
-However, Government of Canada employees have moral rights in the works they create, unless they choose to waive these rights (Section 14.1).
+However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
 
-Use your full name and Government of Canada email address for contributions.
+#### Identify yourself as an employee of the Government of Canada
+
+Use your full name and Government of Canada email address for your code contributions.
 
 #### Appropriate Government of Canada Copyright Identification
 
-© Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
 
 ### Licencing
 
-The owner of the copyright in any work may assign the right and may grant any interest in the right by licence, but no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent (Section 13).
+The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
+However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent (the ADM ??).
 
 #### Choosing an open source software licence
 
@@ -37,12 +40,12 @@ Why choose a permissive licence?
 * Maximize the scope of downstream users and broad appeal to the entire private sector
   * In essence, this means greater flexibility for end users and developers to reuse the software as they see fit, including as part of commercial software.
 
-Recommended permissive licences (1) for Government of Canada open source code are:
+Recommended permissive licences for Government of Canada open source code are:
 
 * [MIT](https://opensource.org/licenses/MIT)
 * [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
-(1) If your project requires another permissive licence, please contact the Open Source Advisory Board.
+If your project would like to use another permissive licence, please contact the Open Source Advisory Board.
 
 ##### Reciprocal licences
 
@@ -55,14 +58,20 @@ Recommended reciprocal licences for Government of Canada open source code are:
 * [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 * [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
-## Public source code repositories
+If your project would like to use another reciprocal licence, please contact the Open Source Advisory Board.
 
-Recommended source code repositories for Government of Canada open source code are:
+## Source code repositories
+
+Recommended public source code repositories for Government of Canada open source code are:
 
 * [GitLab](https://gitlab.com/)
 * [GitHub](https://github.com/)
 * [framagit](https://framagit.org/)
 * [Bitbucket](https://bitbucket.org/)
+
+The Government of Canada also has an internal source code repository available to all departments and agencies.
+
+* [GCcode](#link)
 
 ## Mandatory files
 
@@ -79,7 +88,7 @@ You can find examples of these files in the [Template repository](https://github
 Government of Canada projects dont use contributor agreements, but rely on the open source software licenses providing the necessary terms.
 This means that contributions are made under the same license under which the project is released.
 
-## Respect
+## Codes of Conduct
 
 Although technical in nature, the open source software community is first and foremost about people. Treat other people with respect. Be kind, be open, respect the culture of the community you are interacting with and be aware of the diversity of people in that community. Be aware that, particularly in electronic communication, you might misunderstand or misinterpret what others are saying or meaning. The reverse is also true.
 
