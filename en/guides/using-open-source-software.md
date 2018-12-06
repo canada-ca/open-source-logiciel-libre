@@ -1,22 +1,20 @@
 # Guides for Using Open Source Software
 
-* [Without modification](without-modification)
+* [Without modification](#without-modification)
+  * [Combination of components and development](#combination-of-components-and-development)
 * [With modification](#with-modification)
-
-Proposed structure in table:
-
-* Without modification
-  * Standalone Software
-  * Combination of components configured and integrated only (no custom code)
-  * Custom development with dependencies such as libraries and frameworks
-    * Automatically need to consider rules/guides on publishing
-* With modification
-  * Automatically need to consider rules/guides on publishing
 
 ## Without modification
 
-This section covers the use of open source software without modifications. The software could be used for scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops and devices, essentially like "Commercial Off-The-Shelf" (COTS) software, solutions and tools.
+This section covers the use of open source software without modifications.
+The software could be used for scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops and devices, essentially like Commercial Off-The-Shelf (COTS) software, solutions and tools.
 This includes configurations and combinations of multiple open source software and it's use in development.
+
+|                                          | Standalone | Combination of components | Development |
+| ---------------------------------------- | ---------- | ------------------------- | ----------- |
+| **Examples** | Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
+
+The following applies to all types of use of open source software without modifications.
 
 ### Approvals
 
@@ -24,9 +22,8 @@ Approvals reside with each government department or agency's information managem
 
 ### Licenses
 
-All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions. Consult with your legal team if you are not sure.
-
-Use in web service may require release of source code; proper analysis of obligations are required. (e.g. AGPL-like implications)
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
+Using open source software without modifications internally (within the Governemnt of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
 
 ### Evaluation
 
@@ -45,23 +42,12 @@ The same factors applicable to an evaluation of the feature set and maturity of 
 * **Functionality** Specific functionality needs depend on the business case for the software and need to be assessed on a case-by-case basis.
 * **Integration** Where a software package will interact with other pieces of software, or with particular data formats, compatibility and the ability to integrate the software and data together becomes a paramount consideration.
 
-### Using in Development Projects
-
-Things specific to using OSS in development project. Either by having dynamicly linked dependencies or directly including code.
-
-#### Licences
-
-Be careful when combining code with different licenses. Certain licenses are incompatible when combined in the same program.
-
-note: Maintain updates and need to log all licences for notices
-
 ### Maintenance and Support
 
 #### Self-support
 
-Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-
-Community support for issues and questions.
+* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
+* Community support for issues and questions.
 
 #### Professional Support
 
@@ -71,9 +57,19 @@ Possible to enter in contract with company for professional service to provide m
 
 ### Open Resource Exchange
 
-Add open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
+Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
 Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+
+### Combination of components and development
+
+#### Licences
+
+* Be careful when combining code with different licenses (dynamicly linked dependencies or directly including code).
+* Certain licenses are incompatible when combined in the same program.
+* Maintain updates and need to log all licences for notices.
+
+See [Guides for Publishing Open Source Code](publishing-open-source-code.md) developped.
 
 ## With modification
 
@@ -81,4 +77,11 @@ This section covers the use of open source software with modification weather it
 
 ### Licences
 
-Need to use components with compatible licences
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
+Using open source software with modifications internally (within the Governemnt of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+See notes on AGPL below.
+
+#### AGPL like reciprocal implications
+
+The AGPL reciprocal licence and others like the EUPL require that source code for applications accessed through a network (like the Internet) be made available.
+See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
