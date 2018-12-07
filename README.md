@@ -71,8 +71,6 @@ Pour l'exercice d'ébauche, le format de la Directive a été utilisé pour comm
   * [Contribution aux logiciels libres](fr/guides/contribution-à-des-logiciels-libres.md)
   * [Publication de code source libre](fr/guides/publication-code-source-ouvert.md)
 
-La traduction officielle sera effectuée une fois la première version terminée.
-
 ### Traduction
 
 Durant la période d'ébauche, la traduction du contenu est faite de façon manuelle et continuelle par les contributrices et les contributeurs ainsi qu'avec l'aide des outils et services suivants:
@@ -81,7 +79,7 @@ Durant la période d'ébauche, la traduction du contenu est faite de façon manu
 * [Google Translate](https://translate.google.com/)
 * [Deepl Translator](https://www.deepl.com/translator)
 
-La traduction finale sera faite lorsqu'une première version sera complétée.
+La traduction officielle sera effectuée une fois la première version terminée.
 
 ### Références
 
