@@ -27,7 +27,7 @@ The same factors applicable to an evaluation of the feature set and maturity of 
 
 The use of open source software must be done in compliance with the terms and conditions under which it is released. Unlike closed-source software, the licences are provided publicly with a set of rights and constraints.
 
-Depending on the intended use, the licence under which an open source software may put some requirements on the user.
+Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user.
 
 Here are the most common scenarios to consider for using open source software:
 
@@ -84,7 +84,6 @@ Instructions for how to updated the data can be found on [GitHub](https://github
 
 * Be careful when combining code with different licenses (dynamicly linked dependencies or directly including code).
 * Certain licenses are incompatible when combined in the same program.
-* Certain licences require specific actions when used in different business context (e.g.: required to release as open source when used as a web service)
 * Maintain updates and need to log all licences for notices and legal audits.
 
 Your legal team should be contacted to help understand the nuances of the licences.
