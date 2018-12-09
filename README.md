@@ -45,8 +45,12 @@ Official translation will be done once a first version is completed.
   * Government Digital Services (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
 * United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
 * Linux Foundation (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
-  * TODO Group (EN): [Guides](https://todogroup.org/guides/)
+  * TODO Group (EN):
+    * [Guides](https://todogroup.org/guides/)
+    * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies#open-source-policy-examples-and-templates)
 * Google (EN): [Open Source Policy](https://opensource.google.com/docs/)
+* SUSE (EN): [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
+* Zalando (EN): [OPEN SOURCE RULES AND STRATEGY](https://github.com/zalando/zalando-howto-open-source#open-source-rules-and-strategy)
 
 ---
 
@@ -92,5 +96,9 @@ La traduction officielle sera effectuée une fois la première version terminée
   * Services numériques gouvernementaux (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
 * Gouvernement fédéral des États-Unis d'Amérique (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
 * Fondation Linux (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
-  * Groupe TODO (EN): [Guides](https://todogroup.org/guides/)
+  * Groupe TODO (EN):
+    * [Guides](https://todogroup.org/guides/)
+    * [Exemples et canevas de politique de logiciels libres](https://github.com/todogroup/policies#open-source-policy-examples-and-templates)
 * Google (EN): [Politiques de logiciels libres](https://opensource.google.com/docs/)
+* SUSE (EN): [Politique de logiciels libres SUSE](https://opensource.suse.com/suse-open-source-policy)
+* Zalando (EN): [Règles et stratégie pour les logiciels libres](https://github.com/zalando/zalando-howto-open-source#open-source-rules-and-strategy)
