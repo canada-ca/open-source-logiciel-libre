@@ -43,7 +43,9 @@ Official translation will be done once a first version is completed.
 * France (EN): [DINSIC Open-source contribution policy](https://disic.github.io/politique-de-contribution-open-source/en/)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
   * Government Digital Services (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
-* United States of America (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
+* United States of America (EN):
+  * [Federal Source Code Policy](https://sourcecode.cio.gov/)
+  * [18F](https://18f.gsa.gov/open-source-policy/)
 * Linux Foundation (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
   * TODO Group (EN):
     * [Guides](https://todogroup.org/guides/)
@@ -94,7 +96,9 @@ La traduction officielle sera effectuée une fois la première version terminée
 * France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
 * Gouvernement de la Grande-Bretagne (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
   * Services numériques gouvernementaux (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
-* Gouvernement fédéral des États-Unis d'Amérique (EN): [Federal Source Code Policy](https://sourcecode.cio.gov/)
+* Gouvernement fédéral des États-Unis d'Amérique (EN):
+  * [Federal Source Code Policy](https://sourcecode.cio.gov/)
+  * [18F](https://18f.gsa.gov/open-source-policy/)
 * Fondation Linux (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
   * Groupe TODO (EN):
     * [Guides](https://todogroup.org/guides/)
