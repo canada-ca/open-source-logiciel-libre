@@ -100,7 +100,6 @@ This includes configurations and combinations of multiple open source software a
 
 The following applies to all types of use of open source software without modifications.
 
-
 #### Licenses
 
 All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
