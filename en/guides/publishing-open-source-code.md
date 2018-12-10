@@ -92,7 +92,7 @@ Recommended public source code repositories for Government of Canada open source
 
 The Government of Canada also has an internal source code repository available to all departments and agencies.
 
-* [GCcode](#link)
+* [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to government of Canada only)
 
 ## Mandatory files
 
