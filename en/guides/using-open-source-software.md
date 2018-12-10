@@ -9,13 +9,29 @@
 
 ## Active and Fair Consideration
 
-### Enterprise Architectural Assessments
+Procedures of the [Directive on Management of Information Technology, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) will be used by Departmental Enterprise Architecture Review Boards and the Government of Canada Enterprise Architectural Review Board as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the Government of Canada digital direction.
 
-[Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) indicates the required enterprise architectural direction for evaluating technology in a project, including software.
+In Appendix C, the following provisions are identified:
+
+* C.2.3.8.1: Where possible, use open standards and open source software first
+
+This supports selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions.
+
+* C.2.3.8.2: If an open source option is not available or does not meet user needs, favour platform-agnostic COTS over proprietary COTS, avoiding technology dependency, allowing for substitutability and interoperability
+
+If an open source solution meets most of the users needs and the remaining functionalities could be developed at minimal total cost of ownership (TCO) increase, the inherent flexibility gained overal (full-lifecycle) should justify choosing the open source alternative instead of the closed-source solution.
+
+* C.2.3.9.1: Leverage and reuse existing solutions, components, and processes
+
+A lot of solutions, components and processes can be reused at minimal to no additional licence costs by leveraging open source software.
+
+### Approvals
+
+Approvals reside with each government department or agency's information management and technology group.
 
 ### Open Source Software Evaluation
 
-The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to OSS. A few additional criteria should be assessed when evaluating OSS:
+The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to OSS [link]. A few additional criteria should be assessed when evaluating OSS:
 
 #### User Community
 
@@ -39,13 +55,18 @@ Availability Support considerations include user support (i.e., the availability
 
 * Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
 * Community support for issues and questions can be used but this model of support is essentially the same as for internally developed source code.
-* [GCDevExchange](https://gcdevexchange-carrefourproggc.org/en) may be used to have some custom code written for the government of Canada as open source through a bidding process. Code developed through this platform should be published as open source. See [Publishing Open Source Code](../publishing-open-source-code.md) for more information.
 
 ##### Professional Support
 
-Choosing an open source software and using the community version, then going for tender for professional support and maintenance is an option. However, proper guidance needs to be confirmed with legal and procurement teams.
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability, just like any other software. In fact, this is already in place in the government but *clear guidance for scalable contracting needs to be worked out.*
 
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability, just like any other software. In fact, this is already in place in the government but clear guidance for scalable contracting needs to be worked out.
+Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance. *However, proper guidance needs to be confirmed with legal and procurement teams.*
+
+Custom development with traditional request for proposal contracted developers should be done in a way so that the resulting source code may be released under an open source licences.
+
+Finally, another option would be to leverage the [GCDevExchange](https://gcdevexchange-carrefourproggc.org/en) to have some custom code written for the government of Canada as open source through a bidding process. Code developed through this platform should be published as open source.
+
+Whenever custom code is involved you should follow the guide for [Publishing Open Source Code](publishing-open-source-code.md).
 
 #### Documentation
 
@@ -55,7 +76,7 @@ User documentation provides important information to help users install software
 
 Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software. **Should have a process to list all packages and maintain versions, just like any other software.**
 
-## Compliance
+## Legal Compliance
 
 The use of open source software must be done in compliance with the terms and conditions under which it is released. Unlike closed-source software, the licences are provided publicly with a set of rights and constraints.
 
@@ -79,9 +100,6 @@ This includes configurations and combinations of multiple open source software a
 
 The following applies to all types of use of open source software without modifications.
 
-#### Approvals
-
-Approvals reside with each government department or agency's information management and technology group.
 
 #### Licenses
 

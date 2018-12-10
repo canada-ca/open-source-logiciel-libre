@@ -1,5 +1,11 @@
 # Guides for Publishing Open Source Code
 
+Procedures of the [Directive on Management of Information Technology, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) will be used by Departmental Enterprise Architecture Review Boards and the Government of Canada Enterprise Architectural Review Board as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the Government of Canada digital direction.
+
+C.2.3.9.5 Share code publicly when appropriate, and when not, share within the Government of Canada
+
+If for some reason code can't be publicly released, it should be released internally to support internal collaboration across departments and agencies.
+
 ## Approvals
 
 Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
@@ -92,7 +98,13 @@ Recommended public source code repositories for Government of Canada open source
 
 The Government of Canada also has an internal source code repository available to all departments and agencies.
 
-* [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to government of Canada only)
+* [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
+
+### Organizations
+
+Departments are free to choose the platform that best suites their operational needs but their projects should all be regrouped under a unique organization.
+
+Organizations should be registered in the Open Resource Exchange.
 
 ## Mandatory files
 

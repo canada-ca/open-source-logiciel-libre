@@ -23,7 +23,6 @@ The objective of this directive is to maximize the use of open source software a
 The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following:
 
 * Requiring that open source software be actively and fairly considered for all new technologies, upgrades or migrations (including cloud solutions).
-* Selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions.
 * Ensuring that the use of open source software is compliant with its licence terms and conditions.
 * Sharing the results of the security assessment of open source software with the Government as a whole.
 
