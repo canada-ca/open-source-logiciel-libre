@@ -1,27 +1,22 @@
 # Guides for Using Open Source Software
 
 * Active and Fair Consideration
-* Compliance
+* Legal Compliance
 * Types of use
   * Without modification
     * Combination of components and development
   * With modification
 
+The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must use open standards and open source software first as well as leverage and reuse existing solutions, components, and processes accross departments and agencies.
+
 ## Active and Fair Consideration
 
-Procedures of the [Directive on Management of Information Technology, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) will be used by Departmental Enterprise Architecture Review Boards and the Government of Canada Enterprise Architectural Review Board as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the Government of Canada digital direction.
+Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality and full-lifecycle (including exit and transition costs) total cost of ownership (TCO) difference with closed-source solutions.
 
-In Appendix C, the following provisions are identified:
-
-* C.2.3.8.1: Where possible, use open standards and open source software first
-
-This supports selecting open source software on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions.
-
-* C.2.3.8.2: If an open source option is not available or does not meet user needs, favour platform-agnostic COTS over proprietary COTS, avoiding technology dependency, allowing for substitutability and interoperability
-
-If an open source solution meets most of the users needs and the remaining functionalities could be developed at minimal total cost of ownership (TCO) increase, the inherent flexibility gained overal (full-lifecycle) should justify choosing the open source alternative instead of the closed-source solution.
-
-* C.2.3.9.1: Leverage and reuse existing solutions, components, and processes
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionality, this option must be considered by looking at the TCO of the solution.
+Custom developed code must be published or shared back with existing open source software communities and will make the resulting solutions available for reuse by everyone, including departments and agencies as well as Canadian businesses and citizens.
 
 A lot of solutions, components and processes can be reused at minimal to no additional licence costs by leveraging open source software.
 
@@ -47,9 +42,12 @@ Look at when the project got started, the pace of releases and responses to requ
 
 #### Availibility of Support
 
-Use of open source software introduces a different model of obtaining software than user licences. Since a financial transaction may not have occured, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software to ensure a secure maintenance of updates and upgrades.  The two major support models for open source software are self support, where the department or agency's IT team is responsible for maintenance and upgrade or professional support.
+Use of open source software introduces a different model of obtaining software than user licences.
+Since a financial transaction may not have occured, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software to ensure a secure maintenance of updates and upgrades.
+The two major support models for open source software are self support, where the department or agency's IT team is responsible for maintenance and upgrade or professional support.
 
-Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software). Support for OSS can be provided by the community and/or paid support services businesses.
+Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
+Support for OSS can be provided by the community and/or paid support services businesses.
 
 ##### Self-support
 
@@ -58,7 +56,8 @@ Availability Support considerations include user support (i.e., the availability
 
 ##### Professional Support
 
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability, just like any other software. In fact, this is already in place in the government but *clear guidance for scalable contracting needs to be worked out.*
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability, just like any other software.
+In fact, this is already in place in the government but *clear guidance for scalable contracting needs to be worked out.*
 
 Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance. *However, proper guidance needs to be confirmed with legal and procurement teams.*
 
@@ -82,7 +81,7 @@ The use of open source software must be done in compliance with the terms and co
 
 Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user.
 
-## Types of use of open source software
+## Types of use
 
 * [Without modification](#without-modification)
   * [Combination of components and development](#combination-of-components-and-development)

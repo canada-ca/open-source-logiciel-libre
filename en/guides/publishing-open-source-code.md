@@ -1,10 +1,8 @@
 # Guides for Publishing Open Source Code
 
-Procedures of the [Directive on Management of Information Technology, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) will be used by Departmental Enterprise Architecture Review Boards and the Government of Canada Enterprise Architectural Review Board as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the Government of Canada digital direction.
+The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-C.2.3.9.5 Share code publicly when appropriate, and when not, share within the Government of Canada
-
-If for some reason code can't be publicly released, it should be released internally to support internal collaboration across departments and agencies.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate, and when not, shared within the Government of Canada.
 
 ## Approvals
 
