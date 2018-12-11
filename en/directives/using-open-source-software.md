@@ -17,16 +17,16 @@ The objective of this directive is to maximize the use of open source software a
 * Support and increase collaboration between departments, agencies and other public administrations in Canada and around the world, including society as a whole.
 * Canadians are able to reuse and contribute to open source software used by the GC to support meaningful engagement with their government and communities.
 * Improve the overall availability of re-usable technology within government and society.
+* Support Canadian economic growth by removing barriers to entry in providing technological services and solutions.
 
 ### Requirements
 
 The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following:
 
-* Requiring that open source software be actively and fairly considered for all new technologies, upgrades or migrations (including cloud solutions).
+* Requiring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
 * Ensuring that the use of open source software is compliant with its licence terms and conditions.
 * Sharing the results of the security assessment of open source software with the Government as a whole.
 
-* Factoring in exit or transition costs when calculating total cost of ownership (TCO) of solutions.
 * Ensuring that an assessment process is in place to evaluate Open Source Software security. (Duplication of existing policy? Need to confirm with Cyber)
 * Ensuring that a process is in place to update Open Source Software known security vulnerabilities. (A bit different than with a single vendor releasing patches)
 * Ensuring that the relevant employees are sufficiently trained in the assessment, design, function, use and implementation of open source software.

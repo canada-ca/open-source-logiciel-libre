@@ -13,12 +13,15 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 
 ## Active and Fair Consideration
 
-Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality and full-lifecycle (including exit and transition costs) total cost of ownership (TCO) difference with closed-source solutions.
+Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality difference with closed-source solutions.
 
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionality, this option must be considered by looking at the TCO of the solution.
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by looking at the TCO of the solution.
+
 Custom developed code must be published or shared back with existing open source software communities and will make the resulting solutions available for reuse by everyone, including departments and agencies as well as Canadian businesses and citizens.
 
-A lot of solutions, components and processes can be reused at minimal to no additional licence costs by leveraging open source software.
+A lot of solutions, components and processes can be reused at minimal to no additional licence costs by leveraging open source software by default.
+
+Cloud based software can also be open source software. E.g.: Wordpress, Loomio, etc.
 
 ### Approvals
 
@@ -37,7 +40,7 @@ Check how active the project responds to users by looking at issues and the time
 #### Developer Community
 
 A strong developer community with a history of releases and continued involvement tends to demonstrate that fixes and improvements to the software will continue into the future.
-Look at who are the core developers and who is supporting the project and community.
+Look at who are the core developers and who is supporting the project and community, such as a non-profit Foundation.
 Look at when the project got started, the pace of releases and responses to requests to merge code from contributors.
 
 #### Availibility of Support

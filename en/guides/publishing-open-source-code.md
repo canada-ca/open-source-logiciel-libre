@@ -22,6 +22,8 @@ Publishing your code and data from the beginning of your technology project or p
 * suggestions about how the code can be improved or where security can be improved
 * others to contribute ideas as the project is in progress
 
+Prior art in releasing source code, protection against patents.
+
 ## Intellectual Property
 
 ### Copyright

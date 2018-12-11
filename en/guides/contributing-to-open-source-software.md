@@ -11,3 +11,4 @@ Notes
 * Type of contribution allowed (_code_, bugs, issues, etc.)
 * Security
 * Basic commits guidelines (use your name, prof email address., message, etc.)
+* Grants and contributions: bug bounties via GCDevExchange?
