@@ -9,9 +9,9 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
 Currently this is assumed to be the Assistant Deputy Minister (ADM), or any other person named by the ADM, (because of the assignment of rights by an open source software licence) and the Information Management Senior Official (IMSO) of departments and agencies (like open information).
 
-## Release Early, Release Often
+## Release Early, Release Often, Work in the Open
 
-Source code should be released as early as possible in the project's lifecycle to avoid the overhead downstream.
+Source code should be released as early as possible in the project's lifecycle to avoid the overhead downstream and your public repo should be the single source of truth. Released version may not essentially mean it is the deployed version.
 
 Publishing your code and data from the beginning of your technology project or programme will encourage:
 
@@ -22,7 +22,7 @@ Publishing your code and data from the beginning of your technology project or p
 * suggestions about how the code can be improved or where security can be improved
 * others to contribute ideas as the project is in progress
 
-Prior art in releasing source code, protection against patents.
+Prior art in releasing source code helps protecting against patents litigation.
 
 ## Intellectual Property
 
@@ -36,6 +36,13 @@ However, Government of Canada employees have [Moral Rights](https://laws-lois.ju
 
 Use your full name and Government of Canada email address for your code contributions.
 
+#### Contractors Contributions
+
+Contracts must take in consideration IP ownership for custom developed code in line with the [ISED IP policy](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html#s5). Could use either of the options below:
+
+* **Recommended** Request code to be provided under a permissive open source licence and IP remains with contractor.
+* May also request use of TBS exceptions to acquire IP.
+
 #### Appropriate Government of Canada Copyright Identification
 
 Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
@@ -43,7 +50,8 @@ Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Mi
 ### Licencing
 
 The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
-However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent, currently assumed to be the ADM.
+However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent, currently assumed to be the ADM. Delegation should be considered to encourage the release of source code under an open source licence as easily as possible.
+
 You need to include a licence with your code before publishing it by adding a LICENCE file with your code.
 
 #### Choosing and using open source software licences
@@ -100,11 +108,19 @@ The Government of Canada also has an internal source code repository available t
 
 * [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
 
+### Two Factor Authentication (2FA)
+
+Use 2 factor authentication whenever possible to ensure
+
 ### Organizations
 
 Departments are free to choose the platform that best suites their operational needs but their projects should all be regrouped under a unique organization.
 
 Organizations should be registered in the Open Resource Exchange.
+
+### Repository vs Projects Names
+
+Projects names should be bilingual but repositories names can be unilingual or use acronyms.
 
 ## Mandatory files
 
@@ -116,16 +132,25 @@ Before publishing your source code, it must include:
 It should also include:
 
 * a CONTRIBUTING.md file explaining how to contribute to the project.
+* a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
 
-You can find examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
+You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
 
 ## Contributor License Agreement
 
 Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
-This means that contributions are made under the same license under which the project is released ... and that authors retain their copyright for their contributions.
+This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
 ## Open Resource Exchange
 
 Add a link to your source code repository on the [Open Source Code section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
 
 Instructions for how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+
+## Official languages
+
+Source code is exempt (including inline comments) of the provisions of the [Official languages Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160).
+
+Documentation (not in source code files) should however be bilingual?
+
+Depends whether an open source project is considered under Language of work (6.3) or Communications with the public (6.2)
