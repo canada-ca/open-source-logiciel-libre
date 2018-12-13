@@ -36,9 +36,14 @@ However, Government of Canada employees have [Moral Rights](https://laws-lois.ju
 
 Use your full name and Government of Canada email address for your code contributions.
 
-#### Contractors Contributions
+#### Crown Procurement Contracts
 
-Contracts must take in consideration IP ownership for custom developed code in line with the [ISED IP policy](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html#s5). Could use either of the options below:
+The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
+But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
+
+The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
+Use the clause in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
+This would allow the department or agency to release code developped as a result of a Crown procurement contract under an open source software licence.
 
 * **Recommended** Request code to be provided under a permissive open source licence and IP remains with contractor.
 * May also request use of TBS exceptions to acquire IP.
