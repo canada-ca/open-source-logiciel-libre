@@ -26,7 +26,7 @@ Be aware that open source software is not completely free, so take into account 
 
 Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality difference with closed-source solutions.
 
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost of ownership (TCO) possible solutions.
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost of migrating, including exit and transition costs.
 
 See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
@@ -128,6 +128,8 @@ The following applies to all types of use of open source software without modifi
 All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
 Using open source software without modifications internally (within the Governemnt of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
 
+**note:** notice?
+
 #### Open Resource Exchange
 
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
@@ -146,6 +148,8 @@ Your legal team should be contacted to help understand the nuances of the licenc
 
 See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
+**note:** notice?
+
 ### With modification
 
 This section covers the use of open source software with modification weather its scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops or devices.
@@ -161,6 +165,8 @@ See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
 To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modificaitons are supported by future updates.
 See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+**note:** don't just copy parts of code from OSS...
 
 #### Licences
 

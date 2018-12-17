@@ -39,7 +39,7 @@ However, Government of Canada employees have [Moral Rights](https://laws-lois.ju
 
 #### Identify yourself as an employee of the Government of Canada
 
-Use full name and Government of Canada email address for all contributions.
+Use full name and Government of Canada email address for all contributions to public communities and repositories.
 
 #### Crown Procurement Contracts
 
@@ -56,6 +56,11 @@ May also request use of TBS exceptions to acquire IP.
 #### Appropriate Government of Canada Copyright Identification
 
 Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+
+#### Contributor License Agreement
+
+Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
+This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
 ### Licencing
 
@@ -145,11 +150,6 @@ It should also include:
 * a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
 
 You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
-
-## Contributor License Agreement
-
-Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
-This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
 ## Open Resource Exchange
 
