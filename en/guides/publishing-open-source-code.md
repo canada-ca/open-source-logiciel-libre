@@ -2,6 +2,7 @@
 
 * [Approvals](#approvals)
 * [Release Early, Release Often, Work in the Open](#release-early-release-often-work-in-the-open)
+* [Working in the Open](working-in-the-open)
 * [Mandatory files](#mandatory-files)
 * [Intellectual Property](#intellectual-property)
   * [Copyright](#copyright)
@@ -41,6 +42,13 @@ Publishing your code and data from the beginning of your technology project or p
 
 **note:** Prior art in releasing source code helps protecting against patents litigation.
 The latest code version may not necessarly mean it's the version deployed in production.
+
+## Working in the Open
+
+Building a welcoming community can influence your project's future and reputation. Provide a positive experience for contributors and make it easy so they keep coming back.
+
+* README.md and CONTRIBUTING.md file
+* Respond to questions, bugs and merge requests for code.
 
 ## Mandatory Files
 
