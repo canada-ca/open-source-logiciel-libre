@@ -1,6 +1,9 @@
 # Guides for Using Open Source Software
 
 * Active and Fair Consideration
+  * Cloud
+  * Approvals
+  * Evaluation
 * Legal Compliance
 * Types of use
   * Without modification
@@ -11,23 +14,37 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must use open standards and open source software first as well as leverage and reuse existing solutions, components, and processes accross departments and agencies.
 
+Using open source software means you can benefit from:
+
+* solving common problems with readily available open source technology
+* more time and resource for customised solutions to solve the rare or unique problems
+* lower implementation and running costs
+
+Be aware that open source software is not completely free, so take into account the total cost of migrating, including exit and transition costs.
+
 ## Active and Fair Consideration
 
 Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality difference with closed-source solutions.
 
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by looking at the TCO of the solution.
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost of ownership (TCO) possible solutions.
 
-Custom developed code must be published or shared back with existing open source software communities and will make the resulting solutions available for reuse by everyone, including departments and agencies as well as Canadian businesses and citizens.
+See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
-A lot of solutions, components and processes can be reused at minimal to no additional licence costs by leveraging open source software by default.
+Using open source software provides an opertunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
 
-Cloud based software can also be open source software. E.g.: Wordpress, Loomio, etc.
+### Cloud
+
+Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subsrciption based.
+Most open source software can be deployed using platform as a service (PaaS) infrastructure as a service (IaaS).
+Open source software is often what is running at the PaaS and IaaS layers of the cloud stack.
+
+**note:** If you can find support for it or can self-support, open source software for user applications is considered SaaS.
 
 ### Approvals
 
 Approvals reside with each government department or agency's information management and technology group.
 
-### Open Source Software Evaluation
+### Evaluation
 
 The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to OSS [link]. A few additional criteria should be assessed when evaluating OSS:
 
@@ -45,22 +62,24 @@ Look at when the project got started, the pace of releases and responses to requ
 
 #### Availibility of Support
 
-Use of open source software introduces a different model of obtaining software than user licences.
-Since a financial transaction may not have occured, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software to ensure a secure maintenance of updates and upgrades.
-The two major support models for open source software are self support, where the department or agency's IT team is responsible for maintenance and upgrade or professional support.
+Use of open source software introduces a different model  based on support services rather than obtaining software licences.
 
-Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
-Support for OSS can be provided by the community and/or paid support services businesses.
+The two major support models for open source software are self support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
+
+**notes:** Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
+
+Since a financial transaction may not have occured, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
 
 ##### Self-support
 
 * Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* Community support for issues and questions can be used but this model of support is essentially the same as for internally developed source code.
+* User and developer community should be levereged for general support questions as well as reporting bugs, creating feature requests and code contricutions.
+
+See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 ##### Professional Support
 
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability, just like any other software.
-In fact, this is already in place in the government but *clear guidance for scalable contracting needs to be worked out.*
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
 
 Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance. *However, proper guidance needs to be confirmed with legal and procurement teams.*
 
@@ -76,7 +95,9 @@ User documentation provides important information to help users install software
 
 #### Security Assesments
 
-Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software. **Should have a process to list all packages and maintain versions, just like any other software.**
+Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
+
+**note:** Should have a process to list all packages and maintain versions.
 
 ## Legal Compliance
 
@@ -123,11 +144,23 @@ Instructions for how to updated the data can be found on [GitHub](https://github
 
 Your legal team should be contacted to help understand the nuances of the licences.
 
-See [Guides for Publishing Open Source Code](publishing-open-source-code.md) developped.
+See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
 ### With modification
 
 This section covers the use of open source software with modification weather its scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops or devices.
+
+#### Don't Fork Open Source Software
+
+It's simple to make a copy (fork) of open source software and start making changes to it.
+But be aware this can make future updates and security patches hard to implement as well as trigger additional licence obligations.
+The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
+
+Use open source software without modifications and customizing it with modules, plugins or extensions, then share those back to the community.
+See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
+
+To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modificaitons are supported by future updates.
+See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 #### Licences
 

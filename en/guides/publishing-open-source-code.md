@@ -4,6 +4,9 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate, and when not, shared within the Government of Canada.
 
+**note:** Custom developed code must be published or shared back with existing open source software communities.
+This will make the resulting solutions available for reuse by everyone, including departments and agencies as well as Canadian businesses and citizens.
+
 ## Approvals
 
 Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
@@ -11,7 +14,8 @@ Currently this is assumed to be the Assistant Deputy Minister (ADM), or any othe
 
 ## Release Early, Release Often, Work in the Open
 
-Source code should be released as early as possible in the project's lifecycle to avoid the overhead downstream and your public repo should be the single source of truth. Released version may not essentially mean it is the deployed version.
+Source code should be released as early as possible in the project's lifecycle to avoid the overhead of publishing source code late in the process.
+The public source code repository should be the single source of truth where developers are working.
 
 Publishing your code and data from the beginning of your technology project or programme will encourage:
 
@@ -22,19 +26,20 @@ Publishing your code and data from the beginning of your technology project or p
 * suggestions about how the code can be improved or where security can be improved
 * others to contribute ideas as the project is in progress
 
-Prior art in releasing source code helps protecting against patents litigation.
+**note:** Prior art in releasing source code helps protecting against patents litigation.
+The latest code version may not necessarly mean it's the version deployed in production.
 
 ## Intellectual Property
 
 ### Copyright
 
-The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.  This applies to source code.
+The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.  This applies to source code developed by Government of Canada employees.
 
 However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
 
 #### Identify yourself as an employee of the Government of Canada
 
-Use your full name and Government of Canada email address for your code contributions.
+Use full name and Government of Canada email address for all contributions.
 
 #### Crown Procurement Contracts
 
@@ -45,8 +50,8 @@ The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell
 Use the clause in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
 This would allow the department or agency to release code developped as a result of a Crown procurement contract under an open source software licence.
 
-* **Recommended** Request code to be provided under a permissive open source licence and IP remains with contractor.
-* May also request use of TBS exceptions to acquire IP.
+**note:** Draft clause for OSS permissive licence.
+May also request use of TBS exceptions to acquire IP.
 
 #### Appropriate Government of Canada Copyright Identification
 
@@ -113,9 +118,9 @@ The Government of Canada also has an internal source code repository available t
 
 * [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
 
-### Two Factor Authentication (2FA)
+### Two Factor Authentication
 
-Use 2 factor authentication whenever possible to ensure
+Use 2 factor authentication (2FA) to secure accounts.
 
 ### Organizations
 
@@ -132,7 +137,7 @@ Projects names should be bilingual but repositories names can be unilingual or u
 Before publishing your source code, it must include:
 
 * a LICENCE (see Licencing above) file containint a copy of the licence under under which the source code is released;
-* a README.md file providing information about the project, how to use it and general documentation about the project.
+* a README.md file providing bilingual information about the project, how to use it and general documentation.
 
 It should also include:
 
@@ -154,7 +159,7 @@ Instructions for how to update the data can be found on [GitHub](https://github.
 
 ## Official languages
 
-Source code is exempt (including inline comments) of the provisions of the [Official languages Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160).
+Source code is exempt (including inline comments) of the provisions of the [Policy on Official Languages](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160).
 
 Documentation (not in source code files) should however be bilingual?
 
