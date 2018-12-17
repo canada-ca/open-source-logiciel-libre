@@ -1,14 +1,13 @@
 # Guides for Using Open Source Software
 
-* Active and Fair Consideration
-  * Cloud
-  * Approvals
-  * Evaluation
-* Legal Compliance
-* Types of use
-  * Without modification
-    * Combination of components and development
-  * With modification
+* [Active and Fair Consideration](#active-and-fair-consideration)
+  * [Cloud](#cloud)
+  * [Approvals](#approvals)
+  * [Evaluation](#Evaluation)
+* [Types of Use](#types-of-use)
+  * [Without Modification](#without-modification)
+    * [Combination of Components and Development](#combination-of-components-and-development)
+  * [With Modification](#with-modification)
 
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
@@ -99,19 +98,15 @@ Although OSS code is auditable, this does not necessarily mean it is secure. The
 
 **note:** Should have a process to list all packages and maintain versions.
 
-## Legal Compliance
-
-The use of open source software must be done in compliance with the terms and conditions under which it is released. Unlike closed-source software, the licences are provided publicly with a set of rights and constraints.
+## Types of Use
 
 Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user.
 
-## Types of use
+* [Without Modification](#without-modification)
+  * [Combination of Components and Development](#combination-of-components-and-development)
+* [With Modification](#with-modification)
 
-* [Without modification](#without-modification)
-  * [Combination of components and development](#combination-of-components-and-development)
-* [With modification](#with-modification)
-
-### Without modification
+### Without Modification
 
 This section covers the use of open source software without modifications.
 The software could be used for scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops and devices, essentially like Commercial Off-The-Shelf (COTS) software, solutions and tools.
@@ -128,15 +123,9 @@ The following applies to all types of use of open source software without modifi
 All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
 Using open source software without modifications internally (within the Governemnt of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
 
-**note:** notice?
+**note:** notice? AGPL?
 
-#### Open Resource Exchange
-
-Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
-
-Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
-
-#### Combination of components and development
+#### Combination of Components and Development
 
 ##### Licences
 
@@ -150,7 +139,13 @@ See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
 **note:** notice?
 
-### With modification
+#### Open Resource Exchange
+
+Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
+
+Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+
+### With Modification
 
 This section covers the use of open source software with modification weather its scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops or devices.
 
