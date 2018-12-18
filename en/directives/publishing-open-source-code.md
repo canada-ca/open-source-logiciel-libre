@@ -34,7 +34,6 @@ The Assistant Deputy Minister (ADM), or any other person named by the ADM, and I
 * Code that is being tested, experimented with and is disposable.
 * Code deemed of National security value.
 * Code related to unreleased policy or law.
-* Code that is going to be used to generate revenue for authorized department.
 
 Such exceptions will require:
 
