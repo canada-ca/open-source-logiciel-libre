@@ -1,7 +1,19 @@
 {
     "version": "0.1",
     "language": "en",
-    "words": [],
+    "words": [
+      "IMSO",
+      "framagit",
+      "agpl",
+      "lgpl",
+      "gpl",
+      "ised",
+      "pspc",
+      "bitbucket",
+      "gccode",
+      "ccode",
+      "eupl"
+    ],
     "flagWords": [],
     "dictionaries": [
         "en-gb"
