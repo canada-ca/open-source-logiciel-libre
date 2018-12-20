@@ -1,23 +1,30 @@
 {
   "name": "open-source-contribution-logiciel-libre",
   "version": "0.0.1",
-  "description": "Draft requirements to contribute to open source projects - Brouillon des besoins pour contribuer à des projets de logiciels libre.",
+  "description": "Draft requirements around open source - Brouillon des besoins liés aux logiciels libre.",
   "main": "index.js",
   "scripts": {
-    "test": "markdownlint \"*.md\" \"en/*/*.md\" \"fr/*/*.md\""
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "spellcheck": "cspell en/**/*.md",
+    "test": "npm run lint && npm run spellcheck && npm run link-check"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canada-ca/open-source-contribution-logiciel-libre.git"
+    "url": "git+https://github.com/canada-ca/open-source-logiciel-libre.git"
   },
-  "author": "The Treasury Board of Canada",
+  "author": "Treasury Board of Canada",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/canada-ca/open-source-contribution-logiciel-libre/issues"
+    "url": "https://github.com/canada-ca/open-source-logiciel-libre/issues"
   },
-  "homepage": "https://github.com/canada-ca/open-source-contribution-logiciel-libre#readme",
+  "homepage": "https://github.com/canada-ca/open-source-logiciel-libre#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.8.2"
+    "chalk": "^2.4.1",
+    "cspell": "^3.1.3",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.6.2",
+    "markdownlint-cli": "^0.10.0"
   },
   "dependencies": {}
 }
