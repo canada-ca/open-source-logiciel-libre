@@ -1,5 +1,19 @@
 # Guides for Publishing Open Source Code
 
+* [Approvals](#approvals)
+* [Release Early, Release Often, Work in the Open](#release-early-release-often-work-in-the-open)
+* [Working in the Open](working-in-the-open)
+* [Mandatory files](#mandatory-files)
+* [Intellectual Property](#intellectual-property)
+  * [Copyright](#copyright)
+  * [Licencing](#licencing)
+* [Source code repositories](#source-code-repositories)
+  * [Two Factor Authentication](#two-factor-authentication)
+  * [Organizations](#organizations)
+* [Open Resource Exchange](#open-resource-exchange)
+* [Official languages](#official-languages)
+  * [Project and Repository Names](#project-and-repository-names)
+
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate, and when not, shared within the Government of Canada.
@@ -29,6 +43,27 @@ Publishing your code and data from the beginning of your technology project or p
 **note:** Prior art in releasing source code helps protecting against patents litigation.
 The latest code version may not necessarly mean it's the version deployed in production.
 
+## Working in the Open
+
+Building a welcoming community can influence your project's future and reputation. Provide a positive experience for contributors and make it easy so they keep coming back.
+
+* README.md and CONTRIBUTING.md file
+* Respond to questions, bugs and merge requests for code.
+
+## Mandatory Files
+
+Before publishing your source code, it must include:
+
+* a LICENCE (see Licencing above) file containint a copy of the licence under under which the source code is released;
+* a README.md file providing bilingual information about the project, how to use it and general documentation.
+
+It should also include:
+
+* a CONTRIBUTING.md file explaining how to contribute to the project.
+* a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
+
+You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
+
 ## Intellectual Property
 
 ### Copyright
@@ -39,7 +74,7 @@ However, Government of Canada employees have [Moral Rights](https://laws-lois.ju
 
 #### Identify yourself as an employee of the Government of Canada
 
-Use full name and Government of Canada email address for all contributions.
+Use full name and Government of Canada email address for all contributions to public communities and repositories.
 
 #### Crown Procurement Contracts
 
@@ -56,6 +91,11 @@ May also request use of TBS exceptions to acquire IP.
 #### Appropriate Government of Canada Copyright Identification
 
 Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+
+#### Contributor License Agreement
+
+Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
+This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
 ### Licencing
 
@@ -128,29 +168,6 @@ Departments are free to choose the platform that best suites their operational n
 
 Organizations should be registered in the Open Resource Exchange.
 
-### Repository vs Projects Names
-
-Projects names should be bilingual but repositories names can be unilingual or use acronyms.
-
-## Mandatory files
-
-Before publishing your source code, it must include:
-
-* a LICENCE (see Licencing above) file containint a copy of the licence under under which the source code is released;
-* a README.md file providing bilingual information about the project, how to use it and general documentation.
-
-It should also include:
-
-* a CONTRIBUTING.md file explaining how to contribute to the project.
-* a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
-
-You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
-
-## Contributor License Agreement
-
-Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
-This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
-
 ## Open Resource Exchange
 
 Add a link to your source code repository on the [Open Source Code section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
@@ -164,3 +181,7 @@ Source code is exempt (including inline comments) of the provisions of the [Poli
 Documentation (not in source code files) should however be bilingual?
 
 Depends whether an open source project is considered under Language of work (6.3) or Communications with the public (6.2)
+
+### Project and Repository Names
+
+Projects names should be bilingual but repositories names can be unilingual or use acronyms.

@@ -26,9 +26,6 @@ The Assistant Deputy Minister (ADM), or any other person named by the ADM, and I
 * Ensuring that source code is released in an accessible and reusable format via an public source code repository.
 * Establishing and maintaining comprehensive inventories of source code held by the department or agency to determine their eligibility and priority, and to plan for their effective release.
 * Ensuring that the project and its source code repository is registered to the TBS designated tool or website.
-* Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under an appropriate open source licence.
-* Ensuring that a process is in place to grant approval for the IP of code developed by the GC to be released under an TBS approved open source software licence.
-* Ensuring that code to be released is in compliance with the licences of its software components.
 
 * Ensuring that open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
 
@@ -37,7 +34,6 @@ The Assistant Deputy Minister (ADM), or any other person named by the ADM, and I
 * Code that is being tested, experimented with and is disposable.
 * Code deemed of National security value.
 * Code related to unreleased policy or law.
-* Code that is going to be used to generate revenue for authorized department.
 
 Such exceptions will require:
 
