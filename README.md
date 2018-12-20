@@ -12,11 +12,11 @@ For the purpose of the current drafts, the Directive template has been chosen to
 
 ### English Content
 
-* [Directives](en/directives)
-  * [Open Standards](en/directives/open-standards.md)
-  * [Use of Open Source Software](en/directives/using-open-source-software.md)
-  * [Contribution to Open Source Software](en/directives/contributing-to-open-source-software.md)
-  * [Publication of Open Source Code](en/directives/publishing-open-source-code.md)
+* [Directives](en/standards)
+  * [Open Standards](en/standards/open-standards.md)
+  * [Use of Open Source Software](en/standards/using-open-source-software.md)
+  * [Contribution to Open Source Software](en/standards/contributing-to-open-source-software.md)
+  * [Publication of Open Source Code](en/standards/publishing-open-source-code.md)
 * [Guides](en/guides)
   * [Open Standards](en/guides/open-standards.md)
   * [Use of Open Source Software](en/guides/using-open-source-software.md)
@@ -66,11 +66,11 @@ Pour l'exercice d'ébauche, le format de la Directive a été utilisé pour comm
 
 ### Contenu français
 
-* [Directives](fr/directives)
-  * [Normes Ouvertes](fr/directives/normes-ouvertes.md)
-  * [Utilisation de logiciels libres](fr/directives/utilisation-logiciels-libres.md)
-  * [Contribution aux logiciels libres](fr/directives/contribution-à-des-logiciels-libres.md)
-  * [Publication de code source libre](fr/directives/publication-code-source-ouvert.md)
+* [Directives](fr/normes)
+  * [Normes Ouvertes](fr/normes/normes-ouvertes.md)
+  * [Utilisation de logiciels libres](fr/normes/utilisation-logiciels-libres.md)
+  * [Contribution aux logiciels libres](fr/normes/contribution-à-des-logiciels-libres.md)
+  * [Publication de code source libre](fr/normes/publication-code-source-ouvert.md)
 * [Guides](fr/guides)
   * [Normes Ouvertes](fr/guides/normes-ouvertes.md)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
