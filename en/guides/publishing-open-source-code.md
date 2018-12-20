@@ -28,7 +28,7 @@ Currently this is assumed to be the Assistant Deputy Minister (ADM), or any othe
 
 ## Release Early, Release Often, Work in the Open
 
-Source code should be released as early as possible in the project's lifecycle to avoid the overhead of publishing source code late in the process.
+Source code should be released as early as possible in the project's life cycle to avoid the overhead of publishing source code late in the process.
 The public source code repository should be the single source of truth where developers are working.
 
 Publishing your code and data from the beginning of your technology project or programme will encourage:
@@ -41,7 +41,7 @@ Publishing your code and data from the beginning of your technology project or p
 * others to contribute ideas as the project is in progress
 
 **note:** Prior art in releasing source code helps protecting against patents litigation.
-The latest code version may not necessarly mean it's the version deployed in production.
+The latest code version may not necessarily mean it's the version deployed in production.
 
 ## Working in the Open
 
@@ -54,7 +54,7 @@ Building a welcoming community can influence your project's future and reputatio
 
 Before publishing your source code, it must include:
 
-* a LICENCE (see Licencing above) file containint a copy of the licence under under which the source code is released;
+* a LICENCE (see Licencing above) file containing a copy of the licence under under which the source code is released;
 * a README.md file providing bilingual information about the project, how to use it and general documentation.
 
 It should also include:
@@ -83,7 +83,7 @@ But when the Crown's intended use of the IP can be met through licence arrangeme
 
 The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
 Use the clause in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
-This would allow the department or agency to release code developped as a result of a Crown procurement contract under an open source software licence.
+This would allow the department or agency to release code developed as a result of a Crown procurement contract under an open source software licence.
 
 **note:** Draft clause for OSS permissive licence.
 May also request use of TBS exceptions to acquire IP.
@@ -94,7 +94,7 @@ Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Mi
 
 #### Contributor License Agreement
 
-Government of Canada projects dont use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
+Government of Canada projects don't use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
 This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
 ### Licencing
