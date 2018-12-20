@@ -1,3 +1,5 @@
 {
-  "ignorePatterns": []
+  "ignorePatterns": [
+    "mailto:guillaume.charest@tbs-sct.gc.ca,sebastien.lemay@tbs-sct.gc.ca&subject=OSS%20Directive%20LL"
+  ]
 }
