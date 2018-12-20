@@ -2,7 +2,7 @@
 
 ([Français](#logiciels-libres))
 
-## Open Source Software
+# Open Source Software
 
 Government of Canada **draft** requirements for open source use, contribution and creation and open standards.
 

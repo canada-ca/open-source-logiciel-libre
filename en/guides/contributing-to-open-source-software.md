@@ -4,7 +4,7 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate. This includes contributing code to existing open source software projects.
 
-**Note:** More than code (Bug reports, feature requests, direction, security assesments, ..)
+**Note:** More than code (Bug reports, feature requests, direction, security assessments, ..)
 
 * Authorization (to spend time - manager)
 * Licence delegation authority (IP+licence)

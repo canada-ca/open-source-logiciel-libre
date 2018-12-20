@@ -1,16 +1,16 @@
-[Table des matières](../../README.md#contenu-français)
+# Directive sur l'utilisation de logiciels libres (Ébauche)
 
-## Directive sur l'utilisation de logiciels libres (Ébauche)
+[Retour à la Table des matières](../../README.md#contenu-français)
 
-### Pouvoirs
+## Pouvoirs
 
 La présente Directive est émise sous l'article 7 de la [Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/f-11/) et en vertu des sections 3 et 6.4.9 de la [Politique sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12755).
 
-### Objectifs et résultats escomptés
+## Objectifs et résultats escomptés
 
 L'objectif de cette directive est de maximiser l'utilisation des logiciels lires comme composantes clés de l'écosystem technologique afin d'améliorer l'interopérabilité entre les systèmes, rechercher l'indépendance face aux logiciels, technologies et vendeurs ainsi qu'à la substitutabilité des solutions et fournisseurs de services.
 
-#### Les résultats escomptés de la présente Directive sont les suivants
+### Les résultats escomptés de la présente Directive sont les suivants
 
 * Permettre une plus grande flexibilité dans la gestion des technologies de l'information et des communications (TIC).
 * Augmenter l'utilisation de logiciels libres par les départements et agences.
@@ -18,7 +18,7 @@ L'objectif de cette directive est de maximiser l'utilisation des logiciels lires
 * Les Canadiens et les Canadiennes peuvent ré-utiliser et contribuer aux logiciels libres utilisés par le GC pour soutenir l'engagement constructif avec leur gouvernement et communautées.
 * Améliorer la disponibilité globale des technologies réutilisables au sein du gouvernement et de la société.
 
-### Exigences
+## Exigences
 
 Le dirigeant principal de l'information (DPI) des ministères et organismes, ou tout autre personne désignée par le DPI, a les responsabilités suivantes:
 

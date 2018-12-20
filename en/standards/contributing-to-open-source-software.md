@@ -1,6 +1,6 @@
-[Table of Contents](../../README.md#english-content)
+# Directive on contributing to open source software (Draft)
 
-## Directive on contributing to open source software (Draft)
+[Back to Table of Contents](../../README.md#english-content)
 
 ### Authorities
 
@@ -8,17 +8,17 @@ This directive is issued under the authority of section 7 of the [Financial Admi
 
 This Directive supports the [Policy on Information Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12742) and the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108).
 
-### Objectives and expected results
+## Objectives and expected results
 
 The objective of this directive is to support and maximize contributions to the development of open source software used by the Government of Canada or where there is benefit to Canadians.
 
-#### The expected results of this directive are as follows
+### The expected results of this directive are as follows
 
 * Increase contributions of departments and agencies to open source software projects.
 * Support and increase collaboration between departments, agencies and other public administrations in Canada and around the world, including society as a whole.
 * Improve the overall availability and quality of re-usable technology within government and society.
 
-### Requirements
+## Requirements
 
 The Assistant Deputy Minister (ADM) of departments and agencies, or any other person named by the ADM, is responsible for the following:
 
