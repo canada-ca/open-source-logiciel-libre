@@ -23,6 +23,6 @@ The Chief Information Officer (CIO) of departments and agencies is responsible f
 
 * Ensuring use of open standards designated by the Treasury Board of Canada Secretariat (TBS).
 * Maximizing the use of open standards by the Government of Canada.
-* Proposing new open standards for use in the GC and endorsment by TBS.
+* Proposing new open standards for use in the GC and endorsement by TBS.
 
 * Ensuring that open standards requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
