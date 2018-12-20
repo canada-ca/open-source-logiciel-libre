@@ -11,7 +11,7 @@
 
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must use open standards and open source software first as well as leverage and reuse existing solutions, components, and processes accross departments and agencies.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must use open standards and open source software first as well as leverage and reuse existing solutions, components, and processes across departments and agencies.
 
 Using open source software means you can benefit from:
 
@@ -23,17 +23,17 @@ Be aware that open source software is not completely free, so take into account 
 
 ## Active and Fair Consideration
 
-Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionnality difference with closed-source solutions.
+Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionality difference with closed-source solutions.
 
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost of migrating, including exit and transition costs.
 
 See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
-Using open source software provides an opertunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
+Using open source software provides an opportunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
 
 ### Cloud
 
-Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subsrciption based.
+Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
 Most open source software can be deployed using platform as a service (PaaS) infrastructure as a service (IaaS).
 Open source software is often what is running at the PaaS and IaaS layers of the cloud stack.
 
@@ -59,7 +59,7 @@ A strong developer community with a history of releases and continued involvemen
 Look at who are the core developers and who is supporting the project and community, such as a non-profit Foundation.
 Look at when the project got started, the pace of releases and responses to requests to merge code from contributors.
 
-#### Availibility of Support
+#### Availability of Support
 
 Use of open source software introduces a different model  based on support services rather than obtaining software licences.
 
@@ -67,12 +67,12 @@ The two major support models for open source software are self support, where th
 
 **notes:** Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
 
-Since a financial transaction may not have occured, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
+Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
 
 ##### Self-support
 
 * Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* User and developer community should be levereged for general support questions as well as reporting bugs, creating feature requests and code contricutions.
+* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
 
 See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
@@ -92,7 +92,7 @@ Whenever custom code is involved you should follow the guide for [Publishing Ope
 
 User documentation provides important information to help users install software and use its features. Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.
 
-#### Security Assesments
+#### Security Assessments
 
 Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
 
@@ -121,7 +121,7 @@ The following applies to all types of use of open source software without modifi
 #### Licenses
 
 All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
-Using open source software without modifications internally (within the Governemnt of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
+Using open source software without modifications internally (within the Government of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
 
 **note:** notice? AGPL?
 
@@ -129,7 +129,7 @@ Using open source software without modifications internally (within the Governem
 
 ##### Licences
 
-* Be careful when combining code with different licenses (dynamicly linked dependencies or directly including code).
+* Be careful when combining code with different licenses (dynamically linked dependencies or directly including code).
 * Certain licenses are incompatible when combined in the same program.
 * Maintain updates and need to log all licences for notices and legal audits.
 
@@ -158,7 +158,7 @@ The development team that made the changes will be responsible for maintaining t
 Use open source software without modifications and customizing it with modules, plugins or extensions, then share those back to the community.
 See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
-To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modificaitons are supported by future updates.
+To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
 See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 **note:** don't just copy parts of code from OSS...
@@ -167,7 +167,7 @@ See [Guides for Contributing to Open Source Software](contributing-to-open-sourc
 
 All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
 
-Using open source software with modifications internally (within the Governemnt of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+Using open source software with modifications internally (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
 See notes on AGPL below.
 
 ##### AGPL like reciprocal implications
