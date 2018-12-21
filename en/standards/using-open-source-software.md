@@ -21,29 +21,27 @@ The objective of this directive is to maximize the use of open source software a
 
 ## Requirements
 
-Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for:
+**Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
 
-* Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
-  * Appendix A: Active and Fair Consideration (TCO, etc)
-* Ensuring that the use of open source software is compliant with its licence terms and conditions.
-  * Appendix B: Compliance
-* Ensuring that solutions are properly supported
-  * Appendix C: Support Models
-* Ensuring that software is properly obtained
-  * Appendix D: Procurement
-    * Software obtained under OSI Licences is approved
+Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions. See Appendix A.
 
-The senior departmental official, designated by the deputy head, is responsible for:
+Ensuring that the use of open source software is compliant with its licence terms and conditions. See Appendix B.
 
-* Overseeing the implementation of this standard in their department and carrying out the activities referred to in Monitoring and Reporting Requirements.
-* Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+**notes:** Ensuring that solutions are properly supported - Appendix C: Support Models. Ensuring that software is properly obtained - Appendix D: Procurement
 
-The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following:
+**The senior departmental official, designated by the deputy head, is responsible for**
 
-* Ensuring that the open source software requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
-* Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+Overseeing the implementation of this standard in their department and carrying out the activities referred to in Monitoring and Reporting Requirements.
 
-Centres of Expertise are responsible for:
+Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+
+**The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following**
+
+Ensuring that the open source software requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
+
+Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+
+**Centres of Expertise are responsible for**
 
 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
 
@@ -63,3 +61,43 @@ The Treasury Board of Canada Secretariat will monitor compliance with this stand
 * examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and work performed in collaboration with departments; and
 
 The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).
+
+## Appendix A - Active and Fair Consideration
+
+Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionality or cost difference with closed-source solutions.
+
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost ownership (TCO), including exit and transition costs.
+
+### Cloud
+
+Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
+Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
+
+This must be considered same as SaaS, since responsibility for hosting, setup, configuration, maintenance and support can be done internally or by service provider.
+
+## Appendix B - Legal Compliance
+
+Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user of the code.
+
+* [Without Modification](#without-modification)
+  * [Combination of Components and Development](#combination-of-components-and-development)
+* [With Modification](#with-modification)
+
+### Without Modification
+
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used without modifications as long as its use is compliant with its terms and conditions.
+Using open source software without modifications for internal (within the Government of Canada) and for public facing applications does not require that code be shared back.
+
+**note:** notices for use?
+
+### With Modification
+
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used with modifications as long as its use is compliant with its terms and conditions.
+
+Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+
+#### Strong reciprocal implications
+
+The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
+
+**note:** see publishing

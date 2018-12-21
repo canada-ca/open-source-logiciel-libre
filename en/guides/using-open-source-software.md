@@ -23,21 +23,9 @@ Be aware that open source software is not completely free, so take into account 
 
 ## Active and Fair Consideration
 
-Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionality difference with closed-source solutions.
-
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must be considered by comparing the total cost of migrating, including exit and transition costs.
-
 See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
 
 Using open source software provides an opportunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
-
-### Cloud
-
-Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-Most open source software can be deployed using platform as a service (PaaS) infrastructure as a service (IaaS).
-Open source software is often what is running at the PaaS and IaaS layers of the cloud stack.
-
-**note:** If you can find support for it or can self-support, open source software for user applications is considered SaaS.
 
 ### Approvals
 
@@ -118,16 +106,7 @@ This includes configurations and combinations of multiple open source software a
 
 The following applies to all types of use of open source software without modifications.
 
-#### Licenses
-
-All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
-Using open source software without modifications internally (within the Government of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
-
-**note:** notice? AGPL?
-
 #### Combination of Components and Development
-
-##### Licences
 
 * Be careful when combining code with different licenses (dynamically linked dependencies or directly including code).
 * Certain licenses are incompatible when combined in the same program.
@@ -162,16 +141,3 @@ To make changes in open source software, engage with the community and submit yo
 See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 **note:** don't just copy parts of code from OSS...
-
-#### Licences
-
-All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
-
-Using open source software with modifications internally (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
-See notes on AGPL below.
-
-##### AGPL like reciprocal implications
-
-The AGPL reciprocal licence and others like the EUPL require that source code for applications accessed through a network (like the Internet) be made available.
-
-See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
