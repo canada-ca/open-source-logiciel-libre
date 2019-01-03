@@ -57,25 +57,6 @@ The two major support models for open source software are self support, where th
 
 Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
 
-##### Self-support
-
-* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
-
-See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-##### Professional Support
-
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
-
-Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance. *However, proper guidance needs to be confirmed with legal and procurement teams.*
-
-Custom development with traditional request for proposal contracted developers should be done in a way so that the resulting source code may be released under an open source licences.
-
-Finally, another option would be to leverage the [GCDevExchange](https://gcdevexchange-carrefourproggc.org/en) to have some custom code written for the government of Canada as open source through a bidding process. Code developed through this platform should be published as open source.
-
-Whenever custom code is involved you should follow the guide for [Publishing Open Source Code](publishing-open-source-code.md).
-
 #### Documentation
 
 User documentation provides important information to help users install software and use its features. Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.

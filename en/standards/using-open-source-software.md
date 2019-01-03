@@ -70,10 +70,12 @@ If an open source software based solution meets most of the users needs but requ
 
 ### Cloud
 
-Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
+Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based, which in some instances may create dependence and lock-in when you can't easily migrate your solution to another service provider.
 
-This must be considered same as SaaS, since responsibility for hosting, setup, configuration, maintenance and support can be done internally or by service provider.
+Open source software can also be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
+This must be considered same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider.
+
+This latter option provides additional flexibility in the selection of the service provider at inception of the solution and also guarantees that the solution developed can live beyond the initial service provider, in line with the Digital Standards.
 
 ## Appendix B - Legal Compliance
 
@@ -101,3 +103,40 @@ Using open source software, even with modifications for internal (within the Gov
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 
 **note:** see publishing
+
+## Appendix C - Support Models
+
+### Internal
+
+Using a self-support model requires that the responsible teams:
+
+* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
+* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
+
+See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+### Professional Services
+
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
+
+Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance. *However, proper guidance needs to be confirmed with legal and procurement teams.*
+
+If custom development with traditional request for proposal contracted developers is required, you should follow the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+
+Finally, another option would be to leverage the [GCDevExchange](https://gcdevexchange-carrefourproggc.org/en) to have some custom code written for the government of Canada as open source through a bidding process. Code developed through this platform should be published as open source.
+
+## Appendix D - Procurement
+
+### Open Source First
+
+Community editions of open source software support the Digital Standards and are thus recommended first.
+
+In order to have professional support, the procurement should be around the  services around the solution rather than the product itself.
+
+### Open Core
+
+A solution that is built with open source software but that you can't access all of its source code is not deemed open source for the purpose of this Standard.
+
+### Custom Code
+
+See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
