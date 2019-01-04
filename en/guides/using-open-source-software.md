@@ -19,17 +19,11 @@ Using open source software means you can benefit from:
 * more time and resource for customised solutions to solve the rare or unique problems
 * lower implementation and running costs
 
+Using open source software provides an opportunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
+
 Be aware that open source software is not completely free, so take into account the total cost of migrating, including exit and transition costs.
 
 ## Active and Fair Consideration
-
-See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
-
-Using open source software provides an opportunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
-
-### Approvals
-
-Approvals reside with each government department or agency's information management and technology group.
 
 ### Evaluation
 
@@ -67,9 +61,7 @@ Although OSS code is auditable, this does not necessarily mean it is secure. The
 
 **note:** Should have a process to list all packages and maintain versions.
 
-## Types of Use
-
-Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user.
+## Legal Compliance
 
 * [Without Modification](#without-modification)
   * [Combination of Components and Development](#combination-of-components-and-development)
@@ -85,20 +77,6 @@ This includes configurations and combinations of multiple open source software a
 | ---------------------------------------- | ---------- | ------------------------- | ----------- |
 | **Examples** | Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
 
-The following applies to all types of use of open source software without modifications.
-
-#### Combination of Components and Development
-
-* Be careful when combining code with different licenses (dynamically linked dependencies or directly including code).
-* Certain licenses are incompatible when combined in the same program.
-* Maintain updates and need to log all licences for notices and legal audits.
-
-Your legal team should be contacted to help understand the nuances of the licences.
-
-See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
-
-**note:** notice?
-
 #### Open Resource Exchange
 
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
@@ -108,17 +86,3 @@ Instructions for how to updated the data can be found on [GitHub](https://github
 ### With Modification
 
 This section covers the use of open source software with modification weather its scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops or devices.
-
-#### Don't Fork Open Source Software
-
-It's simple to make a copy (fork) of open source software and start making changes to it.
-But be aware this can make future updates and security patches hard to implement as well as trigger additional licence obligations.
-The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
-
-Use open source software without modifications and customizing it with modules, plugins or extensions, then share those back to the community.
-See [Guides for Publishing Open Source Code](publishing-open-source-code.md).
-
-To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
-See [Guides for Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-**note:** don't just copy parts of code from OSS...
