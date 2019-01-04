@@ -51,6 +51,23 @@ The two major support models for open source software are self support, where th
 
 Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
 
+### Internal
+
+Using a self-support model requires that the responsible teams:
+
+* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
+* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
+
+See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+### Professional Services
+
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
+
+Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
+
+When custom development is requiring the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+
 #### Documentation
 
 User documentation provides important information to help users install software and use its features. Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.

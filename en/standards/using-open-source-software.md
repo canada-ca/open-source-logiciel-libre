@@ -21,11 +21,6 @@
   * With Modification
     * Strong reciprocal implications
 
-* Appendix C - Support Models
-  * Internal
-  * Community
-  * Professional Services
-
 ## Authorities
 
 This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
@@ -50,11 +45,8 @@ The objective of this directive is to maximize the use of open source software a
 Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
 See Appendix A.
 
-Ensuring that the use of open source software is compliant with its licence terms and conditions.
+Ensuring that the use of open source software is compliant with its licence's terms and conditions.
 See Appendix B.
-
-Ensuring that open source software used are properly supported.
-See Appendix C.
 
 **The senior departmental official, designated by the deputy head, is responsible for**
 
@@ -93,15 +85,15 @@ The Treasury Board of Canada Secretariat will review this standard and its effec
 
 ### Open Source Software First
 
-Open source software must be selected on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.
+Open source software must be selected first on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.
 
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
 All source code developed must be published or contributed back to the open source software community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md)
 
 Solutions considered as open source software must have:
-- A public repository for the source code;
-- Have an OSI approved licence assigned to the project.
+- A public repository for the source code of the software;
+- An OSI approved licence assigned to the software.
 
 #### Open Core
 
@@ -158,31 +150,9 @@ It's easy to make a copy (fork) all or part of open source software and start ma
 If you decide to create a fork, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
 The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
 
-Use open source software without modifications and customize it with modules, plugins or extensions, then share those back to the community.
+Use open source software without modifications where possible.
+Instead, customize it with modules, plugins or extensions and then share those back to the community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
 To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
 See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-## Appendix C - Support Models
-
-### Internal
-
-Using a self-support model requires that the responsible teams:
-
-* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
-
-See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-### Community
-
-**note:** Another option would be to leverage the [GCDevExchange](https://gcdevexchange-carrefourproggc.org/en) to have some custom code written for the government of Canada as open source through a bidding process. Code developed through this platform should be published as open source.
-
-### Professional Services
-
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
-
-Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
-
-If custom development with traditional request for proposal contracted developers is required, see [Standard for Publishing Open Source Code](publishing-open-source-code.md).
