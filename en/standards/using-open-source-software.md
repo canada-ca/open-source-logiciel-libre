@@ -6,9 +6,6 @@
 * Objectives and expected results
   * The expected results of this directive are as follows
 * Requirements
-* Monitoring and Reporting Requirements
-  * Senior departmental official
-  * Government-wide
 
 * Appendix A - Active and Fair Consideration
   * Open Source Software First
@@ -23,7 +20,7 @@
 
 ## Authorities
 
-This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755).
+This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
 
 ## Objectives and expected results
 
@@ -65,21 +62,6 @@ Encouraging personnel to collaborate departmentally and interdepartmentally, to 
 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
 
 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.
-
-## Monitoring and Reporting Requirements
-
-### Senior departmental official
-
-The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.
-
-### Government-wide
-
-The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:
-
-* assessments under the Management Accountability Framework;
-* examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and work performed in collaboration with departments; and
-
-The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).
 
 ## Appendix A - Active and Fair Consideration
 
