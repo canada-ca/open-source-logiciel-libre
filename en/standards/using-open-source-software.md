@@ -20,7 +20,7 @@
 
 ## Authorities
 
-This directive is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
+This Standard is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
 
 ## Objectives and expected results
 
@@ -74,8 +74,9 @@ All source code developed must be published or contributed back to the open sour
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md)
 
 Solutions considered as open source software must have:
-- A public repository for the source code of the software;
-- An OSI approved licence assigned to the software.
+
+* A public repository for the source code of the software;
+* An OSI approved licence assigned to the software.
 
 #### Open Core
 
@@ -133,7 +134,7 @@ If you decide to create a fork, be aware it can make future updates and security
 The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
 
 Use open source software without modifications where possible.
-Instead, customize it with modules, plugins or extensions and then share those back to the community.
+Instead, customize it with modules, plugins or extensions and then contribute those back to the community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
 To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
