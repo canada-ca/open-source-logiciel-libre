@@ -152,4 +152,4 @@ It should also include:
 * a CONTRIBUTING.md file explaining how to contribute to the project.
 * a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
 
-You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
+You can find some examples of these files in the [Template repository](https://github.com/canada-ca/template-gabarit).
