@@ -1,4 +1,4 @@
-# Directive on contributing to open source software (Draft)
+# Standard on contributing to open source software (Draft)
 
 [Back to Table of Contents](../../README.md#english-content)
 

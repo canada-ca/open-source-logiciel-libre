@@ -4,6 +4,8 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate. This includes contributing code to existing open source software projects.
 
+To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
+
 **Note:** More than code (Bug reports, feature requests, direction, security assessments, ..)
 
 * Authorization (to spend time - manager)

@@ -1,4 +1,4 @@
-# Directive on open standards (Draft)
+# Standard on open standards (Draft)
 
 [Back to Table of Contents](../../README.md#english-content)
 
