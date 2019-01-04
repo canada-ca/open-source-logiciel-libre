@@ -92,11 +92,14 @@ If an open source software based solution meets most of the users needs but requ
 All source code developed must be published or contributed back to the open source software community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md)
 
+Solutions considered as open source software must have:
+- A public repository for the source code;
+- Have an OSI approved licence assigned to the project.
+
 #### Open Core
 
-A solution that is built with open source software but that requires the use of closed-source components should be considered open source software for the purpose of this Standard.
-The open core development model, is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
-
+A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this Standard.
+The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
 The free open source software versions are often referred to as "community" editions are recommended first.
 In order to have professional support, the procurement should be around the  services around the solution rather than the product itself.
 
