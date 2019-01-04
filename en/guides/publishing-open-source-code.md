@@ -1,11 +1,9 @@
 # Guides for Publishing Open Source Code
 
-* [Approvals](#approvals)
 * [Release Early, Release Often, Work in the Open](#release-early-release-often-work-in-the-open)
 * [Working in the Open](working-in-the-open)
 * [Mandatory files](#mandatory-files)
 * [Intellectual Property](#intellectual-property)
-  * [Copyright](#copyright)
   * [Licencing](#licencing)
 * [Source code repositories](#source-code-repositories)
   * [Two Factor Authentication](#two-factor-authentication)
@@ -20,11 +18,6 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 
 **note:** Custom developed code must be published or shared back with existing open source software communities.
 This will make the resulting solutions available for reuse by everyone, including departments and agencies as well as Canadian businesses and citizens.
-
-## Approvals
-
-Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
-Currently this is assumed to be the Assistant Deputy Minister (ADM), or any other person named by the ADM, (because of the assignment of rights by an open source software licence) and the Information Management Senior Official (IMSO) of departments and agencies (like open information).
 
 ## Release Early, Release Often, Work in the Open
 
@@ -45,64 +38,15 @@ The latest code version may not necessarily mean it's the version deployed in pr
 
 ## Working in the Open
 
-Building a welcoming community can influence your project's future and reputation. Provide a positive experience for contributors and make it easy so they keep coming back.
+Building a welcoming community can influence your project's future and reputation.
+Provide a positive experience for contributors and make it easy so they keep coming back.
 
 * README.md and CONTRIBUTING.md file
 * Respond to questions, bugs and merge requests for code.
 
-## Mandatory Files
-
-Before publishing your source code, it must include:
-
-* a LICENCE (see Licencing above) file containing a copy of the licence under under which the source code is released;
-* a README.md file providing bilingual information about the project, how to use it and general documentation.
-
-It should also include:
-
-* a CONTRIBUTING.md file explaining how to contribute to the project.
-* a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
-
-You can find some examples of these files in the [Template repository](https://github.com/gctools-outilsgc/template-gabarit).
-
 ## Intellectual Property
 
-### Copyright
-
-The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.  This applies to source code developed by Government of Canada employees.
-
-However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
-
-#### Identify yourself as an employee of the Government of Canada
-
-Use full name and Government of Canada email address for all contributions to public communities and repositories.
-
-#### Crown Procurement Contracts
-
-The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
-But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
-
-The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
-Use the clause in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
-This would allow the department or agency to release code developed as a result of a Crown procurement contract under an open source software licence.
-
-**note:** Draft clause for OSS permissive licence.
-May also request use of TBS exceptions to acquire IP.
-
-#### Appropriate Government of Canada Copyright Identification
-
-Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
-
-#### Contributor License Agreement
-
-Government of Canada projects don't use contributor license agreements, but rely on the open source software licenses providing the necessary terms.
-This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
-
 ### Licencing
-
-The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
-However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent, currently assumed to be the ADM. Delegation should be considered to encourage the release of source code under an open source licence as easily as possible.
-
-You need to include a licence with your code before publishing it by adding a LICENCE file with your code.
 
 #### Choosing and using open source software licences
 
@@ -147,26 +91,12 @@ The differences amongst the GPL suite illustrate how the type of distribution an
 
 ## Source code repositories
 
-Recommended public source code repositories for Government of Canada open source code are:
+### Security Considerations
 
-* [GitLab](https://gitlab.com/)
-* [GitHub](https://github.com/)
-* [framagit](https://framagit.org/)
-* [Bitbucket](https://bitbucket.org/)
+* Use 2 factor authentication (2FA) to secure accounts.
+* Signed and hashed commits
 
-The Government of Canada also has an internal source code repository available to all departments and agencies.
-
-* [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
-
-### Two Factor Authentication
-
-Use 2 factor authentication (2FA) to secure accounts.
-
-### Organizations
-
-Departments are free to choose the platform that best suites their operational needs but their projects should all be regrouped under a unique organization.
-
-Organizations should be registered in the Open Resource Exchange.
+**notes** need to work with Cyber
 
 ## Open Resource Exchange
 
