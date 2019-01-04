@@ -9,17 +9,21 @@
 * Monitoring and Reporting Requirements
   * Senior departmental official
   * Government-wide
+
 * Appendix A - Active and Fair Consideration
   * Open Source Software First
     * Open Core
   * Approvals
   * Cloud
+
 * Appendix B - Legal Compliance
   * Without Modification
   * With Modification
     * Strong reciprocal implications
+
 * Appendix C - Support Models
   * Internal
+  * Community
   * Professional Services
 
 ## Authorities
@@ -43,11 +47,14 @@ The objective of this directive is to maximize the use of open source software a
 
 **Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
 
-Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions. See Appendix A.
+Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
+See Appendix A.
 
-Ensuring that the use of open source software is compliant with its licence terms and conditions. See Appendix B.
+Ensuring that the use of open source software is compliant with its licence terms and conditions.
+See Appendix B.
 
-**notes:** Ensuring that solutions are properly supported - Appendix C: Support Models. Ensuring that software is properly obtained - Appendix D: Procurement
+Ensuring that open source software used are properly supported.
+See Appendix C.
 
 **The senior departmental official, designated by the deputy head, is responsible for**
 
@@ -100,8 +107,7 @@ Solutions considered as open source software must have:
 
 A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this Standard.
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
-The free open source software versions are often referred to as "community" editions are recommended first.
-In order to have professional support, the procurement should be around the  services around the solution rather than the product itself.
+The free open source software versions often referred to as "community" editions are recommended first.
 
 ### Approvals
 
