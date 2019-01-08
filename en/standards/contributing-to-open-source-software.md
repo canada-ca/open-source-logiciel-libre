@@ -43,16 +43,6 @@ Serving as the primary point of contact between Treasury Board of Canada Secreta
 
 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.
 
-## Appendix A - Don't Fork Open Source Software
+## Appendix A -
 
-Where possible, use open source software without modification.
-See [Standard for Using Open Source Software](using-open-source-software.md).
-
-Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
-See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
-
-It's easy to copy (fork) open source software and start making changes to the source code.
-If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
-The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
-
-To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
+..
