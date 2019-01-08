@@ -8,9 +8,9 @@
 * Requirements
 
 * Appendix A - Active and Fair Consideration
+  * Approvals
   * Open Source Software First
     * Open Core
-  * Approvals
   * Cloud
 
 * Appendix B - Legal Compliance
@@ -65,18 +65,17 @@ Participating in the interdepartmental Centres of Expertise forum, chaired by th
 
 ## Appendix A - Active and Fair Consideration
 
+### Approvals
+
+Approvals reside with each government department or agency's information management and technology group.
+
 ### Open Source Software First
 
 Open source software must be selected first on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.
 
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
 All source code developed must be published or contributed back to the open source software community.
-See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md)
-
-Solutions considered as open source software must have:
-
-* A public repository for the source code of the software;
-* An OSI approved licence assigned to the software.
+See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 #### Open Core
 
@@ -84,43 +83,37 @@ A solution that is built with open source software but that requires the use of 
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
 The free open source software versions often referred to as "community" editions are recommended first.
 
-### Approvals
-
-Approvals reside with each government department or agency's information management and technology group.
-
 ### Cloud
 
 Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-In some instances this may create dependence and lock-in when you can't easily migrate your solution to another service provider.
+This may create lock-in if you can't easily migrate the software and support other service providers.
 
-Open source software can also be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
+Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
 This must be considered same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally.
-
-This latter option provides additional flexibility in the selection of cloud provider (public or private) and the support service provider.
-This guarantees that the solution developed can live beyond the initial service provider, in line with the Digital Standards.
+This provides additional flexibility in the selection of cloud provider (public or private) and the support service provider.
 
 ## Appendix B - Legal Compliance
+
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
 
 Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user of the code.
 
 * [Without Modification](#without-modification)
-  * [Combination of Components and Development](#combination-of-components-and-development)
 * [With Modification](#with-modification)
 
 ### Without Modification
 
-All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used without modifications as long as its use is compliant with its terms and conditions.
-Using open source software without modifications for internal (within the Government of Canada) and for public facing applications does not require that code be shared back.
-This is also true for combination of open source software to build a client facing application or open source software used for development (ex.: database, programming language, ..).
+Using open source software without modification for internal (within the Government of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
+
+This is also true for combination of open source software to build a solution or open source software used for development and production (ex.: container, database, programming language, ..).
 If you are writing source code, see [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
 **note:** notices for use?
 
 ### With Modification
 
-All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used with modifications as long as its use is compliant with its terms and conditions.
-
 Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+See exception below.
 
 #### Strong reciprocal implications
 
@@ -133,8 +126,8 @@ It's easy to make a copy (fork) all or part of open source software and start ma
 If you decide to create a fork, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
 The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
 
-Use open source software without modifications where possible.
-Instead, customize it with modules, plugins or extensions and then contribute those back to the community.
+where possible. use open source software without modification.
+Instead, use configuration and customize it with modules, plugins or extensions and make those available to the community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
 To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
