@@ -86,7 +86,7 @@ The free open source software versions often referred to as "community" editions
 ### Cloud
 
 Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-This may create lock-in if you can't easily migrate the software and support other service providers.
+This may create lock-in if the software and support can't easily be migrated to other service providers.
 
 Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
 This must be considered same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally.
@@ -106,7 +106,7 @@ Depending on the intended use, the licence under which an open source software w
 Using open source software without modification for internal (within the Government of Canada) and for public facing applications is not considered distribution and does not require that code be shared back.
 
 This is also true for combination of open source software to build a solution or open source software used for development and production (ex.: container, database, programming language, ..).
-If you are writing source code, see [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+When writing source code, see [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
 **note:** notices for use?
 
@@ -123,12 +123,12 @@ See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 #### Don't Fork Open Source Software
 
 It's easy to make a copy (fork) all or part of open source software and start making changes to it.
-If you decide to create a fork, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
+If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
 The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
 
 where possible. use open source software without modification.
 Instead, use configuration and customize it with modules, plugins or extensions and make those available to the community.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
-To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
+To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).

@@ -2,6 +2,26 @@
 
 [Back to Table of Contents](../../README.md#english-content)
 
+* Authorities
+* Objectives and expected results
+  * The expected results of this directive are as follows
+* Requirements
+  * Exceptions to publications
+
+* Appendix A - Intellectual Property
+  * Approvals
+  * Copyright
+    * Identify as an employee of the Government of Canada
+    * Crown Procurement Contracts
+  * Appropriate Government of Canada Copyright Identification
+  * Contributor License Agreement
+  * Licencing
+    * Licences
+
+* Appendix B - Source Code Repository
+  * Organizations
+  * Mandatory Files
+
 ## Authorities
 
 This Standard is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
@@ -22,9 +42,11 @@ The objective of this directive is to maximize the release of source code, wheth
 
 **Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
 
-Ensuring that the Government of Canada source code whether developed in-house by departments and agencies or through negotiated contracts is released under an open source software licence. See Appendix A.
+Ensuring that Government of Canada source code, whether developed in-house by departments and agencies or through negotiated contracts, is released under an appropriate open source software licence.
+See Appendix A.
 
-Ensuring that the Government of Canada source code is released in an open and accessible version control system via a public source code repository. See Appendix B.
+Ensuring that the Government of Canada source code is released using an open and accessible version control system via a public source code repository.
+See Appendix B.
 
 **The senior departmental official, designated by the deputy head, is responsible for**
 
@@ -59,21 +81,22 @@ Such exceptions will require:
 
 ### Approvals
 
-Similar to open data or information covered by the Open Government Directive, the release of open source code under open source software (OSS) licences, requires appropriate department or agency approvals.
-Currently this is assumed to be the Assistant Deputy Minister (ADM), or any other person named by the ADM, (because of the assignment of rights by an open source software licence) and the Information Management Senior Official (IMSO) of departments and agencies (like open information).
-Delegation should be considered to encourage the release of source code under an open source licence as easily as possible.
+Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the release of open source code under open source software licences, requires appropriate department or agency approvals.
+Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code. 
+Delegation to the Information Management Senior Official (IMSO) of departments and agencies (like open information) should be considered.
 
 **notes** needs to be confirmed + delegation of authority
 
 ### Copyright
 
-The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.  This applies to source code developed by Government of Canada employees.
+The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.
+This applies to source code developed by Government of Canada employees.
 
 However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
 
-#### Identify yourself as an employee of the Government of Canada
+#### Identify as an employee of the Government of Canada
 
-Use your full name and Government of Canada email address for all code contributions to public repositories while performing your public servant duties.
+Employees must use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment.
 
 #### Crown Procurement Contracts
 
@@ -93,7 +116,7 @@ Use the following structure when applying the Government of Canada Copyright not
 
 > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
 
-While replacing the **legal departmental name** and **year of publication** by the appropriate information of your project.
+Replace the **legal departmental name** and **year of publication** by the appropriate information.
 
 #### Contributor License Agreement
 
@@ -107,19 +130,22 @@ This means that contributions are made under the same license under which the pr
 The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
 However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent.
 
-You need to include a licence with your code before publishing it by adding a LICENCE file with your code.
+Open source code must include a licence before publishing to a public source code repository.
 
 #### Licences
 
-Recommended licences are:
+Include a licence by adding a LICENSE file as part of open source code.
 
-* MIT
-* Apache 2.0
-* GPL 3.0
-* LGPL 3.0
-* AGPL 3.0
+Recommended permissive licences are:
 
-For more details on when to use a specific licence, see the Guide on Publishing Open Source Code
+* MIT for small, simple projects and scripts;
+* Apache 2.0 for larger software project.
+
+Recommended reciprocal licences are:
+
+* GPL 3.0 for software
+* LGPL 3.0 for libraries
+* AGPL 3.0 for web applications and services
 
 ## Appendix B - Source Code Repository
 
@@ -136,13 +162,11 @@ The Government of Canada also has an internal source code repository available t
 
 ### Organizations
 
-Departments are free to choose the platform that best suites their operational needs but their projects should all be regrouped under a unique organization when the platform supports it.
-
-Organizations should be registered in the Open Resource Exchange.
+Departments and agencies are free to choose the platform that best suites their operational needs but their projects should, where possible, all be regrouped under a unique organization or group.
 
 ### Mandatory Files
 
-Before publishing your source code, it must include:
+Before publishing open source code, it must include:
 
 * a LICENCE (see Licencing above) file containing a copy of the licence under under which the source code is released;
 * a README.md file providing bilingual information about the project, how to use it and general documentation.
@@ -152,4 +176,4 @@ It should also include:
 * a CONTRIBUTING.md file explaining how to contribute to the project.
 * a SECURITY.md file explaining security policy as well as security vulnerabilities reporting procedures.
 
-You can find some examples of these files in the [Template repository](https://github.com/canada-ca/template-gabarit).
+Examples of these files are available in the [Template repository](https://github.com/canada-ca/template-gabarit).

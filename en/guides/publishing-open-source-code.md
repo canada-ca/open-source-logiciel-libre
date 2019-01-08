@@ -69,7 +69,7 @@ Recommended permissive licences for Government of Canada open source code are:
 
 |                                          | MIT | Apache 2.0 |
 | ---------------------------------------- | --- | ---------- |
-| **When to use** | Small, simple projects and scripts. | For larger software project use Apache 2.0 because it provides a grant of patents. |
+| **When to use** | Small, simple projects and scripts. | Larger software project use Apache 2.0 because it provides a grant of patents. |
 | **How to apply to your code** |  |  |
 | **Licence text** | https://opensource.org/licenses/MIT | http://www.apache.org/licenses/LICENSE-2.0.txt |
 
@@ -79,7 +79,8 @@ Recommended reciprocal licences for Government of Canada open source code are:
 
 |                                          | GPL 3.0 | LGPL 3.0 | AGPL 3.0 |
 | ---------------------------------------- | ------- | -------- | -------- |
-| **When to use** |  |  |
+| **When to use** | Software | Libraries | Web applications and services |
+| **How to apply to your code** |  |  |  |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
 
 The differences amongst the GPL suite illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
