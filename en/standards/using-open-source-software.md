@@ -112,6 +112,9 @@ When writing source code, see [Standard for Publishing Open Source Code](publish
 
 ### With Modification
 
+Where possible, use open source software without modification or contribute changes to open source software community.
+See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
 Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
 See exception below.
 
@@ -119,16 +122,3 @@ See exception below.
 
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
-
-#### Don't Fork Open Source Software
-
-It's easy to make a copy (fork) all or part of open source software and start making changes to it.
-If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
-The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the original (upstream) version.
-
-where possible. use open source software without modification.
-Instead, use configuration and customize it with modules, plugins or extensions and make those available to the community.
-See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
-
-To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
-See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).

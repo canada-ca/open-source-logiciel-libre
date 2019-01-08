@@ -20,13 +20,39 @@ The objective of this directive is to support and maximize contributions to the 
 
 ## Requirements
 
-The Assistant Deputy Minister (ADM) of departments and agencies, or any other person named by the ADM, is responsible for the following:
+**Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
 
-* Maximizing contributions to the development of open source software used by departments and agencies or where there is benefit to Canadians.
-* Ensuring that open source software used is registered to the Treasury Board of Canada Secretariat (TBS) designated tool or website.
-* Ensuring that the necessary rights to the intellectual property (IP) of custom source code developed on behalf of the GC are obtained to support its release under an appropriate open source software licence.
-* Ensuring that a process is in place for the IP of the code created by GC employees to be released under the project specific or compatible open source software licence.
+Ensuring that Government of Canada contributes to the development of open source software used by departments and agencies or where there is benefit to Canadians.
+See Appendix A.
 
-* Ensuring that a process is in place to inform project maintainers when security vulnerabilities are found.
+**The senior departmental official, designated by the deputy head, is responsible for**
 
-* Ensuring that the open source code requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
+Overseeing the implementation of this standard in their department and carrying out the activities referred to in Monitoring and Reporting Requirements.
+
+Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+
+**The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following**
+
+Ensuring that the open source software requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
+
+Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
+
+**Centres of Expertise are responsible for**
+
+Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
+
+Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.
+
+## See Appendix A - Don't Fork Open Source Software
+
+Where possible, use open source software without modification.
+See [Standard for Using Open Source Software](using-open-source-software.md).
+
+Instead, use configuration and customize it with modules, plugins or extensions and make those available to the community.
+See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+
+To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
+
+It's easy to copy (fork) open source software and start making changes to the source code.
+If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
+The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
