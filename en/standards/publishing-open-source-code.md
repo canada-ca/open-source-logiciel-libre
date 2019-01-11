@@ -1,10 +1,10 @@
-# Directive on publishing open source code (Draft)
+# Standard on publishing open source code (Draft)
 
 [Back to Table of Contents](../../README.md#english-content)
 
 * Authorities
 * Objectives and expected results
-  * The expected results of this directive are as follows
+  * The expected results of this Standard are as follows
 * Requirements
   * Exceptions to publications
 
