@@ -108,17 +108,24 @@ Using open source software without modification for internal (within the Governm
 This is also true for combination of open source software to build a solution or open source software used for development and production (ex.: container, database, programming language, ..).
 When writing source code, see [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
-**note:** notices for use?
-
 ### With Modification
 
-Where possible, use open source software without modification or contribute changes to open source software community.
+Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+See Strong Reciprocal Implications.
+
+#### Don't Fork Open Source Software
+
+Where possible, use open source software without modification. Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
+See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+
+It's easy to copy (fork) open source software and start making changes to the source code.
+If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
+The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
+
+To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
-Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
-See exception below.
-
-#### Strong reciprocal implications
+#### Strong Reciprocal Implications
 
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 See [Standard for Publishing Open Source Code](publishing-open-source-code.md).
