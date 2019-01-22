@@ -4,15 +4,17 @@
 
 # Open Source Software
 
-Government of Canada **draft** requirements for open source use, contribution and creation and open standards.
+Government of Canada **draft** requirements and guidance for open source use, contribution and creation and open standards.
 
-The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery. As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences. It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
+The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery.
+As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences.
+It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
 
-For the purpose of the current drafts, the Directive template has been chosen to start the discussion. The final format may vary.
+For the purpose of the current drafts, the Standard template has been chosen to start the discussion. The final format may vary.
 
 ### English Content
 
-* [Directives](en/standards)
+* [Requirements](en/standards)
   * [Open Standards](en/standards/open-standards.md)
   * [Use of Open Source Software](en/standards/using-open-source-software.md)
   * [Contribution to Open Source Software](en/standards/contributing-to-open-source-software.md)
@@ -58,15 +60,15 @@ Official translation will be done once a first version is completed.
 
 ## Logiciels libres
 
-**Ébauche** des exigences liés à l'utilisation, à la contribution et la création des logiciels libres et des normes ouvertes au Gouvernement du Canada.
+**Ébauche** des exigences et guides liés à l'utilisation, à la contribution et la création des logiciels libres et des normes ouvertes au Gouvernement du Canada.
 
 Le gouvernement du Canada utilise les logiciels libres dans le cadre de son écosystème technologique depuis des années et compte de plus en plus sur eux pour assurer le succès de ses services. Dans le cadre de son engagement à devenir un gouvernement numérique, elle doit également contribuer à des projets externes et publier son propre code source sous licence Open Source. Elle s'engage à le faire d'une manière compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.
 
-Pour l'exercice d'ébauche, le format de la Directive a été utilisé pour commencer la discussion. Le format final pourrait changer.
+Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commencer la discussion. Le format final pourrait changer.
 
 ### Contenu français
 
-* [Directives](fr/normes)
+* [Exigences](fr/normes)
   * [Normes Ouvertes](fr/normes/normes-ouvertes.md)
   * [Utilisation de logiciels libres](fr/normes/utilisation-logiciels-libres.md)
   * [Contribution aux logiciels libres](fr/normes/contribution-à-des-logiciels-libres.md)
