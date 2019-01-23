@@ -22,7 +22,6 @@ The objective of this directive is to maximize the use of open standards to impr
 **Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
 
 Ensuring use of open standards designated by the Treasury Board of Canada Secretariat (TBS).
-See Appendix A.
 
 **The senior departmental official, designated by the deputy head, is responsible for**
 
@@ -41,7 +40,3 @@ Encouraging personnel to collaborate departmentally and interdepartmentally, to 
 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
 
 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.
-
-## Appendix A - Open Standards for Government of Canada
-
-https://canada-ca.github.io/ore-ero/open-standards.html

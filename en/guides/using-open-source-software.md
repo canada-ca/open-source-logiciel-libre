@@ -1,8 +1,10 @@
-# Guides for Using Open Source Software
+# Guide for Using Open Source Software (Draft)
 
 * [Active and Fair Consideration](#active-and-fair-consideration)
-  * [Cloud](#cloud)
   * [Approvals](#approvals)
+  * [Open Source Software First](#open-source-software-first)
+  * [Open Core](#open-core)
+  * [Cloud](#cloud)
   * [Evaluation](#Evaluation)
 * [Types of Use](#types-of-use)
   * [Without Modification](#without-modification)
@@ -24,6 +26,33 @@ Using open source software provides an opportunity to share and reuse existing s
 Be aware that open source software is not completely free, so take into account the total cost of migrating, including exit and transition costs.
 
 ## Active and Fair Consideration
+
+### Approvals
+
+Approvals reside with each government department or agency's information management and technology group.
+
+### Open Source Software First
+
+Open source software must be selected first on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.
+
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
+All source code developed must be published or contributed back to the open source software community.
+See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+#### Open Core
+
+A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this Standard.
+The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
+The free open source software versions often referred to as "community" editions are recommended first.
+
+### Cloud
+
+Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
+This may create lock-in if the software and support can't easily be migrated to other service providers.
+
+Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
+This must be considered same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally.
+This provides additional flexibility in the selection of cloud provider (public or private) and the support service provider.
 
 ### Evaluation
 
@@ -80,6 +109,10 @@ Although OSS code is auditable, this does not necessarily mean it is secure. The
 
 ## Legal Compliance
 
+All open source software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) can be used as long as its use is compliant with its terms and conditions.
+
+Depending on the intended use, the licence under which an open source software was released may put some specific requirements on the user of the code.
+
 * [Without Modification](#without-modification)
   * [Combination of Components and Development](#combination-of-components-and-development)
 * [With Modification](#with-modification)
@@ -87,19 +120,38 @@ Although OSS code is auditable, this does not necessarily mean it is secure. The
 ### Without Modification
 
 This section covers the use of open source software without modifications.
-The software could be used for scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops and devices, essentially like Commercial Off-The-Shelf (COTS) software, solutions and tools.
-This includes configurations and combinations of multiple open source software and it's use in development.
+Using open source software without modification does not require that code be shared back.
+This is also true for combination of open source software to build a solution or open source software used for development and production (ex.: container, database, programming language, ..).
+When writing source code, see [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
 |                                          | Standalone | Combination of components | Development |
 | ---------------------------------------- | ---------- | ------------------------- | ----------- |
 | **Examples** | Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
 
-#### Open Resource Exchange
+### With Modification
+
+Using open source software, even with modifications for internal (within the Government of Canada) and for public facing applications is not generally considered distribution and does not require that code be shared back.
+See [Strong Reciprocal Implications](#strong-reciprocal-implications).
+
+#### Don't Fork Open Source Software
+
+Where possible, use open source software without modification. Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
+See [Guide for Publishing Open Source Code](publishing-open-source-code.md).
+
+It's easy to copy (fork) open source software and start making changes to the source code.
+If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
+The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
+
+To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
+See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+#### Strong Reciprocal Implications
+
+The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
+See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and [Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+## Open Resource Exchange
 
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
 Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
-
-### With Modification
-
-This section covers the use of open source software with modification weather its scripts, libraries, plugins, platforms, applications, services, databases and operating systems for servers, desktops or devices.
