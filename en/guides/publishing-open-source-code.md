@@ -50,14 +50,19 @@ Include a licence by adding a `LICENSE` file as part of source code.
 
 Recommended permissive licences are:
 
-* MIT for small, simple projects and scripts;
-* Apache 2.0 for larger software project.
+|                                          | MIT | Apache 2.0 |
+| ---------------------------------------- | --- | ---------- |
+| **When to use** | Small, simple projects and scripts. | Larger software project use Apache 2.0 because it provides a grant of patents. |
+| **How to apply to your code** |  |  |
+| **Licence text** | https://opensource.org/licenses/MIT | http://www.apache.org/licenses/LICENSE-2.0.txt |
 
 Recommended reciprocal licences are:
 
-* GPL 3.0 for software
-* LGPL 3.0 for libraries
-* AGPL 3.0 for web applications and services
+|                                          | GPL 3.0 | LGPL 3.0 | AGPL 3.0 |
+| ---------------------------------------- | ------- | -------- | -------- |
+| **When to use** | Software | Libraries | Web applications and services |
+| **How to apply to your code** |  |  |  |
+| **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
 
 Make sure that the outbound rights associated with the licence selected do not exceed inbound rights of any software components used in the source code; e.g.: it would not be possible to release a project under an MIT licence (permissive) if software components used within it were originally released under GPL3 (reciprocal).
 
@@ -72,27 +77,7 @@ The following chart details other key differences in this decision:
 | **Licence complexity** | Often short, simple and understandable (for example, MIT). | Relatively long and complex legal jargon (for example AGPL 3.0). |
 | **Interoperability** | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
 
-### Permissive licences
-
-Recommended permissive licences for Government of Canada open source code are:
-
-|                                          | MIT | Apache 2.0 |
-| ---------------------------------------- | --- | ---------- |
-| **When to use** | Small, simple projects and scripts. | Larger software project use Apache 2.0 because it provides a grant of patents. |
-| **How to apply to your code** |  |  |
-| **Licence text** | https://opensource.org/licenses/MIT | http://www.apache.org/licenses/LICENSE-2.0.txt |
-
-### Reciprocal licences
-
-Recommended reciprocal licences for Government of Canada open source code are:
-
-|                                          | GPL 3.0 | LGPL 3.0 | AGPL 3.0 |
-| ---------------------------------------- | ------- | -------- | -------- |
-| **When to use** | Software | Libraries | Web applications and services |
-| **How to apply to your code** |  |  |  |
-| **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
-
-The differences amongst the GPL suite illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
+The differences amongst the GPL suite of reciprocal licences illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
 
 |            | **Derivative work of the original** | **Derivative work, but only links to original** | **Collection, including the unchanged original** |
 | ---------- | ---------- | ---------- | ---------- |
@@ -175,7 +160,7 @@ Employees must use their full name and Government of Canada email address for al
 Building a welcoming community can influence your project's future and reputation.
 Provide a positive experience for contributors and make it easy so they keep coming back.
 
-* README.md and CONTRIBUTING.md file
+* `README.md` and `CONTRIBUTING.md` file
 * Respond to questions, bugs and merge requests
 
 #### Contributor License Agreement
