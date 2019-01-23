@@ -51,7 +51,7 @@ Some open source software is available directly as software as a service (SaaS) 
 This may create lock-in if the software and support can't easily be migrated to other service providers.
 
 Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
-This must be considered same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally.
+This is not considered the same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally but it is still a valid service model to be leveraged.
 This provides additional flexibility in the selection of cloud provider (public or private) and the support service provider.
 
 ### Evaluation
