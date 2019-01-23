@@ -26,26 +26,6 @@ The objective of this directive is to maximize the use of open source software a
 
 ## Requirements
 
-**Managers, functional specialists, and equivalents responsible for enterprise architecure and software procurement and development are responsible for**
-
 Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
 
 Ensuring that the use of open source software is compliant with its licence's terms and conditions.
-
-**The senior departmental official, designated by the deputy head, is responsible for**
-
-Overseeing the implementation of this standard in their department and carrying out the activities referred to in Monitoring and Reporting Requirements.
-
-Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
-
-**The Chief Information Officer (CIO) of departments and agencies, or any other person named by the CIO, is responsible for the following**
-
-Ensuring that the open source software requirements of this directive are integrated in any new plans for procuring, developing, or modernizing departmental information applications, systems, or solutions in support of the delivery of programs and services.
-
-Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to prioritize reusable components and tools.
-
-**Centres of Expertise are responsible for**
-
-Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
-
-Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.
