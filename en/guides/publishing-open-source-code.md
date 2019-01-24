@@ -20,16 +20,17 @@ The steps to publish GC source code are:
 
 ### Team
 
-**note:** Do you want to work in the open..?
+The updates to the Directive on Management of IT clearly states that working in the open is the way forward. 
+Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
 
 ### Department
 
 Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the publication of source code under an open source software licence, requires appropriate department or agency approvals.
 Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code.
 
-**note:** Delegation to the Information Management Senior Official (IMSO) of departments and agencies (like open information) should be considered.
+>**Note:** Delegation to the Information Management Senior Official (IMSO) of departments and agencies (like open information) should be considered.
 
-## Ask for Open Source Code in Crown Procurement Contracts
+## Obtain Rights to Custom Code in Contracts 
 
 The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
@@ -37,6 +38,16 @@ But when the Crown's intended use of the IP can be met through licence arrangeme
 The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
 Use the clause in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
 This would allow the department or agency to release code developed as a result of a Crown procurement contract under an open source software licence.
+
+### GC OSS project
+
+When a GC OSS project requires professional services to develop custom code, the rights to publish the source code under the project's licence must be obtained in the contract.
+
+**Note**: Paid to work on the GC project; paid to provide source code that will be published as part of the project. 
+
+### Custom project for the GC from Third party
+
+If this is a new project, the contracting body could release as open source or provide the rights to publish as OSS.
 
 **note:** Draft clause for OSS permissive licence.
 May also request use of TBS exceptions to acquire IP.

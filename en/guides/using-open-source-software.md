@@ -28,6 +28,7 @@ Using open source software provides an opportunity to share and reuse existing s
 The steps for GC to use open source software are:
 
 1. [Actively and Fairly Consider Open Source Software](#actively-and-fairly-consider-open-source-software)
+1. [Evaluate Support Options](#evaluate-support-options)
 1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
 1. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
 1. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
@@ -38,19 +39,17 @@ The steps for GC to use open source software are:
 Be aware that open source software is not completely free, so take into account the total cost of migrating, including exit and transition costs.
 
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
-All source code developed must be published or contributed back to the open source software community.
-See [Standard for Publishing Open Source Code](publishing-open-source-code.md) and [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
-### Beware Open Core
+### Be Aware of Open Core
 
-A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this Standard.
+A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this guide.
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
 The "free" open source software versions often referred to as "community" editions are recommended first.
 
 ### Cloud
 
-Some open source software is available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-This may create lock-in if the vendor uses an open core model so that software and support can't easily be migrated to other service providers.
+Some open source software are available directly as software as a service (SaaS) on the cloud either for free or subscription based.
+This may create lock-in if the vendor uses an open core model where the software and support can't easily be migrated to other service providers.
 
 Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
 This is not considered the same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally but it is still a valid service model to be leveraged.
@@ -72,33 +71,6 @@ A strong developer community with a history of releases and continued involvemen
 Look at who are the core developers and who is supporting the project and community, such as a non-profit Foundation.
 Look at when the project got started, the pace of releases and responses to requests to merge code from contributors.
 
-#### Availability of Support
-
-Use of open source software introduces a different model  based on support services rather than obtaining software licences.
-
-The two major support models for open source software are self support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
-
-**notes:** Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
-
-Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
-
-##### Internal
-
-Using a self-support model requires that the responsible teams:
-
-* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
-
-See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-##### Professional Services
-
-It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
-
-Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
-
-When custom development is requiring the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
-
 #### Documentation
 
 User documentation provides important information to help users install software and use its features. Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.
@@ -109,6 +81,33 @@ Although OSS code is auditable, this does not necessarily mean it is secure. The
 
 **note:** Should have a process to list all packages and maintain versions.
 
+## Evaluate Support Options
+
+Use of open source software introduces a different model  based on support services rather than obtaining software licences.
+
+The two major support models for open source software are self support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
+
+**notes:** Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
+
+Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
+
+### Internal
+
+Using a self-support model requires that the responsible teams:
+
+* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
+* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
+
+See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+### Professional Services
+
+It is possible to enter in contract with a company for professional services to provide maintenance, updates, warranty and liability for open source software.
+
+Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
+
+When custom development is requiring the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+
 ## Verify Open Source Software Licence
 
 All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html) is considered open source software and can be used by GC.
@@ -117,15 +116,18 @@ All software licensed under an [Open Source Initiative approved license](https:/
 
 **Using open source software without modification does not require that code be shared back.**
 
-This is also true for combinations of open source software to build a solution or open source software used for development and production.
+Configuration of software, even through configuration files, are not considered modifications to the source code and are thus exempt in our current interpretation.
 
-|                                          | Standalone | Combination of components | Development |
-| ---------------------------------------- | ---------- | ------------------------- | ----------- |
-| **Examples** | Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
+This is also true for combinations of open source software to build a solution or open source software used for development and production.
+See examples below:
+
+| Standalone | Combination of components | Development |
+| ---------- | ------------------------- | ----------- |
+| Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
 
 For development or when writing source code, see [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
-### Use open source software With Modifications
+## Use Open Source Software With Modifications
 
 Using open source software with modifications is not generally considered distribution and does not require that code be shared back.
 Modifications made to open source software should be shared back with the community, to help ensure sustainability of solution.
@@ -133,7 +135,7 @@ See [Guide for Contributing to Open Source Software](contributing-to-open-source
 
 For cases where sharing modifications would be mandatory, see [Strong Reciprocal Implications](#strong-reciprocal-implications).
 
-#### Don't Fork Open Source Software
+### Don't Fork Open Source Software
 
 Where possible, use open source software without modification. Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code](publishing-open-source-code.md).
@@ -145,7 +147,7 @@ The development team that made the changes will be responsible for maintaining t
 To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
-#### Strong Reciprocal Implications
+### Strong Reciprocal Implications
 
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and [Contributing to Open Source Software](contributing-to-open-source-software.md).

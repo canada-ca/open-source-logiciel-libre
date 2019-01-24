@@ -11,7 +11,7 @@ The steps to GC employees contributing to open source software communities are:
 
 
 1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
-1. [Verify Contributing Process and Policies]
+1. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
 1. [Seek Approvals](#seek-approvals)
 1. [Contribute](#contribute)
 1. [Other Notes](#other-notes)
@@ -35,7 +35,7 @@ GC Employees must get their manager's approval to spend time contributing to ope
 Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the publication of source code under an open source software licence, requires appropriate department or agency approvals.
 Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code.
 
-## Contribute
+## Contribute to the project
 
 ### Identify as an employee of the Government of Canada
 
@@ -46,6 +46,10 @@ Employees must use their full name and Government of Canada email address for al
 To make changes in open source software, engage with the community and submit your changes upstream to ensure that your modifications are supported by future updates.
 
 **note:** More than code (Bug reports, feature requests, direction, security assessments, ..)
+
+## Contribute through professional services
+
+If professional services are used to contribute to third party projects, see [Guide for publishing Open Source Code](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
 
 ## Other Notes
 
