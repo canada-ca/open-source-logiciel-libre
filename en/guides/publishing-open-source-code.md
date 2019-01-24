@@ -14,7 +14,7 @@ The steps to publish GC source code are:
 1. [Select Source Code Repository](#select-source-code-repository)
 1. [Add Mandatory Files](#add-mandatory-files)
 1. [Work in the Open](#work-in-the-Open)
-1. [Other notes](#other-notes)
+1. [Other Notes](#other-notes)
 
 ## Seek Approvals
 
@@ -24,8 +24,8 @@ The steps to publish GC source code are:
 
 ### Department
 
-Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the release of source code under an open source software licence, requires appropriate department or agency approvals.
-Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code. 
+Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the publication of source code under an open source software licence, requires appropriate department or agency approvals.
+Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code.
 
 **note:** Delegation to the Information Management Senior Official (IMSO) of departments and agencies (like open information) should be considered.
 
