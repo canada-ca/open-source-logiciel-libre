@@ -1,27 +1,8 @@
 # Guide for Using Open Source Software (Draft)
 
-* [Active and Fair Consideration](#active-and-fair-consideration)
-  * [Approvals](#approvals)
-  * [Open Source Software First](#open-source-software-first)
-  * [Open Core](#open-core)
-  * [Cloud](#cloud)
-  * [Evaluation](#Evaluation)
-* [Types of Use](#types-of-use)
-  * [Without Modification](#without-modification)
-    * [Combination of Components and Development](#combination-of-components-and-development)
-  * [With Modification](#with-modification)
-
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must open source software first as well as leverage and reuse existing solutions, components, and processes across departments and agencies.
-
-Using open source software means you can benefit from:
-
-* solving common problems with readily available open source technology
-* more time and resource for customised solutions to solve the rare or unique problems
-* lower implementation and running costs
-
-Using open source software provides an opportunity to share and reuse existing solutions, components, and processes with no additional, or minimal, licence costs.
 
 > **Open source software must be selected first on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.**
 
@@ -116,9 +97,9 @@ All software licensed under an [Open Source Initiative approved license](https:/
 
 **Using open source software without modification does not require that code be shared back.**
 
-Configuration of software, even through configuration files, are not considered modifications to the source code and are thus exempt in our current interpretation.
+Configuration of software, even through configuration files, are not considered modifications.
 
-This is also true for combinations of open source software to build a solution or open source software used for development and production.
+This is also true for combinations of open source software to build a solution or open source software used for development and deployment.
 See examples below:
 
 | Standalone | Combination of components | Development |
@@ -129,22 +110,25 @@ For development or when writing source code, see [Guide for Publishing Open Sour
 
 ## Use Open Source Software With Modifications
 
-Using open source software with modifications is not generally considered distribution and does not require that code be shared back.
-Modifications made to open source software should be shared back with the community, to help ensure sustainability of solution.
+**Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
+
+Modifications made to open source software should still be shared back with the community, to help ensure sustainability of the solution.
 See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
-For cases where sharing modifications would be mandatory, see [Strong Reciprocal Implications](#strong-reciprocal-implications).
+For cases where sharing modifications is mandatory, see [Strong Reciprocal Implications](#strong-reciprocal-implications).
 
 ### Don't Fork Open Source Software
 
-Where possible, use open source software without modification. Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
+**Where possible, use open source software without modification.**
+
+Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
 It's easy to copy (fork) open source software and start making changes to the source code.
 If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
 The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
 
-To make changes in open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
+To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 ### Strong Reciprocal Implications
@@ -153,6 +137,8 @@ The AGPL reciprocal licence and others like the EUPL considers that software acc
 See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and [Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 ## Other Notes
+
+### Open Resource Exchange
 
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 

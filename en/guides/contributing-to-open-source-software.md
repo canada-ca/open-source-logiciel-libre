@@ -5,10 +5,9 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, all source code must be released under an appropriate open source software license when appropriate. This includes contributing code to existing open source software projects.
 
 > **All source code modifications made to existing open source software, whether in-house by GC or through procurement contracts, must be shared back with the open source software community.**
-> **Support and be an active contributor, by sharing code, by creating bug reports and feature requests as helping with testing and influencing the development roadmap, to open source software used by the GC or where there is benefit to Canadians.**
+> **The GC must be an active contributor to open source software it's using or where there is benefit to Canadians, by sharing code, but also by creating bug reports and feature requests as well as helping with testing and influencing the development roadmap.**
 
 The steps to GC employees contributing to open source software communities are:
-
 
 1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
 1. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
