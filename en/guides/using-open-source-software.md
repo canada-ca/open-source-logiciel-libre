@@ -2,30 +2,31 @@
 
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the procedures for Application Architecture provide that, where possible, you must open source software first as well as leverage and reuse existing solutions, components, and processes across departments and agencies.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, where possible, open source software be used first.
 
-> **Open source software must be selected first on the basis of its additional inherent flexibility, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.**
+> **Open source software must be selected first on the basis of its additional inherent flexibility and interoperability benefits, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.**
 
 The steps for GC to use open source software are:
 
 1. [Actively and Fairly Consider Open Source Software](#actively-and-fairly-consider-open-source-software)
-1. [Evaluate Support Options](#evaluate-support-options)
 1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
+1. [Evaluate Support Options](#evaluate-support-options)
 1. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
 1. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
 1. [Other Notes](#other-notes)
 
 ## Actively and Fairly Consider Open Source Software
 
-Be aware that open source software is not completely free, so take into account the total cost of migrating, including exit and transition costs.
+Be aware that open source software is not completely free, so take into account the TCO of migrating, including exit and transition costs.
 
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
 
 ### Be Aware of Open Core
 
-A solution that is built with open source software but that requires the use of closed-source components should not be considered open source software for the purpose of this guide.
+A solution that is built with open source software but requires the use of closed-source components should not be considered open source software for the purpose of this guide.
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
 The "free" open source software versions often referred to as "community" editions are recommended first.
+See [Verify Open Source Software Licence](#verify-open-source-software-licence).
 
 ### Cloud
 
@@ -38,7 +39,8 @@ This provides additional flexibility in the selection of cloud provider (public 
 
 ### Evaluation
 
-The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to OSS [link]. A few additional criteria should be assessed when evaluating OSS:
+The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to open source software.
+Additional criteria should be assessed when evaluating open source software:
 
 #### User Community
 
@@ -61,6 +63,10 @@ User documentation provides important information to help users install software
 Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
 
 **note:** Should have a process to list all packages and maintain versions.
+
+## Verify Open Source Software Licence
+
+All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html) is considered open source software and can be used by GC.
 
 ## Evaluate Support Options
 
@@ -89,10 +95,6 @@ Another scenario that may become recurrent would be choosing an open source soft
 
 When custom development is requiring the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
 
-## Verify Open Source Software Licence
-
-All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html) is considered open source software and can be used by GC.
-
 ## Use Open Source Software Without Modification
 
 **Using open source software without modification does not require that code be shared back.**
@@ -102,9 +104,9 @@ Configuration of software, even through configuration files, are not considered 
 This is also true for combinations of open source software to build a solution or open source software used for development and deployment.
 See examples below:
 
-| Standalone | Combination of components | Development |
-| ---------- | ------------------------- | ----------- |
-| Web browser, HTTP server, Database management system, Container platform, Operating system and utilities (Window manager, Text editor, Shell (console)..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies |
+| Standalone | Combination of components | Development and deployment |
+| ---------- | ------------------------- | -------------------------- |
+| Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform |
 
 For development or when writing source code, see [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
@@ -112,7 +114,7 @@ For development or when writing source code, see [Guide for Publishing Open Sour
 
 **Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
 
-Modifications made to open source software should still be shared back with the community, to help ensure sustainability of the solution.
+Modifications made to open source software should still be shared with the community to help ensure sustainability of the solution.
 See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 For cases where sharing modifications is mandatory, see [Strong Reciprocal Implications](#strong-reciprocal-implications).
@@ -125,8 +127,8 @@ Use configuration and customize the software with modules, plugins or extensions
 See [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
 It's easy to copy (fork) open source software and start making changes to the source code.
-If a fork is created, be aware it can make future updates and security patches hard to implement as well as trigger additional licence obligations.
-The development team that made the changes will be responsible for maintaining those changes unless they are contributed to the upstream version.
+If a fork is created, be aware it can make future updates and security patches hard to implement.
+The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version.
 
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
