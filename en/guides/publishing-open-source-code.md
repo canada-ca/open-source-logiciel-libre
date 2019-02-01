@@ -2,7 +2,7 @@
 
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, all source code must be released under an appropriate open source software license, and when not appropriate, it must be shared within the Government of Canada.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
 
 > **All source code, whether developed in-house by GC or through procurement contracts, must be published under an appropriate open source software licence.**
 > **When unable to publish source code publicly, it must be shared within the Government of Canada.**
@@ -21,7 +21,7 @@ The steps to publish GC source code are:
 
 ### Team
 
-**Note:** The updates to the Directive on Management of IT clearly states that working in the open is the way forward. 
+The updates to the Directive on Management of IT clearly states that working in the open is the way forward. 
 Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
 
 ### Department
@@ -151,18 +151,19 @@ Employees must use their full name and Government of Canada email address for al
 
 Building a welcoming community can influence your project's future and reputation.
 Provide a positive experience for contributors and make it easy so they keep coming back.
+Respond to questions, bugs and merge requests.
 
-* `README.md` and `CONTRIBUTING.md` file
-* Respond to questions, bugs and merge requests
+Include a `README.md` and `CONTRIBUTING.md` file with your source code.
+See [Add Mandatory files](#add-mandatory-files).
 
 #### Contributor License Agreement
 
 Government of Canada projects don't require contributor license agreements, but rely on the open source software licenses providing the necessary terms.
-This means that contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
+Contributions are made under the same license under which the project is released and that authors retain their copyright for their contributions.
 
-### Open Resource Exchange
+#### Open Resource Exchange
 
-Add a link to your source code repository on the [Open Source Code section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
+Add a link to your source code repository on the [Open Source Code section of the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
 
 Instructions for how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
 
@@ -175,15 +176,10 @@ This applies to source code developed by Government of Canada employees.
 
 However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
 
-### Licencing
-
-The [Ownership of Copyright, Assignments and Licences](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that the owner of the copyright in any work may assign the right and may grant any interest in the right by licence.
-However no assignment or grant is valid unless it is in writing signed by the owner of the right in respect of which the assignment or grant is made, or by the owner’s duly authorized agent.
-
 ### Official languages
 
 Source code is exempt (including inline comments) of the provisions of the [Policy on Official Languages](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160).
 
 Documentation (not in source code files) should however be bilingual?
 
-**note:** Depends whether an open source project is considered under Language of work (6.3) or Communications with the public (6.2)
+Depends whether an open source project is considered under Language of work (6.3) or Communications with the public (6.2)

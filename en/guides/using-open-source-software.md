@@ -4,7 +4,7 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, where possible, open source software be used first.
 
-> **Open source software must be selected first on the basis of its additional inherent flexibility and interoperability benefits, when there is no significant functionality or total cost ownership (TCO) difference with closed-source solutions.**
+> **Open source software must be selected first on the basis of its additional inherent flexibility and interoperability benefits, when there is no significant functionality or cost difference with closed-source solutions.**
 
 The steps for GC to use open source software are:
 
@@ -17,9 +17,7 @@ The steps for GC to use open source software are:
 
 ## Actively and Fairly Consider Open Source Software
 
-Be aware that open source software is not completely free, so take into account the TCO of migrating, including exit and transition costs.
-
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO, including exit and transition costs.
+Be aware that open source software is not completely free, so take into account the total cost ownership (TCO) of migrating, including exit and transition costs.
 
 ### Be Aware of Open Core
 
@@ -28,14 +26,19 @@ The open core development model is where vendors open only portions of their sof
 The "free" open source software versions often referred to as "community" editions are recommended first.
 See [Verify Open Source Software Licence](#verify-open-source-software-licence).
 
-### Cloud
+### Selecting Open Source Software First
 
-Some open source software are available directly as software as a service (SaaS) on the cloud either for free or subscription based.
-This may create lock-in if the vendor uses an open core model where the software and support can't easily be migrated to other service providers.
+The mandatory procedures for enterprise architecture assessment state that security and privacy must be implemented across all architectural layer and start with the business architecture to align to the GC business capability model and identify capabilities that can be shared and reused.
+The Business Process Management Notation (BPMN) open standard is identified and must be used to model business processes.
+Systems must be accessible, multilingual, measurable, accountable and designed for users first.
 
-Open source software can be deployed using platform as a service (PaaS) or infrastructure as a service (IaaS).
-This is not considered the same as SaaS when responsibility for hosting, setup, configuration, maintenance and support can be done by a service provider or internally but it is still a valid service model to be leveraged.
-This provides additional flexibility in the selection of cloud provider (public or private) and the support service provider.
+Then the information architecture, to ensure data is collected, managed and stored in a manner that maximizes use and availability, aligns to existing standards and enable accessibility and interoperability while being properly categorized to determine appropriate safeguards required.
+
+**Application architecture is where open standard and open source software a to be prioritized in the selection process** allowing for substitutability and interoperability while avoiding lock-in.
+If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO.
+See Guide for [Contributing to Open Source Software](contributing-to-open-source-software.md).
+
+Finally, the technology architecture is where the use of cloud services must be considered first, especially Software as a Service (SaaS) first and public cloud first but always thinking of cloud mobility and developing an exit strategy to avoid lock-in.
 
 ### Evaluation
 
@@ -85,7 +88,7 @@ Using a self-support model requires that the responsible teams:
 * Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
 * User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
 
-See [Standard for Contributing to Open Source Software](contributing-to-open-source-software.md).
+See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
 
 ### Professional Services
 
@@ -93,7 +96,7 @@ It is possible to enter in contract with a company for professional services to 
 
 Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
 
-When custom development is requiring the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Standard for Publishing Open Source Code](publishing-open-source-code.md).
+When custom development requires the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Guide for Publishing Open Source Code](publishing-open-source-code.md).
 
 ## Use Open Source Software Without Modification
 
