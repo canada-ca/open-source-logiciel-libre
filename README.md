@@ -14,11 +14,11 @@ For the purpose of the current drafts, the Standard template has been chosen to 
 
 ### English Content
 
-* [Requirements](en/standards)
-  * [Open Standards](en/standards/open-standards.md)
-  * [Use of Open Source Software](en/standards/using-open-source-software.md)
-  * [Contribution to Open Source Software](en/standards/contributing-to-open-source-software.md)
-  * [Publication of Open Source Code](en/standards/publishing-open-source-code.md)
+* [Requirements](en/requirements)
+  * [Open Standards](en/requirements/open-standards.md)
+  * [Use of Open Source Software](en/requirements/using-open-source-software.md)
+  * [Contribution to Open Source Software](en/requirements/contributing-to-open-source-software.md)
+  * [Publication of Open Source Code](en/requirements/publishing-open-source-code.md)
 * [Guides](en/guides)
   * [Open Standards](en/guides/open-standards.md)
   * [Use of Open Source Software](en/guides/using-open-source-software.md)
@@ -68,11 +68,11 @@ Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commence
 
 ### Contenu français
 
-* [Exigences](fr/normes)
-  * [Normes Ouvertes](fr/normes/normes-ouvertes.md)
-  * [Utilisation de logiciels libres](fr/normes/utilisation-logiciels-libres.md)
-  * [Contribution aux logiciels libres](fr/normes/contribution-à-des-logiciels-libres.md)
-  * [Publication de code source libre](fr/normes/publication-code-source-ouvert.md)
+* [Exigences](fr/exigences)
+  * [Normes Ouvertes](fr/exigences/normes-ouvertes.md)
+  * [Utilisation de logiciels libres](fr/exigences/utilisation-logiciels-libres.md)
+  * [Contribution aux logiciels libres](fr/exigences/contribution-à-des-logiciels-libres.md)
+  * [Publication de code source libre](fr/exigences/publication-code-source-ouvert.md)
 * [Guides](fr/guides)
   * [Normes Ouvertes](fr/guides/normes-ouvertes.md)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
