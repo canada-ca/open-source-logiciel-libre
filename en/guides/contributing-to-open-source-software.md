@@ -30,7 +30,7 @@ Employees should then ensure that the delegated approvals meet those requirement
 
 If for some reason the departmental delegated approvals are not meeting the 3rd party contribution's requirements, employees should contact their supervisor and see how they can obtain the additional authorizations required.
 
-By default, departements should put clear scenarios where employees are authorized to contribute to 3rd party projects and when additional authorizations are necessary.
+By default, departments should put clear scenarios where employees are authorized to contribute to 3rd party projects and when additional authorizations are necessary.
 
 As an example, a blanket approval could be provided for a department's employees highlighting the criteria that would not necessitate authorization for contribution.
 
