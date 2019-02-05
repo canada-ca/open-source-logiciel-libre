@@ -34,7 +34,7 @@ Systems must be accessible, multilingual, measurable, accountable and designed f
 
 Then the information architecture, to ensure data is collected, managed and stored in a manner that maximizes use and availability, aligns to existing standards and enable accessibility and interoperability while being properly categorized to determine appropriate safeguards required.
 
-**Application architecture is where open standard and open source software a to be prioritized in the selection process** allowing for substitutability and interoperability while avoiding lock-in.
+**Application architecture is where open standard and open source software are to be prioritized in the selection process** allowing for substitutability and interoperability while avoiding lock-in.
 If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO.
 See Guide for [Contributing to Open Source Software](contributing-to-open-source-software.md).
 
