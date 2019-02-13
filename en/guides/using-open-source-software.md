@@ -17,7 +17,7 @@ The steps for GC to use open source software are:
 
 ## Actively and Fairly Consider Open Source Software
 
-Be aware that open source software is not completely free, so take into account the total cost ownership (TCO) of migrating, including exit and transition costs.
+Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit and transition costs.
 
 ### Be Aware of Open Core
 
@@ -28,17 +28,19 @@ See [Verify Open Source Software Licence](#verify-open-source-software-licence).
 
 ### Selecting Open Source Software First
 
-The mandatory procedures for enterprise architecture assessment state that security and privacy must be implemented across all architectural layer and start with the business architecture to align to the GC business capability model and identify capabilities that can be shared and reused.
-The Business Process Management Notation (BPMN) open standard is identified and must be used to model business processes.
-Systems must be accessible, multilingual, measurable, accountable and designed for users first.
+The mandatory procedures for enterprise architecture assessment require
+application architecture – for both new technology and upgrade/migration of
+existing solutions – to prioritize the use of open source software as well
+as open standards. Doing so maximizes the substitutability and interoperability
+of software components and opens the door to creating highly flexible solutions.
+It also helps mitigate the significant risks which arise from lock-in and
+similar issues.
 
-Then the information architecture, to ensure data is collected, managed and stored in a manner that maximizes use and availability, aligns to existing standards and enable accessibility and interoperability while being properly categorized to determine appropriate safeguards required.
-
-**Application architecture is where open standard and open source software are to be prioritized in the selection process** allowing for substitutability and interoperability while avoiding lock-in.
-If an open source software based solution meets most of the users needs but requires investment to develop remaining functionalities, this option must also be considered by comparing the TCO.
-See Guide for [Contributing to Open Source Software](contributing-to-open-source-software.md).
-
-Finally, the technology architecture is where the use of cloud services must be considered first, especially Software as a Service (SaaS) first and public cloud first but always thinking of cloud mobility and developing an exit strategy to avoid lock-in.
+Sometimes an open source solution meets most user needs but would require
+additional investment to develop missing functionality (see
+_[Contributing to Open Source Software][guide-contribute-oss]_). In these cases,
+this investment must be considered by weighing the total cost of ownership
+against those of other candidate solutions.
 
 ### Evaluation
 
@@ -88,7 +90,7 @@ Using a self-support model requires that the responsible teams:
 * Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
 * User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
 
-See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
+See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
 ### Professional Services
 
@@ -96,7 +98,7 @@ It is possible to enter in contract with a company for professional services to 
 
 Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
 
-When custom development requires the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance to the [Guide for Publishing Open Source Code](publishing-open-source-code.md).
+When custom development requires the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance with the [Guide for Publishing Open Source Code][guide-publish-oss].
 
 ## Use Open Source Software Without Modification
 
@@ -111,14 +113,14 @@ See examples below:
 | ---------- | ------------------------- | -------------------------- |
 | Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform |
 
-For development or when writing source code, see [Guide for Publishing Open Source Code](publishing-open-source-code.md).
+For development or when writing source code, see [Guide for Publishing Open Source Code][guide-publish-oss].
 
 ## Use Open Source Software With Modifications
 
 **Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
 
 Modifications made to open source software should still be shared with the community to help ensure sustainability of the solution.
-See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
+See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
 For cases where sharing modifications is mandatory, see [Strong Reciprocal Implications](#strong-reciprocal-implications).
 
@@ -127,19 +129,19 @@ For cases where sharing modifications is mandatory, see [Strong Reciprocal Impli
 **Where possible, use open source software without modification.**
 
 Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
-See [Guide for Publishing Open Source Code](publishing-open-source-code.md).
+See [Guide for Publishing Open Source Code][guide-publish-oss].
 
 It's easy to copy (fork) open source software and start making changes to the source code.
 If a fork is created, be aware it can make future updates and security patches hard to implement.
 The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version.
 
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
-See [Guide for Contributing to Open Source Software](contributing-to-open-source-software.md).
+See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
 ### Strong Reciprocal Implications
 
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
-See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and [Contributing to Open Source Software](contributing-to-open-source-software.md).
+See Guides for [Publishing Open Source Code][guide-publish-oss] and [Contributing to Open Source Software][guide-contribute-oss].
 
 ## Other Notes
 
@@ -147,4 +149,8 @@ See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and
 
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
-Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+
+<!-- References -->
+[guide-contribute-oss]: contributing-to-open-source-software.md
+[guide-publish-oss]: publishing-open-source-code.md

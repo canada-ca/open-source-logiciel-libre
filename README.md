@@ -38,6 +38,7 @@ Official translation will be done once a first version is completed.
 ### References
 
 * Canada
+  * Government of Canada: [Directive on Management of Information Technology (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#appC)
   * Montréal City (EN):
     * [Policy concerning the use and development of Open Source Software and Hardware](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md#english-version)
     * [Directive on contributing to an Open Source Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/ContributionAProjetLibre.md#english-version)
@@ -92,6 +93,7 @@ La traduction officielle sera effectuée une fois la première version terminée
 ### Références
 
 * Canada
+  * Gouvernement du Canada: [Directive sur la gestion des technologies de l'information (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC)
   * Ville de Montréal (FR):
     * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
     * [Directive sur la publication et le maintien d’un projet Ville en libre](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
