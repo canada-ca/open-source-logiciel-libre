@@ -155,3 +155,131 @@ See Guides for [Publishing Open Source Code](publishing-open-source-code.md) and
 Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
 Instructions for how to updated the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+
+## Decision Tree for Use of Open Source Licences
+
+* Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
+* There is no negotiation expected with the community and, by default, limitation of liability and indemnification disclosure is common:
+  * The software is usually provided 'as-is' meaning the community will not accept liability or provide no financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality
+  * Data ownership and processing may remain with the user
+* A primary step for departments should be to assess if the licence is endorsed by the non-profit Open Source Initiative (OSI) group, as these are deemed to be the industry standards.
+There is a transparent and public vetting process for all of their approved licences. (See Annex below for detailed breakdown of open source software licences)
+* Then, depending on the capacity of the department to abide by the terms and conditions, the software can be obtained following the standard security evaluation processes.
+
+In general, for acquisition purposes of open source software, the following decision tree should be used to help identify what licences terms and conditions the department is willing to approve:
+
+<!-- markdownlint-disable MD006 -->
+<!-- markdownlint-disable MD029 -->
+1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project? (i.e.: Is it used in other ways than a COTS, like a browser or a database)?
+  * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * b) Yes: See 2.
+2. If you make modifications to the source code or if you are using the software as a part of a custom development, are there any reasons that would prevent the release of the modified source code? (Consider the update on the Directive on Management of IT: all custom source code must be released as open source)
+  * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * b) Yes: See 3.
+3. Is the modified application going to be used as a web application?
+  * a) No: See 4.
+  * b) Yes: You can accept any OSI approved licence from section A) and B) of the Annex below except AGPL-like licences
+4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
+  * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * b) Yes: You should accept only permissive licences from section A) and B) of the Annex below.
+
+<!-- markdownlint-enable MD006 -->
+<!-- markdownlint-enable MD029 -->
+
+The decision tree above is only provided as a general guidance. Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, licence compatibility, etc.).
+
+## Annex A
+
+Recommendation of licences to accept in the GC. Original list comes from the [Open Source Initiative](https://opensource.org/licenses/category), tailored for the GC.
+
+**A)** The main OSI approved licences that could be recommended for the crown are the following:
+* Popular and widely-used or with strong communities
+  * Apache License 2.0 (Apache-2.0)
+  * 3-clause BSD license (BSD-3-Clause)
+  * 2-clause BSD license (BSD-2-Clause)
+  * GNU General Public License (GPL)
+  * GNU Lesser General Public License (LGPL)
+  * MIT license (MIT)
+  * Mozilla Public License 2.0 (MPL-2.0)
+  * Common Development and Distribution License version 1.0 (CDDL-1.0)
+  * Eclipse Public License version 2.0
+* International licenses
+  * Licence Libre du Québec – Permissive (LiLiQ-P) version 1.1 (LiLiQ-P-1.1)
+  * Licence Libre du Québec – Réciprocité (LiLiQ-R) version 1.1 (LiLiQ-R-1.1)
+  * Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) version 1.1 (LiLiQ-Rplus-1.1)
+* Other approved licences that may be accepted:
+  * Boost Software License (BSL-1.0)
+  * CeCILL License 2.1 (CECILL-2.1)
+  * Common Public Attribution License 1.0 (CPAL-1.0)
+  * European Union Public License (EUPL-1.2)
+  * GNU Affero General Public License v3 (AGPL-3.0)
+  * ISC License (ISC)
+  * Microsoft Public License (MS-PL)
+  * Microsoft Reciprocal License (MS-RL)
+  * MirOS Licence (MirOS)
+  * Non-Profit Open Software License 3.0 (NPOSL-3.0)
+  * NTP License (NTP)
+  * Reciprocal Public License 1.5 (RPL-1.5)
+  * Simple Public License 2.0 (SimPL-2.0)
+  * Open Group Test Suite License (OGTSL)
+
+**B)** Non-reusable licences must only be accepted if they are applied to the software for which they have been written (e.g. the Python License can’t be accepted for the use of software other than Python):
+* Apple Public Source License (APSL-2.0)
+* Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1)
+* eCos License version 2.0
+* EU DataGrid Software License (EUDatagrid)
+* Entessa Public License (Entessa)
+* Frameworx License (Frameworx-1.0)
+* IBM Public License (IPL-1.0)
+* LaTeX Project Public License (LPPL-1.3c)
+* Motosoto License (Motosoto)
+* Multics License (Multics)
+* Naumen Public License (Naumen)
+* Nethack General Public License (NGPL)
+* Nokia Open Source License (Nokia)
+* OCLC Research Public License 2.0 (OCLC-2.0)
+* PHP License (PHP-3.0)
+* Python License (Python-2.0)
+* CNRI Python license (CNRI-Python) (CNRI portion of Python License)
+* RealNetworks Public Source License V1.0 (RPSL-1.0)
+* Ricoh Source Code Public License (RSCPL)
+* Sleepycat License (Sleepycat)
+* Sun Public License (SPL-1.0)
+* Sybase Open Watcom Public License 1.0 (Watcom-1.0)
+* Vovida Software License v. 1.0 (VSL-1.0)
+* W3C License (W3C)
+* wxWindows Library License (WXwindows)
+* Zope Public License (ZPL-2.0)
+
+**C)** Amongst the OSI approved licences, some categories should however not be considered:
+* Licenses that have been voluntarily retired
+  * CUA Office Public License Version 1.0 (CUA-OPL-1.0)
+  * Intel Open Source License (Intel)
+  * Jabber Open Source License
+  * MITRE Collaborative Virtual Workspace License (CVW)
+  * Sun Industry Standards Source License (SISSL)
+* Special purpose licenses
+  * BSD+Patent (BSD-2-Clause-Patent)
+  * Educational Community License, Version 2.0 (ECL-2.0)
+  * IPA Font License (IPA)
+  * NASA Open Source Agreement 1.3 (NASA-1.3)
+  * OSET Public License version 2.1 (OSET-PL-2.1)
+  * SIL Open Font License 1.1 (OFL-1.1)
+  * Upstream Compatibility License v1.0
+* Superseded licences
+  * Boost Software License (BSL-1.0)
+  * CeCILL License 2.1 (CECILL-2.1)
+  * Common Public Attribution License 1.0 (CPAL-1.0)
+  * European Union Public License (EUPL-1.2)
+  * GNU Affero General Public License v3 (AGPL-3.0)
+  * ISC License (ISC)
+  * Microsoft Public License (MS-PL)
+  * Microsoft Reciprocal License (MS-RL)
+  * MirOS Licence (MirOS)
+  * Non-Profit Open Software License 3.0 (NPOSL-3.0)
+  * NTP License (NTP)
+  * Reciprocal Public License 1.5 (RPL-1.5)
+  * Simple Public License 2.0 (SimPL-2.0)
+  * Open Group Test Suite License (OGTSL)
+
+
