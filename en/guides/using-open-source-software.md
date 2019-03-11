@@ -152,7 +152,7 @@ In general, for acquisition purposes of open source software, the following deci
 <!-- markdownlint-disable MD006 -->
 <!-- markdownlint-disable MD029 -->
 1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
-  * a) No: It is used liked a COTS; You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * a) No: It is used as a COTS; You can accept any OSI approved licence from section A) and B) of the Annex below.
   * b) Yes: See 2.
 2. If you make modifications to the source code or if you are using the software as a part of a custom development, are there any reasons that would prevent the release of the modified source code? (Consider the update on the Directive on Management of IT: all custom source code must be released as open source)
   * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
