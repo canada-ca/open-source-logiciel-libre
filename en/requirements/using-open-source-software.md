@@ -1,15 +1,6 @@
-# Standard on using open source software (Draft)
+# Requirements for using open source software (Draft)
 
 [Back to Table of Contents](../../README.md#english-content)
-
-* Authorities
-* Objectives and expected results
-  * The expected results of this directive are as follows
-* Requirements
-
-## Authorities
-
-This Standard is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
 
 ## Objectives and expected results
 
@@ -27,5 +18,3 @@ The objective of this directive is to maximize the use of open source software a
 ## Requirements
 
 Ensuring that open source software be actively and fairly considered for all new technologies, upgrades or migrations, including cloud solutions.
-
-Ensuring that the use of open source software is compliant with its licence's terms and conditions.

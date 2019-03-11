@@ -1,18 +1,6 @@
-# Standard on publishing open source code (Draft)
+# Requirements for publishing open source code (Draft)
 
 [Back to Table of Contents](../../README.md#english-content)
-
-* Authorities
-* Objectives and expected results
-  * The expected results of this Standard are as follows
-* Requirements
-  * Exceptions to publications
-
-## Authorities
-
-This Standard is issued under the authority of section 7 of the [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/f-11/) and pursuant to sections 3 and 6.4.9 of the [Policy on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and the section C.2.3.8 of the [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8).
-
-This Standard supports the [Policy on Information Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12742) and the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108).
 
 ## Objectives and expected results
 

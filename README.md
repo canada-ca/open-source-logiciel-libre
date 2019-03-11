@@ -14,11 +14,11 @@ For the purpose of the current drafts, the Standard template has been chosen to 
 
 ### English Content
 
-* [Requirements](en/standards)
-  * [Open Standards](en/standards/open-standards.md)
-  * [Use of Open Source Software](en/standards/using-open-source-software.md)
-  * [Contribution to Open Source Software](en/standards/contributing-to-open-source-software.md)
-  * [Publication of Open Source Code](en/standards/publishing-open-source-code.md)
+* [Requirements](en/requirements)
+  * [Open Standards](en/requirements/open-standards.md)
+  * [Use of Open Source Software](en/requirements/using-open-source-software.md)
+  * [Contribution to Open Source Software](en/requirements/contributing-to-open-source-software.md)
+  * [Publication of Open Source Code](en/requirements/publishing-open-source-code.md)
 * [Guides](en/guides)
   * [Open Standards](en/guides/open-standards.md)
   * [Use of Open Source Software](en/guides/using-open-source-software.md)
@@ -38,6 +38,7 @@ Official translation will be done once a first version is completed.
 ### References
 
 * Canada
+  * Government of Canada: [Directive on Management of Information Technology (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#appC)
   * Montréal City (EN):
     * [Policy concerning the use and development of Open Source Software and Hardware](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md#english-version)
     * [Directive on contributing to an Open Source Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/ContributionAProjetLibre.md#english-version)
@@ -68,11 +69,11 @@ Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commence
 
 ### Contenu français
 
-* [Exigences](fr/normes)
-  * [Normes Ouvertes](fr/normes/normes-ouvertes.md)
-  * [Utilisation de logiciels libres](fr/normes/utilisation-logiciels-libres.md)
-  * [Contribution aux logiciels libres](fr/normes/contribution-à-des-logiciels-libres.md)
-  * [Publication de code source libre](fr/normes/publication-code-source-ouvert.md)
+* [Exigences](fr/exigences)
+  * [Normes Ouvertes](fr/exigences/normes-ouvertes.md)
+  * [Utilisation de logiciels libres](fr/exigences/utilisation-logiciels-libres.md)
+  * [Contribution aux logiciels libres](fr/exigences/contribution-à-des-logiciels-libres.md)
+  * [Publication de code source libre](fr/exigences/publication-code-source-ouvert.md)
 * [Guides](fr/guides)
   * [Normes Ouvertes](fr/guides/normes-ouvertes.md)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
@@ -92,6 +93,7 @@ La traduction officielle sera effectuée une fois la première version terminée
 ### Références
 
 * Canada
+  * Gouvernement du Canada: [Directive sur la gestion des technologies de l'information (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC)
   * Ville de Montréal (FR):
     * [POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
     * [Directive sur la publication et le maintien d’un projet Ville en libre](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
