@@ -159,7 +159,8 @@ In general, for acquisition purposes of open source software, the following deci
   * b) Yes: See 3.
 3. Is the modified application going to be used as a web application?
   * a) No: See 4.
-  * b) Yes: You can accept any OSI approved licence from section A) and B) of the Annex below except AGPL-like licences
+  * b) Yes: You can accept any OSI approved licence from section A) and B) of the Annex below **except** strong reciprocal licences
+  * **TODO**: Identify all strong reciprocal licences in Annex
 4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
   * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
   * b) Yes: You should accept only permissive licences from section A) and B) of the Annex below.
@@ -248,20 +249,18 @@ Recommendation of licences to accept in the GC. Original list comes from the [Op
   * SIL Open Font License 1.1 (OFL-1.1)
   * Upstream Compatibility License v1.0
 * Superseded licences
-  * Boost Software License (BSL-1.0)
-  * CeCILL License 2.1 (CECILL-2.1)
-  * Common Public Attribution License 1.0 (CPAL-1.0)
-  * European Union Public License (EUPL-1.2)
-  * GNU Affero General Public License v3 (AGPL-3.0)
-  * ISC License (ISC)
-  * Microsoft Public License (MS-PL)
-  * Microsoft Reciprocal License (MS-RL)
-  * MirOS Licence (MirOS)
-  * Non-Profit Open Software License 3.0 (NPOSL-3.0)
-  * NTP License (NTP)
-  * Reciprocal Public License 1.5 (RPL-1.5)
-  * Simple Public License 2.0 (SimPL-2.0)
-  * Open Group Test Suite License (OGTSL)
+  * Apache Software License 1.1 (Apache-1.1)
+  * Artistic license 1.0 (Artistic-1.0)
+  * Common Public License 1.0 (CPL-1.0)
+  * Eclipse Public License 1.0 (EPL-1.0)
+  * Educational Community License, Version 1.0 (ECL-1.0)
+  * Eiffel Forum License V1.0 (EFL-1.0)
+  * Lucent Public License ("Plan9"), version 1.0  * (LPL-1.0)
+  * Mozilla Public License 1.0 (MPL-1.0)
+  * Mozilla Public License 1.1 (MPL-1.1)
+  * Open Software License 1.0 (OSL-1.0)
+  * Open Software License 2.1 (OSL-2.1)
+  * Reciprocal Public License, version 1.1 (RPL-1.1)
 
 ## Other Notes
 
