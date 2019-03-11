@@ -139,7 +139,7 @@ See Guides for [Publishing Open Source Code][guide-publish-oss] and [Contributin
 
 ## Decision Tree for Use of Open Source Software
 
-* Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
+Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 * There is no negotiation expected with the community and, by default, limitation of liability and indemnification disclosure is common:
   * The software is usually provided 'as-is' meaning the community will not accept liability or provide no financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality
   * Data ownership and processing may remain with the user
