@@ -13,6 +13,7 @@ The steps for GC to use open source software are:
 1. [Evaluate Support Options](#evaluate-support-options)
 1. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
 1. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
+1. [Decision Tree for Use of Open Source Software](#decision-tree-for-use-of-open-source-software)
 1. [Other Notes](#other-notes)
 
 ## Actively and Fairly Consider Open Source Software
@@ -136,7 +137,7 @@ See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 See Guides for [Publishing Open Source Code][guide-publish-oss] and [Contributing to Open Source Software][guide-contribute-oss].
 
-## Decision Tree for Use of Open Source Licences
+## Decision Tree for Use of Open Source Software
 
 * Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 * There is no negotiation expected with the community and, by default, limitation of liability and indemnification disclosure is common:
