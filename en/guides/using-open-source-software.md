@@ -266,9 +266,9 @@ Recommendation of licences to accept in the GC. Original list comes from the [Op
 
 ### Open Resource Exchange
 
-Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
+Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
 
-Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
+Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/blob/master/_data/README.md).
 
 <!-- References -->
 [guide-contribute-oss]: contributing-to-open-source-software.md
