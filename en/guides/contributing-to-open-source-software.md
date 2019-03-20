@@ -50,7 +50,9 @@ As mentioned previously, delegation should be encouraged to be done to the lowes
 
 ### Identify as an employee of the Government of Canada
 
-Employees must use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment.
+Set up an account with whatever site is managing the project you are wanting to contribute to. This should clearly identify you as an employee of the Government of Canada. If there is an option to have your [organization listed](https://openconcept.ca/blog/mike/your-organization-using-drupal-get-drupalorg-account), it would be beneficial to do so as well. 
+
+Employees must use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment. Some services allow you to list multiple email addresses, others may require you to set up a new account for official contributions. 
 
 **Note**: this is related to the [Public Servant Invention Act](https://laws-lois.justice.gc.ca/eng/acts/P-32/FullText.html#h-3), section 3. Additional clarification as to the means of identifying as an employee of the GC without necessarily requiring the email address in commits will need to be sought to ease the process.
 
