@@ -7,7 +7,11 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 > **All source code modifications made to open source software, whether in-house by GC or through procurement contracts, must be shared back with the open source software community.**
 > **The GC must be an active contributor to open source software it's using or where there is benefit to Canadians, by sharing code, but also by creating bug reports and feature requests as well as helping with testing and influencing the development roadmap.**
 
-The steps to GC employees contributing to open source software communities are:
+## There Are Many Ways to Contribute
+
+Open source communities are driven by a wide range of contributions. Contributing code is always useful, but so are contributions of bug reports and feature requests. It can even be useful to highlight those bugs or features that others have reported and to add more information about why it is important to you. Sometimes it is a matter of improving documentation or adding summaries of longer threads so that people don't have to read hundreds of different comments to understand the state of the solution. Attending open source community events is a great way to learn, but also helps build the community. Even better, find ways to become involved in organizing or sponsoring these events. 
+
+### The steps to GC employees to contribute code to open source software communities are:
 
 1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
 1. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
