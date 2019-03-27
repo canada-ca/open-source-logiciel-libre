@@ -100,7 +100,7 @@ When custom development requires the use of contracted developers, ensure that t
 
 Configuration of software, even through configuration files, are not considered modifications.
 
-This is also true for combinations of open source softwarfb72776bdc8f703a81e31d9297af0e9d2d589347e to build a solution or open source software used for development and deployment.
+This is also true for combinations of open source software to build a solution or open source software used for development and deployment.
 See examples below:
 
 | Standalone | Combination of components | Development and deployment |
