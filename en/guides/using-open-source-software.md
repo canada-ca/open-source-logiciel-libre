@@ -125,7 +125,7 @@ For cases where sharing modifications is mandatory, see [Strong Reciprocal Impli
 Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code][guide-publish-oss].
 
-It's easy to copy (fork) open source software and start making changes to the source code.
+It's easy to copy ([fork](https://help.github.com/en/articles/about-forks)) open source software and start making changes to the source code.
 If a fork is created, be aware it can make future updates and security patches hard to implement.
 The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version.
 
