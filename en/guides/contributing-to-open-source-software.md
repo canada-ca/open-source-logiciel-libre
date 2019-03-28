@@ -88,3 +88,4 @@ If professional services are used to contribute to third party projects, see [Gu
     * 2FA is recommended
 * Basic commits guidelines (use your name, prof email address., message, etc.)
 * Grants and contributions: bug bounties via GCDevExchange?
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) guide
