@@ -10,12 +10,13 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 The steps to publish GC source code are:
 
 1. [Seek Approvals](#seek-approvals)
-1. [Ask for Open Source Code in Crown Procurement Contracts](#ask-for-open-source-code-in-crown-procurement-contracts)
-1. [Select Open Source Software Licence](#select-open-source-software-licence)
-1. [Select Source Code Repository](#select-source-code-repository)
-1. [Add Mandatory Files](#add-mandatory-files)
-1. [Work in the Open](#work-in-the-Open)
-1. [Other Notes](#other-notes)
+2. [Obtain Rights to Custom Code in Contracts](#obtain-rights-to-custom-code-in-contracts)
+3. [Select Open Source Software Licence](#select-open-source-software-licence)
+4. [Select Source Code Repository](#select-source-code-repository)
+5. [Add Mandatory Files](#add-mandatory-files)
+6. [Publishing a Legacy Application](#publishing-a-legacy-application)
+7. [Work in the Open](#work-in-the-open)
+8. [Other notes](#other-notes)
 
 ## Seek Approvals
 
@@ -45,9 +46,6 @@ Use the clauses in contracts if the department or agency wants the copyright in 
 ## Select Open Source Software Licence
 
 When the project is part of a larger open source software community, like plugins, modules, extensions or derivative works of existing open source software, use the license which is usually used by the community.
-
-Source code must include a licence before publishing to a public source code repository.
-Include a licence by adding a `LICENSE` file as part of source code.
 
 Recommended permissive licences are:
 
@@ -123,17 +121,35 @@ Projects names should be bilingual but repositories names can be unilingual or u
 
 ## Add Mandatory Files
 
-Before publishing, source code must include:
+Before publishing, source code must include the following file to be considered as open source:
 
 * a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
+
+By default, such a project would only be released under the Crown Copyright.
+
+Additionally, the following are highly recommended as best practice:
+
 * a `README.md` file providing bilingual information about the project, how to use it and general documentation.
-
-It should also include:
-
 * a `CONTRIBUTING.md` file explaining how to contribute to the project.
 * a `SECURITY.md` file explaining security policy as well as procedures for reporting security vulnerabilities.
 
 Examples of these files are available in the [Template Repository](https://github.com/canada-ca/template-gabarit).
+
+## Publishing a Legacy Application
+
+Publishing a legacy application can seem like a lot of work but it is feasible and actually a good investment if the application will continue to be used in the future.
+In order to do so, you should review and clean up your code base for Personnally Identifiable Information, secret keys, etc. (See Whitepaper)
+Similarly, documentation could be improved during the release project to help increase community contributions.
+
+Additionally, releasing a legacy application may lead to reuse and increase in development contributions from interested parties.
+It may revive the active development of the application, providing it with enhanced features and bug fixes.
+
+Vulnerability risks already exist and releasing it as open source doesn't change their state.
+One way of limiting those risks is to not provide the configurations of the production version.
+
+On the other end, if it's a web application and the worry is to expose specific vulnerabilities, it should be mitigated no matter if it's released as open source or not as those exposed services could already be exploited.
+
+Scanning tools with advanced functionalities and security tests should be considered to help the development teams speed up the review and clean up process.
 
 ## Work in the Open
 
@@ -145,7 +161,7 @@ The latest code version may not necessarily mean it's the version deployed in pr
 
 ### Identify as an employee of the Government of Canada
 
-Employees must use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment.
+Employees should use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment.
 
 ### Community
 

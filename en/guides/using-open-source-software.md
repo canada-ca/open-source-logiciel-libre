@@ -9,12 +9,13 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 The steps for GC to use open source software are:
 
 1. [Actively and Fairly Consider Open Source Software](#actively-and-fairly-consider-open-source-software)
-1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
-1. [Evaluate Support Options](#evaluate-support-options)
-1. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
-1. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
-1. [Decision Tree for Use of Open Source Software](#decision-tree-for-use-of-open-source-software)
-1. [Other Notes](#other-notes)
+2. [Verify Open Source Software Licence](#verify-open-source-software-licence)
+3. [Evaluate Support Options](#evaluate-support-options)
+4. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
+5. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
+6. [Register to Open Resource Exchange](#register-to-open-resource-exchange)
+7. [Appendix A](#appendix-a)
+8. [Appendix B](#appendix-b)
 
 ## Actively and Fairly Consider Open Source Software
 
@@ -59,9 +60,10 @@ User documentation provides important information to help users install software
 
 #### Security Assessments
 
-Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
+Although OSS code is auditable, this does not necessarily mean it is secure.
+The quality of the code and the typical response time for patching security-related flaws help indicate the security maturity level of the software.
 
-**note:** Should have a process to list all packages and maintain versions.
+As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly­.
 
 ## Verify Open Source Software Licence
 
@@ -69,20 +71,22 @@ All software licensed under an [Open Source Initiative approved license](https:/
 
 ## Evaluate Support Options
 
-Use of open source software introduces a different model  based on support services rather than obtaining software licences.
+Use of open source software introduces a different model based on support services rather than obtaining software licences.
 
 The two major support models for open source software are self support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
-
-**notes:** Availability Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software).
-
-Since a financial transaction may not have occurred, it is important to have a proper process and tracking mechanism in place to manage the introduction of open source software...
 
 ### Internal
 
 Using a self-support model requires that the responsible teams:
 
-* Maintain and track thorough lists of open source software used and ensure updates are applied carefully.
-* User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
+* Have a proper process in place to manage the evaluation and the introduction of open source software in the organization.
+* Maintain and track thorough lists of open source software used how and by whom.
+* Ensure updates are applied in a timely fashion.
+
+User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
+
+When using software components for development purposes, powerful tools and services can be leveraged by IT teams to automate, facilitate and speed up the identification of these components, including open source software.
+These tools can provide scanning capabilities for known security vulnerabilities as well as legal compliance.
 
 See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
@@ -137,14 +141,26 @@ See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 The AGPL reciprocal licence and others like the EUPL considers that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
 See Guides for [Publishing Open Source Code][guide-publish-oss] and [Contributing to Open Source Software][guide-contribute-oss].
 
-## Decision Tree for Use of Open Source Software
+## Register to Open Resource Exchange
+
+Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
+
+Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/blob/master/_data/README.md).
+
+<!-- References -->
+[guide-contribute-oss]: contributing-to-open-source-software.md
+[guide-publish-oss]: publishing-open-source-code.md
+
+## Appendix A
+
+### Decision Tree for Use of Open Source Software
 
 Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 * There is no negotiation expected with the community and, by default, limitation of liability and indemnification disclosure is common:
   * The software is usually provided 'as-is' meaning the community will not accept liability or provide no financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality
   * Data ownership and processing may remain with the user
 * A primary step for departments should be to assess if the licence is endorsed by the non-profit Open Source Initiative (OSI) group, as these are deemed to be the industry standards.
-There is a transparent and public vetting process for all of their approved licences. (See Annex below for detailed breakdown of open source software licences)
+There is a transparent and public vetting process for all of their approved licences. (See Appendix B below for detailed breakdown of open source software licences)
 * Then, depending on the capacity of the department to abide by the terms and conditions, the software can be obtained following the standard security evaluation processes.
 
 In general, for acquisition purposes of open source software, the following decision tree should be used to help identify what licences terms and conditions the department is willing to approve:
@@ -152,25 +168,25 @@ In general, for acquisition purposes of open source software, the following deci
 <!-- markdownlint-disable MD006 -->
 <!-- markdownlint-disable MD029 -->
 1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
-  * a) No: It is used as a COTS; You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * a) No: It is used as a COTS; You can accept any OSI approved licence from section A) and B) of the Appendix B below.
   * b) Yes: See 2.
 2. If you make modifications to the source code or if you are using the software as a part of a custom development, are there any reasons that would prevent the release of the modified source code? (Consider the update on the Directive on Management of IT: all custom source code must be released as open source)
-  * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
+  * a) No: You can accept any OSI approved licence from section A) and B) of the Appendix B below.
   * b) Yes: See 3.
 3. Is the modified application going to be used as a web application?
   * a) No: See 4.
-  * b) Yes: You can accept any OSI approved licence from section A) and B) of the Annex below **except** strong reciprocal licences
-  * **TODO**: Identify all strong reciprocal licences in Annex
+  * b) Yes: You can accept any OSI approved licence from section A) and B) of the Appendix B below **except** strong reciprocal licences
+  * **TODO**: Identify all strong reciprocal licences in Appendix B
 4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
-  * a) No: You can accept any OSI approved licence from section A) and B) of the Annex below.
-  * b) Yes: You should accept only permissive licences from section A) and B) of the Annex below.
+  * a) No: You can accept any OSI approved licence from section A) and B) of the Appendix B below.
+  * b) Yes: You should accept only permissive licences from section A) and B) of the Appendix B below.
 
 <!-- markdownlint-enable MD006 -->
 <!-- markdownlint-enable MD029 -->
 
 The decision tree above is only provided as a general guidance. Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, licence compatibility, etc.).
 
-## Annex A
+## Appendix B
 
 Recommendation of licences to accept in the GC. Original list comes from the [Open Source Initiative](https://opensource.org/licenses/category), tailored for the GC.
 
@@ -261,15 +277,3 @@ Recommendation of licences to accept in the GC. Original list comes from the [Op
   * Open Software License 1.0 (OSL-1.0)
   * Open Software License 2.1 (OSL-2.1)
   * Reciprocal Public License, version 1.1 (RPL-1.1)
-
-## Other Notes
-
-### Open Resource Exchange
-
-Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
-
-Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/blob/master/_data/README.md).
-
-<!-- References -->
-[guide-contribute-oss]: contributing-to-open-source-software.md
-[guide-publish-oss]: publishing-open-source-code.md
