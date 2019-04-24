@@ -11,12 +11,13 @@ The steps to publish GC source code are:
 
 1. [Seek Approvals](#seek-approvals)
 2. [Obtain Rights to Custom Code in Contracts](#obtain-rights-to-custom-code-in-contracts)
-3. [Select Open Source Software Licence](#select-open-source-software-licence)
-4. [Select Source Code Repository](#select-source-code-repository)
-5. [Add Mandatory Files](#add-mandatory-files)
-6. [Publishing a Legacy Application](#publishing-a-legacy-application)
-7. [Work in the Open](#work-in-the-open)
-8. [Other notes](#other-notes)
+3. [Consider Security Implications](#consider-security-implications)
+4. [Select Open Source Software Licence](#select-open-source-software-licence)
+5. [Select Source Code Repository](#select-source-code-repository)
+6. [Add Mandatory Files](#add-mandatory-files)
+7. [Publishing a Legacy Application](#publishing-a-legacy-application)
+8. [Work in the Open](#work-in-the-open)
+9. [Other notes](#other-notes)
 
 ## Seek Approvals
 
@@ -42,6 +43,38 @@ Use the clauses in contracts if the department or agency wants the copyright in 
 
 **Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence.**
 **The contract can also ask the the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence.**
+
+## Consider Security Implications
+
+### Classification of source code
+
+The Treasury Board [Directive on Departmental Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) because its disclosure would reasonably be expected to compromise the non-national interest".
+
+In order for source code to potentially be deemed protected, it would have to contain any of the following information:
+
+- Information obtained in confidence
+- Information about federal-provincial affairs
+- Information about international affairs and defence
+- Information about law enforcement and investigations
+- Information about the safety of individuals
+- Information about the economic interests of Canada
+- Personal information
+- Third party information
+- Advice about certain aspects of operations of government
+- Information about testing procedures, tests, and audits
+- Information that is subject to solicitor-client privilege
+- Information that is subject to statutory prohibitions
+- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
+- Confidences of the Queen’s Privy Council for Canada
+
+It is highly unlikely that developers would intentionally include such information in their source code. As a result, source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
+
+### Developing Software in the Open
+
+- Keep sensitive data such as credentials secure and separate from source code.
+- Avoid storing keys and other sensitive material in systems not approved for that purpose.
+- Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
+- Implement controls sufficient to prevent unauthorized or inadvertent changes such as code signing and repository user rights.
 
 ## Select Open Source Software Licence
 
@@ -97,14 +130,14 @@ Replace the **(legal departmental name)** and **(year of publication)** with the
 
 Recommended public source code repositories for Government of Canada open source code are:
 
-* [GitLab](https://gitlab.com/)
-* [GitHub](https://github.com/)
-* [framagit](https://framagit.org/)
-* [Bitbucket](https://bitbucket.org/)
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
+- [framagit](https://framagit.org/)
+- [Bitbucket](https://bitbucket.org/)
 
 The Government of Canada also has an internal source code repository available to all departments and agencies.
 
-* [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
+- [GCcode](https://gccode.ssc-spc.gc.ca/) (internal to Government of Canada only)
 
 ### Organizations
 
@@ -114,32 +147,26 @@ Departments and agencies are free to choose the platform that best suites their 
 
 Projects names should be bilingual but repositories names can be unilingual or use acronyms.
 
-### Security Considerations
-
-* Use 2 factor authentication (2FA) to secure accounts.
-* Signed and hashed commits
-
 ## Add Mandatory Files
 
 Before publishing, source code must include the following file to be considered as open source:
 
-* a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
+- a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
 
 By default, such a project would only be released under the Crown Copyright.
 
 Additionally, the following are highly recommended as best practice:
 
-* a `README.md` file providing bilingual information about the project, how to use it and general documentation.
-* a `CONTRIBUTING.md` file explaining how to contribute to the project.
-* a `SECURITY.md` file explaining security policy as well as procedures for reporting security vulnerabilities.
+- a `README.md` file providing bilingual information about the project, how to use it and general documentation.
+- a `CONTRIBUTING.md` file explaining how to contribute to the project.
+- a `SECURITY.md` file explaining security policy as well as procedures for reporting security vulnerabilities.
 
 Examples of these files are available in the [Template Repository](https://github.com/canada-ca/template-gabarit).
 
 ## Publishing a Legacy Application
 
 Publishing a legacy application can seem like a lot of work but it is feasible and actually a good investment if the application will continue to be used in the future.
-In order to do so, you should review and clean up your code base for Personnally Identifiable Information, secret keys, etc. (See Whitepaper)
-Similarly, documentation could be improved during the release project to help increase community contributions.
+Documentation could be improved during the release project to help increase community contributions.
 
 Additionally, releasing a legacy application may lead to reuse and increase in development contributions from interested parties.
 It may revive the active development of the application, providing it with enhanced features and bug fixes.
