@@ -148,9 +148,9 @@ See Guides for [Publishing Open Source Code][guide-publish-oss] and [Contributin
 
 The [Open Source Initiative approved licenses](https://opensource.org/licenses/alphabetical) and the [Free Software Foundation free software licences](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) contain the following strong reciprocal licences.
 
-- GNU Affero General Public License (AGPL)
-- European Union Public License (EUPL)
-- Open Software License (OSL)
+* GNU Affero General Public License (AGPL)
+* European Union Public License (EUPL)
+* Open Software License (OSL)
 
 ## Register to Open Resource Exchange
 
@@ -171,17 +171,17 @@ In general, for acquisition purposes of open source software, the following deci
 <!-- markdownlint-disable MD006 -->
 <!-- markdownlint-disable MD029 -->
 1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
-  - No: It is used as a COTS; You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-  - Yes: See 2.
+   * No: It is used as a COTS; You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
+   * Yes: See 2.
 2. Are there any reasons that would prevent the release of the modified source code?
-  - No: You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-  - Yes: See 3.
+   * No: You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
+   * Yes: See 3.
 3. Is the modified application going to be used as a web application?
-  - No: See 4.
-  - Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences.  See [Strong Reciprocal Licences](#strong-reciprocal-licences).
+   * No: See 4.
+   * Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences.  See [Strong Reciprocal Licences](#strong-reciprocal-licences).
 4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
-  - No: You can accept any OSI approved licence or FSF free software licence. See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-  - Yes: You can accept any OSI approved licence or FSF free software licence **except** reciprocal licences. Use only permissive open source software licences.
+   * No: You can accept any OSI approved licence or FSF free software licence. See [Verify Open Source Software Licence](#verify-open-source-software-licence).
+   * Yes: You can accept any OSI approved licence or FSF free software licence **except** reciprocal licences. Use only permissive open source software licences.
 
 <!-- markdownlint-enable MD006 -->
 <!-- markdownlint-enable MD029 -->
