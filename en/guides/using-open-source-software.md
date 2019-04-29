@@ -14,7 +14,6 @@ The steps for GC to use open source software are:
 4. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
 5. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
 6. [Register to Open Resource Exchange](#register-to-open-resource-exchange)
-7. [Appendix A](#appendix-a)
 
 ## Actively and Fairly Consider Open Source Software
 
@@ -70,7 +69,47 @@ Whenever the Crown obtains software under an open source licence, departments sh
 
 The software is usually provided 'as-is' meaning the community will not accept liability or provide no financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality. Data ownership and processing may remain with the user.
 
-All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by GC.
+All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by GC [without modifications](#use-open-source-software-without-modification).
+However if the software needs to be modified, the following considerations should be applied to help identify what licences terms and conditions the department is willing to approve.
+
+<!-- markdownlint-disable MD006 -->
+<!-- markdownlint-disable MD029 -->
+1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
+   * No: It is used as a COTS; You can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software Without Modification](#use-open-source-software-without-modification).
+   * Yes: See 2.
+2. Are there any reasons that would prevent the release of the modified source code?
+   * No: You can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software With Modifications](#use-open-source-software-with-modifications).
+   * Yes: See 3.
+3. Is the modified application going to be used as a web application?
+   * Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences. See [Strong Reciprocal Licences](#strong-reciprocal-licences).
+   * No: See 4.
+4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
+   * No: You can accept any OSI approved licence or FSF free software licence.
+   * Yes: You can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
+<!-- markdownlint-enable MD006 -->
+<!-- markdownlint-enable MD029 -->
+
+Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, licence compatibility, etc.).
+
+### Popular and Widely Used Licences
+
+The following is are lists of licences categorized by permissive and reciprocal. For full list refer to Open Source Initiative (OSI) and Free Software Foundation (FSF) Websites.
+
+### Permissive Licences
+
+* Apache License
+* BSD license
+* ISC License
+* MIT license
+* X11 license
+
+### Reciprocal Licences
+
+* Eclipse Public License (EPL)
+* European Union Public License (EUPL)
+* GNU General Public Licenses (GPL, LGPL and AGPL)
+* Mozilla Public License (MPL)
+* Open Software License (OSL)
 
 ## Evaluate Support Options
 
@@ -161,29 +200,3 @@ Instructions on how to update the data can be found on [GitHub](https://github.c
 <!-- References -->
 [guide-contribute-oss]: contributing-to-open-source-software.md
 [guide-publish-oss]: publishing-open-source-code.md
-
-## Appendix A
-
-### Decision Tree for Use of Open Source Software
-
-In general, for acquisition purposes of open source software, the following decision tree should be used to help identify what licences terms and conditions the department is willing to approve:
-
-<!-- markdownlint-disable MD006 -->
-<!-- markdownlint-disable MD029 -->
-1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
-   * No: It is used as a COTS; You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-   * Yes: See 2.
-2. Are there any reasons that would prevent the release of the modified source code?
-   * No: You can accept any OSI approved licence or FSF free software licence.  See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-   * Yes: See 3.
-3. Is the modified application going to be used as a web application?
-   * No: See 4.
-   * Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences.  See [Strong Reciprocal Licences](#strong-reciprocal-licences).
-4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
-   * No: You can accept any OSI approved licence or FSF free software licence. See [Verify Open Source Software Licence](#verify-open-source-software-licence).
-   * Yes: You can accept any OSI approved licence or FSF free software licence **except** reciprocal licences. Use only permissive open source software licences.
-
-<!-- markdownlint-enable MD006 -->
-<!-- markdownlint-enable MD029 -->
-
-The decision tree above is only provided as a general guidance. Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, licence compatibility, etc.).
