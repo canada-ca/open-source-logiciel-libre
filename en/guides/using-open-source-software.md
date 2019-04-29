@@ -138,7 +138,9 @@ It is possible to enter in contract with a company for professional services to 
 
 Another scenario that may become recurrent would be choosing an open source software and using the community version and later down the road going for tender for professional support and maintenance.
 
-When custom development requires the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance with the [Guide for Publishing Open Source Code][guide-publish-oss].
+If contracted developers are required for custom development, ensure that their contract clearly states that the work is to be done under an open source license. Developers should be encouraged to contribute back to the community if the work is applicable to a more general audience. Generally the "ownership" of the open source project falls on the developers after the code is released. 
+
+For instances where this isn't clarified in the contract custom development by contracted developers it will be important to ensure that the proper rights to the source code are obtained to release as open source in accordance with the [Guide for Publishing Open Source Code][guide-publish-oss].
 
 ## Use Open Source Software Without Modification
 
