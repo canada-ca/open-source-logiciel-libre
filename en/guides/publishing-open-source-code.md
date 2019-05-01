@@ -94,7 +94,7 @@ Recommended reciprocal licences are:
 | **When to use** | Software | Libraries | Web applications and services |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
 
-To apply to source code, add the text of the chosen lisence to a LICENSE.txt file in the root folder of the project. See [Add Mandatory Files](#add-mandatory-files).
+To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Mandatory Files](#add-mandatory-files).
 
 If multiple licences can be applied, choose a licence which matches the goal of the project and its interactions with other projects. This tends to revolve around the decision of whether to apply a permissive or reciprocal licence.
 
