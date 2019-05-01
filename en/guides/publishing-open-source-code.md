@@ -85,7 +85,6 @@ Recommended permissive licences are:
 |                                          | MIT | Apache 2.0 |
 | ---------------------------------------- | --- | ---------- |
 | **When to use** | Small, simple projects and scripts. | Larger software project use Apache 2.0 because it provides a grant of patents. |
-| **How to apply to your code** |  |  |
 | **Licence text** | https://opensource.org/licenses/MIT | http://www.apache.org/licenses/LICENSE-2.0.txt |
 
 Recommended reciprocal licences are:
@@ -93,8 +92,9 @@ Recommended reciprocal licences are:
 |                                          | GPL 3.0 | LGPL 3.0 | AGPL 3.0 |
 | ---------------------------------------- | ------- | -------- | -------- |
 | **When to use** | Software | Libraries | Web applications and services |
-| **How to apply to your code** |  |  |  |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
+
+To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Mandatory Files](#add-mandatory-files).
 
 If multiple licences can be applied, choose a licence which matches the goal of the project and its interactions with other projects. This tends to revolve around the decision of whether to apply a permissive or reciprocal licence.
 
