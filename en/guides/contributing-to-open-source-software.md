@@ -23,6 +23,8 @@ Open source communities are driven by a wide range of contributions. Contributin
 
 GC can contribute to all software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html).
 
+If a licence for software developped in the open is under another licence, further legal counsel should be seeked to clarify if contributions are recommended.
+
 ## Verify Contributing Process and Policies
 
 Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).
