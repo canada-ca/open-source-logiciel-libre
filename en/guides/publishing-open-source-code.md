@@ -149,7 +149,7 @@ Projects names should be bilingual but repositories names can be unilingual or u
 
 ## Add Mandatory Files
 
-Before publishing, source code must include the following file to be considered as open source:
+Before publishing, source code must include the following file:
 
 - a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
 
