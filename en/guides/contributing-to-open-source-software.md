@@ -72,8 +72,6 @@ To make changes in open source software, engage with the community and submit yo
 
 Contributing to a 3rd party should be done in accordance to the project governance model, if such a model is present.
 
-**note:** More than code (Bug reports, feature requests, direction, security assessments, ..)
-
 ## Contribute through professional services
 
 If professional services are used to contribute to third party projects, see [Guide for publishing Open Source Code](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
@@ -84,9 +82,8 @@ If professional services are used to contribute to third party projects, see [Gu
   * Recommended that delegation of authority to contribute on a 3rd party OSS project be granted de facto given key requirements:
     * No CLA is required (would need the organisation to sign it, not the individual - to be confirmed)
     * IP still belongs to the Crown
-* Type of contribution allowed (_code_, bugs, issues, etc.)
 * Security
   * Contributing employee follows Policy on Acceptable Network and Device Use, just like any other external services.
     * 2FA is recommended
 * Basic commits guidelines (use your name, prof email address., message, etc.)
-* Grants and contributions: bug bounties via GCDevExchange?
+* Grants and contributions for open source projects and foundations
