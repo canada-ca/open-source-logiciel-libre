@@ -76,6 +76,10 @@ Contributing to a 3rd party should be done in accordance to the project governan
 
 If professional services are used to contribute to third party projects, see [Guide for publishing Open Source Code](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
 
+## Publish contributions regardless of upstream acceptance
+
+Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [publication policy](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).  Publication allows upstream to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.  Changes not accepted by upstream should still be noted in upstream forums where possible and appropriate, so that 3rd parties who might be interested in those changes have a means of discovering them.
+
 ## Other Notes
 
 * Licence delegation authority (IP+licence)
