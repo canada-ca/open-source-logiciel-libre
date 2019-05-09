@@ -23,6 +23,8 @@ Open source communities are driven by a wide range of contributions. Contributin
 
 GC can contribute to all software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html).
 
+If a licence for software developed in the open is under another licence, seek further legal counsel to clarify if contributions are recommended.
+
 ## Verify Contributing Process and Policies
 
 Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).
@@ -70,11 +72,13 @@ To make changes in open source software, engage with the community and submit yo
 
 Contributing to a 3rd party should be done in accordance to the project governance model, if such a model is present.
 
-**note:** More than code (Bug reports, feature requests, direction, security assessments, ..)
-
 ## Contribute through professional services
 
 If professional services are used to contribute to third party projects, see [Guide for publishing Open Source Code](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
+
+## Publish contributions regardless of upstream acceptance
+
+Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [publication policy](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).  Publication allows upstream to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.  Changes not accepted by upstream should still be noted in upstream forums where possible and appropriate, so that 3rd parties who might be interested in those changes have a means of discovering them.
 
 ## Other Notes
 
@@ -82,9 +86,8 @@ If professional services are used to contribute to third party projects, see [Gu
   * Recommended that delegation of authority to contribute on a 3rd party OSS project be granted de facto given key requirements:
     * No CLA is required (would need the organisation to sign it, not the individual - to be confirmed)
     * IP still belongs to the Crown
-* Type of contribution allowed (_code_, bugs, issues, etc.)
 * Security
   * Contributing employee follows Policy on Acceptable Network and Device Use, just like any other external services.
     * 2FA is recommended
 * Basic commits guidelines (use your name, prof email address., message, etc.)
-* Grants and contributions: bug bounties via GCDevExchange?
+* Grants and contributions for open source projects and foundations
