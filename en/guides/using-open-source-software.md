@@ -178,6 +178,8 @@ The development team that made the changes will be responsible for maintaining t
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
+Note: this is easily confused with the process of forking projects on GitHub which is critical in submitting changes (Pull Requests) back to the original project. 
+
 ### Strong Reciprocal Implications
 
 Strong reciprocal licences consider that software accessed through a network (like the Internet) is distribution and the modified source code must be made available to users.
