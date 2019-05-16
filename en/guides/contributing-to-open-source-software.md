@@ -7,7 +7,9 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 ## There Are Many Ways to Contribute
 
-Open source communities are driven by a wide range of contributions.  Code that fixes bugs or implements valued features is of course very important, but non-code contributions such as writing or editing documentation, or submitting feature requests and bug reports, are also highly valued.  Even simply supporting the contributions of others, or expressing interest in another's feature request, can be a valued contribution.
+Open source communities are driven by a wide range of contributions.
+Code that fixes bugs or implements valued features is of course very important, but non-code contributions such as writing or editing documentation, or submitting feature requests and bug reports, are also highly valued.
+Even simply supporting the contributions of others, or expressing interest in another's feature request, can be a valued contribution.
 
 ### Steps required for GC employees to contribute to open source:
 
@@ -25,15 +27,19 @@ If a licence for software developed in the open is under another licence, seek l
 
 ## Verify Contributing Process and Policies
 
-Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).  Before going forward with submitting a contribution, employees should properly understand the project contribution processes and policies.  Employees should then ensure that the delegated approvals meet those requirements.
+Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).
+Before going forward with submitting a contribution, employees should properly understand the project contribution processes and policies.
+Employees should then ensure that the delegated approvals meet those requirements.
 
 ## Additional Approvals
 
-If for some reason the departmental delegated approvals are not meeting the third-party contribution's requirements, employees should contact their supervisor to see how they can obtain the additional approvals required.  Departments should define specific criteria for approval of open-source contributions, and describe them clearly to employees.
+If for some reason the departmental delegated approvals are not meeting the third-party contribution's requirements, employees should contact their supervisor to see how they can obtain the additional approvals required.
+Departments should define specific criteria for approval of open-source contributions, and describe them clearly to employees.
 
 ### Time
 
-Some departments may institute guidelines or policy stating that employees must get their manager's approval to spend public time contributing to open source software.  This should not be intended to curtail open-source contribution, but only to allow for the prioritization of operational needs; the default policy should be to encourage contributing back to open-source projects used by the GC.
+Some departments may institute guidelines or policy stating that employees must get their manager's approval to spend public time contributing to open source software.
+This should not be intended to curtail open-source contribution, but only to allow for the prioritization of operational needs; the default policy should be to encourage contributing back to open-source projects used by the GC.
 
 ### Department
 
@@ -68,7 +74,9 @@ If professional services are used to contribute to third party projects, see [Gu
 
 ## Publish contributions regardless of upstream acceptance
 
-Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [publication policy](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).  Publication allows upstream to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.  Changes not accepted by upstream should still be noted in upstream forums where possible and appropriate, so that 3rd parties who might be interested in those changes have a means of discovering them.
+Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [publication policy](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).
+Publication allows upstream to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.
+Changes not accepted by upstream should still be noted in upstream forums where possible and appropriate, so that 3rd parties who might be interested in those changes have a means of discovering them.
 
 ## Other Notes
 
