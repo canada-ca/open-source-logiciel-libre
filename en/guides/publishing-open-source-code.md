@@ -148,13 +148,13 @@ Departments and agencies are free to choose the platform that best suites their 
 
 Projects names should be bilingual but repositories names can be unilingual or use acronyms.
 
-## Add Mandatory Files
+## Add Recommended Files
 
-Before publishing, source code must include the following file:
+Before publishing, source code should include the following file:
 
 - a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
 
-By default, such a project would only be released under the Crown Copyright.
+By default, a project without an open source licence applied to it would only be released under the Crown Copyright.
 
 Additionally, the following are highly recommended as best practice:
 
