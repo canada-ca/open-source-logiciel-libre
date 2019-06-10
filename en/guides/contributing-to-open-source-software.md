@@ -44,7 +44,7 @@ Employees should then ensure that the delegated approvals meet those requirement
 
 ### Contributors Licence Agreement
 
-Contributors Licence Agreements (CLA) are contracts that some project owners require external contributors to sign before accepting their contirbutions. Those contracts could state various clauses, including the following examples:
+Contributors Licence Agreements (CLA) are contracts that some project owners require external contributors to sign before accepting their contributions. Those contracts could state various clauses, including the following examples:
 
 - The external contributor confirms that the original work (the contribution) is their own work and can thus legally share it with the project.
 - The copyright of the contribution needs to be transferred to the project owners.
@@ -57,7 +57,7 @@ In general, it is not a problem to contribute to a project that has a CLA in pla
 
 ### Developer's Certificate of Origin
 
-A Developer's Certificate of Origin (DCO) is considered to be a way of stating to the project maintainers that by submitting this contribution, the contributer confirms he or she has the right to do so.
+A Developer's Certificate of Origin (DCO) is considered to be a way of stating to the project maintainers that by submitting this contribution, the contributor confirms he or she has the right to do so.
 
 It usually consist of adding a "Signed by: contributor@email.com" in the commit of the code.
 
