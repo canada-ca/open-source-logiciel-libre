@@ -4,7 +4,7 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 This strategy aligns with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and requirement C.2.3.8 of the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all custom source code must be released under an appropriate open source software licences.
 
-As such it is recommended for departments to contribute back to the community all source code modifications made to open source software, whether in-house by GC or through procurement contracts.
+As such it is recommended for departments to contribute back to the community all source code modifications made to 3rd party open source software, whether done in-house by GC employees or through procurement contracts.
 
 ## There Are Many Ways to Contribute
 
