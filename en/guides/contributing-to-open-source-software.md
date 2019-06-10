@@ -14,13 +14,21 @@ Even simply supporting the contributions of others, or expressing interest in an
 
 ### Steps required for GC employees to contribute to open source:
 
-1. [There Are Many Ways to Contribute](#there-are-many-ways-to-contribute)
-2. [Verify Open Source Software Licence](#verify-open-source-software-licence)
-3. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
-4. [Additional Approvals](#additional-approvals)
-5. [Contribute to the project](#contribute-to-the-project)
-6. [Contribute through professional services](#contribute-through-professional-services)
-7. [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
+- [Guide for Contributing to Open Source Software (Draft)](#guide-for-contributing-to-open-source-software-draft)
+  - [There Are Many Ways to Contribute](#there-are-many-ways-to-contribute)
+    - [Steps required for GC employees to contribute to open source:](#steps-required-for-gc-employees-to-contribute-to-open-source)
+  - [Verify Open Source Software Licence](#verify-open-source-software-licence)
+  - [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
+    - [Contributors Licence Agreement](#contributors-licence-agreement)
+    - [Developer's Certificate of Origin](#developers-certificate-of-origin)
+  - [Additional Approvals](#additional-approvals)
+    - [Time](#time)
+    - [Department](#department)
+  - [Contribute to the project](#contribute-to-the-project)
+    - [Identify as an employee of the Government of Canada](#identify-as-an-employee-of-the-government-of-canada)
+    - [Submit changes](#submit-changes)
+  - [Contribute through professional services](#contribute-through-professional-services)
+  - [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
 
 ## Verify Open Source Software Licence
 
@@ -33,6 +41,28 @@ If a licence for software developed in the open is under another licence, seek l
 Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).
 Before going forward with submitting a contribution, employees should properly understand the project contribution processes and policies.
 Employees should then ensure that the delegated approvals meet those requirements.
+
+### Contributors Licence Agreement
+
+Contributors Licence Agreements (CLA) are contracts that some project owners require external contributors to sign before accepting their contributions. Those contracts could state various clauses, including the following examples:
+
+- The external contributor confirms that the original work (the contribution) is their own work and can thus legally share it with the project.
+- The copyright of the contribution needs to be transferred to the project owners.
+- Patent rights are granted to the project owners for the purpose of this project.
+- Etc.
+
+Since these may be complex and have many various clauses, it is highly recommended to seek legal counsel before agreeing to these additional contractual obligations.
+
+In general, it is not a problem to contribute to a project that has a CLA in place but additional analysis is required. Some projects are moving away from these complex contracts to remove the barrier they create around external contributions in favor of Developer's Certificate of Origin.
+
+### Developer's Certificate of Origin
+
+A Developer's Certificate of Origin (DCO) is considered to be a way of stating to the project maintainers that by submitting this contribution, the contributor confirms he or she has the right to do so.
+
+It usually consist of adding a "Signed by: contributor@email.com" in the commit of the code.
+
+Unlike for a CLA, if you do have the right to submit a contribution, a DCO should not cause a problem as you should have already acquired the proper approvals to contribute to the project.
+See [Additional Approvals](#additional-approvals)
 
 ## Additional Approvals
 
