@@ -1,11 +1,13 @@
 # Guide for Publishing Open Source Code (Draft)
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and and requirement C.2.3.8 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
 
-> **All source code, whether developed in-house by GC or through procurement contracts, must be published under an appropriate open source software licence.**
-> **When unable to publish source code publicly, it must be shared within the Government of Canada.**
+As such it is recommended for departments to publish all source code as open source software, whether done in-house by GC employees or through procurement contracts.
+
+When releasing right away as open source is not possible, it is recommended to start with sharing the source code internally to all departments.
+Doing so will help make the source code ready to be released publicly as open source. 
 
 The steps to publish GC source code are:
 
@@ -14,24 +16,27 @@ The steps to publish GC source code are:
 3. [Consider Security Implications](#consider-security-implications)
 4. [Select Open Source Software Licence](#select-open-source-software-licence)
 5. [Select Source Code Repository](#select-source-code-repository)
-6. [Add Mandatory Files](#add-mandatory-files)
+6. [Add Recommended Files](#add-recommended-files)
 7. [Publishing a Legacy Application](#publishing-a-legacy-application)
 8. [Work in the Open](#work-in-the-open)
-9. [Other notes](#other-notes)
 
 ## Seek Approvals
 
 ### Team
 
-The updates to the Directive on Management of IT clearly states that working in the open is the way forward. 
+The updates to the Directive on Management of IT support the Digital Standard #3: Working in the open by default.
+
+> Share evidence, research and decision making openly. Make all non-sensitive data, information, and **new code developed in delivery of services open to the outside world for sharing and reuse under an open licence**.
+
 Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
+
+It has also been found that doing so improves the quality of the code developed and encourages collaboration. See this [blog post](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/) from the United Kingdom Ministry of Justice for more details.
 
 ### Department
 
 Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the publication of source code under an open source software licence, requires appropriate department or agency approvals.
-Because of the required assignment of rights by an open source software licence, the Assistant Deputy Minister (ADM), or any other person named by the ADM is responsible for approving the releases of open source code.
 
-**Note:** Delegation to the Information Management Senior Official (IMSO) of departments and agencies (like open information) should be considered.
+That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage the release of open source code.
 
 ## Obtain Rights to Custom Code in Contracts 
 
@@ -39,16 +44,16 @@ The ISED [Policy on Title to Intellectual Property Arising Under Crown Procureme
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
 
 The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
-Use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
+You can use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
 
-**Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence.**
-**The contract can also ask the the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence.**
+Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence.
+The contract can also ask that the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence.
 
 ## Consider Security Implications
 
 ### Classification of source code
 
-The Treasury Board [Directive on Departmental Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) because its disclosure would reasonably be expected to compromise the non-national interest".
+The Treasury Board [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) because its disclosure would reasonably be expected to compromise the non-national interest".
 
 In order for source code to potentially be deemed protected, it would have to contain any of the following information:
 
@@ -76,10 +81,15 @@ Where feasible, this information should be removed from the source code to incre
 - Avoid storing keys and other sensitive material in systems not approved for that purpose.
 - Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
 - Implement controls sufficient to prevent unauthorized or inadvertent changes such as code signing and repository user rights.
+- Develop mitigation strategies and processes to address security related incidents.
+- Embed security practices in your daily processes and methodologies.
+- Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
 
 ## Select Open Source Software Licence
 
-When the project is part of a larger open source software community, like plugins, modules, extensions or derivative works of existing open source software, use the license which is usually used by the community.
+When the project is part of a larger open source software community, like plugins, modules, extensions or derivative works of existing open source software, it is highly recommended to use the license which is usually used by the community.
+
+When the project is started by the GC itself and isn't related to an external community, the choice of the open source licence has to be based off of the licences of the components (3rd party libraries and framework) you will use and the desired outcome.
 
 Recommended permissive licences are:
 
@@ -95,7 +105,7 @@ Recommended reciprocal licences are:
 | **When to use** | Software | Libraries | Web applications and services |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
 
-To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Mandatory Files](#add-mandatory-files).
+To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Recommended Files](#add-recommended-files). You could also just add the licence text directly in one of your source code file but by making it clearly available at the root of your project, you make it easier for people to find it and some collaboration platforms can automatically display your licence in the web interface.
 
 If multiple licences can be applied, choose a licence which matches the goal of the project and its interactions with other projects. This tends to revolve around the decision of whether to apply a permissive or reciprocal licence.
 
@@ -117,15 +127,24 @@ The differences amongst the GPL suite of reciprocal licences illustrate how the 
 
 ### Outbound Rights
 
-Make sure that the outbound rights associated with the licence selected do not exceed inbound rights of any software components used in the source code; e.g.: it would not be possible to release a project under an MIT licence (permissive) if software components used within it were originally released under GPL3 (reciprocal).
+You should always make sure that the outbound rights associated with the licence selected do not exceed inbound rights of any software components used in the source code; e.g.: it would not be legally possible to release a project under an MIT licence (permissive) if software components used within it were originally released under GPL3 (reciprocal).
+
+### Copyright
+
+The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.
+This applies to source code developed by Government of Canada employees.
+
+However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
 
 ### Appropriate Government of Canada Copyright Identification
 
-**Use the following structure when applying the Government of Canada Copyright notice.**
+As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html) article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
 
 > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
 
 Replace the **(legal departmental name)** and **(year of publication)** with the appropriate information.
+
+This notice should be added to the `LICENCE` file in your project. See [Add Recommended Files](#add-recommended-files)
 
 ## Select Source Code Repository
 
@@ -143,10 +162,7 @@ The Government of Canada also has an internal source code repository available t
 ### Organizations
 
 Departments and agencies are free to choose the platform that best suites their operational needs but their projects should, where possible, all be regrouped under a unique organization or group.
-
-### Project and Repository Names
-
-Projects names should be bilingual but repositories names can be unilingual or use acronyms.
+This would help discoverability of your projects but also help increase collaboration opportunities.
 
 ## Add Recommended Files
 
@@ -156,11 +172,15 @@ Before publishing, source code should include the following file:
 
 By default, a project without an open source licence applied to it would only be released under the Crown Copyright.
 
-Additionally, the following are highly recommended as best practice:
+> Note: the open source licence itself can be applied in the source code directly but it is highly recommended to put it in a separate `LICENCE` file at the root of your project directory.
 
-- a `README.md` file providing bilingual information about the project, how to use it and general documentation.
+Additionally, the following are recommended as best practice:
+
+- a `README.md` file providing information about the project, how to use it and general documentation.
+  - It is also recommended that this file be bilingual to increase use and contribution to the project.
 - a `CONTRIBUTING.md` file explaining how to contribute to the project.
 - a `SECURITY.md` file explaining security policy as well as procedures for reporting security vulnerabilities.
+- a `CODE_OF_CONDUCT.md` file explaining the values and ethics for the public sector employees and for the project.
 
 Examples of these files are available in the [Template Repository](https://github.com/canada-ca/template-gabarit).
 
@@ -183,22 +203,28 @@ Scanning tools with advanced functionalities and security tests should be consid
 
 ### Release Early, Release Often
 
-Source code should be released as early as possible in the project's life cycle to avoid the overhead of publishing source code late in the process.
-The public source code repository should be the single source of truth where developers are working.
+It is recommended that the source code be released as early as possible in the project's life cycle to avoid the overhead of publishing source code late in the process.
+The public source code repository is encouraged to be the single source of truth where developers are working.
 The latest code version may not necessarily mean it's the version deployed in production.
 
 ### Identify as an employee of the Government of Canada
 
 Employees should use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment.
 
+### Official languages
+
+The [Policy on Official Languages](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160) does not apply to software source code (including inline comments).
+
+However, the same rules on OL as any other applications developed by the GC or on behalf of the GC in the past should apply in terms of end user documentation, whether the project has been released or not as open source software.
+
 ### Community
 
 Building a welcoming community can influence your project's future and reputation.
-Provide a positive experience for contributors and make it easy so they keep coming back.
-Respond to questions, bugs and merge requests.
+By providing a positive experience for contributors and making it easy for them to interact with the project team, you encourage them to keep coming back and contributing.
+You should respond to questions, bugs and merge requests to encourage people to continue helping you.
 
-Include a `README.md` and `CONTRIBUTING.md` file with your source code.
-See [Add Mandatory files](#add-mandatory-files).
+It is recommended to include a `README.md` and `CONTRIBUTING.md` file with your source code.
+See [Add Recommended Files](#add-recommended-files).
 
 #### Contributor License Agreement
 
@@ -207,23 +233,7 @@ Contributions are made under the same license under which the project is release
 
 #### Open Resource Exchange
 
-Add a link to your source code repository on the [Open Source Code section of the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
+It is highly recommended that departments add a link to their projects' source code repositories on the [Open Source Code section of the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
+This will help raise visibility to all the projects managed by the GC and potentially increase collaboration.
 
 Instructions for how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
-
-## Other notes
-
-### Copyright
-
-The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.
-This applies to source code developed by Government of Canada employees.
-
-However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
-
-### Official languages
-
-Source code is exempt (including inline comments) of the provisions of the [Policy on Official Languages](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160).
-
-Documentation (not in source code files) should however be bilingual?
-
-Depends whether an open source project is considered under Language of work (6.3) or Communications with the public (6.2)
