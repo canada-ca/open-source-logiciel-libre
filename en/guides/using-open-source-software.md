@@ -171,7 +171,7 @@ Use configuration and customize the software with modules, plugins or extensions
 See [Guide for Publishing Open Source Code][guide-publish-oss].
 
 It's easy to copy (fork) open source software and start making changes to the source code.
-If a literal fork is created, which means taking a copy of the source code and maintaining your own version independantly from the original project, be aware it can make future updates and security patches hard to implement.
+If a literal fork is created, which means taking a copy of the source code and maintaining your own version independently from the original project, be aware it can make future updates and security patches hard to implement.
 The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version, which is the original project from which the source code was taken.
 
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
