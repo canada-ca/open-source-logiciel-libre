@@ -198,7 +198,7 @@ Departments are encouraged to add all open source software your department or ag
 
 The goal of this platform is to help find other departments that have successfully used open source software as part of the production environment and create ties with the open source communities around them.
 
-This is in line with the Digital Standard: Work in the Open
+This is also in line with the Digital Standard: Work in the Open by default.
 
 Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/blob/master/_data/README.md).
 
