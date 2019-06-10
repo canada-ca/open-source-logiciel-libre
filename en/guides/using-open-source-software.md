@@ -1,10 +1,8 @@
 # Guide for Using Open Source Software (Draft)
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment, that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, where possible, open source software be used first.
-
-> **Open source software must be selected first on the basis of its additional inherent flexibility and interoperability benefits, when there is no significant functionality or cost difference with closed-source solutions.**
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and requirement C.2.3.8 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that, where possible, open source software be used first.
 
 The steps for GC to use open source software are:
 
@@ -67,9 +65,10 @@ As per any software, you should maintain best practices and have a process in pl
 
 Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
-The software is usually provided 'as-is' meaning the community will not accept liability or provide no financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality. Data ownership and processing may remain with the user.
+The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality. Data ownership and processing may remain with the user.
 
 All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by GC [without modifications](#use-open-source-software-without-modification).
+
 However if the software needs to be modified, the following considerations should be applied to help identify what licences terms and conditions the department is willing to approve.
 
 <!-- markdownlint-disable MD006 -->
@@ -115,15 +114,15 @@ The following is are lists of licences categorized by permissive and reciprocal.
 
 Use of open source software introduces a different model based on support services rather than obtaining software licences.
 
-The two major support models for open source software are self support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
+The two major support models for open source software are self-support, where the department or agency's internal IT team is responsible for maintenance and interacting with the community, or professional support.
 
 ### Internal
 
 Using a self-support model requires that the responsible teams:
 
 * Have a proper process in place to manage the evaluation and the introduction of open source software in the organization.
-* Maintain and track thorough lists of open source software used how and by whom.
-* Ensure updates are applied in a timely fashion.
+* Maintain and track thorough lists of all software used how and by whom (open source and proprietary).
+* Ensure updates are applied in a timely fashion for all software (open source and proprietary).
 
 User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
 
@@ -166,19 +165,19 @@ For cases where sharing modifications is mandatory, see [Strong Reciprocal Impli
 
 ### Don't Fork Open Source Software
 
-**Where possible, use open source software without modification.**
+**Where possible, use open source software without modification or contribute them back.**
 
 Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code][guide-publish-oss].
 
 It's easy to copy (fork) open source software and start making changes to the source code.
-If a fork is created, be aware it can make future updates and security patches hard to implement.
-The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version.
+If a literal fork is created, which means taking a copy of the source code and maintaining your own version independently from the original project, be aware it can make future updates and security patches hard to implement.
+The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version, which is the original project from which the source code was taken.
 
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
-Note: this is easily confused with the process of forking projects on GitHub which is critical in submitting changes (Pull Requests) back to the original project. 
+Note: the term "fork" in the literal sense may be confused with the process of forking (cloning) projects on GitHub, GitLab and Bitbucket, which is critical to experiment and to submit changes (Pull Requests) back to the original project.
 
 ### Strong Reciprocal Implications
 
@@ -195,7 +194,11 @@ The [Open Source Initiative approved licenses](https://opensource.org/licenses/a
 
 ## Register to Open Resource Exchange
 
-Add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
+Departments are encouraged to add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
+
+The goal of this platform is to help find other departments that have successfully used open source software as part of the production environment and create ties with the open source communities around them.
+
+This is in line with the Digital Standard: Work in the Open
 
 Instructions on how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/blob/master/_data/README.md).
 
