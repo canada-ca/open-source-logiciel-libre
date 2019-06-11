@@ -65,30 +65,27 @@ As per any software, you should maintain best practices and have a process in pl
 
 Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
-The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality. Data ownership and processing may remain with the user.
+The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality.
 
-All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by GC [without modifications](#use-open-source-software-without-modification).
+All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by the GC [without modifications](#use-open-source-software-without-modification).
 
 However if the software needs to be modified, the following considerations should be applied to help identify what licences terms and conditions the department is willing to approve.
 
 <!-- markdownlint-disable MD006 -->
 <!-- markdownlint-disable MD029 -->
-1. Will you need to be making modifications to the source code of the application during its life cycle or will the software be used as a component of a custom development project?
-   * No: It is used as a COTS; You can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software Without Modification](#use-open-source-software-without-modification).
-   * Yes: See 2.
-2. Are there any reasons that would prevent the release of the modified source code?
+1. Are there any reasons that would prevent the release of the modified source code?
    * No: You can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software With Modifications](#use-open-source-software-with-modifications).
-   * Yes: See 3.
-3. Is the modified application going to be used as a web application?
+   * Yes: See 2.
+2. Is the modified application going to be used as a web application?
    * Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences. See [Strong Reciprocal Licences](#strong-reciprocal-licences).
    * No: See 4.
-4. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
+3. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
    * No: You can accept any OSI approved licence or FSF free software licence.
    * Yes: You can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
 <!-- markdownlint-enable MD006 -->
 <!-- markdownlint-enable MD029 -->
 
-Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, licence compatibility, etc.).
+Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, etc.) to ensure licence compatibility.
 
 ### Popular and Widely Used Licences
 
@@ -121,8 +118,8 @@ The two major support models for open source software are self-support, where th
 Using a self-support model requires that the responsible teams:
 
 * Have a proper process in place to manage the evaluation and the introduction of open source software in the organization.
-* Maintain and track thorough lists of all software used how and by whom (open source and proprietary).
-* Ensure updates are applied in a timely fashion for all software (open source and proprietary).
+* Maintain and track thorough lists of all software used how and by whom.
+* Ensure updates are applied in a timely fashion.
 
 User and developer community should be leveraged for general support questions as well as reporting bugs, creating feature requests and code contributions.
 
@@ -141,7 +138,7 @@ When custom development requires the use of contracted developers, ensure that t
 
 ## Use Open Source Software Without Modification
 
-**Using open source software without modification does not require that code be shared back.**
+> **Using open source software without modification does not require that code be shared back.**
 
 Configuration of software, even through configuration files, are not considered modifications.
 
@@ -156,7 +153,7 @@ For development or when writing source code, see [Guide for Publishing Open Sour
 
 ## Use Open Source Software With Modifications
 
-**Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
+> **Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
 
 Modifications made to open source software should still be shared with the community to help ensure sustainability of the solution.
 See [Guide for Contributing to Open Source Software][guide-contribute-oss].
@@ -165,7 +162,7 @@ For cases where sharing modifications is mandatory, see [Strong Reciprocal Impli
 
 ### Don't Fork Open Source Software
 
-**Where possible, use open source software without modification or contribute them back.**
+> **Where possible, use open source software without modification or contribute them back.**
 
 Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code][guide-publish-oss].
@@ -177,7 +174,7 @@ The development team that made the changes will be responsible for maintaining t
 To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
 See [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
-Note: the term "fork" in the literal sense may be confused with the process of forking (cloning) projects on GitHub, GitLab and Bitbucket, which is critical to experiment and to submit changes (Pull Requests) back to the original project.
+Note: the term "fork" in the literal sense may be confused with the process of forking (cloning) projects on GitHub, GitLab and Bitbucket, which is critical to submit changes back to the original project.
 
 ### Strong Reciprocal Implications
 

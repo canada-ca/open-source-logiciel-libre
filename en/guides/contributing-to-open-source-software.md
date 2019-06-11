@@ -12,23 +12,14 @@ Open source communities are driven by a wide range of contributions.
 Code that fixes bugs or implements valued features is of course very important, but non-code contributions such as writing or editing documentation, or submitting feature requests and bug reports, are also highly valued.
 Even simply supporting the contributions of others, or expressing interest in another's feature request, can be a valued contribution.
 
-### Steps required for GC employees to contribute to open source:
+The steps for GC to contribute code to open source software communities are:
 
-- [Guide for Contributing to Open Source Software (Draft)](#guide-for-contributing-to-open-source-software-draft)
-  - [There Are Many Ways to Contribute](#there-are-many-ways-to-contribute)
-    - [Steps required for GC employees to contribute to open source:](#steps-required-for-gc-employees-to-contribute-to-open-source)
-  - [Verify Open Source Software Licence](#verify-open-source-software-licence)
-  - [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
-    - [Contributors Licence Agreement](#contributors-licence-agreement)
-    - [Developer's Certificate of Origin](#developers-certificate-of-origin)
-  - [Additional Approvals](#additional-approvals)
-    - [Time](#time)
-    - [Department](#department)
-  - [Contribute to the project](#contribute-to-the-project)
-    - [Identify as an employee of the Government of Canada](#identify-as-an-employee-of-the-government-of-canada)
-    - [Submit changes](#submit-changes)
-  - [Contribute through professional services](#contribute-through-professional-services)
-  - [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
+1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
+2. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
+3. [Additional Approvals](#additional-approvals)
+4. [Contribute to the project](#contribute-to-the-project)
+5. [Contribute through professional services](#contribute-through-professional-services)
+6. [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
 
 ## Verify Open Source Software Licence
 
@@ -92,7 +83,7 @@ Currently, it is recommended that employees use their full name and Government o
 Some services allow you to list multiple email addresses, others may require you to set up a new account for official contributions.
 
 **Note**: this provision is related to the [Public Servant Invention Act](https://laws-lois.justice.gc.ca/eng/acts/P-32/FullText.html#h-3), section 3. 
-Additional clarification as to the means of identifying as an employee of the GC without necessarily requiring the email address in commits will need to be sought to ease the process and your organization may already have its own guidance around this topic.
+Additional clarification as to the means of identifying as an employee of the GC without requiring the email address in commits will need to be sought to ease the process and your organization may already have its own guidance around this topic.
 
 ### Submit changes
 
@@ -103,11 +94,11 @@ Contributing to a 3rd party should be done in accordance to the project governan
 
 ## Contribute through professional services
 
-If your department would like to leverage professional services to contribute to third party projects, see [Guide for publishing Open Source Code](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
+If your department would like to leverage professional services to contribute to third party projects, see [Obtain Rights to Custom Code in Contracts](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
 
 ## Publish contributions regardless of upstream acceptance
 
-Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [publication guide](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).
+Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [Guide for Publishing Open Source Code](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).
 
 Publication allows upstream, the original project, to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.
 

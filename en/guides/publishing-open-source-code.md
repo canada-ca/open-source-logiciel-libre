@@ -30,7 +30,7 @@ The updates to the Directive on Management of IT support the Digital Standard #3
 
 Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
 
-It has also been found that doing so improves the quality of the code developed and encourages collaboration. See this [blog post](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/) from the United Kingdom Ministry of Justice for more details.
+It has also been found that doing so improves the quality of the code developed and encourages collaboration.
 
 ### Department
 
@@ -194,8 +194,6 @@ It may revive the active development of the application, providing it with enhan
 
 Vulnerability risks already exist and releasing it as open source doesn't change their state.
 One way of limiting those risks is to not provide the configurations of the production version.
-
-On the other end, if it's a web application and the worry is to expose specific vulnerabilities, it should be mitigated no matter if it's released as open source or not as those exposed services could already be exploited.
 
 Scanning tools with advanced functionalities and security tests should be considered to help the development teams speed up the review and clean up process.
 
