@@ -164,6 +164,11 @@ The Government of Canada also has an internal source code repository available t
 Departments and agencies are free to choose the platform that best suites their operational needs but their projects should, where possible, all be regrouped under a unique organization or group.
 This would help discoverability of your projects but also help increase collaboration opportunities.
 
+### Version Control System
+
+The recommended version control system for GC open source code is Git.
+Departments are also encouraged to use Git to manage their source code internally.
+
 ## Add Recommended Files
 
 Before publishing, source code should include the following file:
@@ -204,6 +209,12 @@ Scanning tools with advanced functionalities and security tests should be consid
 It is recommended that the source code be released as early as possible in the project's life cycle to avoid the overhead of publishing source code late in the process.
 The public source code repository is encouraged to be the single source of truth where developers are working.
 The latest code version may not necessarily mean it's the version deployed in production.
+
+### Your In Control
+
+When working in the open teams still have control over what makes it into the source code and a chance to review contributions from internal and external developers.
+Access rights can be configured for repo to ensure only authorized team members can accept changes.
+Others may distribute modified version of your code, but it doesn't mean the changes have to be accepted as part of your code.
 
 ### Identify as an employee of the Government of Canada
 
