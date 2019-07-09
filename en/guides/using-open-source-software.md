@@ -66,6 +66,7 @@ As per any software, you should maintain best practices and have a process in pl
 Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
 The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality.
+As such, you should consider the software obtained under an OSS licence with the same responsibility lenses as if you had written it.
 
 All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by the GC [without modifications](#use-open-source-software-without-modification).
 
