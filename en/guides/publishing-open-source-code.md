@@ -213,7 +213,7 @@ The latest code version may not necessarily mean it's the version deployed in pr
 ### Your In Control
 
 When working in the open teams still have control over what makes it into the source code and a chance to review contributions from internal and external developers.
-Access rights can be configured for repo to ensure only authorized team members can accept changes.
+Access rights can be configured for repositories to ensure only authorized team members can accept changes.
 Others may distribute modified version of your code, but it doesn't mean the changes have to be accepted as part of your code.
 
 ### Identify as an employee of the Government of Canada
