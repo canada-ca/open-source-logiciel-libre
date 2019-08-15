@@ -15,18 +15,18 @@ The steps for GC to use open source software are:
 
 ## Actively and Fairly Consider Open Source Software
 
-Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit and transition costs.
+Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit,  transition and support costs.
 
 ### Be Aware of Open Core
 
 A solution that is built with open source software but requires the use of closed-source components should not be considered open source software for the purpose of this guide.
-The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings.
+The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings, as well as the model where a user such as Canada augments already licsened properitary software with open source software.
 The "free" open source software versions often referred to as "community" editions are recommended first.
-See [Verify Open Source Software Licence](#verify-open-source-software-licence).
+See [Verify Open Source Software Ownership Or Licence](#verify-open-source-software-licence).
 
 ### Selecting Open Source Software First
 
-The mandatory procedures for enterprise architecture assessment require application architecture – for both new technology and upgrade/migration of existing solutions – to prioritize the use of open source software as well as open standards.
+The mandatory procedures for enterprise architecture assessment ( [see annex C of the Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#appC) ) require application architecture – for both new technology and upgrade/migration of existing solutions – to prioritize the use of open source software as well as open standards.
 Doing so maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
 It also helps mitigate the significant risks which arise from lock-in and similar issues.
 
@@ -61,28 +61,28 @@ The quality of the code and the typical response time for patching security-rela
 
 As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly­.
 
-## Verify Open Source Software Licence
+## Verify Open Source Software Ownership or Licence
 
-Whenever the Crown obtains software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
+Whenever the Crown is contemplating aquiring software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
 The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality.
 As such, you should consider the software obtained under an OSS licence with the same responsibility lenses as if you had written it.
 
-All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and can be used by the GC [without modifications](#use-open-source-software-without-modification).
+All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and, where its use is possible in accordance with this Guide, can be used by the GC [without modifications](#use-open-source-software-without-modification).
 
-However if the software needs to be modified, the following considerations should be applied to help identify what licences terms and conditions the department is willing to approve.
+However if the software needs to be modified, the following considerations should be discussed with the appropriate stakeholders (i.e end users, project managers, legal services) and applied to help identify what licences terms and conditions the department is willing to approve.
 
 <!-- markdownlint-disable MD006 -->
 <!-- markdownlint-disable MD029 -->
 1. Are there any reasons that would prevent the release of the modified source code?
-   * No: You can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software With Modifications](#use-open-source-software-with-modifications).
+   * No: Subject to the considerations above, you can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software With Modifications](#use-open-source-software-with-modifications).
    * Yes: See 2.
 2. Is the modified application going to be used as a web application?
-   * Yes: You can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences. See [Strong Reciprocal Licences](#strong-reciprocal-licences).
+   * Yes: Subject to the considerations above, you can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences. See [Strong Reciprocal Licences](#strong-reciprocal-licences).
    * No: See 4.
 3. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
-   * No: You can accept any OSI approved licence or FSF free software licence.
-   * Yes: You can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
+   * No: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence.
+   * Yes: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
 <!-- markdownlint-enable MD006 -->
 <!-- markdownlint-enable MD029 -->
 
@@ -98,7 +98,6 @@ The following is are lists of licences categorized by permissive and reciprocal.
 * BSD license
 * ISC License
 * MIT license
-* X11 license
 
 ### Reciprocal Licences
 

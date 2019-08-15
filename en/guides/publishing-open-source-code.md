@@ -1,13 +1,12 @@
 # Guide for Publishing Open Source Code (Draft)
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment provides mandatory procedures for enterprise architecture assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and and requirement C.2.3.8 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
+These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the requirement in C.2.3.8 and C.2.3.9.5 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
 
-As such it is recommended for departments to publish all source code as open source software, whether done in-house by GC employees or through procurement contracts.
+As such it is recommended that where they have the right to do so, departments publish all source code as open source software, whether the software solution was (i) acquired as OSS; (ii) developed in-house by GC employees or (iii) acquired through the terms of procurement contracts where appropriate license terms were negotiated.
 
-When releasing right away as open source is not possible, it is recommended to start with sharing the source code internally to all departments.
-Doing so will help make the source code ready to be released publicly as open source. 
+When releasing the code at large is not appropriate, or possible, it is recommended to start with sharing the source code internally to all departments, to the extent that the terms of the applicable license permit such sharing. Care should be taken to ensure that the license to Canada does not limit the distribution of such code to specified user departments. Doing so will help make the source code ready to be released publicly as open source where Canada has received the right to do so.
 
 The steps to publish GC source code are:
 
@@ -43,11 +42,9 @@ That person may vary according to your department and delegation should be encou
 The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
 
-The PSPC [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2).
-You can use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
+As part of the discussion with the institution’s legal services unit and the consideration of applicable policy, it should be noted that PSPC  [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2), which can use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
 
-Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence.
-The contract can also ask that the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence.
+Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence where such rights have been granted to Canada. The procurement contract could also require that the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence, and such clauses would be effective where agreed to by the supplier.
 
 ## Consider Security Implications
 
@@ -131,7 +128,7 @@ You should always make sure that the outbound rights associated with the licence
 
 ### Copyright
 
-The [Ownership of Copyright](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.
+The [Canadian Copyright Act (section 12)](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-7) provides that where any work is, or has been, prepared or published by or under the direction or control of Her Majesty or any government department, the copyright in the work shall, subject to any agreement with the author, belong to Her Majesty.
 This applies to source code developed by Government of Canada employees.
 
 However, Government of Canada employees have [Moral Rights](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-4.html#h-8) and as the author of a work has the right to the integrity of the work and the right to be associated with the work as its author by name or under a pseudonym and the right to remain anonymous.
@@ -161,7 +158,7 @@ The Government of Canada also has an internal source code repository available t
 
 ### Organizations
 
-Departments and agencies are free to choose the platform that best suites their operational needs but their projects should, where possible, all be regrouped under a unique organization or group.
+Departments and agencies are free to choose the platform that best suits their operational needs but their projects should, where possible, all be regrouped under a unique organization or group.
 This would help discoverability of your projects but also help increase collaboration opportunities.
 
 ### Version Control System
