@@ -20,7 +20,7 @@ Be aware that open source software is not completely free, so take into account 
 ### Be Aware of Open Core
 
 A solution that is built with open source software but requires the use of closed-source components should not be considered open source software for the purpose of this guide.
-The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings, as well as the model where a user such as Canada augments already licsened properitary software with open source software.
+The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings, as well as the model where a user such as Canada augments already licenced proprietary software with open source software.
 The "free" open source software versions often referred to as "community" editions are recommended first.
 See [Verify Open Source Software Ownership Or Licence](#verify-open-source-software-licence).
 
@@ -63,7 +63,7 @@ As per any software, you should maintain best practices and have a process in pl
 
 ## Verify Open Source Software Ownership or Licence
 
-Whenever the Crown is contemplating aquiring software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
+Whenever the Crown is contemplating acquiring software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
 The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality.
 As such, you should consider the software obtained under an OSS licence with the same responsibility lenses as if you had written it.
