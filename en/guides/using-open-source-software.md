@@ -79,7 +79,7 @@ However if the software needs to be modified, the following considerations shoul
    * Yes: See 2.
 2. Is the modified application going to be used as a web application?
    * Yes: Subject to the considerations above, you can accept any OSI approved licence or FSF free software licence **except** strong reciprocal licences. See [Strong Reciprocal Licences](#strong-reciprocal-licences).
-   * No: See 4.
+   * No: See 3.
 3. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
    * No: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence.
    * Yes: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
