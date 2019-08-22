@@ -4,7 +4,7 @@ The [Directive on Management of Information Technology](https://www.tbs-sct.gc.c
 
 These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the [Procedures for Application Architecture](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) provide that, where possible, you must use open standards first.
 
-> **Open standards designated by the Treasury Board of Canada Secretariat (TBS) must be used.**
+> **[Per Mandatory Proceddures for Enterprise Architecture Assessment (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C), Open standards designated by the Treasury Board of Canada Secretariat (TBS) must be used.**
 > **All open standards must be selected first on the basis of their additional inherent flexibility and interoperability benefits.**
 > **All new purchases, upgrades or migrations must store and manage data using open standards.**
 
