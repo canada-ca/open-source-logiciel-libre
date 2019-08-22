@@ -23,7 +23,7 @@ The steps to publish GC source code are:
 
 ### Team
 
-The Directive on Management of IT support the Digital Standard #3: Working in the open by default, via [Mandatory Proceddures for Enterprise Architecture Assessment (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C).
+The Directive on Management of IT support the Digital Standard #3: Working in the open by default, via [Mandatory Procedures for Enterprise Architecture Assessment (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C).
 
 > Share evidence, research and decision making openly. Make all non-sensitive data, information, and **new code developed in delivery of services open to the outside world for sharing and reuse under an open licence**.
 
