@@ -4,7 +4,7 @@
 
 # Open Source Software
 
-Government of Canada **draft** requirements and guidance for open source use, contribution and creation and open standards.
+Treasury Board of Canada Secretariat’s **draft** guidance to support the implementation of Treasury Board policy requirements related to open source use, contribution and creation and open standards.
 
 The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery.
 As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences.
