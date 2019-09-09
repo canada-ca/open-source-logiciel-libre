@@ -74,10 +74,10 @@ Where feasible, this information should be removed from the source code to incre
 
 ## Procedures and Guidance for Open Source Software
 
-* [Procurement of Open Source](guides/procurement-of-open-source.md)
-* [Use of Open Source Software](guides/using-open-source-software.md)
-* [Contribution to Open Source Software](guides/contributing-to-open-source-software.md)
-* [Publication of Open Source Code](guides/publishing-open-source-code.md)
+- [Procurement of Open Source](guides/procurement-of-open-source.md)
+- [Use of Open Source Software](guides/using-open-source-software.md)
+- [Contribution to Open Source Software](guides/contributing-to-open-source-software.md)
+- [Publication of Open Source Code](guides/publishing-open-source-code.md)
 
 ## Definitions
 
