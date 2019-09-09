@@ -4,18 +4,20 @@
 
 # Open Source Software
 
-Treasury Board of Canada Secretariat’s **draft** guidance to support the implementation of Treasury Board policy requirements related to open source use, contribution and creation and open standards.
+Treasury Board of Canada Secretariat’s **draft** standards to support the implementation of Treasury Board policy requirements related to open source use, contribution and creation and open standards.
 
 The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery.
 As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences.
 It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
+
+# Other Information
 
 For the purpose of the current drafts, the Standard template has been chosen to start the discussion. The final format may vary.
 
 ### English Content
 
 * [Guides](en/guides)
-  * [Open Standards](en/guides/open-standards.md)
+  * [The Importance of a Concept Case](en/guides/importance-of-concept-case.md)
   * [Use of Open Source Software](en/guides/using-open-source-software.md)
   * [Contribution to Open Source Software](en/guides/contributing-to-open-source-software.md)
   * [Publication of Open Source Code](en/guides/publishing-open-source-code.md)
@@ -65,7 +67,6 @@ Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commence
 ### Contenu français
 
 * [Guides](fr/guides)
-  * [Normes Ouvertes](fr/guides/normes-ouvertes.md)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
   * [Contribution aux logiciels libres](fr/guides/contribution-à-des-logiciels-libres.md)
   * [Publication de code source libre](fr/guides/publication-code-source-ouvert.md)

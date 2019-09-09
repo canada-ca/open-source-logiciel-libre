@@ -48,30 +48,6 @@ Departments or agencies are able to release code developed as a result of a Crow
 
 ## Consider Security Implications
 
-### Classification of source code
-
-The Treasury Board [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) because its disclosure would reasonably be expected to compromise the non-national interest".
-
-In order for source code to potentially be deemed protected, it would have to contain any of the following information:
-
-- Information obtained in confidence
-- Information about federal-provincial affairs
-- Information about international affairs and defence
-- Information about law enforcement and investigations
-- Information about the safety of individuals
-- Information about the economic interests of Canada
-- Personal information
-- Third party information
-- Advice about certain aspects of operations of government
-- Information about testing procedures, tests, and audits
-- Information that is subject to solicitor-client privilege
-- Information that is subject to statutory prohibitions
-- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
-- Confidences of the Queen’s Privy Council for Canada
-
-It is highly unlikely that developers would intentionally include such information in their source code. As a result, source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above.
-Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
-
 ### Developing Software in the Open
 
 - Keep sensitive data such as credentials secure and separate from source code.
