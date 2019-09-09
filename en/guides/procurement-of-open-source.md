@@ -8,7 +8,7 @@ It is important to note that the Procurement of Open Source software consists of
 In the event that Open Source Software has already been procured, or is not bound by Trade Contract Laws move to the ‘Using Open Source Software’ section.
 
 The steps for the GC to tender or procure open source software are:
-1. [Evaluate Acquisition Principles](#aquistion-principles)
+1. [Evaluate Acquisition Principles](#acquisition-principles)
 
 ## Acquisition Principles
 If open source software has not already been acquired by Canada, it may be that the law requires the acquisition to be competed.  Prior to acquisition, your institution’s legal services unit should be consulted to review the software business requirements and to properly specify in any tender notice the contract terms that would apply to your acquisition.  

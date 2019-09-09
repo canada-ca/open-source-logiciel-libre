@@ -54,4 +54,4 @@ This refers to all Software not considered Open Source Software, copyrighted and
 
 ## Crown Institution
 
-A Crown Institution includes all Departments, Agencies, Provincial, Municipal, Crown Corporation or any other form of Government of Canada institution opporating under the authority of the Crown.
+A Crown Institution includes all Departments, Agencies, Provincial, Municipal, Crown Corporation or any other form of Government of Canada institution operating under the authority of the Crown.
