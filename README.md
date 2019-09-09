@@ -16,11 +16,7 @@ For the purpose of the current drafts, the Standard template has been chosen to 
 
 ### English Content
 
-* [Guides](en/guides)
-  * [The Importance of a Concept Case](en/guides/importance-of-concept-case.md)
-  * [Use of Open Source Software](en/guides/using-open-source-software.md)
-  * [Contribution to Open Source Software](en/guides/contributing-to-open-source-software.md)
-  * [Publication of Open Source Code](en/guides/publishing-open-source-code.md)
+  * [OSS Standards](en/open-source.md)
 
 ### Translation
 
