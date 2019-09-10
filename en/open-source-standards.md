@@ -50,6 +50,8 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 </details>   
 
+<br/>
+
 ### Defining Where Appropriate and Where Possible
 
 The Directive on Management of Information Technology states under [C.2.3.8.1](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C) and [D2.2.1.4.2](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D) that 'where possible', use open standards and open software first. As well the [Digital Standards state](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) 'Leverage open standards and embrace leading practices, including the use of open source software where appropriate'.
