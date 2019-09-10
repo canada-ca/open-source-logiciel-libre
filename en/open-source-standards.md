@@ -8,9 +8,9 @@ It is committed to doing so in a manner that is compatible with core administrat
 
 ## The Importance of a Concept Case
 
-Prior to any form of development or acquisition, it is important that a Concept Case be defined for any problem space. 
+Prior to any form of option analysis, development or acquisition, it is important that a Concept Case be defined for any problem space. 
 
-The Concept Case should clearly define the Business Requirement driving the project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. 
+The Concept Case should clearly define the problem or opportunity and Business Requirement driving the potential project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. This will also help the team determine what the future project needs to achieve before taking any substantial work.
 
 The Directive on [Policy on the Planning and Management of Investments, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) provides Mandatory Procedures for Concept Cases for Digital Projects. While the Directive only applies to projects over a certain dollar threshold, it is important to note that the vast majority of Agile Project Management Frameworks begin with an artifact that matches a Concept Case such as a Project Vision or Project Objectives.
 
