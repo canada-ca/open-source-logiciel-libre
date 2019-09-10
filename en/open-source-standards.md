@@ -62,6 +62,7 @@ Where Appropriate and Where Possible are defined as all items that are not exemp
 
 In order for source code to potentially be deemed protected, it would have to contain any of the following information:
 
+- Information that is deemed Classified
 - Information obtained in confidence
 - Information about federal-provincial affairs
 - Information about international affairs and defence
