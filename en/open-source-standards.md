@@ -48,38 +48,36 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <p>The GC may set its requirements such that the Software be available for distribution to anyone of its choice to ensure that other crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example the federal crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.</p>
 
-<h3>Defining Where Appropriate and Where Possible</h3>
+</details>   
 
-<p>The Directive on Management of Information Technology states under <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C">C.2.3.8.1</a> and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D">D2.2.1.4.2</a> that 'where possible', use open standards and open software first. As well the <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards state</a> 'Leverage open standards and embrace leading practices, including the use of open source software where appropriate'.</p>
+### Defining Where Appropriate and Where Possible
 
-<p>Where Appropriate and Where Possible are defined as all items that are not exempt due to the following</p>
-<ul>
-<li>The Source Code is not owned exclusively by the Crown and is not already open-source.</li>
-<li>The Source Code is protected</li>
-</ul>
+The Directive on Management of Information Technology states under [C.2.3.8.1](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C) and [D2.2.1.4.2](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D) that 'where possible', use open standards and open software first. As well the [Digital Standards state](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) 'Leverage open standards and embrace leading practices, including the use of open source software where appropriate'.
 
-<p>In order for source code to potentially be deemed protected, it would have to contain any of the following information:</p>
+Where Appropriate and Where Possible are defined as all items that are not exempt due to the following
+- The Source Code is not owned exclusively by the Crown and is not already open-source.
+- The Source Code is protected
 
-<li>Information obtained in confidence</li>
-<li>Information about federal-provincial affairs</li>
-<li>Information about international affairs and defence</li>
-<li>Information about law enforcement and investigations</li>
-<li>Information about the safety of individuals</li>
-<li>Information about the economic interests of Canada</li>
-<li>Personal information</li>
-<li>Third party information</li>
-<li>Advice about certain aspects of operations of government</li>
-<li>Information about testing procedures, tests, and audits</li>
-<li>Information that is subject to solicitor-client privilege</li>
-<li>Information that is subject to statutory prohibitions</li>
-<li>Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited</li>
-<li>Confidences of the Queen’s Privy Council for Canada</li>
+In order for source code to potentially be deemed protected, it would have to contain any of the following information:
 
-<p>It is highly unlikely that developers would intentionally include such information in their source code. As a result, source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the items listed above.</p>
+- Information obtained in confidence
+- Information about federal-provincial affairs
+- Information about international affairs and defence
+- Information about law enforcement and investigations
+- Information about the safety of individuals
+- Information about the economic interests of Canada
+- Personal information
+- Third party information
+- Advice about certain aspects of operations of government
+- Information about testing procedures, tests, and audits
+- Information that is subject to solicitor-client privilege
+- Information that is subject to statutory prohibitions
+- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
+- Confidences of the Queen’s Privy Council for Canada
 
-<p>Where feasible, this information should be removed from the source code to increase the ability for code to be shared.</p>
+It is highly unlikely that developers would intentionally include such information in their source code. As a result, source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the items listed above.
 
-</details>  
+Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
 
 ## Procedures and Guidance for Open Source Software
 
