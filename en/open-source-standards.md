@@ -12,6 +12,11 @@ Prior to any form of development or acquisition, it is important that a Concept 
 
 The Concept Case should clearly define the Business Requirement driving the project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. 
 
+The Directive on [Policy on the Planning and Management of Investments, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) provides Mandatory Procedures for Concept Cases for Digital Projects. While the Directive only applies to projects over a certain dollar threshold, it is important to note that the vast majority of Agile Project Management Frameworks begin with an artifact that matches a Concept Case such as a Project Vision or Project Objectives.
+
+<details>
+    <summary>Evaluating Requirements</summary>
+
 ### Evaluate Requirements
 Technical and Functional requirements cannot be used as justification for the purpose of evaluation of Open Source Software to proprietary Software, only Business requirements.
 
@@ -72,29 +77,16 @@ It is highly unlikely that developers would intentionally include such informati
 
 Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
 
+</details>
+
 ## Procedures and Guidance for Open Source Software
 
-- [Procurement of Open Source](guides/procurement-of-open-source.md)
+- [Prior to Starting](guides/prior-to-starting.md)
 - [Use of Open Source Software](guides/using-open-source-software.md)
 - [Contribution to Open Source Software](guides/contributing-to-open-source-software.md)
 - [Publication of Open Source Code](guides/publishing-open-source-code.md)
 
 ## Definitions
-
-### Business Requirement
-
-A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level.
-
-### Functional Requirement
-
-A Functional Requirement is defined as a more specific lower level needs in order to achieve an objective. These drive the element of 'what' for a project defining the specific details. 
-
-### Technical Requirement
-
-A Technical Requirement is defined as an architectural decision to support an objective. These drive the element of 'how' for a project defining the architecture of the software and how it should interface with other systems and software.
-
-### Source Code
-Computer program in its original programming language, human readable, before translation into object code usually by a compiler or an interpreter. It consists of algorithms, computer instructions and may include developer's comments.
 
 ### Open Source
 
@@ -129,6 +121,21 @@ The license must not place restrictions on other software that is distributed al
 
 10. License Must Be Technology-Neutral
 No provision of the license may be predicated on any individual technology or style of interface.
+
+### Business Requirement
+
+A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level.
+
+### Functional Requirement
+
+A Functional Requirement is defined as a more specific lower level needs in order to achieve an objective. These drive the element of 'what' for a project defining the specific details. 
+
+### Technical Requirement
+
+A Technical Requirement is defined as an architectural decision to support an objective. These drive the element of 'how' for a project defining the architecture of the software and how it should interface with other systems and software.
+
+### Source Code
+Computer program in its original programming language, human readable, before translation into object code usually by a compiler or an interpreter. It consists of algorithms, computer instructions and may include developer's comments.
 
 ### Proprietary Software
 This refers to all Software not considered Open Source Software, copyrighted and traditionally governed by extensive terms and conditions.
