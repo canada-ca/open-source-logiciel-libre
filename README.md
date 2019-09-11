@@ -10,15 +10,15 @@ The Government of Canada has been using Open Source Software as part of its tech
 As part of its commitment to become a Digital Government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences.
 It is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness.
 
-# Other Information
+## Other Information
 
 For the purpose of the current drafts, the Standard template has been chosen to start the discussion. The final format may vary.
 
-### English Content
+## English Content
 
 * [OSS Standards](en/open-source-standards.md)
 
-### Translation
+## Translation
 
 During this drafting period, translation is being done manually and continuously by contributors as well as with the following tools and services:
 
@@ -28,7 +28,7 @@ During this drafting period, translation is being done manually and continuously
 
 Official translation will be done once a first version is completed.
 
-### References
+## References
 
 * Canada
   * Government of Canada: [Directive on Management of Information Technology (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#appC)
@@ -52,7 +52,7 @@ Official translation will be done once a first version is completed.
 
 ---
 
-## Logiciels libres
+# Logiciels libres
 
 **Ébauche** des exigences et guides liés à l'utilisation, à la contribution et la création des logiciels libres et des normes ouvertes au Gouvernement du Canada.
 
@@ -60,14 +60,14 @@ Le gouvernement du Canada utilise les logiciels libres dans le cadre de son éco
 
 Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commencer la discussion. Le format final pourrait changer.
 
-### Contenu français
+## Contenu français
 
 * [Guides](fr/guides)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
   * [Contribution aux logiciels libres](fr/guides/contribution-à-des-logiciels-libres.md)
   * [Publication de code source libre](fr/guides/publication-code-source-ouvert.md)
 
-### Traduction
+## Traduction
 
 Durant la période d'ébauche, la traduction du contenu est faite de façon manuelle et continuelle par les contributrices et les contributeurs ainsi qu'avec l'aide des outils et services suivants:
 
@@ -77,7 +77,7 @@ Durant la période d'ébauche, la traduction du contenu est faite de façon manu
 
 La traduction officielle sera effectuée une fois la première version terminée.
 
-### Références
+## Références
 
 * Canada
   * Gouvernement du Canada: [Directive sur la gestion des technologies de l'information (§C.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC)
