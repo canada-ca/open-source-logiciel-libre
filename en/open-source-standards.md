@@ -8,7 +8,7 @@ It is committed to doing so in a manner that is compatible with core administrat
 
 ## The Importance of a Concept Case
 
-Prior to any form of option analysis, development or acquisition, it is important that a Concept Case be defined for any problem space. 
+Prior to any form of option analysis, development or acquisition, it is important that a Concept Case be defined for any problem space.
 
 The Concept Case should clearly define the problem or opportunity and Business Requirement driving the potential project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. This will also help the team determine what the future project needs to achieve before taking any substantial work.
 
@@ -48,7 +48,7 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <p>The GC may set its requirements such that the Software be available for distribution to anyone of its choice to ensure that other crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example the federal crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.</p>
 
-</details>   
+</details>
 
 <br/>
 
@@ -132,7 +132,7 @@ A Business Requirement is defined as a specific need that must be addressed in o
 
 ### Functional Requirement
 
-A Functional Requirement is defined as a more specific lower level needs in order to achieve an objective. These drive the element of 'what' for a project defining the specific details. 
+A Functional Requirement is defined as a more specific lower level needs in order to achieve an objective. These drive the element of 'what' for a project defining the specific details.
 
 ### Technical Requirement
 
