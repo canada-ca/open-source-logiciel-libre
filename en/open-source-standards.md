@@ -138,9 +138,11 @@ A Functional Requirement is defined as a more specific lower level needs in orde
 A Technical Requirement is defined as an architectural decision to support an objective. These drive the element of 'how' for a project defining the architecture of the software and how it should interface with other systems and software.
 
 ### Source Code
+
 Computer program in its original programming language, human readable, before translation into object code usually by a compiler or an interpreter. It consists of algorithms, computer instructions and may include developer's comments.
 
 ### Proprietary Software
+
 This refers to all Software not considered Open Source Software, copyrighted and traditionally governed by extensive terms and conditions.
 
 ### Crown Institution
