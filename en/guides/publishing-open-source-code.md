@@ -37,7 +37,7 @@ Similar to open data or information covered by the [Directive on Open Government
 
 That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage the release of open source code.
 
-## Obtain Rights to Custom Code in Contracts 
+## Obtain Rights to Custom Code in Contracts
 
 The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.

@@ -75,14 +75,14 @@ That person may vary according to your department and delegation should be encou
 
 ### Identify as an employee of the Government of Canada
 
-In order to contribute, it may be required that you set up an account with the site or platform where the project you want to contribute to is hosted. 
-This should clearly identify you as an employee of the Government of Canada since you would be contributing back as such. 
+In order to contribute, it may be required that you set up an account with the site or platform where the project you want to contribute to is hosted.
+This should clearly identify you as an employee of the Government of Canada since you would be contributing back as such.
 If there is an option to have your organization listed on the project, it would be beneficial to do so as well.
 
 Currently, it is recommended that employees use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment as this is the primary way of identifying your work.
 Some services allow you to list multiple email addresses, others may require you to set up a new account for official contributions.
 
-**Note**: this provision is related to the [Public Servant Invention Act](https://laws-lois.justice.gc.ca/eng/acts/P-32/FullText.html#h-3), section 3. 
+**Note**: this provision is related to the [Public Servant Invention Act](https://laws-lois.justice.gc.ca/eng/acts/P-32/FullText.html#h-3), section 3.
 Additional clarification as to the means of identifying as an employee of the GC without requiring the email address in commits will need to be sought to ease the process and your organization may already have its own guidance around this topic.
 
 ### Submit changes
