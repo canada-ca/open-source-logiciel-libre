@@ -191,7 +191,7 @@ The [Open Source Initiative approved licenses](https://opensource.org/licenses/a
 
 ## Register to Open Resource Exchange
 
-Departments are encouraged to add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/open-source-software.html).
+Departments are encouraged to add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html).
 
 The goal of this platform is to help find other departments that have successfully used open source software as part of the production environment and create ties with the open source communities around them.
 
