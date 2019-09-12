@@ -215,7 +215,7 @@ Contributions are made under the same license under which the project is release
 
 #### Open Resource Exchange
 
-It is highly recommended that departments add a link to their projects' source code repositories on the [Open Source Code section of the Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-code.html).
+It is highly recommended that departments add a link to their projects' source code repositories on the [Open Source Code section of the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html).
 This will help raise visibility to all the projects managed by the GC and potentially increase collaboration.
 
 Instructions for how to update the data can be found on [GitHub](https://github.com/canada-ca/ore-ero/tree/master/_data).
