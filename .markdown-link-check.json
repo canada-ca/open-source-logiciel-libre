@@ -2,6 +2,9 @@
   "ignorePatterns": [
     {
       "pattern": "mailto:Vivian.Nobrega@tbs-sct.gc.ca,Nick.Schonning@tbs-sct.gc.ca&subject=OSS%20Directive%20LL"
+    },
+    {
+      "pattern": "https://gccode.ssc-spc.gc.ca/"
     }
   ]
 }
