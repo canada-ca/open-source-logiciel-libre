@@ -15,7 +15,7 @@ The steps for GC to use open source software are:
 
 ## Actively and Fairly Consider Open Source Software
 
-Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit,  transition and support costs.
+Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit, transition, and support costs.
 
 ### Be Aware of Open Core
 
