@@ -36,7 +36,7 @@ Official translation will be done once a first version is completed.
     * [Policy concerning the use and development of Open Source Software and Hardware](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md#english-version)
     * [Directive on contributing to an Open Source Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/ContributionAProjetLibre.md#english-version)
     * [Directive on Publication and Maintenance of an Open-Source Municipal Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/PublicationProjetVille.md#english-version)
-* France (EN): [DINSIC Open-source contribution policy](https://disic.github.io/politique-de-contribution-open-source/en/)
+* France (EN): [DINSIC Open-source contribution policy](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
   * Government Digital Services (EN): [Guidelines](http://gds-operations.github.io/guidelines/)
 * United States of America (EN):
