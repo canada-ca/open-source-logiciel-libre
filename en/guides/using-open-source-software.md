@@ -72,8 +72,6 @@ All software licensed under an [Open Source Initiative approved license](https:/
 
 However if the software needs to be modified, the following considerations should be discussed with the appropriate stakeholders (i.e end users, project managers, legal services) and applied to help identify what licences terms and conditions the department is willing to approve.
 
-<!-- markdownlint-disable MD006 -->
-<!-- markdownlint-disable MD029 -->
 1. Are there any reasons that would prevent the release of the modified source code?
    * No: Subject to the considerations above, you can accept any OSI approved licence or FSF free software licence. See [Use Open Source Software With Modifications](#use-open-source-software-with-modifications).
    * Yes: See 2.
@@ -83,8 +81,6 @@ However if the software needs to be modified, the following considerations shoul
 3. Is the modified application going to be distributed externally, outside the GC, either the source code or the binary?
    * No: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence.
    * Yes: Subject to the considerations above, you  can accept any OSI approved licence or FSF free software licence **except** [Reciprocal Licences](#reciprocal-licences). Use only [Permissive Licences](#permissive-licences).
-<!-- markdownlint-enable MD006 -->
-<!-- markdownlint-enable MD029 -->
 
 Additional consultation with legal and engineering teams should be done for scenarios where the open source software is used as a component of custom development (e.g.: dynamic vs static linking, etc.) to ensure licence compatibility.
 
