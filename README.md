@@ -16,7 +16,7 @@ For the purpose of the current drafts, the Standard template has been chosen to 
 
 ## English Content
 
-* [OSS Standards](en/open-source-standards.md)
+* [Open Source Standards](en/open-source-standards.md)
 
 ## Translation
 

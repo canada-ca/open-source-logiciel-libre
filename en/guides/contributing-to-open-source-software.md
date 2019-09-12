@@ -69,7 +69,7 @@ This should not be intended to curtail open-source contribution, but only to all
 
 Similar to open data or information covered by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108), the publication of source code under an open source software licence, requires appropriate department or agency approvals.
 
-That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage contribution to 3rd party OSS projects.
+That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage contribution to 3rd party Open Source projects.
 
 ## Contribute to the project
 

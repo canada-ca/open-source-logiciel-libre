@@ -56,7 +56,7 @@ User documentation provides important information to help users install software
 
 #### Security Assessments
 
-Although OSS code is auditable, this does not necessarily mean it is secure.
+Although Open Source code is auditable, this does not necessarily mean it is secure.
 The quality of the code and the typical response time for patching security-related flaws help indicate the security maturity level of the software.
 
 As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly­.
@@ -66,7 +66,7 @@ As per any software, you should maintain best practices and have a process in pl
 Whenever the Crown is contemplating acquiring software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
 The software is usually provided 'as-is' meaning the community will not accept liability or provide any financial compensation to the Crown for service interruption, loss of data, or loss of confidentiality.
-As such, you should consider the software obtained under an OSS licence with the same responsibility lenses as if you had written it.
+As such, you should consider the software obtained under an Open Source licence with the same responsibility lenses as if you had written it.
 
 All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered open source software and, where its use is possible in accordance with this Guide, can be used by the GC [without modifications](#use-open-source-software-without-modification).
 
