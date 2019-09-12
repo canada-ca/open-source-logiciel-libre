@@ -14,8 +14,6 @@ var files = glob.sync("**/*.md", {ignore: ["node_modules/**/*.md"]})
 var config = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
 config.timeout = '30s'
 
-var opts = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
-
 files.forEach(function(file) {
   var markdown = fs.readFileSync(file).toString();
   let opts = Object.assign({}, config);
