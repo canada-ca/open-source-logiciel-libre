@@ -60,7 +60,7 @@ Departments or agencies are able to release code developed as a result of a Crow
 
 ## Select Open Source Software Licence
 
-When the project is part of a larger open source software community, like plugins, modules, extensions or derivative works of existing open source software, it is highly recommended to use the license which is usually used by the community.
+When the project is part of a larger open source software community, like plugins, modules, extensions, or derivative works of existing open source software, it is highly recommended to use the license which is usually used by the community.
 
 When the project is started by the GC itself and isn't related to an external community, the choice of the open source licence has to be based off of the licences of the components (3rd party libraries and framework) you will use and the desired outcome.
 
