@@ -8,7 +8,7 @@ It is committed to doing so in a manner that is compatible with core administrat
 
 ## The Importance of a Concept Case
 
-Prior to any form of option analysis, development or acquisition, it is important that a Concept Case be defined for any problem space.
+Prior to any form of option analysis, development, or acquisition, it is important that a Concept Case be defined for any problem space.
 
 The Concept Case should clearly define the problem or opportunity and Business Requirement driving the potential project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. This will also help the team determine what the future project needs to achieve before taking any substantial work.
 
