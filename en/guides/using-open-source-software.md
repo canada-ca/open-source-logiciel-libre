@@ -7,7 +7,7 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 The steps for GC to use open source software are:
 
 1. [Actively and Fairly Consider Open Source Software](#actively-and-fairly-consider-open-source-software)
-2. [Verify Open Source Software Licence](#verify-open-source-software-licence)
+2. [Verify Open Source Software Ownership or Licence](#verify-open-source-software-ownership-or-licence)
 3. [Evaluate Support Options](#evaluate-support-options)
 4. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
 5. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
@@ -22,7 +22,7 @@ Be aware that open source software is not completely free, so take into account 
 A solution that is built with open source software but requires the use of closed-source components should not be considered open source software for the purpose of this guide.
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings, as well as the model where a user such as Canada augments already licenced proprietary software with open source software.
 The "free" open source software versions often referred to as "community" editions are recommended first.
-See [Verify Open Source Software Ownership Or Licence](#verify-open-source-software-licence).
+See [Verify Open Source Software Ownership or Licence](#verify-open-source-software-licence).
 
 ### Selecting Open Source Software First
 
@@ -59,7 +59,7 @@ User documentation provides important information to help users install software
 Although OSS code is auditable, this does not necessarily mean it is secure.
 The quality of the code and the typical response time for patching security-related flaws help indicate the security maturity level of the software.
 
-As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly­.
+As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly.
 
 ## Verify Open Source Software Ownership or Licence
 
