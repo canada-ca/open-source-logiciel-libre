@@ -3,7 +3,7 @@
 The Directive on Management of Information Technology, Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 These align with the Digital Standards and requirement C.2.3.8 of the Mandatory Procedures for Architecture Assessment which provide that, where possible, open source software be used first.
 
-It is important to note that the Procurement of Open Source software consists of any form of Software use or creation that would otherwise result in the exchange of monetary value greater then $40,000 or by nature of the work would be contracted for in such a way that it would be in the public interest to solicit bids. This includes but is not limited to tendering support services, replacing major proprietary products, and work involving contracted firms.
+It is important to note that the Procurement of Open Source software consists of any form of Software use or creation that would otherwise result in the exchange of monetary value greater than $40,000 or by nature of the work would be contracted for in such a way that it would be in the public interest to solicit bids. This includes but is not limited to tendering support services, replacing major proprietary products, and work involving contracted firms.
 
 In the event that Open Source Software has already been procured, or is not bound by Trade Contract Laws move to the ‘Using Open Source Software’ section.
 
