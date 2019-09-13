@@ -44,7 +44,7 @@ Contributors Licence Agreements (CLA) are contracts that some project owners req
 
 Since these may be complex and have many various clauses, it is highly recommended to seek legal counsel before agreeing to these additional contractual obligations.
 
-In general, it is not a problem to contribute to a project that has a CLA in place but additional analysis is best practice. Some projects are moving away from these complex contracts to remove the barrier they create around external contributions in favor of Developer's Certificate of Origin.
+In general, it is not a problem to contribute to a project that has a CLA in place but additional analysis is best practice. Some projects are moving away from these complex contracts to remove the barrier they create around external contributions in favour of Developer's Certificate of Origin.
 
 ### Developer's Certificate of Origin
 
