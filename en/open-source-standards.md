@@ -15,42 +15,41 @@ The Concept Case should clearly define the problem or opportunity and Business R
 The Directive on [Policy on the Planning and Management of Investments, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) provides Mandatory Procedures for Concept Cases for Digital Projects. While the Directive only applies to projects over a certain dollar threshold, it is important to note that the vast majority of Agile Project Management Frameworks begin with an artifact that matches a Concept Case such as a Project Vision or Project Objectives.
 
 <details>
-    <summary>Expand Evaluating Requirements</summary>
+<summary>Expand Evaluating Requirements</summary>
 
-<h3>Evaluate Requirements</h3>
-<p>Technical and Functional requirements cannot be used as justification for the purpose of evaluation of Open Source Software to proprietary Software, only Business requirements.</p>
+### Evaluate Requirements
 
-<p>The following are examples of elements that can be taken into consideration in the creation of business requirements, but it's important to remember that procurement rules may require that business requirements permit the bidding of both proprietary and Open Source Software.</p>
+Technical and Functional requirements cannot be used as justification for the purpose of evaluation of Open Source Software to proprietary Software, only Business requirements.
 
-<h4>The Use of International or Canadian Standards</h4>
+The following are examples of elements that can be taken into consideration in the creation of business requirements, but it's important to remember that procurement rules may require that business requirements permit the bidding of both proprietary and Open Source Software.
 
-<p>The GC may set its requirements such that the underlying application conform to International or Canadian Standards, such as but not limited to the official languages requiring Software be available in both official languages.</p>
+#### The Use of International or Canadian Standards
 
-<h4>Flexibility of the License</h4>
+The GC may set its requirements such that the underlying application conform to International or Canadian Standards, such as but not limited to the official languages requiring Software be available in both official languages.
 
-<p>Open Source Software licenses can provide more flexibility then a proprietary license for the product of your concept case.</p>
+#### Flexibility of the License
 
-<p>In the case that Software could be reused, the GC may set its requirement such that the Software being procured be used in subsequent projects in the GC. The licensor can grant such right of re-use as required, but by its nature all Open Source Software would be compliant with this request by default.</p>
+Open Source Software licenses can provide more flexibility then a proprietary license for the product of your concept case.
 
-<h4>Ability to use for any Purpose</h4>
+In the case that Software could be reused, the GC may set its requirement such that the Software being procured be used in subsequent projects in the GC. The licensor can grant such right of re-use as required, but by its nature all Open Source Software would be compliant with this request by default.
 
-<p>The GC may set its requirements such that Software be used for any purpose, having no restrictions in how it can be used, or allow others to use the Software.</p>
+#### Ability to use for any Purpose
 
-<h4>The Ability to Evaluate the Code</h4>
+The GC may set its requirements such that Software be used for any purpose, having no restrictions in how it can be used, or allow others to use the Software.
 
-<p>The GC may set its requirements such that the source-code be available for audit by a third party to identify quality, functionality and security of the Software. </p>
+#### The Ability to Evaluate the Code
 
-<h4>The Alignment with Open Government</h4>
+The GC may set its requirements such that the source-code be available for audit by a third party to identify quality, functionality and security of the Software.
 
-<p>In addition the GC may set its requirements such that the source-code be provided to the public to enable greater transparency and align with <a href="https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html">Open Government principles of the D9</a>. </p>
+#### The Alignment with Open Government
 
-<h4>The Ability to Distribute the Software</h4>
+In addition the GC may set its requirements such that the source-code be provided to the public to enable greater transparency and align with [Open Government principles of the D9](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html).
 
-<p>The GC may set its requirements such that the Software be available for distribution to anyone of its choice to ensure that other crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example the federal crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.</p>
+#### The Ability to Distribute the Software
+
+The GC may set its requirements such that the Software be available for distribution to anyone of its choice to ensure that other crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example the federal crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.
 
 </details>
-
-<br/>
 
 ### Defining Where Appropriate and Where Possible
 
