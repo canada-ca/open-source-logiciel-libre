@@ -142,7 +142,7 @@ A Business Requirement is defined as a specific need that must be addressed in o
 
 ### Functional Requirement
 
-A Functional Requirement is defined as a more specific lower level needs in order to achieve an objective. These drive the element of 'what' for a project defining the specific details.
+A Functional Requirement is defined as a more specific working level need in order to achieve an objective. These drive the element of 'what' for a project defining the specific details and describe a particular function of software or part of it to attain an expected result.
 
 ### Technical Requirement
 
