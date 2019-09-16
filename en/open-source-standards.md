@@ -34,7 +34,7 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>Ability to use for any Purpose</h4>
 
-<p>The GC may set its requirements such that Software be used for any purpose, having no restrictions in how it can be used, or allow others to use the Software.</p>
+<p>Business Requirements may be set such that Software can be used for any purpose, having no restrictions in how it can be used, or allow others to use the Software. OSS terms are most likely to comply with this requirement.</p>
 
 <h4>The Ability to Evaluate the Code</h4>
 
