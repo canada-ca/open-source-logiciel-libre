@@ -92,9 +92,9 @@ Where feasible, this information should be removed from the source code to incre
 
 ## Definitions
 
-### Open Source
+### Open Source Software (OSS)
 
-Open Source is defined by the Government of Canada as any and all Software that meets the following basic requirements:
+Open Source Software is generally, software for which the underlying programming code is available to users to read, change and build new versions of the software incorporating changes. In particular, GC considers that OSS is any Software that meets all the following basic requirements:
 
 1. Free Redistribution
 
