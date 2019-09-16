@@ -154,7 +154,7 @@ Computer program in its original programming language, human readable, before tr
 
 ### Proprietary Software
 
-This refers to all Software not considered Open Source Software, copyrighted and traditionally governed by extensive terms and conditions.
+This refers to all Software that is not Open Source Software as defined above, which is copyrighted and not subject to Open Source Software License terms.
 
 ### Crown Institution
 
