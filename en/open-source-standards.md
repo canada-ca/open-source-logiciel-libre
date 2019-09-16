@@ -28,9 +28,9 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>Flexibility of the License</h4>
 
-<p>Open Source Software licenses can provide more flexibility then a proprietary license for the product of your concept case.</p>
+<p>Open Source Software licenses can provide more flexibility than a proprietary license for a digital project’s deliverables.</p>
 
-<p>In the case that Software could be reused, the GC may set its requirement such that the Software being procured be used in subsequent projects in the GC. The licensor can grant such right of re-use as required, but by its nature all Open Source Software would be compliant with this request by default.</p>
+<p>Where the Business Requirement would benefit from the reuse of Software, the GC may acquire Software such that it may  be used in subsequent projects in the GC. A Proprietary Software licensor can grant such right of re-use upon request, but by its nature, all Open Source Software is reusable and therefore compliant with this request by default.</p>
 
 <h4>Ability to use for any Purpose</h4>
 
