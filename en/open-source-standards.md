@@ -140,6 +140,10 @@ Open Source Software is generally, software for which the underlying programming
 
 A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level.
 
+### Concept Case
+
+A Concept Case means the creation of a case for a digital project (formerly known as IT-enabled projects) or initiative in accordance with Appendix C of Canada’s Policy on the Planning and Management of Investments, with the value of the digital project in Appendix C.2.2 calculated to include all project investments for software, servicing and professional services associated with a digital project.  A concept case is an examination of a business problem or opportunity for which a digital project may be established and includes a description of the conceptual future state and intended outcome(s) that are expected to result from the investment.  As such, it must take into account all elements of the digital project costed over its life cycle.
+
 ### Functional Requirement
 
 A Functional Requirement is defined as a more specific working level need in order to achieve an objective. These drive the element of 'what' for a project defining the specific details and describe a particular function of software or part of it to attain an expected result.
