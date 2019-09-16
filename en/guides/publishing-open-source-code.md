@@ -146,7 +146,7 @@ Departments are also encouraged to use Git to manage their source code internall
 
 Before publishing, source code should include the following file:
 
-- a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under under which the source code is released;
+- a `LICENCE` (see [Select Open Source Software Licence](#select-open-source-software-licence)) file containing a copy of the licence under which the source code is released;
 
 By default, a project without an open source licence applied to it would only be released under the Crown Copyright.
 
