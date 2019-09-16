@@ -46,7 +46,7 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>The Ability to Distribute the Software</h4>
 
-<p>The GC may set its requirements such that the Software be available for distribution to anyone of its choice to ensure that other crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example the federal crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.</p>
+<p>Business requirements may be set such that the Software be available for distribution to anyone of its choice to ensure that other Crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example, the federal Crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions.</p>
 
 </details>
 
