@@ -24,7 +24,7 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>The Use of International or Canadian Standards</h4>
 
-<p>The GC may set its requirements such that the underlying application conform to International or Canadian Standards, such as but not limited to the official languages requiring Software be available in both official languages.</p>
+<p>Business Requirements may dictate that the underlying application should conform to International or Canadian Standards, such as but not limited to requirement that the official languages requiring Software be available in both official languages.</p>
 
 <h4>Flexibility of the License</h4>
 
