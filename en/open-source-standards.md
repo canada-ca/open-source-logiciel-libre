@@ -138,7 +138,7 @@ Open Source Software is generally, software for which the underlying programming
 
 ### Business Requirement
 
-A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level.
+A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level. In the Context of OSS, this means fulfilling Canada’s requirement to have the rights to use the software being acquired for a particular purpose, such as redistributing or carrying out modifications to software.
 
 ### Concept Case
 
