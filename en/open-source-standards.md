@@ -38,11 +38,11 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>The Ability to Evaluate the Code</h4>
 
-<p>The GC may set its requirements such that the source-code be available for audit by a third party to identify quality, functionality and security of the Software. </p>
+<p>The GC may set its requirements such that the source code be available for audit by a third party to identify quality, functionality and security of the Software. </p>
 
 <h4>The Alignment with Open Government</h4>
 
-<p>In addition the GC may set its requirements such that the source-code be provided to the public to enable greater transparency and align with <a href="https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html">Open Government principles of the D9</a>. </p>
+<p>In addition the GC may set its requirements such that the source code be provided to the public to enable greater transparency and align with <a href="https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html">Open Government principles of the D9</a>. </p>
 
 <h4>The Ability to Distribute the Software</h4>
 
