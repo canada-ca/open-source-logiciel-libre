@@ -6,11 +6,15 @@ The Government of Canada (GC) has been using Open Source Software (OSS) as part 
 As part of the commitment to become a digital government, GC will endeavour to contribute OSS back to external projects, as well as release its own source code under Open Source Software licences.
 It is committed to doing so in a manner that is compatible with principles of transparency, accountability, and procedural fairness, and within the structures of existing policy and law.
 
-## The Importance of a Concept Case
+## The Importance of a Concept Case and Business Requirement
 
-Prior to any form of option analysis, development, or acquisition, it is important that a Concept Case be defined for any problem space.
+Prior to any form of development or acquisition, Business Owners should define both a Concept Case and a Business Requirement for any digital project.
 
-The Concept Case should clearly define the problem or opportunity and Business Requirement driving the potential project, this helps ensure that the GC follows current Trade Laws and has evidence in the event of a Trade Tribunal Complaint. This will also help the team determine what the future project needs to achieve before taking any substantial work.
+A Concept Case identifies the key information on which a potential future digital project should be predicated, and should be completed before the Business Requirement is formed.
+
+A Business Requirement is different from, and larger than, a digital project’s Functional Requirements or Technical Requirements alone.  A Functional Requirement defines a particular function of software in order to obtain a result, and addresses a more specific working level need. A Technical Requirement defines a capability or the attributes needed to work with other software, and expresses the larger architectural decision to support the project.
+
+The Business Requirement includes consideration of both the Functional and Technical Requirements, but also other overall elements, in order to address the nature, purpose and needs of the digital project at a high level, As a result, the Business Requirement will dictate the path for software acquisition and development, and Technical and Functional Requirements cannot be used alone as justification for the purposes of an evaluation of the benefits of Open Source Software or Proprietary Software.
 
 The Directive on [Policy on the Planning and Management of Investments, Appendix C](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) provides Mandatory Procedures for Concept Cases for Digital Projects. While the Directive only applies to projects over a certain dollar threshold, it is important to note that the vast majority of Agile Project Management Frameworks begin with an artifact that matches a Concept Case such as a Project Vision or Project Objectives.
 
