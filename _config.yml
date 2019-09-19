@@ -1,1 +1,107 @@
-theme: jekyll-theme-minimal
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+baseurl: "/open-source-logiciel-libre" # the subpath of your site, e.g. /blog
+url: "https://canada-ca.github.io/open-source-logiciel-libre" # the base hostname & protocol for your site
+github_username: canada-ca
+
+wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
+wet_cdts_version: "v4_0_31"
+
+# Build settings
+markdown: kramdown
+include: [
+  "en",
+  "fr",
+  "index.html"
+]
+exclude: [
+  "README.md",
+  "CONTRIBUTING.md",
+  "LICENSE.md",
+  "*.json",
+  "link-check.js",
+  "Gemfile",
+  "Gemfile.lock"
+]
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      type: "pages"
+  -
+    scope:
+      path: "en/*"
+    values:
+      lang: "en"
+      layout: "default"
+  -
+    scope:
+      path: "en/open-source-standards.md"
+    values:
+      ref: "home"
+  -
+    scope:
+      path: "en/guides/prior-to-starting.md"
+    values:
+      ref: "starting"
+  -
+    scope:
+      path: "en/guides/using-open-source-software.md"
+    values:
+      ref: "using"
+  -
+    scope:
+      path: "en/guides/contributing-to-open-source-software.md"
+    values:
+      ref: "contributing"
+  -
+    scope:
+      path: "en/guides/publishing-open-source-code.md"
+    values:
+      ref: "publishing"
+  -
+    scope:
+      path: "fr/*"
+    values:
+      lang: "fr"
+      layout: "default"
+  -
+    scope:
+      path: "en/open-source-standards.md"
+    values:
+      ref: "home"
+  -
+    scope:
+      path: "en/guides/prior-to-starting.md"
+    values:
+      ref: "starting"
+  -
+    scope:
+      path: "fr/guides/utilisation-logiciels-libres.md"
+    values:
+      ref: "using"
+  -
+    scope:
+      path: "fr/guides/contribution-à-des-logiciels-libres.md"
+    values:
+      ref: "contributing"
+  -
+    scope:
+      path: "fr/guides/publication-code-source-ouvert.md"
+    values:
+      ref: "publishing"
+
+optional_front_matter:
+  remove_originals: true

@@ -1,0 +1,104 @@
+---
+head:
+  title:
+    en: &title_en Open Source Software
+    fr: &title_fr Logiciels libres
+  description:
+    en: Treasury Board of Canada Secretariat’s draft standards to support the implementation of Treasury Board policy requirements related to open source use, contribution, and creation.
+    fr: Ébauche des exigences et guides liés à l'utilisation, à la contribution et la création des logiciels libres au Gouvernement du Canada.
+  home:
+    en: Home
+    fr: Accueil
+  skipToMain:
+    en: Skip to main content
+    fr: Passer au contenu principal
+  skipToAbout:
+    en: Skip to "About this site"
+    fr: Passer à « À propos de ce site »
+  languageSelection:
+    en: Language selection
+    fr: Sélection de la langue
+  searchAndMenus:
+    en: Menus
+    fr: Menus
+  youarehere:
+    en: You are here
+    fr: Vous êtes ici
+
+nav:
+  home:
+    en: *title_en
+    fr: *title_fr
+    link:
+      en: /en/open-source-standards.html
+      fr: /en/open-source-standards.html
+  starting:
+    en: Guide for Open Source Software Acquisition
+    fr: Code source ouvert
+    link:
+      en: /en/guides/prior-to-starting.html
+      fr: /en/guides/prior-to-starting.html
+  using:
+    en: Use of Open Source Software
+    fr: Guide sur l'utilisation des logiciels libres
+    link:
+      en: /en/guides/using-open-source-software.html
+      fr: /fr/guides/utilisation-logiciels-libres.html
+  contributing:
+    en: Contribution to Open Source Software
+    fr: Guide sur la contribution à des logiciels libres
+    link:
+      en: /en/guides/contributing-to-open-source-software.html
+      fr: /fr/guides/contribution-à-des-logiciels-libres.html
+  publishing:
+    en: Publication of Open Source Code
+    fr: Guide sur la publication de code source ouvert
+    link:
+      en: /en/guides/publishing-open-source-code.html
+      fr: /fr/guides/publication-code-source-ouvert.html
+  Canada:
+    en: Government of Canada
+    fr: Gouvernement du Canada
+    link:
+      en: https://www.canada.ca/en.html
+      fr: https://www.canada.ca/fr.html
+
+footer:
+  AboutGovernment:
+    en: About government
+    fr: Au sujet du gouvernement
+  AboutSite:
+    en: About this site
+    fr: À propos du site
+  Nav:
+    Canada:
+      en:
+        link: https://www.canada.ca/en.html
+        title: Canada.ca
+      fr:
+        link: https://www.canada.ca/fr.html
+        title: Canada.ca
+    Terms:
+      en:
+        link: https://www.canada.ca/en/transparency/terms.html
+        title: Terms and conditions
+      fr:
+        link: https://www.canada.ca/fr/transparence/avis.html
+        title: Avis
+    Privacy:
+      en:
+        link: https://www.canada.ca/en/transparency/privacy.html
+        title: Privacy
+      fr:
+        link: https://www.canada.ca/fr/transparence/confidentialite.html
+        title: Confidentialité
+  TopOfPage:
+    en: Top of Page
+    fr: Haut de la page
+  Logo:
+    en: Symbol of the Government of Canada
+    fr: Symbole du gouvernement du Canada
+
+language:
+  en: English
+  fr: Français

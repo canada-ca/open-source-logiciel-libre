@@ -1,0 +1,58 @@
+<ul id="wb-tphp">
+  <li class="wb-slc"><a class="wb-sl" href="#wb-cont">{{ site.data.i18n.general.head.skipToMain[page.lang] }}</a></li>
+  <li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">{{ site.data.i18n.general.head.skipToAbout[page.lang] }}</a></li>
+</ul>
+
+<header>
+  <div id="wb-bnr" class="container">
+    <section id="wb-lng" class="visible-md visible-lg text-right">
+      <h2 class="wb-inv">{{ site.data.i18n.general.head.languageSelection[page.lang] }}</h2>
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list-inline margin-bottom-none">
+          {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
+          {%- for my_page in pages -%}
+            {%- if my_page.lang != page.lang %}
+            <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ site.baseurl }}{{ site.data.i18n.general.nav.[my_page.ref].link[my_page.lang] }}">{{ site.data.i18n.general.language[my_page.lang] }}</a></li>
+            {%- endif -%}
+          {%- endfor %}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <div class="row">
+      <div class="brand col-xs-8 col-sm-9 col-md-6">
+        <a href="{{ site.data.i18n.general.nav.Canada.link[page.lang] }}">
+          <img src="{{ site.wet_cdts_hosturl }}/{{ site.wet_cdts_version }}/assets/sig-blk-{{ page.lang }}.svg" alt="{{ site.data.i18n.general.nav.Canada.en }} / {{ site.data.i18n.general.nav.Canada.fr }}">
+          <span class="wb-inv"> {{ site.data.i18n.general.nav.Canada.en }} / <span lang="fr">{{ site.data.i18n.general.nav.Canada.fr }}</span></span>
+        </a>
+      </div>
+
+      <section class="wb-mb-links col-xs-4 col-sm-3 visible-sm visible-xs" id="wb-glb-mn">
+        <h2>{{ site.data.i18n.general.head.searchAndMenus[page.lang] }}</h2>
+        <ul class="list-inline text-right chvrn">
+          <li><a href="#mb-pnl" title="{{ site.data.i18n.general.head.searchAndMenus[page.lang] }}" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">{{ site.data.i18n.general.head.searchAndMenus[page.lang] }}</span></span></a></li>
+        </ul>
+        <div id="mb-pnl"></div>
+      </section>
+    </div>
+  </div>
+
+  <nav class="gcweb-menu" typeof="SiteNavigationElement">
+    <div class="container nvbar">
+      <h2 class="wb-inv">Menu</h2>
+      <button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+      <ul role="menu" aria-orientation="vertical">
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{{ site.data.i18n.general.nav.starting.link[page.lang] }}">{{ site.data.i18n.general.nav.starting[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{{ site.data.i18n.general.nav.using.link[page.lang] }}">{{ site.data.i18n.general.nav.using[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{{ site.data.i18n.general.nav.contributing.link[page.lang] }}">{{ site.data.i18n.general.nav.contributing[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{{ site.data.i18n.general.nav.publishing.link[page.lang] }}">{{ site.data.i18n.general.nav.publishing[page.lang] }}</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  {% include breadcrumbs.html %}
+</header>
+
+<main property="mainContentOfPage" class="container">
