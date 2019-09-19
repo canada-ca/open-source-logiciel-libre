@@ -73,8 +73,8 @@ Recommended permissive licences are:
 
 Recommended reciprocal licences are:
 
-|                                          | GPL 3.0 | LGPL 3.0 | AGPL 3.0 |
-| ---------------------------------------- | ------- | -------- | -------- |
+|                                          | GPL 3.0 or later | LGPL 3.0 or later | AGPL 3.0 or later |
+| ---------------------------------------- | ---------------- | ----------------- | ----------------- |
 | **When to use** | Software | Libraries | Web applications and services |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
 
