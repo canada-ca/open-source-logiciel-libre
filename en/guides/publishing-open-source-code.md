@@ -73,10 +73,12 @@ Recommended permissive licences are:
 
 Recommended reciprocal licences are:
 
-|                                          | GPL 3.0 or later | LGPL 3.0 or later | AGPL 3.0 or later |
+|                                          | 'GPL 3.0 or later' | 'LGPL 3.0 or later' | 'AGPL 3.0 or later' |
 | ---------------------------------------- | ---------------- | ----------------- | ----------------- |
 | **When to use** | Software | Libraries | Web applications and services |
 | **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
+
+*'GPL 3.0 or later', 'LGPL 3.0 or later' and 'AGPL 3.0 or later' refer to specific licenses, not a commitment to future licenses.* 
 
 To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Recommended Files](#add-recommended-files). You could also just add the licence text directly in one of your source code file but by making it clearly available at the root of your project, you make it easier for people to find it and some collaboration platforms can automatically display your licence in the web interface.
 
