@@ -86,7 +86,7 @@ Additional consultation with legal and engineering teams should be done for scen
 
 ### Popular and Widely Used Licences
 
-The following is are lists of licences categorized by permissive and reciprocal. For full list refer to Open Source Initiative (OSI) and Free Software Foundation (FSF) Websites.
+The following are lists of licences categorized by permissive and reciprocal. For full list refer to Open Source Initiative (OSI) and Free Software Foundation (FSF) Websites.
 
 ### Permissive Licences
 
