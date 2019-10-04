@@ -38,23 +38,23 @@ In these cases, this investment must be considered by weighing the total cost of
 The same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to open source software.
 Additional criteria should be assessed when evaluating open source software:
 
-#### User Community
+#### 1. User Community
 
 A strong user community involved in a project provides people to answer questions, test the software, report bugs, suggest improvements and drive forward overall interest in the software.
 Look at the software's public code repository and check the project popularity by looking at the number of likes and followers.
 Check how active the project responds to users by looking at issues and the time between replies.
 
-#### Developer Community
+#### 2. Developer Community
 
 A strong developer community with a history of releases and continued involvement tends to demonstrate that fixes and improvements to the software will continue into the future.
 Look at who are the core developers and who is supporting the project and community, such as a non-profit Foundation.
 Look at when the project got started, the pace of releases and responses to requests to merge code from contributors.
 
-#### Documentation
+#### 3. Documentation
 
 User documentation provides important information to help users install software and use its features. Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.
 
-#### Security Assessments
+#### 4. Security Assessments
 
 Although OSS code is auditable, this does not necessarily mean it is secure.
 The quality of the code and the typical response time for patching security-related flaws help indicate the security maturity level of the software.
