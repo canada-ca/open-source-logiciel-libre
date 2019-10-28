@@ -154,7 +154,7 @@ GPLv3: **No** - LGPLv3: **No** - AGPLv3: **Yes**
 
 ###### Collection, including the unchanged original - Distribution of source code
 
-GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No** 
+GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No**
 
 ###### Collection, including the unchanged original - Provision of access over a computer network
 
