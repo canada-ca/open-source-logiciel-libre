@@ -132,31 +132,31 @@ The differences amongst the GPL suite of reciprocal licences illustrate how the 
 
 ##### Derivative work of the original
 
-###### Distribution of source code
+###### Derivative work of the original - Distribution of source code
 
 GPLv3: **Yes** - LGPLv3: **Yes** - AGPLv3: **Yes**
 
-###### Provision of access over a computer network
+###### Derivative work of the original - Provision of access over a computer network
 
 GPLv3: **No** - LGPLv3: **No** - AGPLv3: **Yes**
 
 ##### Derivative work, but only links to original
 
-###### Distribution of source code
+##### Derivative work, but only links to original - Distribution of source code
 
 GPLv3: **Yes** - LGPLv3: **No** - AGPLv3: **Yes**
 
-###### Provision of access over a computer network
+###### Derivative work, but only links to original - Provision of access over a computer network
 
 GPLv3: **No** - LGPLv3: **No** - AGPLv3: **Yes**
 
 ##### Collection, including the unchanged original
 
-###### Distribution of source code
+###### Collection, including the unchanged original - Distribution of source code
 
 GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No** 
 
-###### Provision of access over a computer network
+###### Collection, including the unchanged original - Provision of access over a computer network
 
 GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No**
 
