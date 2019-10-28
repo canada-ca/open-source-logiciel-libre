@@ -69,11 +69,13 @@ When the project is started by the GC itself and isn't related to an external co
 #### MIT
 
 **When to use** Small, simple projects and scripts.
+
 **Licence text** https://opensource.org/licenses/MIT
 
 #### Apache 2.0
 
 **When to use** Larger software project use Apache 2.0 because it provides a grant of patents.
+
 **Licence text** http://www.apache.org/licenses/LICENSE-2.0.txt
 
 ### Recommended reciprocal licences
@@ -83,16 +85,19 @@ When the project is started by the GC itself and isn't related to an external co
 #### 'GPL 3.0 or later'
 
 **When to use** Software
+
 **Licence text** https://www.gnu.org/licenses/gpl-3.0.txt
 
 #### 'LGPL 3.0 or later'
 
 **When to use** Libraries
+
 **Licence text** https://www.gnu.org/licenses/lgpl-3.0.txt
 
 #### 'AGPL 3.0 or later'
 
 **When to use** Web applications and services
+
 **Licence text** https://www.gnu.org/licenses/agpl-3.0.txt
 
 ### Applying a License
@@ -104,15 +109,21 @@ If multiple licences can be applied, choose a licence which matches the goal of 
 #### Permissive
 
 **Beneficiaries of the OSS release** Everyone: maximizes the scope of downstream users and has a broad appeal to the entire private sector... greater flexibility for end users, developers and companies to reuse the software as they see fit, including as part of commercial software.
+
 **Beneficiaries of downstream code changes** The whole community, but only where the business, organization, or individual developer chooses to contribute modifications back under the permissive licence.
+
 **Licence complexity** Often short, simple and understandable (for example, MIT).
+
 **Interoperability** Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences.
 
 #### Reciprocal
 
 **Beneficiaries of the OSS release** Everyone: but only where they are willing to release their software under the same licensing terms that were granted to them. Appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains free and open source software... can also put a focus on benefiting other private-sector businesses that provide services and support.
+
 **Beneficiaries of downstream code changes** The whole community in every case where a business, organization, or individual developer distributes the modifications or contribute modifications back under the reciprocal licence.
+
 **Licence complexity** Relatively long and complex legal jargon (for example AGPL 3.0).
+
 **Interoperability** Reciprocal-licenced code cannot generally be included in a project under any other single licence.
 
 #### Key Differences
