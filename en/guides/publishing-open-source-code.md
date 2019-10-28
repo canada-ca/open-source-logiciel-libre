@@ -132,33 +132,33 @@ The differences amongst the GPL suite of reciprocal licences illustrate how the 
 
 ##### Derivative work of the original
 
-**Distribution of source code**
+###### Distribution of source code
 
-GPLv3: **Yes**<br/>LGPLv3: **Yes**<br/>AGPLv3: **Yes**
+GPLv3: **Yes** - LGPLv3: **Yes** - AGPLv3: **Yes**
 
-**Provision of access over a computer network**
+###### Provision of access over a computer network
 
-GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+GPLv3: **No** - LGPLv3: **No** - AGPLv3: **Yes**
 
 ##### Derivative work, but only links to original
 
-**Distribution of source code**
+###### Distribution of source code
 
-GPLv3: **Yes**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+GPLv3: **Yes** - LGPLv3: **No** - AGPLv3: **Yes**
 
-**Provision of access over a computer network**
+###### Provision of access over a computer network
 
-GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+GPLv3: **No** - LGPLv3: **No** - AGPLv3: **Yes**
 
 ##### Collection, including the unchanged original
 
-**Distribution of source code**
+###### Distribution of source code
 
-GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** 
+GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No** 
 
-**Provision of access over a computer network**
+###### Provision of access over a computer network
 
-GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No**
+GPLv3: **No** - LGPLv3: **No** - AGPLv3: **No**
 
 ### Outbound Rights
 
