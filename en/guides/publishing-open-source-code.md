@@ -64,34 +64,51 @@ When the project is part of a larger open source software community, like plugin
 
 When the project is started by the GC itself and isn't related to an external community, the choice of the open source licence has to be based off of the licences of the components (3rd party libraries and framework) you will use and the desired outcome.
 
-Recommended permissive licences are:
+### Recommended permissive licences
 
-|                                          | MIT | Apache 2.0 |
-| ---------------------------------------- | --- | ---------- |
-| **When to use** | Small, simple projects and scripts. | Larger software project use Apache 2.0 because it provides a grant of patents. |
-| **Licence text** | https://opensource.org/licenses/MIT | http://www.apache.org/licenses/LICENSE-2.0.txt |
+#### MIT
+**When to use** Small, simple projects and scripts.
+**Licence text** https://opensource.org/licenses/MIT
 
-Recommended reciprocal licences are:
+#### Apache 2.0
+**When to use** Larger software project use Apache 2.0 because it provides a grant of patents.
+**Licence text** http://www.apache.org/licenses/LICENSE-2.0.txt
 
-|                                          | 'GPL 3.0 or later' | 'LGPL 3.0 or later' | 'AGPL 3.0 or later' |
-| ---------------------------------------- | ------------------ | ------------------- | ------------------- |
-| **When to use** | Software | Libraries | Web applications and services |
-| **Licence text** | https://www.gnu.org/licenses/gpl-3.0.txt | https://www.gnu.org/licenses/lgpl-3.0.txt | https://www.gnu.org/licenses/agpl-3.0.txt |
+### Recommended reciprocal licences
 
 *'GPL 3.0 or later', 'LGPL 3.0 or later' and 'AGPL 3.0 or later' refer to version 3 of the licenses with the "or later" notice. It is not a commitment to future version of the licenses.*
+
+#### 'GPL 3.0 or later'
+**When to use** Software
+**Licence text** https://www.gnu.org/licenses/gpl-3.0.txt
+
+#### 'LGPL 3.0 or later'
+**When to use** Libraries
+**Licence text** https://www.gnu.org/licenses/lgpl-3.0.txt
+
+#### 'AGPL 3.0 or later'
+**When to use** Web applications and services
+**Licence text** https://www.gnu.org/licenses/agpl-3.0.txt
+
+### Applying a License
 
 To apply to source code, add the text of the chosen licence to a LICENSE.txt file in the root folder of the project. See [Add Recommended Files](#add-recommended-files). You could also just add the licence text directly in one of your source code file but by making it clearly available at the root of your project, you make it easier for people to find it and some collaboration platforms can automatically display your licence in the web interface.
 
 If multiple licences can be applied, choose a licence which matches the goal of the project and its interactions with other projects. This tends to revolve around the decision of whether to apply a permissive or reciprocal licence.
 
-The following chart details other key differences in this decision:
+#### Permissive
+**Beneficiaries of the OSS release** Everyone: maximizes the scope of downstream users and has a broad appeal to the entire private sector... greater flexibility for end users, developers and companies to reuse the software as they see fit, including as part of commercial software.
+**Beneficiaries of downstream code changes** The whole community, but only where the business, organization, or individual developer chooses to contribute modifications back under the permissive licence.
+**Licence complexity** Often short, simple and understandable (for example, MIT).
+**Interoperability** Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences.
 
-|                                          | Permissive | Reciprocal |
-| ---------------------------------------- | ---------- | ---------- |
-| **Beneficiaries of the OSS release** | Everyone: maximizes the scope of downstream users and has a broad appeal to the entire private sector... greater flexibility for end users, developers and companies to reuse the software as they see fit, including as part of commercial software. | Everyone: but only where they are willing to release their software under the same licensing terms that were granted to them. Appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains free and open source software... can also put a focus on benefiting other private-sector businesses that provide services and support. |
-| **Beneficiaries of downstream code changes** | The whole community, but only where the business, organization, or individual developer chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual developer distributes the modifications or contribute modifications back under the reciprocal licence. |
-| **Licence complexity** | Often short, simple and understandable (for example, MIT). | Relatively long and complex legal jargon (for example AGPL 3.0). |
-| **Interoperability** | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
+#### Reciprocal
+**Beneficiaries of the OSS release** Everyone: but only where they are willing to release their software under the same licensing terms that were granted to them. Appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains free and open source software... can also put a focus on benefiting other private-sector businesses that provide services and support.
+**Beneficiaries of downstream code changes** The whole community in every case where a business, organization, or individual developer distributes the modifications or contribute modifications back under the reciprocal licence.
+**Licence complexity** Relatively long and complex legal jargon (for example AGPL 3.0).
+**Interoperability** Reciprocal-licenced code cannot generally be included in a project under any other single licence.
+
+#### Key Differences
 
 The differences amongst the GPL suite of reciprocal licences illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
 

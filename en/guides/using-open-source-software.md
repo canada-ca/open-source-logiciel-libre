@@ -141,9 +141,19 @@ Configuration of software, even through configuration files, are not considered 
 This is also true for combinations of open source software to build a solution or open source software used for development and deployment.
 See examples below:
 
-| Standalone | Combination of components | Development and deployment |
-| ---------- | ------------------------- | -------------------------- |
-| Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform |
+### Standalone
+
+Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. 
+
+### Combination of components
+
+Application and plugins with database and web server
+
+### Development and deployment
+
+Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform
+
+### Guidance
 
 For development or when writing source code, see [Guide for Publishing Open Source Code][guide-publish-oss].
 
