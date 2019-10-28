@@ -130,10 +130,35 @@ If multiple licences can be applied, choose a licence which matches the goal of 
 
 The differences amongst the GPL suite of reciprocal licences illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
 
-|            | **Derivative work of the original** | **Derivative work, but only links to original** | **Collection, including the unchanged original** |
-| ---------- | ---------- | ---------- | ---------- |
-| **Distribution of source code** | GPLv3: **Yes**<br/>LGPLv3: **Yes**<br/>AGPLv3: **Yes** | GPLv3: **Yes**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** |
-| **Provision of access over a computer network** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** |
+##### Derivative work of the original
+
+**Distribution of source code**
+
+GPLv3: **Yes**<br/>LGPLv3: **Yes**<br/>AGPLv3: **Yes**
+
+**Provision of access over a computer network**
+
+GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+
+##### Derivative work, but only links to original
+
+**Distribution of source code**
+
+GPLv3: **Yes**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+
+**Provision of access over a computer network**
+
+GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes**
+
+##### Collection, including the unchanged original
+
+**Distribution of source code**
+
+GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** 
+
+**Provision of access over a computer network**
+
+GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No**
 
 ### Outbound Rights
 
