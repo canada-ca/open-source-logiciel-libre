@@ -143,7 +143,7 @@ See examples below:
 
 ### Standalone
 
-Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. 
+Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), ..
 
 ### Combination of components
 
