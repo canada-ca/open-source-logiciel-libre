@@ -58,6 +58,11 @@ defaults:
       ref: "starting"
   -
     scope:
+      path: "en/guides/guide-for-acquisition.md"
+    values:
+      ref: "acquisition"
+  -
+    scope:
       path: "en/guides/using-open-source-software.md"
     values:
       ref: "using"
@@ -87,6 +92,11 @@ defaults:
       path: "en/guides/importance-of-concept-case.md"
     values:
       ref: "starting"
+  -
+    scope:
+      path: "en/guides/guide-for-acquisition.md"
+    values:
+      ref: "acquisition"
   -
     scope:
       path: "fr/guides/utilisation-logiciels-libres.md"

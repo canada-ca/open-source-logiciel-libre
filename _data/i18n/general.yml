@@ -38,6 +38,12 @@ nav:
     link:
       en: /en/guides/importance-of-concept-case.html
       fr: /en/guides/importance-of-concept-case.html
+  acquisition:
+    en: Guide for Open Source Software Acquisition
+    fr: Guide pour l'acquisition des logiciels libres
+    link:
+      en: /en/guides/guide-for-acquisition.html
+      fr: /en/guides/guide-for-acquisition.html
   using:
     en: Use of Open Source Software
     fr: Guide sur l'utilisation des logiciels libres
