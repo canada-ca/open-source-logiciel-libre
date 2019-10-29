@@ -53,9 +53,14 @@ defaults:
       ref: "home"
   -
     scope:
-      path: "en/guides/prior-to-starting.md"
+      path: "en/guides/importance-of-concept-case.md"
     values:
       ref: "starting"
+  -
+    scope:
+      path: "en/guides/guide-for-acquisition.md"
+    values:
+      ref: "acquisition"
   -
     scope:
       path: "en/guides/using-open-source-software.md"
@@ -73,6 +78,11 @@ defaults:
       ref: "publishing"
   -
     scope:
+      path: "en/guides/definitions.md"
+    values:
+      ref: "definitions"
+  -
+    scope:
       path: "fr/*"
     values:
       lang: "fr"
@@ -84,9 +94,14 @@ defaults:
       ref: "home"
   -
     scope:
-      path: "en/guides/prior-to-starting.md"
+      path: "en/guides/importance-of-concept-case.md"
     values:
       ref: "starting"
+  -
+    scope:
+      path: "en/guides/guide-for-acquisition.md"
+    values:
+      ref: "acquisition"
   -
     scope:
       path: "fr/guides/utilisation-logiciels-libres.md"
@@ -102,6 +117,10 @@ defaults:
       path: "fr/guides/publication-code-source-ouvert.md"
     values:
       ref: "publishing"
+  - scope:
+      path: "en/guides/definitions.md"
+    values:
+      ref: "definitions"
 
 optional_front_matter:
   remove_originals: true

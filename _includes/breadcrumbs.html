@@ -6,12 +6,16 @@
 
       {%- if page.ref == 'starting' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.starting.link[page.lang] }}">{{ site.data.i18n.general.nav.starting[page.lang] }}</a></li>
+      {%- elsif page.ref == 'acquisition' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.acquisition.link[page.lang] }}">{{ site.data.i18n.general.nav.acquisition[page.lang] }}</a></li>
       {%- elsif page.ref == 'using' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.using.link[page.lang] }}">{{ site.data.i18n.general.nav.using[page.lang] }}</a></li>
       {%- elsif page.ref == 'contributing' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.contributing.link[page.lang] }}">{{ site.data.i18n.general.nav.contributing[page.lang] }}</a></li>
       {%- elsif page.ref == 'publishing' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.publishing.link[page.lang] }}">{{ site.data.i18n.general.nav.publishing[page.lang] }}</a></li>
+      {%- elsif page.ref == 'definitions' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.definitions.link[page.lang] }}">{{ site.data.i18n.general.nav.definitions[page.lang] }}</a></li>
       {%- endif -%}
     </ol>
   </div>
