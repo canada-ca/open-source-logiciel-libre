@@ -33,11 +33,11 @@ nav:
       en: /en/open-source-standards.html
       fr: /en/open-source-standards.html
   starting:
-    en: Guide for Open Source Software Acquisition
+    en: The Importance of a Concept Case and Business Requirement
     fr: Code source ouvert
     link:
-      en: /en/guides/prior-to-starting.html
-      fr: /en/guides/prior-to-starting.html
+      en: /en/guides/importance-of-concept-case.html
+      fr: /en/guides/importance-of-concept-case.html
   using:
     en: Use of Open Source Software
     fr: Guide sur l'utilisation des logiciels libres

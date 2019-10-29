@@ -53,7 +53,7 @@ defaults:
       ref: "home"
   -
     scope:
-      path: "en/guides/prior-to-starting.md"
+      path: "en/guides/importance-of-concept-case.md"
     values:
       ref: "starting"
   -
@@ -84,7 +84,7 @@ defaults:
       ref: "home"
   -
     scope:
-      path: "en/guides/prior-to-starting.md"
+      path: "en/guides/importance-of-concept-case.md"
     values:
       ref: "starting"
   -
