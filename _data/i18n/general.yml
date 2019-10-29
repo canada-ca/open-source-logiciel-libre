@@ -33,11 +33,17 @@ nav:
       en: /en/open-source-standards.html
       fr: /en/open-source-standards.html
   starting:
-    en: Guide for Open Source Software Acquisition
+    en: The Importance of a Concept Case and Business Requirement
     fr: Code source ouvert
     link:
-      en: /en/guides/prior-to-starting.html
-      fr: /en/guides/prior-to-starting.html
+      en: /en/guides/importance-of-concept-case.html
+      fr: /en/guides/importance-of-concept-case.html
+  acquisition:
+    en: Guide for Open Source Software Acquisition
+    fr: Guide pour l'acquisition des logiciels libres
+    link:
+      en: /en/guides/guide-for-acquisition.html
+      fr: /en/guides/guide-for-acquisition.html
   using:
     en: Use of Open Source Software
     fr: Guide sur l'utilisation des logiciels libres
@@ -56,6 +62,12 @@ nav:
     link:
       en: /en/guides/publishing-open-source-code.html
       fr: /fr/guides/publication-code-source-ouvert.html
+  definitions:
+    en: Definitions
+    fr: Définitions
+    link:
+      en: /en/guides/definitions.html
+      fr: /en/guides/definitions.html
   Canada:
     en: Government of Canada
     fr: Gouvernement du Canada
