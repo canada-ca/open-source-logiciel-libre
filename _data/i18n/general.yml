@@ -62,6 +62,12 @@ nav:
     link:
       en: /en/guides/publishing-open-source-code.html
       fr: /fr/guides/publication-code-source-ouvert.html
+  definitions:
+    en: Definitions
+    fr: Définitions
+    link:
+      en: /en/guides/definitions.html
+      fr: /en/guides/definitions.html
   Canada:
     en: Government of Canada
     fr: Gouvernement du Canada

@@ -78,6 +78,11 @@ defaults:
       ref: "publishing"
   -
     scope:
+      path: "en/guides/definitions.md"
+    values:
+      ref: "definitions"
+  -
+    scope:
       path: "fr/*"
     values:
       lang: "fr"
@@ -112,6 +117,10 @@ defaults:
       path: "fr/guides/publication-code-source-ouvert.md"
     values:
       ref: "publishing"
+  - scope:
+      path: "en/guides/definitions.md"
+    values:
+      ref: "definitions"
 
 optional_front_matter:
   remove_originals: true
