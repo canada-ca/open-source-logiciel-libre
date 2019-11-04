@@ -245,7 +245,7 @@ It is recommended that the source code be released as early as possible in the p
 The public source code repository is encouraged to be the single source of truth where developers are working.
 The latest code version may not necessarily mean it's the version deployed in production.
 
-### Your In Control
+### You're In Control
 
 When working in the open teams still have control over what makes it into the source code and a chance to review contributions from internal and external developers.
 Access rights can be configured for repositories to ensure only authorized team members can accept changes.
