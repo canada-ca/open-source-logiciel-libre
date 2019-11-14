@@ -1,4 +1,4 @@
-# Definitions
+# Definitions and Terms
 
 ## Defining Where Appropriate and Where Possible
 

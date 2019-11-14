@@ -1,4 +1,4 @@
-# Guide for Publishing Open Source Code (Draft)
+# Guide for Publishing Open Source Code
 
 The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 

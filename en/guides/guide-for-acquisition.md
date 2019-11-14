@@ -1,4 +1,4 @@
-# Guide for Open Source Software Acquisition
+# Acquiring Open Source Software
 
 The Directive on Management of Information Technology, Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
@@ -7,10 +7,6 @@ These align with the Digital Standards and requirement C.2.3.8 of the Mandatory 
 Law and policy applicable to the GC may require that the acquisition of software, software servicing or professional services relating to software be competed through an invitation to suppliers calling for the tender of the goods or services. However, where software can be acquired for free and alone, without any compulsory fees for manuals, media or services, and the Business Requirement substantiates the acquisition of OSS instead of Proprietary Software, the acquisition of such software through download or otherwise without a call for tenders may be possible.
 
 In the event that Open Source Software has already been procured, or is not bound by Trade Contract Laws move to the ‘Using Open Source Software’ section.
-
-The steps for the GC to tender or procure open source software are:
-
-1. [Evaluate Acquisition Principles](#acquisition-principles)
 
 ## Acquisition Principles
 

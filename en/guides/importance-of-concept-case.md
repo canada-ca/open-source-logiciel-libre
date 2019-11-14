@@ -1,4 +1,4 @@
-# The Importance of a Concept Case and Business Requirement
+# Developing a Concept Case for Open Source
 
 Prior to any form of development or acquisition, Business Owners should define both a Concept Case and a Business Requirement for any digital project.
 
