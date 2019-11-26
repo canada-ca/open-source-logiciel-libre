@@ -9,7 +9,7 @@ It is committed to doing so in a manner that is compatible with principles of tr
 ## Procedures and Guidance for Open Source Software
 
 - [Developing a Concept Case for Open Source Solutions](guides/importance-of-concept-case.md)
-- [Aquiring Open Source Software](guides/guide-for-acquisition.md)
+- [Acquiring Open Source Software](guides/guide-for-acquisition.md)
 - [Guide for Using Open Source Software](guides/using-open-source-software.md)
 - [Guide for Contribution to Open Source Software](guides/contributing-to-open-source-software.md)
 - [Guide for Publishing of Open Source Code](guides/publishing-open-source-code.md)

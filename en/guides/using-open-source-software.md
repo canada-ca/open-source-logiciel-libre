@@ -168,7 +168,7 @@ For cases where sharing modifications is mandatory, see [Strong Reciprocal Impli
 
 ### Don't Fork Open Source Software
 
-> **Where possible, use open source software without modification or contribute them back.**
+> **Wherever possible, use open source software without modification or contribute back to the project.**
 
 Use configuration and customize the software with modules, plugins or extensions and make those available to the community.
 See [Guide for Publishing Open Source Code][guide-publish-oss].
