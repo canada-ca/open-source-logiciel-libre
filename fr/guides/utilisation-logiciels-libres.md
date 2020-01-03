@@ -56,19 +56,14 @@ Tous les logiciels sous une [licence approuvée par Open Source Initiative](http
 Toutefois, si le logiciel doit être modifié, les considérations suivantes doivent être abordées avec les intervenants appropriés (c’est-à-dire, les utilisateurs finaux, les gestionnaires de projet, les services juridiques) et appliquées afin de déterminer les conditions de licence que le Ministère est disposé à approuver.
 
 1. Y a-t-il des raisons qui empêcheraient la publication du code source modifié?
-
-* Non : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF. Voir Utiliser les logiciels libres avec modifications.
-* Oui : Voir 2.
-
+   * Non : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF. Voir [Utiliser les logiciels libres avec modifications](#utiliser-les-logiciels-libres-avec-modifications).
+   * Oui : Voir 2.
 2. L’application modifiée sera-t-elle utilisée comme une application Web?
-
-* Oui : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF, à l’exception des licences à forte réciprocité. Voir les licences à forte réciprocité.
-* Non : Voir 3.
-
+   * Oui : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF, à l’exception des licences à forte réciprocité. Voir [les licences à forte réciprocité](#licences-à-forte-réciprocité).
+   * Non : Voir 3.
 3. L’application modifiée sera-t-elle distribuée à l’externe, à l’extérieur du GC, soit le code source ou le code binaire?
-
-* Non : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF.
-* Oui : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF, à l’exception des licences réciproques. Utilisez seulement des licences permissives.
+   * Non : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF.
+   * Oui : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou toute licence de logiciel gratuit de la FSF, à l’exception des [licences réciproques](#licences-réciproques). Utilisez seulement des [licences permissives](#licences-permissives).
 
 Des consultations supplémentaires avec les services juridiques et les équipes de génie devraient être effectuées pour les scénarios où le logiciel libre est utilisé comme un élément d’une conception personnalisée (par exemple : lien dynamique ou statique, etc.) pour assurer la compatibilité de la licence.
 
@@ -120,7 +115,7 @@ Lorsque le développement personnalisé nécessite l’utilisation de développe
 
 ## Utiliser les logiciels libres sans modification
 
-### Utiliser un logiciel libre sans modification n’exige pas que le code soit partagé.
+### Utiliser un logiciel libre sans modification n’exige pas que le code soit partagé
 
 La configuration du logiciel, même par l’intermédiaire des fichiers de configuration, n’est pas considérée comme une modification.
 Cela est également vrai pour les combinaisons de logiciels libres permettant de créer une solution ou un logiciel libre utilisé pour le développement et le déploiement. Voir les exemples ci-dessous.
@@ -143,7 +138,7 @@ Pour le développement ou au moment de la rédaction du code source, consulter l
 
 ## Utiliser les logiciels libres avec modifications
 
-### Utiliser un logiciel libre avec modifications n’est généralement pas considéré comme une distribution et n’exige pas que le code soit partagé.
+### Utiliser un logiciel libre avec modifications n’est généralement pas considéré comme une distribution et n’exige pas que le code soit partagé
 
 Les modifications apportées aux logiciels libres devraient quand même être partagées avec la collectivité pour aider à assurer la viabilité de la solution. Voir le [Guide de contribution aux logiciels libres](contribution-à-des-logiciels-libres.md).
 
@@ -151,7 +146,7 @@ Pour les cas où le partage des modifications est obligatoire, consulter les [r�
 
 ### Ne pas faire de fourche au logiciel libre
 
-### Dans la mesure du possible, utiliser des logiciels libres sans modification ou les contribuer au projet.
+### Dans la mesure du possible, utiliser des logiciels libres sans modification ou les contribuer au projet
 
 Utilisez la configuration et personnaliser le logiciel avec des modules, des plugiciels ou des extensions et rendre ceux-ci disponibles à la collectivité. Voir le [Guide pour la publication du code source libre](publication-code-source-ouvert.md).
 
