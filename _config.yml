@@ -89,17 +89,17 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "en/open-source-standards.md"
+      path: "fr/normes-logiciels-libres.md"
     values:
       ref: "home"
   -
     scope:
-      path: "en/guides/importance-of-concept-case.md"
+      path: "fr/guides/cas-conceptuel-pour-logiciels-libres.md"
     values:
       ref: "starting"
   -
     scope:
-      path: "en/guides/guide-for-acquisition.md"
+      path: "fr/guides/acquerir-logiciels-libres.md"
     values:
       ref: "acquisition"
   -
@@ -118,7 +118,7 @@ defaults:
     values:
       ref: "publishing"
   - scope:
-      path: "en/guides/definitions.md"
+      path: "fr/guides/definitions.md"
     values:
       ref: "definitions"
 
