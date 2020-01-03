@@ -1,4 +1,4 @@
-# Élaborer un cas conceptuel pour Open Source
+# Élaborer un cas conceptuel un logiciel libre
 
 Avant toute forme de développement ou d’acquisition, les propriétaires fonctionnels devraient définir à la fois un cas conceptuel et une exigence opérationnelle pour tout projet numérique.
 
@@ -22,7 +22,7 @@ Les exigences opérationnelles peuvent requérir que la demande sous-jacente soi
 ### Flexibilité de la licence
 
 Les licences de logiciels libres peuvent offrir plus de flexibilité qu’une licence propriétaire pour les produits livrables d’un projet numérique.
-Si l’exigence opérationnel profiterait de la réutilisation du logiciel, le GC peut acquérir un logiciel afin de pourvoir l’utiliser dans des projets ultérieurs au GC. Un titulaire de licence de logiciel propriétaire peut accorder ce droit de réutilisation sur demande, mais par sa nature, tous les logiciels libres sont réutilisables et donc conformes à cette demande par défaut.
+Lorsque l’exigence opérationnelle profiterait de la réutilisation du logiciel, le GC peut acquérir un logiciel afin de pouvoir l’utiliser dans des projets ultérieurs au GC. Un titulaire de licence propriétaire peut accorder ce droit de réutilisation sur demande, mais par sa nature, tous les logiciels libres sont réutilisables et donc conformes à cette demande par défaut.
 
 ### Possibilité d’utiliser à n’importe quel usage
 

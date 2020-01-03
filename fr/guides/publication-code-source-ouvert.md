@@ -2,11 +2,11 @@
 
 La [Directive sur la gestion des technologies de l’information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=D#appC), annexe C, fournit les procédures obligatoires pour l’évaluation de l’architecture intégrée, qui seront utilisées par les Conseils d’examen de l’architecture (CEA) et le CEA intégré du gouvernement du Canada (GC) en tant que cadre d’évaluation pour examiner les initiatives numériques visant à assurer que le GC agit comme unique entreprise et à assurer l’harmonisation ministérielle avec l’orientation numérique du GC.
 
-Ceux-ci s’harmonisent avec les [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence aux points C.2.3.8 et C.2.3.9.5 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#claC.2.3.8), qui prévoient que tous les codes sources doivent être publiés sous une licence de logiciel libre appropriée et lorsqu’il ne l’est pas, il doit être partagé au sein du gouvernement du Canada.
+Ceux-ci s’harmonisent avec les [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence aux points C.2.3.8 et C.2.3.9.5 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#claC.2.3.8), qui prévoient que tous les codes sources doivent être publiés sous une licence libre appropriée et lorsqu’il ne l’est pas, il doit être partagé au sein du gouvernement du Canada.
 
 Par conséquent, il est recommandé que, lorsqu’ils ont le droit de le faire, les ministères publient tout le code source en tant que logiciel libre, que la solution logicielle soit (i) acquise en tant que logiciel libre, (ii) mise au point par les employés du GC à l’interne ou (iii) acquise au moyen des conditions des contrats d’approvisionnement où des conditions de licence appropriées ont été négociées.
 
-Lorsque la divulgation du code en général n’est pas appropriée ou possible, on recommande de commencer par le partage interne du code source à tous les ministères, dans la mesure où les conditions de la licence applicable autorisent ce partage. Il faut veiller à ce que la licence accordée au Canada ne limite pas la distribution de ce code à certains ministères utilisateurs. Cela permettra de rendre le code source prêt à être rendu public à titre de source ouverte, lorsque le Canada aura reçu ce droit.
+Lorsque la divulgation du code en général n’est pas appropriée ou possible, on recommande de commencer par le partage interne du code source à tous les ministères, dans la mesure où les conditions de la licence applicable autorisent ce partage. Il faut veiller à ce que la licence accordée au Canada ne limite pas la distribution de ce code à certains ministères utilisateurs. Cela permettra de rendre le code source prêt à être rendu public à titre de logiciel libre, lorsque le Canada aura reçu ce droit.
 
 Voici les étapes à suivre pour publier le code source du GC :
 
@@ -25,15 +25,15 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
 
-Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tous les nouveaux codes source conçus dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
+Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tout le nouveau code source conçu dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
 
-Conformément à la vision pour un gouvernement ouvert, les équipes devraient par défaut considérer adapter leurs processus afin de se développer en tant que source ouverte dès le début des projets afin de réduire les coûts indirects liés à la publication ultérieure de leur code source.
+Conformément à la vision pour un gouvernement ouvert, les équipes devraient par défaut considérer adapter leurs processus afin de développer sous source libre dès le début des projets afin de réduire les coûts indirects liés à la publication ultérieure de leur code source.
 
 Il a également été constaté que cela améliore la qualité du code développé et encourage la collaboration.
 
 ### Ministère
 
-Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence de logiciel libre exige les approbations du bon ministère ou organisme.
+Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence libre exige les approbations du bon ministère ou organisme.
 Cette personne peut varier en fonction du ministère et la délégation devrait être encouragée au niveau le plus bas possible pour encourager la publication du code source libre.
 
 ## Obtenir les droits de personnaliser le code dans les contrats
@@ -42,7 +42,7 @@ La [Politique sur les droits de propriété intellectuelle](https://www.ic.gc.ca
 
 Dans le cadre de la discussion avec l’unité des services juridiques de l’institution et de l’examen de la politique applicable, il convient de noter que le [Guide des clauses et conditions uniformisées d’achat](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2) de Services publics et Approvisionnement Canada (SPAC) renferme des clauses pour demander une [Licence concernant le matériel protégé par des droits d’auteur](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2), qui peut utiliser les clauses des contrats si le ministère ou l’organisme veut que les droits d’auteur sur l’œuvre appartiennent à l’entrepreneur, mais souhaite obtenir une licence pour exercer tous les droits compris dans les droits d’auteur.
 
-Les ministères ou organismes peuvent publier le code développé à la suite d’un contrat d’approvisionnement de l’État sous une licence de logiciel libre, où ces droits ont été accordés au Canada. Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence de logiciel libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces si convenues par le fournisseur.
+Les ministères ou organismes peuvent publier le code développé à la suite d’un contrat d’approvisionnement de l’État sous une licence libre, où ces droits ont été accordés au Canada. Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces si convenues par le fournisseur.
 
 ## Considérer les conséquences de sécurité
 
@@ -50,7 +50,7 @@ Les ministères ou organismes peuvent publier le code développé à la suite d�
 
 * Conserver les données sensibles comme les justificatifs d’identité en lieu sûr et séparément du code source.
 * Éviter d’entreposer des clés et d’autres documents de nature délicate dans des systèmes non approuvés à cette fin.
-* L’examen des codes augmente la probabilité de détecter les bogues, les vulnérabilités en matière de sécurité et réduit le risque d’engager des données sensibles.
+* L’examen du code augmente la probabilité de détecter les bogues, les vulnérabilités en matière de sécurité et réduit le risque d’engager des données sensibles.
 * Mettre en œuvre des mesures de contrôle suffisantes pour la prévention des changements non autorisés ou accidentels comme signer le code et établir des droits d’accès pour les utilisateurs des dépôts de code.
 * Élaborer des stratégies d’atténuation et de processus pour régler les incidents liés à la sécurité.
 * Intégrer les pratiques de sécurité dans vos processus et méthodes quotidiennes.
@@ -58,9 +58,9 @@ Les ministères ou organismes peuvent publier le code développé à la suite d�
 
 ## Choisir une licence des logiciels libres
 
-Lorsque le projet fait partie d’une collectivité plus vaste de logiciels libres, telle que des plug-ins, des modules, des extensions ou des travaux dérivés de logiciels libres existants, il est vivement recommandé d’utiliser la licence généralement utilisée par la collectivité.
+Lorsque le projet fait partie d’une communauté plus vaste de logiciels libres, telle que des plug-ins, des modules, des extensions ou des travaux dérivés de logiciels libres existants, il est vivement recommandé d’utiliser la licence généralement utilisée par la communauté.
 
-Lorsque le projet est démarré par le GC lui-même et qu’il n’est pas lié à une collectivité externe, le choix de la licence libre doit être fondé sur les licences des éléments (bibliothèques et cadres tiers) que vous utiliserez et les résultats escomptés.
+Lorsque le projet est démarré par le GC lui-même et qu’il n’est pas lié à une communauté externe, le choix de la licence libre doit être fondé sur les licences des éléments (bibliothèques et cadres tiers) que vous utiliserez et les résultats escomptés.
 
 ### Licences permissives recommandées
 
@@ -103,7 +103,7 @@ Si plusieurs licences peuvent être appliquées, choisir une licence qui corresp
 
 **Bénéficiaires du lancement du logiciel libre** Tout le monde : maximise la portée des utilisateurs en aval et a un vaste appel de tout le secteur privé... une plus grande flexibilité pour que les utilisateurs finaux, les développeurs et les entreprises puissent réutiliser le logiciel comme bon leur semble, y compris dans le cadre de logiciels commerciaux.
 
-**Bénéficiaires des modifications du code en aval** Toute la collectivité, mais seulement lorsque l’entreprise, l’organisme ou un développeur individuel choisit d’apporter des modifications en vertu de la licence permissive.
+**Bénéficiaires des modifications du code en aval** Toute la communauté, mais seulement lorsque l’entreprise, l’organisme ou un développeur individuel choisit d’apporter des modifications en vertu de la licence permissive.
 
 **Complexité des licences** Souvent courte, simple et compréhensible (par exemple MIT).
 
@@ -111,9 +111,9 @@ Si plusieurs licences peuvent être appliquées, choisir une licence qui corresp
 
 #### Réciproque
 
-**Bénéficiaires du lancement du logiciel libre** Tout le monde : Mais uniquement dans la mesure où ces personnes diffusent leur logiciel selon les mêmes modalités d’octroi de licence dont elles bénéficient. Approprié dans les cas où il est important de recevoir les changements en aval, ou lorsqu’il est important de veiller à ce que les travaux fondés sur un investissement initial restent des logiciels libres et à source ouverte... peut également mettre l’accent sur les autres entreprises du secteur privé qui fournissent des services et du soutien.
+**Bénéficiaires du lancement du logiciel libre** Tout le monde : Mais uniquement dans la mesure où ces personnes diffusent leur logiciel selon les mêmes modalités d’octroi de licence dont elles bénéficient. Approprié dans les cas où il est important de recevoir les changements en aval, ou lorsqu’il est important de veiller à ce que les travaux fondés sur un investissement initial restent des logiciels libres... peut également mettre l’accent sur les autres entreprises du secteur privé qui fournissent des services et du soutien.
 
-**Bénéficiaires des modifications du code en aval** Toute la collectivité chaque fois où une entreprise, un organisme ou un développeur individuel distribue les modifications ou contribue aux modifications sous la licence réciproque.
+**Bénéficiaires des modifications du code en aval** Toute la communauté chaque fois où une entreprise, un organisme ou un développeur individuel distribue les modifications ou contribue aux modifications sous la licence réciproque.
 
 **Complexité des licences** Jargon juridique relativement long et complexe (par exemple AGPL 3.0).
 
@@ -179,7 +179,7 @@ Les ministères et les organismes sont libres de choisir la plateforme qui convi
 
 ### Système de contrôle des versions
 
-Le système de contrôle des versions recommandé pour le code source ouvert GC est Git. On encourage également les ministères à utiliser Git pour gérer leur code source à l’interne.
+Le système de contrôle des versions recommandé pour le code libre du GC est Git. On encourage également les ministères à utiliser Git pour gérer leur code source à l’interne.
 
 ## Ajouter des fichiers recommandés
 
@@ -187,9 +187,9 @@ Avant d’être publié, le code source devrait inclure ce qui suit :
 
 * un fichier LICENCE (voir [Choisir une licence des logiciels libres](#choisir-une-licence-des-logiciels-libres)) contenant une copie de la licence sous laquelle le code source est publié;
 
-Par défaut, un projet sans une licence de logiciel libre appliquée serait seulement publié dans le cadre du droit d’auteur de la Couronne.
+Par défaut, un projet sans une licence libre appliquée serait seulement publié dans le cadre du droit d’auteur de la Couronne.
 
-**Remarque** : La licence à source ouverte elle-même peut être appliquée directement au code source, mais il est fortement recommandé de la mettre dans un fichier LICENCE distinct à la source du répertoire de votre projet.
+**Remarque** : La licence libre peut être intégrée directement dans le code source, mais il est fortement recommandé de la mettre dans un fichier LICENCE distinct à la source du répertoire de votre projet.
 
 De plus, les points suivants sont recommandés comme pratique exemplaire :
 
@@ -203,11 +203,11 @@ Des exemples de ces fichiers sont disponibles dans le [dépôt de modèles](http
 
 ## Publier une ancienne application
 
-Publier une ancienne application peut sembler beaucoup de travail, mais c’est faisable et, en fait, un bon investissement si l’application continuera d’être utilisée à l’avenir. La documentation pourrait être améliorée au cours de la publication du projet pour aider à accroître les contributions de la collectivité.
+Publier une ancienne application peut sembler beaucoup de travail, mais c’est faisable et, en fait, un bon investissement si l’application continuera d’être utilisée à l’avenir. La documentation pourrait être améliorée au cours de la publication du projet pour aider à accroître les contributions de la communauté.
 
 De plus, publier une ancienne application peut mener à sa réutilisation et à accroître le développement des contributions de la part des parties intéressées. Cela peut relancer le développement actif de l’application, en lui fournissant des fonctionnalités améliorées et des corrections de bogues.
 
-Les risques de vulnérabilité existent déjà et la publier comme source ouverte ne change pas leur état. Une façon de limiter ces risques est de ne pas fournir les configurations de la version de production.
+Les risques de vulnérabilité existent déjà et la publier comme logiciel libre ne change pas leur état. Une façon de limiter ces risques est de ne pas fournir les configurations de la version de production.
 
 Des outils d’analyse dotés de fonctionnalités avancées et des tests de sécurité doivent être envisagés pour aider les équipes de développement à accélérer le processus de révision et de nettoyage.
 
@@ -227,12 +227,12 @@ Les employés devraient utiliser leur nom au complet et l’adresse courriel du 
 
 ### Langues officielles
 
-La [Politique sur les langues officielles](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=26160) ne s’applique pas aux codes sources des logiciels (y compris les commentaires en ligne).
+La [Politique sur les langues officielles](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=26160) ne s’applique pas au code source des logiciels (y compris les commentaires en ligne).
 Cependant, les mêmes règles sur les LO comme toute autre application élaborée par le GC ou au nom du GC dans le passé devrait s’appliquer pour ce qui est de la documentation de l’utilisateur final, si le projet a été publié ou non comme logiciel libre.
 
-### Collectivité
+### communauté
 
-Établir une collectivité accueillante peut influencer l’avenir et la réputation de votre projet. En offrant une expérience positive aux contributeurs et en leur facilitant les interactions avec l’équipe de projet, vous les encouragez à continuer de contribuer. Vous devez répondre aux questions, bogues et fusionner les demandes pour encourager les gens à continuer de vous aider.
+Établir une communauté accueillante peut influencer l’avenir et la réputation de votre projet. En offrant une expérience positive aux contributeurs et en leur facilitant les interactions avec l’équipe de projet, vous les encouragez à continuer de contribuer. Vous devez répondre aux questions, bogues et fusionner les demandes pour encourager les gens à continuer de vous aider.
 
 Il est recommandé d’inclure un fichier README.md et un fichier CONTRIBUTING.md avec votre code source. Voir [Ajouter des fichiers recommandés]((#ajouter-des-fichiers-recommandés)).
 

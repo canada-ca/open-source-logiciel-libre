@@ -4,9 +4,9 @@ Le gouvernement du Canada utilise les logiciels libres dans le cadre de son éco
 
 ## Procedures and Guidance for Open Source Software
 
-- [Élaborer un cas conceptuel pour Open Source](guides/cas-conceptuel-pour-logiciels-libres.md)
-- [Acquérir des logiciels libres](guides/acquerir-logiciels-libres.md)
+- [Élaborer un cas conceptuel pour les solutions libres](guides/importance-cas-conceptuel.md)
+- [Acquérir des logiciels libres](guides/acquisition-logiciels-libres.md)
 - [Guide sur l'utilisation des logiciels libres](guides/utilisation-logiciels-libres.md)
-- [Guide sur la contribution à des logiciels libres](guides/contribution-à-des-logiciels-libres.md)
+- [Guide sur la contribution à des logiciels libres](guides/contribution-logiciels-libres.md)
 - [Guide pour la publication du code source libre.](guides/publication-code-source-ouvert.md)
 - [Définitions et termes](guides/definitions.md)
