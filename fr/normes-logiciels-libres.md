@@ -8,5 +8,5 @@ Le gouvernement du Canada utilise les logiciels libres dans le cadre de son éco
 - [Acquérir des logiciels libres](guides/acquerir-logiciels-libres.md)
 - [Guide sur l'utilisation des logiciels libres](guides/utilisation-logiciels-libres.md)
 - [Guide sur la contribution à des logiciels libres](guides/contribution-à-des-logiciels-libres.md)
-- [Guide for Publishing of Open Source Code](guides/publishing-open-source-code.md)
+- [Guide pour la publication du code source libre.](guides/publication-code-source-ouvert.md)
 - [Définitions et termes](guides/definitions.md)
