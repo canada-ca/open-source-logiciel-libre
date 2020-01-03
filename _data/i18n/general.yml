@@ -31,7 +31,7 @@ nav:
     fr: *title_fr
     link:
       en: /en/open-source-standards.html
-      fr: /en/open-source-standards.html
+      fr: /fr/normes-logiciels-libres.html
   starting:
     en: The Importance of a Concept Case and Business Requirement
     fr: Code source ouvert
@@ -67,7 +67,7 @@ nav:
     fr: Définitions
     link:
       en: /en/guides/definitions.html
-      fr: /en/guides/definitions.html
+      fr: /fr/guides/definitions.html
   Canada:
     en: Government of Canada
     fr: Gouvernement du Canada
