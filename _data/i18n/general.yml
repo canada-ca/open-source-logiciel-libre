@@ -43,10 +43,10 @@ nav:
       fr: /fr/normes-logiciels-libres.html
   starting:
     en: The Importance of a Concept Case and Business Requirement
-    fr: Code source ouvert
+    fr: Élaborer un cas conceptuel pour Open Source
     link:
       en: /en/guides/importance-of-concept-case.html
-      fr: /en/guides/importance-of-concept-case.html
+      fr: /en/guides/cas-conceptuel-pour-logiciels-libres.html
   acquisition:
     en: Guide for Open Source Software Acquisition
     fr: Guide pour l'acquisition des logiciels libres
