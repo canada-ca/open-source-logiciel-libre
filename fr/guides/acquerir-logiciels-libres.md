@@ -9,7 +9,7 @@ Dans le cas où le logiciel libre a déjà été acquis, ou n’est pas lié par
 
 ## Principes d’acquisition
 
-Si le Canada n’a pas déjà acquis le logiciel libre, puisqu’il se peut que la loi exige que l’acquisition fasse l’objet d’une concurrence, le GC doit justifier, par l’entremise de son cas conceptuel et de l’élaboration de son besoin opérationnel, une raison opérationnelle de bonne foi d’acquérir le logiciel libre au lieu d’un logiciel propriétaire, lorsque le logiciel libre est choisi.
+Si le Canada n’a pas déjà acquis le logiciel libre, puisqu’il se peut que la loi exige que l’acquisition fasse l’objet d’une concurrence, le GC doit justifier, par l’entremise de son cas conceptuel et de l’élaboration de son besoin opérationnel, une raison opérationnelle de bonne foi d’acquérir le logiciel libre au lieu d’un logiciel propriétaire, lorsque le logiciel libre est choisi. Cette même justification est requise pour tout logiciel propriétaire.
 
 Par conséquent, avant l’acquisition, on doit consulter l’unité des services juridiques de votre institution afin d’examiner les besoins opérationnels du logiciel et bien préciser dans tout avis d’appel d’offres les modalités du contrat qui s’appliqueraient à votre acquisition.
 
