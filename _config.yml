@@ -114,7 +114,7 @@ defaults:
       ref: "contributing"
   -
     scope:
-      path: "fr/guides/publication-code-source-ouvert.md"
+      path: "fr/guides/publication-code-source-libre.md"
     values:
       ref: "publishing"
   - scope:

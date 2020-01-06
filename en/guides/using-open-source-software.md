@@ -13,7 +13,7 @@ The steps for GC to use open source software are:
 5. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
 6. [Register to Open Resource Exchange](#register-to-open-resource-exchange)
 
-## Actively and Fairly Consider Open Source Software
+## 1. Actively and Fairly Consider Open Source Software
 
 Be aware that open source software is not completely free, so take into account the total cost of ownership (TCO) of migrating, including exit, transition, and support costs.
 
@@ -61,7 +61,7 @@ The quality of the code and the typical response time for patching security-rela
 
 As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly.
 
-## Verify Open Source Software Ownership or Licence
+## 2. Verify Open Source Software Ownership or Licence
 
 Whenever the Crown is contemplating acquiring software under an open source licence, departments should review the terms and conditions to validate if they can accept and comply with them given their particular business context.
 
@@ -103,7 +103,7 @@ The following are lists of licences categorized by permissive and reciprocal. Fo
 * Mozilla Public License (MPL)
 * Open Software License (OSL)
 
-## Evaluate Support Options
+## 3. Evaluate Support Options
 
 Use of open source software introduces a different model based on support services rather than obtaining software licences.
 
@@ -132,7 +132,7 @@ Another scenario that may become recurrent would be choosing an open source soft
 
 When custom development requires the use of contracted developers, ensure that the proper rights to the source code are obtained to release as open source in accordance with the [Guide for Publishing Open Source Code][guide-publish-oss].
 
-## Use Open Source Software Without Modification
+## 4. Use Open Source Software Without Modification
 
 > **Using open source software without modification does not require that code be shared back.**
 
@@ -157,7 +157,7 @@ Custom development using open source software programming languages and dependen
 
 For development or when writing source code, see [Guide for Publishing Open Source Code][guide-publish-oss].
 
-## Use Open Source Software With Modifications
+## 5. Use Open Source Software With Modifications
 
 > **Using open source software with modifications is not generally considered distribution and does not require that code be shared back.**
 
@@ -177,8 +177,7 @@ It's easy to copy (fork) open source software and start making changes to the so
 If a literal fork is created, which means taking a copy of the source code and maintaining your own version independently from the original project, be aware it can make future updates and security patches hard to implement.
 The development team that made the changes will be responsible for maintaining those changes indefinitely unless they are contributed to the upstream version, which is the original project from which the source code was taken.
 
-To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates.
-See [Guide for Contributing to Open Source Software][guide-contribute-oss].
+To make changes to open source software, engage with the community and submit changes upstream to ensure that they are supported by future updates, see the [Guide for Contributing to Open Source Software][guide-contribute-oss].
 
 Note: the term "fork" in the literal sense may be confused with the process of forking (cloning) projects on GitHub, GitLab and Bitbucket, which is critical to submit changes back to the original project.
 
@@ -195,7 +194,7 @@ The [Open Source Initiative approved licenses](https://opensource.org/licenses/a
 * European Union Public License (EUPL)
 * Open Software License (OSL)
 
-## Register to Open Resource Exchange
+## 6. Register to Open Resource Exchange
 
 Departments are encouraged to add all open source software your department or agency is using to the [Open Source Software section on the Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html).
 

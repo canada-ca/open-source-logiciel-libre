@@ -73,10 +73,10 @@ nav:
       fr: /fr/guides/contribution-logiciels-libres.html
   publishing:
     en: Publication of Open Source Code
-    fr: Guide sur la publication de code source libre
+    fr: Guide de publication de code source libre
     link:
       en: /en/guides/publishing-open-source-code.html
-      fr: /fr/guides/publication-code-source-ouvert.html
+      fr: /fr/guides/publication-code-source-libre.html
   definitions:
     en: Definitions
     fr: Définitions

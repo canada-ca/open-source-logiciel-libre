@@ -4,11 +4,15 @@ Avant toute forme de développement ou d’acquisition, les propriétaires fonct
 
 Un cas conceptuel détermine les renseignements clés sur lesquels un projet numérique possible doit être fondé, et doit être achevé avant que l’exigence opérationnelle ne soit établie.
 
-Une exigence opérationnelle est différente des exigences fonctionnelles, et plus grandes, ou des exigences techniques d’un projet numérique seulement. Une exigence fonctionnelle définit une fonction particulière du logiciel afin d’obtenir un résultat et répond à une exigence opérationnelle plus précise. Une exigence technique définit une capacité ou les attributs nécessaires pour travailler avec d’autres logiciels, et exprime la décision architecturale plus vaste d’appuyer le projet.
+Une exigence opérationnelle est différente des exigences fonctionnelles, et plus grandes, ou des exigences techniques d’un projet numérique seulement.
+Une exigence fonctionnelle définit une fonction particulière du logiciel afin d’obtenir un résultat et répond à une exigence opérationnelle plus précise.
+Une exigence technique définit une capacité ou les attributs nécessaires pour travailler avec d’autres logiciels, et exprime la décision architecturale plus vaste d’appuyer le projet.
 
-L’exigence opérationnelle comprend l’examen des exigences fonctionnelles et techniques, mais aussi d’autres éléments généraux, afin de répondre à la nature, à l’objectif et aux besoins du projet numérique à un niveau élevé. Par conséquent, l’exigence opérationnelle dictera la voie à suivre pour l’acquisition et le développement de logiciels, et les exigences techniques et fonctionnelles ne peuvent être utilisées seules comme justification aux fins d’une évaluation des avantages des logiciels libres ou des logiciels propriétaires.
+L’exigence opérationnelle comprend l’examen des exigences fonctionnelles et techniques, mais aussi d’autres éléments généraux, afin de répondre à la nature, à l’objectif et aux besoins du projet numérique à un niveau élevé.
+Par conséquent, l’exigence opérationnelle dictera la voie à suivre pour l’acquisition et le développement de logiciels, et les exigences techniques et fonctionnelles ne peuvent être utilisées seules comme justification aux fins d’une évaluation des avantages des logiciels libres ou des logiciels propriétaires.
 
-L’annexe C de la [Politique sur la planification et la gestion des investissements](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593) prévoit des procédures obligatoires pour les cas conceptuels pour les projets numériques. Même si la directive ne s’applique qu’aux projets dépassant un certain seuil, il est important de noter que la grande majorité des cadres de gestion de projets agiles commencent par un artefact qui correspond à un cas conceptuel comme une vision de projet ou des objectifs de projet.
+L’annexe C de la [Politique sur la planification et la gestion des investissements](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593) prévoit des procédures obligatoires pour les cas conceptuels pour les projets numériques.
+Même si la directive ne s’applique qu’aux projets dépassant un certain seuil, il est important de noter que la grande majorité des cadres de gestion de projets agiles commencent par un artefact qui correspond à un cas conceptuel comme une vision de projet ou des objectifs de projet.
 
 <details>
     <summary>Évaluer les exigences</summary>
