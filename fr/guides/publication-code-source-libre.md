@@ -14,10 +14,10 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 1. [Demander les approbations](#1-demander-les-approbations)
 2. [Obtenir les droits de personnaliser le code dans les contrats](#2-obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats)
-3. [Considérer les conséquences de sécurité](#3-consid%c3%a9rer-les-cons%c3%a9quences-de-s%c3%a9curit%c3%a9)
+3. [Considérer les conséquences de sécurité](#3-considérer-les-conséquences-de-sécurité)
 4. [Choisir une licence libre](#4-choisir-une-licence-libre)
-5. [Choisir un dépôt de code source](#5-choisir-un-d%c3%a9p%c3%b4t-de-code-source)
-6. [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommand%c3%a9s)
+5. [Choisir un dépôt de code source](#5-choisir-un-dépôt-de-code-source)
+6. [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommandés)
 7. [Publier une ancienne application](#7-publier-une-ancienne-application)
 8. [Travailler dans un environnement ouvert](#8-travailler-dans-un-environnement-ouvert)
 
@@ -47,7 +47,7 @@ Toutefois, lorsque l’utilisation prévue par l’État de la propriété intel
 Dans le cadre de la discussion avec l’unité des services juridiques de l’institution et de l’examen de la politique applicable, il convient de noter que le [Guide des clauses et conditions uniformisées d’achat](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2) de Services publics et Approvisionnement Canada (SPAC) renferme des clauses pour demander une [Licence concernant le matériel protégé par des droits d’auteur](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2), qui peut utiliser les clauses des contrats si le ministère ou l’organisme veut que les droits d’auteur sur l’œuvre appartiennent à l’entrepreneur, mais souhaite obtenir une licence pour exercer tous les droits compris dans les droits d’auteur.
 
 Les ministères ou organismes peuvent publier le code développé à la suite d’un contrat d’approvisionnement de l’État sous une licence libre, où ces droits ont été accordés au Canada.
-Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces lorsque acceptées par le fournisseur.
+Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces lorsqu’acceptées par le fournisseur.
 
 ## 3. Considérer les conséquences de sécurité
 
@@ -107,7 +107,7 @@ Il ne s’agit pas d’un engagement envers la version future des licences.
 ### Installer une licence
 
 Afin d’appliquer au code source, ajouter le texte de la licence choisie à un fichier LICENSE.txt dans le dossier source du projet.
-Voir [Ajouter les fichiers recommandés](#ajouter-les-fichiers-recommandés).
+Voir [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommandés).
 Vous pouvez aussi ajouter le texte de la licence directement dans l’un de vos fichiers de code source, mais en le rendant clairement disponible à la source de votre projet, vous le rendez plus facile à trouver pour les personnes et certaines plateformes de collaboration peuvent automatiquement afficher votre licence dans l’interface Web.
 
 Si plusieurs licences peuvent être appliquées, choisir une licence qui correspond à l’objectif du projet et ses interactions avec d’autres projets.
@@ -190,7 +190,7 @@ Selon l’article des [Demandes de droit d’auteur de la Couronne](https://www.
 Remplacer le **(nom légal du ministère)** et **(année de publication)** avec l’information appropriée.
 
 Cet avis devrait être ajouté au fichier LICENSE de votre projet.
-Voir [Ajouter les fichiers recommandés](#ajouter-les-fichiers-recommandés).
+Voir [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommandés).
 
 ## 5. Choisir un dépôt de code source
 
@@ -219,7 +219,7 @@ On encourage également les ministères à utiliser Git pour gérer leur code so
 
 Avant d’être publié, le code source devrait inclure ce qui suit :
 
-* un fichier LICENSE (voir [Choisir une licence des logiciels libres](#choisir-une-licence-des-logiciels-libres)) contenant une copie de la licence sous laquelle le code source est publié;
+* un fichier LICENSE (voir [Choisir une licence libre](#4-choisir-une-licence-libre)) contenant une copie de la licence sous laquelle le code source est publié;
 
 Par défaut, un projet sans une licence libre appliquée serait seulement publié dans le cadre du droit d’auteur de la Couronne.
 
@@ -278,7 +278,7 @@ En offrant une expérience positive aux contributeurs et en leur facilitant les 
 Vous devez répondre aux questions, bogues et intégrer les propositions de modifications pour encourager les gens à continuer de vous aider.
 
 Il est recommandé d’inclure un fichier README.md et un fichier CONTRIBUTING.md dans votre code source.
-Voir [Ajouter les fichiers recommandés]((#ajouter-les-fichiers-recommandés)).
+Voir [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommandés).
 
 ### Accord de licence de contributeur
 

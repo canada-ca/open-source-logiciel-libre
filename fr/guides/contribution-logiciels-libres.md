@@ -15,12 +15,12 @@ Même simplement appuyer la contribution des autres ou exprimer un intérêt à 
 
 Les étapes à suivre pour que le GC contribue du code dans les communautés de logiciels libres sont les suivantes :
 
-1. [Vérifier la licence des logiciels libres](#1-v%c3%a9rifier-la-licence-des-logiciels-libres)
-2. [Vérifier les processus et politiques de contribution](#2-v%c3%a9rifier-les-processus-et-politiques-de-contribution)
-3. [Approbations supplémentaires](#3-approbations-suppl%c3%a9mentaires)
+1. [Vérifier la licence des logiciels libres](#1-vérifier-la-licence-des-logiciels-libres)
+2. [Vérifier les processus et politiques de contribution](#2-vérifier-les-processus-et-politiques-de-contribution)
+3. [Approbations supplémentaires](#3-approbations-supplémentaires)
 4. [Contribuer au projet](#4-contribuer-au-projet)
-5. [Contribuer par l’intermédiaire des services professionnels](#5-contribuer-par-linterm%c3%a9diaire-des-services-professionnels)
-6. [Publier les contributions indépendamment de l’acceptation en amont](#6-publier-les-contributions-ind%c3%a9pendamment-de-lacceptation-en-amont)
+5. [Contribuer par l’intermédiaire des services professionnels](#5-contribuer-par-lintermédiaire-des-services-professionnels)
+6. [Publier les contributions indépendamment de l’acceptation en amont](#6-publier-les-contributions-indépendamment-de-lacceptation-en-amont)
 
 ## 1. Vérifier la licence des logiciels libres
 
@@ -56,7 +56,7 @@ Un certificat d’origine du développeur (COD) est considéré comme une façon
 Il s’agit habituellement d’ajouter « signé par : contributeur@courriel.com » dans la présentation du code.
 
 Contrairement au ALC, si vous avez le droit de présenter une contribution, un COD ne devrait pas poser de problème comme vous devriez déjà avoir obtenu les approbations appropriées pour contribuer au projet.
-Voir [Approbations supplémentaires](#approbations-supplémentaires).
+Voir [Approbations supplémentaires](#3-approbations-supplémentaires).
 
 ## 3. Approbations supplémentaires
 
@@ -96,7 +96,7 @@ Contribuer à un tiers devrait être fait conformément au modèle de gouvernanc
 
 ## 5. Contribuer par l’intermédiaire des services professionnels
 
-Si votre ministère aimerait tirer parti des services professionnels pour contribuer à des projets tiers, consultez [Obtenir les droits de personnaliser le code dans les contrats](publication-code-source-libre.md#obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats).
+Si votre ministère aimerait tirer parti des services professionnels pour contribuer à des projets tiers, consultez [Obtenir les droits de personnaliser le code dans les contrats](publication-code-source-libre.md#2-obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats).
 
 ## 6. Publier les contributions indépendamment de l’acceptation en amont
 

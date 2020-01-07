@@ -6,12 +6,12 @@ Celles-ci s’harmonisent avec les [Normes numériques](https://www.canada.ca/fr
 
 Les étapes à suivre pour que le GC utilise des logiciels libres sont les suivantes:
 
-1. [Envisager activement et équitablement les logiciels libres](#1-envisager-activement-et-%c3%a9quitablement-les-logiciels-libres)
-2. [Vérifier la propriété ou la licence libre](#2-v%c3%a9rifier-la-propri%c3%a9t%c3%a9-ou-la-licence-libre)
-3. [Évaluer les options de soutien](#3-%c3%89valuer-les-options-de-soutien)
+1. [Envisager activement et équitablement les logiciels libres](#1-envisager-activement-et-équitablement-les-logiciels-libres)
+2. [Vérifier la propriété ou la licence libre](#2-vérifier-la-propriété-ou-la-licence-libre)
+3. [Évaluer les options de soutien](#3-évaluer-les-options-de-soutien)
 4. [Utiliser les logiciels libres sans modification](#4-utiliser-les-logiciels-libres-sans-modification)
 5. [Utiliser les logiciels libres avec modifications](#5-utiliser-les-logiciels-libres-avec-modifications)
-6. [S’inscrire à l’Échange de ressources ouvertes](#6-sinscrire-%c3%a0-l%c3%89change-de-ressources-ouvertes)
+6. [S’inscrire à l’Échange de ressources ouvertes](#6-sinscrire-à-léchange-de-ressources-ouvertes)
 
 ## 1. Envisager activement et équitablement les logiciels libres
 
@@ -22,7 +22,7 @@ Il faut être conscient que les logiciels libres ne sont pas complètement gratu
 Une solution fondée sur un logiciel libre, mais qui nécessite l’utilisation d’éléments privés ne devrait pas être considérée comme un logiciel libre pour les besoins du présent guide.
 Le modèle de développement « Open Core » est celui où les fournisseurs n’ouvrent que des parties de leur logiciel et entourent le reste d’éléments fermés, ainsi que le modèle où un utilisateur comme le Canada bonifie un logiciel propriétaire avec des logiciels libres.
 Les versions « gratuites » de ces logiciels libres, souvent qualifiées d’éditions « communautaires », sont recommandées en premier.
-Voir [Vérifier la propriété ou la licence des logiciels libres](#vérifier-la-propriété-ou-la-licence-des-logiciels-libres).
+Voir [Vérifier la propriété ou la licence des logiciels libres](#2-vérifier-la-propriété-ou-la-licence-libre).
 
 ### Choisir des logiciels libres en priorité
 
@@ -69,13 +69,13 @@ Chaque fois que l’État envisage d’obtenir des logiciels sous licence libre,
 Le logiciel est habituellement fourni « tel quel », ce qui signifie que la communauté n’acceptera pas la responsabilité ou ne fournira pas de compensation financière à l’État pour l’interruption de service, la perte de données ou la perte de confidentialité.
 Par conséquent, vous devriez considérer le logiciel obtenu sous licence libre avec les mêmes objectifs de responsabilité que si vous l’aviez développé.
 
-Tous les logiciels sous une [licence approuvée par la Open Source Initiative](https://opensource.org/licenses/alphabetical) ou la [Free Software Foundation](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) sont considérés comme des logiciels libres, et peuvent être utilisés par le GC [sans modification](#utiliser-les-logiciels-libres-sans-modification), dans la mesure du possible et conformément au présent guide.
+Tous les logiciels sous une [licence approuvée par la Open Source Initiative](https://opensource.org/licenses/alphabetical) ou la [Free Software Foundation](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) sont considérés comme des logiciels libres, et peuvent être utilisés par le GC [sans modification](#4-utiliser-les-logiciels-libres-sans-modification), dans la mesure du possible et conformément au présent guide.
 
 Toutefois, si le logiciel doit être modifié, les considérations suivantes doivent être abordées avec les intervenants appropriés (c’est-à-dire, les utilisateurs finaux, les gestionnaires de projet et les services juridiques) et appliquées afin de déterminer les conditions de licence que le Ministère est disposé à approuver.
 
 1. Y a-t-il des raisons qui empêcheraient la publication du code source modifié?
    * Non : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou FSF.
-   Voir [Utiliser les logiciels libres avec modifications](#utiliser-les-logiciels-libres-avec-modifications).
+   Voir [Utiliser les logiciels libres avec modifications](#5-utiliser-les-logiciels-libres-avec-modifications).
    * Oui : Voir 2.
 2. L’application modifiée sera-t-elle utilisée comme une application Web?
    * Oui : sous réserve des considérations précitées, vous pouvez accepter toute licence approuvée OSI ou FSF, à l’exception des licences à forte réciprocité.
