@@ -6,12 +6,12 @@ Celles-ci s’harmonisent avec les [Normes numériques](https://www.canada.ca/fr
 
 Les étapes à suivre pour que le GC utilise des logiciels libres sont les suivantes:
 
-1. [Envisager activement et équitablement les logiciels libres](#envisager-activement-et-équitablement-les-logiciels-libres)
-2. [Vérifier la propriété ou la licence libre](#vérifier-la-propriété-ou-la-licence-libre)
-3. [Évaluer les options de soutien](#Évaluer-les-options-de-soutien)
-4. [Utiliser les logiciels libres sans modification](#utiliser-les-logiciels-libres-sans-modification)
-5. [Utiliser les logiciels libres avec modifications](#utiliser-les-logiciels-libres-avec-modifications)
-6. [S’inscrire à l’Échange de ressources ouvertes](#s’inscrire-à-l’Échange-de-ressources-ouvertes)
+1. [Envisager activement et équitablement les logiciels libres](#1-envisager-activement-et-%c3%a9quitablement-les-logiciels-libres)
+2. [Vérifier la propriété ou la licence libre](#2-v%c3%a9rifier-la-propri%c3%a9t%c3%a9-ou-la-licence-libre)
+3. [Évaluer les options de soutien](#3-%c3%89valuer-les-options-de-soutien)
+4. [Utiliser les logiciels libres sans modification](#4-utiliser-les-logiciels-libres-sans-modification)
+5. [Utiliser les logiciels libres avec modifications](#5-utiliser-les-logiciels-libres-avec-modifications)
+6. [S’inscrire à l’Échange de ressources ouvertes](#6-sinscrire-%c3%a0-l%c3%89change-de-ressources-ouvertes)
 
 ## 1. Envisager activement et équitablement les logiciels libres
 

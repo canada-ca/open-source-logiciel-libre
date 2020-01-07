@@ -12,16 +12,16 @@ Cela permettra de rendre le code source prêt à être rendu public à titre de 
 
 Voici les étapes à suivre pour publier le code source du GC :
 
-1. [Demander les approbations](#demander-les-approbations)
-2. [Obtenir les droits de personnaliser le code dans les contrats](#obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats)
-3. [Considérer les conséquences de sécurité](#considérer-les-conséquences-de-sécurité)
-4. [Choisir une licence libre](#choisir-une-licence-libre)
-5. [Choisir un dépôt de code source](#choisir-un-dépôt-de-code-source)
-6. [Ajouter les fichiers recommandés](#ajouter-les-fichiers-recommandés)
-7. [Publier une ancienne application](#publier-une-ancienne-application)
-8. [Travailler dans un environnement ouvert](#travailler-dans-un-environnement-ouvert)
+1. [Demander les approbations](#1-demander-les-approbations)
+2. [Obtenir les droits de personnaliser le code dans les contrats](#2-obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats)
+3. [Considérer les conséquences de sécurité](#3-consid%c3%a9rer-les-cons%c3%a9quences-de-s%c3%a9curit%c3%a9)
+4. [Choisir une licence libre](#4-choisir-une-licence-libre)
+5. [Choisir un dépôt de code source](#5-choisir-un-d%c3%a9p%c3%b4t-de-code-source)
+6. [Ajouter les fichiers recommandés](#6-ajouter-les-fichiers-recommand%c3%a9s)
+7. [Publier une ancienne application](#7-publier-une-ancienne-application)
+8. [Travailler dans un environnement ouvert](#8-travailler-dans-un-environnement-ouvert)
 
-## Demander les approbations
+## 1. Demander les approbations
 
 ### Équipe
 
@@ -39,7 +39,7 @@ Il a également été constaté que cela améliore la qualité du code développ
 Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence libre exige les approbations du bon ministère ou organisme.
 Cette personne peut varier en fonction du ministère et la délégation devrait être encouragée au niveau le plus bas possible pour encourager la publication du code source libre.
 
-## Obtenir les droits de personnaliser le code dans les contrats
+## 2. Obtenir les droits de personnaliser le code dans les contrats
 
 La [Politique sur les droits de propriété intellectuelle](https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html) issus de marchés conclus avec l’État d’Innovation, Sciences et Développement économique Canada (ISDE) stipule que l’entrepreneur est propriétaire des droits de propriété intellectuelle de base créée à la suite d’un contrat d’achat de l’État.
 Toutefois, lorsque l’utilisation prévue par l’État de la propriété intellectuelle peut être satisfaite par le biais d’accords de licence, elle a la possibilité de rechercher la ou les licence (s) nécessaire (s), qu’elle soit large ou restreinte.
@@ -49,7 +49,7 @@ Dans le cadre de la discussion avec l’unité des services juridiques de l’in
 Les ministères ou organismes peuvent publier le code développé à la suite d’un contrat d’approvisionnement de l’État sous une licence libre, où ces droits ont été accordés au Canada.
 Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces lorsque acceptées par le fournisseur.
 
-## Considérer les conséquences de sécurité
+## 3. Considérer les conséquences de sécurité
 
 ### Développer un logiciel ouvertement
 
@@ -61,7 +61,7 @@ Le contrat d’approvisionnement pourrait également exiger à l’organisme con
 * Intégrer les pratiques de sécurité dans vos processus et méthodes quotidiennes.
 * Tirer parti des outils et services pour automatiser la recherche de vulnérabilités connues, de clés secrètes possibles et de renseignements personnellement identifiables.
 
-## Choisir une licence libre
+## 4. Choisir une licence libre
 
 Lorsque le projet fait partie d’une communauté plus vaste de logiciels libres, telle que des plugiciels, des modules, des extensions ou des travaux dérivés de logiciels libres existants, il est vivement recommandé d’utiliser la licence généralement utilisée par la communauté.
 
@@ -160,7 +160,7 @@ GPLv3 : **Oui** - LGPLv3 : **Non** - AGPLv3 : **Oui**
 
 GPLv3 : **Non** - LGPLv3 : **Non** - AGPLv3 : **Oui**
 
-##### Collection, y compris l’original non modifié.
+##### Collection, y compris l’original non modifié
 
 ###### Collection, y compris l’original non modifié – Distribution du code source
 
@@ -192,7 +192,7 @@ Remplacer le **(nom légal du ministère)** et **(année de publication)** avec 
 Cet avis devrait être ajouté au fichier LICENSE de votre projet.
 Voir [Ajouter les fichiers recommandés](#ajouter-les-fichiers-recommandés).
 
-## Choisir un dépôt de code source
+## 5. Choisir un dépôt de code source
 
 Les dépôts de code source recommandés pour le code source libre du gouvernement du Canada sont les suivants :
 
@@ -215,7 +215,7 @@ Cela aiderait la découvrabilité de vos projets, mais aussi contribuerait à au
 Le système de contrôle des versions recommandé pour le code libre du GC est Git.
 On encourage également les ministères à utiliser Git pour gérer leur code source à l’interne.
 
-## Ajouter les fichiers recommandés
+## 6. Ajouter les fichiers recommandés
 
 Avant d’être publié, le code source devrait inclure ce qui suit :
 
@@ -235,7 +235,7 @@ De plus, les points suivants sont recommandés comme pratique exemplaire :
 
 Des exemples de ces fichiers sont disponibles dans le [dépôt de modèles](https://github.com/canada-ca/template-gabarit).
 
-## Publier une ancienne application
+## 7. Publier une ancienne application
 
 Publier une ancienne application peut sembler beaucoup de travail, mais c’est faisable et, en fait, un bon investissement si l’application continuera d’être utilisée dans l’avenir.
 La documentation pourrait être améliorée au cours de la publication du projet pour aider à accroître les contributions de la communauté.
@@ -248,7 +248,7 @@ Une façon de limiter ces risques est de ne pas fournir les configurations de la
 
 Des outils d’analyse dotés de fonctionnalités avancées et des tests de sécurité doivent être envisagés pour aider les équipes de développement à accélérer le processus de révision et de nettoyage.
 
-## Travailler dans un environnement ouvert
+## 8. Travailler dans un environnement ouvert
 
 ### Diffuser tôt, diffuser souvent
 

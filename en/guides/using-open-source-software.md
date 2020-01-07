@@ -6,12 +6,12 @@ These align with the [Digital Standards](https://www.canada.ca/en/government/pub
 
 The steps for GC to use open source software are:
 
-1. [Actively and Fairly Consider Open Source Software](#actively-and-fairly-consider-open-source-software)
-2. [Verify Open Source Software Ownership or Licence](#verify-open-source-software-ownership-or-licence)
-3. [Evaluate Support Options](#evaluate-support-options)
-4. [Use Open Source Software Without Modification](#use-open-source-software-without-modification)
-5. [Use Open Source Software With Modifications](#use-open-source-software-with-modifications)
-6. [Register to Open Resource Exchange](#register-to-open-resource-exchange)
+1. [Actively and Fairly Consider Open Source Software](#1-actively-and-fairly-consider-open-source-software)
+2. [Verify Open Source Software Ownership or Licence](#2-verify-open-source-software-ownership-or-licence)
+3. [Evaluate Support Options](#3-evaluate-support-options)
+4. [Use Open Source Software Without Modification](#4-use-open-source-software-without-modification)
+5. [Use Open Source Software With Modifications](#5-use-open-source-software-with-modifications)
+6. [Register to Open Resource Exchange](#6-register-to-open-resource-exchange)
 
 ## 1. Actively and Fairly Consider Open Source Software
 

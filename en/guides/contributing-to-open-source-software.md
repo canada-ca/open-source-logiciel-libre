@@ -14,20 +14,20 @@ Even simply supporting the contributions of others, or expressing interest in an
 
 The steps for GC to contribute code to open source software communities are:
 
-1. [Verify Open Source Software Licence](#verify-open-source-software-licence)
-2. [Verify Contributing Process and Policies](#verify-contributing-process-and-policies)
-3. [Additional Approvals](#additional-approvals)
-4. [Contribute to the project](#contribute-to-the-project)
-5. [Contribute through professional services](#contribute-through-professional-services)
-6. [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
+1. [Verify Open Source Software Licence](#1-verify-open-source-software-licence)
+2. [Verify Contributing Process and Policies](#2-verify-contributing-process-and-policies)
+3. [Additional Approvals](#3-additional-approvals)
+4. [Contribute to the project](#4-contribute-to-the-project)
+5. [Contribute through professional services](#5-contribute-through-professional-services)
+6. [Publish contributions regardless of upstream acceptance](#6-publish-contributions-regardless-of-upstream-acceptance)
 
-## Verify Open Source Software Licence
+## 1. Verify Open Source Software Licence
 
 The GC can contribute to all software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html).
 
 If a licence for software developed in the open is under another licence, seek legal counsel to clarify if contributions are recommended.
 
-## Verify Contributing Process and Policies
+## 2. Verify Contributing Process and Policies
 
 Certain projects may have specific policies for code contribution (Contributor Licence Agreement, Developer's Certificate of Origin) as well as processes (templates, platform, etc.).
 Before going forward with submitting a contribution, employees should properly understand the project contribution processes and policies.
@@ -55,7 +55,7 @@ It usually consist of adding a "Signed by: contributor@email.com" in the commit 
 Unlike for a CLA, if you do have the right to submit a contribution, a DCO should not cause a problem as you should have already acquired the proper approvals to contribute to the project.
 See [Additional Approvals](#additional-approvals)
 
-## Additional Approvals
+## 3. Additional Approvals
 
 If for some reason the departmental delegated approvals are not meeting the third-party contribution's requirements, employees should contact their supervisor to see how they can obtain the additional approvals required.
 Departments should define specific criteria for approval of open-source contributions, and describe them clearly to employees.
@@ -71,7 +71,7 @@ Similar to open data or information covered by the [Directive on Open Government
 
 That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage contribution to 3rd party OSS projects.
 
-## Contribute to the project
+## 4. Contribute to the project
 
 ### Identify as an employee of the Government of Canada
 
@@ -92,11 +92,11 @@ This way, your changes will help improve the software for everyone that uses it 
 
 Contributing to a 3rd party should be done in accordance to the project governance model, if such a model is present.
 
-## Contribute through professional services
+## 5. Contribute through professional services
 
 If your department would like to leverage professional services to contribute to third party projects, see [Obtain Rights to Custom Code in Contracts](publishing-open-source-code.md#obtain-rights-to-custom-code-in-contracts)
 
-## Publish contributions regardless of upstream acceptance
+## 6. Publish contributions regardless of upstream acceptance
 
 Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the [Guide for Publishing Open Source Code](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md).
 

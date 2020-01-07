@@ -15,28 +15,20 @@ Même simplement appuyer la contribution des autres ou exprimer un intérêt à 
 
 Les étapes à suivre pour que le GC contribue du code dans les communautés de logiciels libres sont les suivantes :
 
-- [Guide de contribution aux logiciels libres (ébauche)](#guide-de-contribution-aux-logiciels-libres-%c3%a9bauche)
-  - [Il y a de nombreuses façons de contribuer](#il-y-a-de-nombreuses-fa%c3%a7ons-de-contribuer)
-  - [Vérifier la licence des logiciels libres](#v%c3%a9rifier-la-licence-des-logiciels-libres)
-  - [Vérifier les processus et politiques de contribution](#v%c3%a9rifier-les-processus-et-politiques-de-contribution)
-    - [Accord de licence des contributeurs](#accord-de-licence-des-contributeurs)
-    - [Certificat d’origine du développeur](#certificat-dorigine-du-d%c3%a9veloppeur)
-  - [Approbations supplémentaires](#approbations-suppl%c3%a9mentaires)
-    - [Temps](#temps)
-    - [Ministère](#minist%c3%a8re)
-  - [Contribuer au projet](#contribuer-au-projet)
-    - [S’identifier en tant qu’employé du gouvernement du Canada](#sidentifier-en-tant-quemploy%c3%a9-du-gouvernement-du-canada)
-    - [Présenter les changements](#pr%c3%a9senter-les-changements)
-  - [Contribuer par l’intermédiaire des services professionnels](#contribuer-par-linterm%c3%a9diaire-des-services-professionnels)
-  - [Publier les contributions indépendamment de l’acceptation en amont](#publier-les-contributions-ind%c3%a9pendamment-de-lacceptation-en-amont)
+1. [Vérifier la licence des logiciels libres](#1-v%c3%a9rifier-la-licence-des-logiciels-libres)
+2. [Vérifier les processus et politiques de contribution](#2-v%c3%a9rifier-les-processus-et-politiques-de-contribution)
+3. [Approbations supplémentaires](#3-approbations-suppl%c3%a9mentaires)
+4. [Contribuer au projet](#4-contribuer-au-projet)
+5. [Contribuer par l’intermédiaire des services professionnels](#5-contribuer-par-linterm%c3%a9diaire-des-services-professionnels)
+6. [Publier les contributions indépendamment de l’acceptation en amont](#6-publier-les-contributions-ind%c3%a9pendamment-de-lacceptation-en-amont)
 
-## Vérifier la licence des logiciels libres
+## 1. Vérifier la licence des logiciels libres
 
 Le GC peut contribuer à tous les logiciels ayant une [licence approuvée par la Open Source Initiative](https://opensource.org/licenses) ou la [Free Software Foundation](https://www.gnu.org/licenses/license-list.html).
 
 Si une licence pour un logiciel développé ouvertement est sous une autre licence, il faut consulter un conseiller juridique afin de préciser si les contributions sont recommandées.
 
-## Vérifier les processus et politiques de contribution
+## 2. Vérifier les processus et politiques de contribution
 
 Certains projets peuvent avoir des politiques précises pour la contribution de code (accord de licence des contributeurs, certificat d’origine du développeur) de même que des processus (modèles, plateformes, etc.).
 Avant de présenter une contribution, les employés devraient bien comprendre les processus et les politiques de contribution au projet.
@@ -66,7 +58,7 @@ Il s’agit habituellement d’ajouter « signé par : contributeur@courriel.com
 Contrairement au ALC, si vous avez le droit de présenter une contribution, un COD ne devrait pas poser de problème comme vous devriez déjà avoir obtenu les approbations appropriées pour contribuer au projet.
 Voir [Approbations supplémentaires](#approbations-supplémentaires).
 
-## Approbations supplémentaires
+## 3. Approbations supplémentaires
 
 Si, pour une raison ou une autre, les approbations ministérielles déléguées ne respectent pas les exigences de contribution tierce, les employés devraient contacter leur superviseur pour savoir comment obtenir les approbations supplémentaires requises.
 Les ministères devraient définir des critères spécifiques pour l’approbation de contributions aux logiciels libres et les décrire clairement aux employés.
@@ -81,7 +73,7 @@ Cela ne devrait pas être destiné à réduire la contribution aux logiciels lib
 Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence libre exige les approbations du bon ministère ou organisme.
 Cette personne peut varier en fonction du ministère et la délégation devrait être encouragée au niveau le plus bas possible pour encourager la contribution aux projets de logiciels libres tiers.
 
-## Contribuer au projet
+## 4. Contribuer au projet
 
 ### S’identifier en tant qu’employé du gouvernement du Canada
 
@@ -102,11 +94,11 @@ De cette façon, vos changements aideront à améliorer le logiciel pour tous ce
 
 Contribuer à un tiers devrait être fait conformément au modèle de gouvernance du projet, si un tel modèle est présent.
 
-## Contribuer par l’intermédiaire des services professionnels
+## 5. Contribuer par l’intermédiaire des services professionnels
 
 Si votre ministère aimerait tirer parti des services professionnels pour contribuer à des projets tiers, consultez [Obtenir les droits de personnaliser le code dans les contrats](publication-code-source-libre.md#obtenir-les-droits-de-personnaliser-le-code-dans-les-contrats).
 
-## Publier les contributions indépendamment de l’acceptation en amont
+## 6. Publier les contributions indépendamment de l’acceptation en amont
 
 Qu’un ensemble de changements soit accepté ou non en amont en tant que contribution, les changements doivent quand même être publiés conformément au [Guide de publication de code source libre](publication-code-source-libre.md).
 
