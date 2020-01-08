@@ -126,7 +126,7 @@ La communauté d'utilisateurs et de développeurs devrait être exploitée pour 
 Lorsqu’on utilise des éléments de logiciel à des fins de développement, de puissants outils et services peuvent être exploités par les équipes de TI afin d’automatiser, de faciliter et d’accélérer l’identification de ces éléments, y compris des logiciels libres.
 Ces outils peuvent fournir des capacités d’analyse des vulnérabilités de sécurité connues ainsi que de respect des exigences juridiques.
 
-Voir le [Guide de contribution aux logiciels libres](#contribution-logiciels-libres.md).
+Voir le [Guide de contribution aux logiciels libres](contribution-logiciels-libres.md).
 
 ### Services professionnels
 
@@ -167,7 +167,7 @@ Pour le développement ou au moment de l'écriture du code source, consulter le 
 Les modifications apportées aux logiciels libres devraient quand même être partagées avec la communauté pour aider à assurer la viabilité de la solution.
 Voir le [Guide de contribution aux logiciels libres](contribution-logiciels-libres.md).
 
-Pour les cas où le partage des modifications est obligatoire, consulter les [répercussions à forte réciprocité](#répercussions-à-forte réciprocité).
+Pour les cas où le partage des modifications est obligatoire, consulter les [répercussions à forte réciprocité](#répercussions-de-la-forte-réciprocité).
 
 ### Ne pas faire d'embranchement (« fork ») du logiciel libre
 
@@ -184,7 +184,7 @@ Pour apporter des changements aux logiciels libres, collaborer avec la communaut
 
 **Remarque** : le terme « embranchement » au sens littéral peut être confondu avec le processus d'embranchement (clonage) des projets sur GitHub, GitLab et Bitbucket, qui est essentiel pour expérimenter et présenter des modifications au projet d’origine.
 
-### Répercussions à forte réciprocité
+### Répercussions de la forte réciprocité
 
 Les licences à forte réciprocité considèrent que les logiciels accessibles par l’intermédiaire d’un réseau (comme Internet) sont de la distribution et le code source modifié doit être mis à la disposition des utilisateurs.
 Voir les Guides sur la [Publication de code source libre](publication-code-source-libre.md) et sur la [Contribution aux logiciels libres](contribution-logiciels-libres.md)...
