@@ -10,7 +10,7 @@ In the event that Open Source Software has already been procured, or is not boun
 
 ## Acquisition Principles
 
-If open source software has not already been acquired by Canada, since it may be that the law requires the acquisition to be competed, the GC must substantiate, through its Concept Case and the formation of its Business Requirement, a *bona fide* operational reason to acquire Open Source Software instead of Proprietary Software, when OSS is chosen.
+If open source software has not already been acquired by Canada, since it may be that the law requires the acquisition to be competed, the GC must substantiate, through its Concept Case and the formation of its Business Requirement, a *bona fide* operational reason to acquire Open Source Software instead of Proprietary Software, when OSS is chosen. This same justification is required for any proprietary software.
 
 Therefore, prior to acquisition, your institution’s legal services unit should be consulted to review the software Business Requirements and to properly specify in any tender notice the contract terms that would apply to your acquisition.
 
