@@ -4,7 +4,7 @@
 
 # Open Source Software
 
-Treasury Board of Canada Secretariat’s **draft** standards to support the implementation of Treasury Board policy requirements related to open source use, contribution and creation and open standards.
+Treasury Board of Canada Secretariat’s **draft** standards to support the implementation of Treasury Board policy requirements related to open source use, contribution and creation.
 
 The Government of Canada has been using Open Source Software as part of its technology ecosystem for years and is increasingly relying on them for its successful service delivery.
 As part of its commitment to become a digital government, it has to also contribute back to external projects as well as release its own source code under Open Source Licences.
@@ -54,7 +54,7 @@ Official translation will be done once a first version is completed.
 
 # Logiciels libres
 
-**Ébauche** des exigences et guides liés à l'utilisation, à la contribution et la création des logiciels libres et des normes ouvertes au Gouvernement du Canada.
+**Ébauche** des exigences et guides liés à l'utilisation, à la contribution et la création des logiciels libres au Gouvernement du Canada.
 
 Le gouvernement du Canada utilise les logiciels libres dans le cadre de son écosystème technologique depuis des années et compte de plus en plus sur eux pour assurer le succès de ses services. Dans le cadre de son engagement à devenir un gouvernement numérique, elle doit également contribuer à des projets externes et publier son propre code source sous licence Open Source. Elle s'engage à le faire d'une manière compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.
 
