@@ -39,6 +39,9 @@ head:
   contributeText:
     en: Contribute your ideas to the Goverment of Canada Open Source Standards
     fr: Faites part de vos idées aux Normes Logiciels Libres du gouvernement du Canada
+  officiallink:
+    en: https://www.canada.ca/en/government/system/digital-government/open-source-software.html
+    fr: https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/logiciels-libres.html
 
 nav:
   home:
