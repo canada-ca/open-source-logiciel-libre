@@ -20,13 +20,13 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>The Use of International or Canadian Standards</h4>
 
-<p>Business Requirements may dictate that the underlying application should conform to International or Canadian Standards, such as but not limited to requirement that the official languages requiring Software be available in both official languages.</p>
+<p>Business Requirements may dictate that the underlying application should conform to International or Canadian Standards, such as but not limited to the requirement that the Software be available in both official languages.</p>
 
 <h4>Flexibility of the License</h4>
 
 <p>Open Source Software licenses can provide more flexibility than a proprietary license for a digital project’s deliverables.</p>
 
-<p>Where the Business Requirement would benefit from the reuse of Software, the GC may acquire Software such that it may  be used in subsequent projects in the GC. A Proprietary Software licensor can grant such right of re-use upon request, but by its nature, all Open Source Software is reusable and therefore compliant with this request by default.</p>
+<p>Where the Business Requirement would benefit from the reuse of Software, the GC may acquire Software such that it may be used in subsequent projects. A Proprietary Software licensor can grant such right of re-use upon request, but by its nature, all Open Source Software is reusable and therefore compliant with this request by default.</p>
 
 <h4>Ability to use for any Purpose</h4>
 
@@ -38,7 +38,7 @@ The Directive on [Policy on the Planning and Management of Investments, Appendix
 
 <h4>The Alignment with Open Government</h4>
 
-<p>In addition the GC may set its requirements such that the source code be provided to the public to enable greater transparency and align with <a href="https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html">Open Government principles of the D9</a>. </p>
+<p>In addition the GC may set its requirements such that the source code be provided to the public to enable greater transparency and align with <a href="https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html">Open Government principles of the D9</a>.</p>
 
 <h4>The Ability to Distribute the Software</h4>
 

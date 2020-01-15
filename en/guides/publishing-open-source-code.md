@@ -10,16 +10,16 @@ When releasing the code at large is not appropriate, or possible, it is recommen
 
 The steps to publish GC source code are:
 
-1. [Seek Approvals](#seek-approvals)
-2. [Obtain Rights to Custom Code in Contracts](#obtain-rights-to-custom-code-in-contracts)
-3. [Consider Security Implications](#consider-security-implications)
-4. [Select Open Source Software Licence](#select-open-source-software-licence)
-5. [Select Source Code Repository](#select-source-code-repository)
-6. [Add Recommended Files](#add-recommended-files)
-7. [Publishing a Legacy Application](#publishing-a-legacy-application)
-8. [Work in the Open](#work-in-the-open)
+1. [Seek Approvals](#1-seek-approvals)
+2. [Obtain Rights to Custom Code in Contracts](#2-obtain-rights-to-custom-code-in-contracts)
+3. [Consider Security Implications](#3-consider-security-implications)
+4. [Select Open Source Software Licence](#4-select-open-source-software-licence)
+5. [Select Source Code Repository](#5-select-source-code-repository)
+6. [Add Recommended Files](#6-add-recommended-files)
+7. [Publishing a Legacy Application](#7-publishing-a-legacy-application)
+8. [Work in the Open](#8-work-in-the-open)
 
-## Seek Approvals
+## 1. Seek Approvals
 
 ### Team
 
@@ -37,7 +37,7 @@ Similar to open data or information covered by the [Directive on Open Government
 
 That person may vary according to your department and delegation should be encouraged to the lowest level possible to encourage the release of open source code.
 
-## Obtain Rights to Custom Code in Contracts
+## 2. Obtain Rights to Custom Code in Contracts
 
 The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
@@ -46,7 +46,7 @@ As part of the discussion with the institution’s legal services unit and the c
 
 Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence where such rights have been granted to Canada. The procurement contract could also require that the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence, and such clauses would be effective where agreed to by the supplier.
 
-## Consider Security Implications
+## 3. Consider Security Implications
 
 ### Developing Software in the Open
 
@@ -58,7 +58,7 @@ Departments or agencies are able to release code developed as a result of a Crow
 - Embed security practices in your daily processes and methodologies.
 - Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
 
-## Select Open Source Software Licence
+## 4. Select Open Source Software Licence
 
 When the project is part of a larger open source software community, like plugins, modules, extensions, or derivative works of existing open source software, it is highly recommended to use the license which is usually used by the community.
 
@@ -181,7 +181,7 @@ Replace the **(legal departmental name)** and **(year of publication)** with the
 
 This notice should be added to the `LICENCE` file in your project. See [Add Recommended Files](#add-recommended-files)
 
-## Select Source Code Repository
+## 5. Select Source Code Repository
 
 Recommended public source code repositories for Government of Canada open source code are:
 
@@ -204,7 +204,7 @@ This would help discoverability of your projects but also help increase collabor
 The recommended version control system for GC open source code is Git.
 Departments are also encouraged to use Git to manage their source code internally.
 
-## Add Recommended Files
+## 6. Add Recommended Files
 
 Before publishing, source code should include the following file:
 
@@ -224,7 +224,7 @@ Additionally, the following are recommended as best practice:
 
 Examples of these files are available in the [Template Repository](https://github.com/canada-ca/template-gabarit).
 
-## Publishing a Legacy Application
+## 7. Publishing a Legacy Application
 
 Publishing a legacy application can seem like a lot of work but it is feasible and actually a good investment if the application will continue to be used in the future.
 Documentation could be improved during the release project to help increase community contributions.
@@ -237,7 +237,7 @@ One way of limiting those risks is to not provide the configurations of the prod
 
 Scanning tools with advanced functionalities and security tests should be considered to help the development teams speed up the review and clean up process.
 
-## Work in the Open
+## 8. Work in the Open
 
 ### Release Early, Release Often
 

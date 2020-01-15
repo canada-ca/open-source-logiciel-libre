@@ -64,8 +64,8 @@ Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commence
 
 * [Guides](fr/guides)
   * [Utilisation de logiciels libres](fr/guides/utilisation-logiciels-libres.md)
-  * [Contribution aux logiciels libres](fr/guides/contribution-à-des-logiciels-libres.md)
-  * [Publication de code source libre](fr/guides/publication-code-source-ouvert.md)
+  * [Contribution aux logiciels libres](fr/guides/contribution-logiciels-libres.md)
+  * [Publication de code source libre](fr/guides/publication-code-source-libre.md)
 
 ## Traduction
 

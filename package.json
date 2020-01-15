@@ -6,7 +6,7 @@
   "scripts": {
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules \"**/*.md\"",
-    "spellcheck": "cspell en/**/*.md",
+    "spellcheck": "cspell en/**/*.md fr/**/*.md",
     "test": "npm run lint && npm run spellcheck && npm run link-check"
   },
   "repository": {
@@ -22,6 +22,7 @@
   "devDependencies": {
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
+    "cspell-dict-fr-fr": "^1.2.11",
     "glob": "^7.1.2",
     "markdown-link-check": "^3.7.2",
     "markdownlint-cli": "^0.18.0"
