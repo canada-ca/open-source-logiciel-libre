@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/canada-ca/open-source-logiciel-libre#readme",
   "devDependencies": {
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.0",
     "cspell": "^4.0.63",
     "glob": "^7.1.6",
     "markdown-link-check": "^3.8.1",
