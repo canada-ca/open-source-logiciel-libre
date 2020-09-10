@@ -2,7 +2,7 @@ The content of this project is covered under Crown Copyright, Government of Cana
 
 Copyright (c) 2018 Government of Canada
 
-http://open.canada.ca/en/open-government-licence-canada
+https://open.canada.ca/en/open-government-licence-canada
 
 ______________________________________________________________________
 
@@ -11,4 +11,4 @@ sous la Licence du gouvernement ouvert – Canada.
 
 (c) Droit d'auteur – Gouvernement du Canada, 2018
 
-http://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada
+https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada
