@@ -27,7 +27,8 @@ exclude: [
   "*.json",
   "link-check.js",
   "Gemfile",
-  "Gemfile.lock"
+  "Gemfile.lock",
+  ".github/"
 ]
 
 plugins:

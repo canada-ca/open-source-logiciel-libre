@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/canada-ca/open-source-logiciel-libre.svg?branch=master)](https://travis-ci.com/canada-ca/open-source-logiciel-libre)
-
 ([Français](#logiciels-libres))
 
 # Open Source Software
