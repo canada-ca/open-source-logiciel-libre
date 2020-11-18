@@ -2,7 +2,7 @@
 
 ## Définir, le cas échéant et dans la mesure du possible
 
-La Directive sur la gestion des technologies de l’information stipule, en vertu des points [C.2.3.8.1](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC) et [D2.2.1.4.2](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appD), que « dans la mesure du possible », il faut privilégier des normes ouvertes et des logiciels libres. De même, les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) stipulent qu’il faut profiter des normes ouvertes et adopter des pratiques exemplaires, y compris l’utilisation de logiciels libres, s’il y a lieu.
+La Directive sur les services et le numérique - [Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée (A.2.3.8.1)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8.1), stipule que « dans la mesure du possible », il faut privilégier des normes ouvertes et des logiciels libres. De même, les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) stipulent qu’il faut profiter des normes ouvertes et adopter des pratiques exemplaires, y compris l’utilisation de logiciels libres, s’il y a lieu.
 
 Le cas échéant et dans la mesure du possible sont définis comme tous les éléments qui ne sont pas exemptés en raison des suivants :
 

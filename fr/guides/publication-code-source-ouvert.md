@@ -1,8 +1,8 @@
 # Guide pour la publication du code source libre
 
-La [Directive sur la gestion des technologies de l’information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=D#appC), annexe C, fournit les procédures obligatoires pour l’évaluation de l’architecture intégrée, qui seront utilisées par les Conseils d’examen de l’architecture (CEA) et le CEA intégré du gouvernement du Canada (GC) en tant que cadre d’évaluation pour examiner les initiatives numériques visant à assurer que le GC agit comme unique entreprise et à assurer l’harmonisation ministérielle avec l’orientation numérique du GC.
+La [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601), Annexe A, fournit les Procédures obligatoires pour l’évaluation de l’architecture intégrée, qui seront utilisées par les Conseils d’examen de l’architecture (CEA) et le CEA intégré du gouvernement du Canada (GC) en tant que cadre d’évaluation pour examiner les initiatives numériques visant à assurer que le GC agit comme unique entreprise et à assurer l’harmonisation ministérielle avec l’orientation numérique du GC.
 
-Ceux-ci s’harmonisent avec les [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence aux points C.2.3.8 et C.2.3.9.5 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#claC.2.3.8), qui prévoient que tous les codes sources doivent être publiés sous une licence de logiciel libre appropriée et lorsqu’il ne l’est pas, il doit être partagé au sein du gouvernement du Canada.
+Ceux-ci s’harmonisent avec les [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence aux points A.2.3.8.4 and A.2.3.9.5 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), qui prévoient que tous les codes sources doivent être publiés sous une licence de logiciel libre appropriée et lorsqu’il ne l’est pas, il doit être partagé au sein du gouvernement du Canada.
 
 Par conséquent, il est recommandé que, lorsqu’ils ont le droit de le faire, les ministères publient tout le code source en tant que logiciel libre, que la solution logicielle soit (i) acquise en tant que logiciel libre, (ii) mise au point par les employés du GC à l’interne ou (iii) acquise au moyen des conditions des contrats d’approvisionnement où des conditions de licence appropriées ont été négociées.
 
@@ -23,7 +23,7 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 ### Équipe
 
-La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
+La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (A.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602#claA.2.3.8).
 
 Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tous les nouveaux codes source conçus dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
 
