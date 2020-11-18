@@ -1,8 +1,8 @@
 # Guide for Contributing to Open Source Software (Draft)
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C, provides Mandatory Procedures for Enterprise Architecture Assessment. These will be used by the GC Enterprise and departmental Architecture Review Boards in an assessment framework for digital initiatives to ensure that all sub-organizations of the GC adhere to a single, consistent digital direction.
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), Appendix A, provides Mandatory Procedures for Enterprise Architecture Assessment. These will be used by the GC Enterprise and departmental Architecture Review Boards in an assessment framework for digital initiatives to ensure that all sub-organizations of the GC adhere to a single, consistent digital direction.
 
-This strategy aligns with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and requirement C.2.3.8 of the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all custom source code must be released under an appropriate open source software licence.
+This strategy aligns with the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and requirement A.2.3.8.4 of the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) which provide that all custom source code must be released under an appropriate open source software licence.
 
 As such it is recommended for departments to contribute back to the community all source code modifications made to 3rd party open source software, whether done in-house by GC employees or through procurement contracts.
 

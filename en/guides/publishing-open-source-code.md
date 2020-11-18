@@ -1,8 +1,8 @@
 # Guide for Publishing Open Source Code
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), Appendix A provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the requirement in C.2.3.8 and C.2.3.9.5 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
+These align with the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the requirement in A.2.3.8.4 and A.2.3.9.5 of the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
 
 As such it is recommended that where they have the right to do so, departments publish all source code as open source software, whether the software solution was (i) acquired as OSS; (ii) developed in-house by GC employees or (iii) acquired through the terms of procurement contracts where appropriate license terms were negotiated.
 
@@ -23,7 +23,7 @@ The steps to publish GC source code are:
 
 ### Team
 
-The Directive on Management of IT support the Digital Standard #3: Working in the open by default, via [Mandatory Procedures for Enterprise Architecture Assessment (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C).
+The Directive on Service and Digital support the Digital Standard #3: Working in the open by default, via [Mandatory Procedures for Enterprise Architecture Assessment (A.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8).
 
 > Share evidence, research and decision making openly. Make all non-sensitive data, information, and **new code developed in delivery of services open to the outside world for sharing and reuse under an open licence**.
 
