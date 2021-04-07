@@ -23,7 +23,7 @@
     "chalk": "^4.1.0",
     "cspell": "^5.3.12",
     "glob": "^7.1.6",
-    "markdown-link-check": "^3.8.5",
+    "markdown-link-check": "^3.8.7",
     "markdownlint-cli": "^0.27.1"
   },
   "dependencies": {}
