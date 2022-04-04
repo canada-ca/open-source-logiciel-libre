@@ -4,7 +4,7 @@
   "description": "Draft requirements around open source - Brouillon des besoins liés aux logiciels libre.",
   "main": "index.js",
   "scripts": {
-    "link-check": "node link-check.js",
+    "link-check": "npx markdown-link-check -c .markdown-link-check.json en/**/*.md fr/**/*.md *.md -q",
     "lint": "markdownlint -i node_modules \"**/*.md\"",
     "spellcheck": "cspell en/**/*.md",
     "test": "npm run lint && npm run spellcheck && npm run link-check"
