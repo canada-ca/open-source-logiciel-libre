@@ -234,7 +234,7 @@ Cependant, les mêmes règles sur les LO comme toute autre application élaboré
 
 Établir une collectivité accueillante peut influencer l’avenir et la réputation de votre projet. En offrant une expérience positive aux contributeurs et en leur facilitant les interactions avec l’équipe de projet, vous les encouragez à continuer de contribuer. Vous devez répondre aux questions, bogues et fusionner les demandes pour encourager les gens à continuer de vous aider.
 
-Il est recommandé d’inclure un fichier README.md et un fichier CONTRIBUTING.md avec votre code source. Voir [Ajouter des fichiers recommandés]((#ajouter-des-fichiers-recommandés)).
+Il est recommandé d’inclure un fichier README.md et un fichier CONTRIBUTING.md avec votre code source. Voir [Ajouter des fichiers recommandés](#ajouter-des-fichiers-recommandés).
 
 ### Accord de licence de contributeur
 
