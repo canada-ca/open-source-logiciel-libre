@@ -22,7 +22,7 @@ Be aware that open source software is not completely free, so take into account 
 A solution that is built with open source software but requires the use of closed-source components should not be considered open source software for the purpose of this guide.
 The open core development model is where vendors open only portions of their software and then surround the remainder with closed-source offerings, as well as the model where a user such as Canada augments already licenced proprietary software with open source software.
 The "free" open source software versions often referred to as "community" editions are recommended first.
-See [Verify Open Source Software Ownership or Licence](#verify-open-source-software-licence).
+See [Verify Open Source Software Ownership or Licence](#verify-open-source-software-ownership-or-licence).
 
 ### Selecting Open Source Software First
 

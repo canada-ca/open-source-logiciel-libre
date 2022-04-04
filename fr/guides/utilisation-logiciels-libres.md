@@ -8,10 +8,10 @@ Les étapes à suivre pour que le GC utilise des logiciels libres sont les suiva
 
 1. [Envisager activement et équitablement les logiciels libres](#envisager-activement-et-équitablement-les-logiciels-libres)
 2. [Vérifier la propriété ou la licence des logiciels libres](#vérifier-la-propriété-ou-la-licence-des-logiciels-libres)
-3. [Évaluer les options de soutien](#Évaluer-les-options-de-soutien)
+3. [Évaluer les options de soutien](#évaluer-les-options-de-soutien)
 4. [Utiliser les logiciels libres sans modification](#utiliser-les-logiciels-libres-sans-modification)
 5. [Utiliser les logiciels libres avec modifications](#utiliser-les-logiciels-libres-avec-modifications)
-6. [S’inscrire à l’Échange de ressources ouvertes](#s’inscrire-à-l’Échange-de-ressources-ouvertes)
+6. [S’inscrire à l’Échange de ressources ouvertes](#sinscrire-à-léchange-de-ressources-ouvertes)
 
 ## Envisager activement et équitablement les logiciels libres
 
@@ -103,7 +103,7 @@ La collectivité des utilisateurs et développeurs devrait être exploitée pour
 
 Lorsqu’on utilise des éléments de logiciel à des fins de développement, de puissants outils et services peuvent être exploités par les équipes de TI afin d’automatiser, de faciliter et d’accélérer l’identification de ces éléments, y compris les logiciels libres. Ces outils peuvent fournir des capacités d’analyse des vulnérabilités de sécurité connues ainsi que de respect des exigences juridiques.
 
-Voir le [Guide de contribution aux logiciels libres](#contribution-à-des-logiciels-libres.md).
+Voir le [Guide de contribution aux logiciels libres](contribution-à-des-logiciels-libres.md).
 
 ### Services professionnels
 

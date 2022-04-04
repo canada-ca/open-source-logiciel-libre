@@ -16,8 +16,8 @@ Les étapes à suivre pour que le GC contribue un code dans les collectivités d
 2. [Vérifier les processus et politiques de contribution](#vérifier-les-processus-et-politiques-de-contribution)
 3. [Approbations supplémentaires](#approbations-supplémentaires)
 4. [Contribuer au projet](#contribuer-au-projet)
-5. [Contribuer par l’intermédiaire des services professionnels](#contribuer-par-l’intermédiaire-des-services-professionnels)
-6. [Publier les contributions indépendamment de l’acceptation en amont](#publier-les-contributions-indépendamment-de-l’acceptation-en-amont)
+5. [Contribuer par l’intermédiaire des services professionnels](#contribuer-par-lintermédiaire-des-services-professionnels)
+6. [Publier les contributions indépendamment de l’acceptation en amont](#publier-les-contributions-indépendamment-de-lacceptation-en-amont)
 
 ## Vérifier la licence des logiciels libres
 
