@@ -21,7 +21,7 @@
   "homepage": "https://github.com/canada-ca/open-source-logiciel-libre#readme",
   "devDependencies": {
     "chalk": "^4.1.0",
-    "cspell": "^5.19.5",
+    "cspell": "^6.12.0",
     "glob": "^7.2.0",
     "markdown-link-check": "^3.10.0",
     "markdownlint-cli": "^0.32.0"
