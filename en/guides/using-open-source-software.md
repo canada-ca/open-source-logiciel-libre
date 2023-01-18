@@ -1,8 +1,8 @@
 # Guide for Using Open Source Software
 
-The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), Appendix A provides Mandatory Procedures for Enterprise Architecture Assessment, that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) includes alignment with the GC Enterprise Architecture Framework and the GC Digital Standards. These must be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and requirement A.2.3.8.1 of the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) which provide that, where possible, open source software be used first.
+The following guidance supports the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) (Use open standards and open source software) and the Application architecture criteria of the [GC Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html) to use open source solutions.
 
 The steps for GC to use open source software are:
 
