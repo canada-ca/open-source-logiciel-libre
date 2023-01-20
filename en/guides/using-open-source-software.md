@@ -27,7 +27,7 @@ See [Verify Open Source Software Ownership or Licence](#verify-open-source-softw
 ### Selecting Open Source Software First
 
 Aligned with the Digital Standards and the Enterprise Architecture Framework, this maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
-It also helps mitigate the significant risks which arise from lock-in and similar issues.
+It also helps mitigate the significant risks which arise from vendor lock-in and similar issues.
 
 Sometimes an open source solution meets most user needs but would require additional investment to develop missing functionality (see [Guide for Contributing to Open Source Software][guide-contribute-oss]).
 In these cases, this investment must be considered by weighing the total cost of ownership against those of other candidate solutions.
