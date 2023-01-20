@@ -1,8 +1,8 @@
 # Guide pour la publication du code source libre
 
-La [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601), Annexe A, fournit les Procédures obligatoires pour l’évaluation de l’architecture intégrée, qui seront utilisées par les Conseils d’examen de l’architecture (CEA) et le CEA intégré du gouvernement du Canada (GC) en tant que cadre d’évaluation pour examiner les initiatives numériques visant à assurer que le GC agit comme unique entreprise et à assurer l’harmonisation ministérielle avec l’orientation numérique du GC.
+La [Directive sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601) comprend l'alignement avec le Cadre de l’architecture intégrée du GC et les Normes numériques du GC. Ceux ci doivent être utilisées par les conseils d’examen de l’architecture (CEA) ministérielles et le CEA du GC comme cadre d'évaluation pour examiner les initiatives numériques afin de s'assurer que le GC agit comme une entreprise unique et que les ministères s'alignent sur l'orientation numérique du GC.
 
-Ceux-ci s’harmonisent avec les [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence aux points A.2.3.8.4 and A.2.3.9.5 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), qui prévoient que tous les codes sources doivent être publiés sous une licence de logiciel libre appropriée et lorsqu’il ne l’est pas, il doit être partagé au sein du gouvernement du Canada.
+Les lignes directrices suivantes appuient les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) (Travailler ouvertement par défaut et Collaborer largement) et le critère d'Architecture opérationnelle du [Cadre de l’architecture intégrée du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/cadre-architecture-integree-gouvernement-canada.html) de promouvoir l’habilitation horizontale de l’entreprise et publier en mode ouvert tous les processus, les capacités et les solutions d’entreprise communs réutilisables. Ils appuient également l'objectif de la [Directive sur le gouvernement ouvert](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=28108) de maximiser la communication de l'information et des données gouvernementales.
 
 Par conséquent, il est recommandé que, lorsqu’ils ont le droit de le faire, les ministères publient tout le code source en tant que logiciel libre, que la solution logicielle soit (i) acquise en tant que logiciel libre, (ii) mise au point par les employés du GC à l’interne ou (iii) acquise au moyen des conditions des contrats d’approvisionnement où des conditions de licence appropriées ont été négociées.
 
@@ -23,11 +23,7 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 ### Équipe
 
-La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (A.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602#claA.2.3.8).
-
-Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tous les nouveaux codes source conçus dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
-
-Conformément à la vision pour un gouvernement ouvert, les équipes devraient par défaut considérer adapter leurs processus afin de se développer en tant que source ouverte dès le début des projets afin de réduire les coûts indirects liés à la publication ultérieure de leur code source.
+Conformément aux normes numériques et à la vision pour un gouvernement ouvert, les équipes devraient par défaut considérer adapter leurs processus afin de se développer en tant que source ouverte dès le début des projets afin de réduire les coûts indirects liés à la publication ultérieure de leur code source.
 
 Il a également été constaté que cela améliore la qualité du code développé et encourage la collaboration.
 
