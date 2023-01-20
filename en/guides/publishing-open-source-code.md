@@ -23,11 +23,7 @@ The steps to publish GC source code are:
 
 ### Team
 
-The Directive on Service and Digital support the Digital Standard #3: Working in the open by default, via [Mandatory Procedures for Enterprise Architecture Assessment (A.2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8).
-
-> Share evidence, research and decision making openly. Make all non-sensitive data, information, and **new code developed in delivery of services open to the outside world for sharing and reuse under an open licence**.
-
-Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
+Aligned with the Digital Standards and the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
 
 It has also been found that doing so improves the quality of the code developed and encourages collaboration.
 

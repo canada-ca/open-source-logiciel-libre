@@ -26,8 +26,7 @@ See [Verify Open Source Software Ownership or Licence](#verify-open-source-softw
 
 ### Selecting Open Source Software First
 
-The [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) require application architecture – for both new technology and upgrade/migration of existing solutions – to prioritize the use of open source software as well as open standards.
-Doing so maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
+Aligned with the Digital Standards and the Enterprise Architecture Framework, this maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
 It also helps mitigate the significant risks which arise from lock-in and similar issues.
 
 Sometimes an open source solution meets most user needs but would require additional investment to develop missing functionality (see [Guide for Contributing to Open Source Software][guide-contribute-oss]).
