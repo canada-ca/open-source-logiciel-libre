@@ -1,39 +1,6 @@
 # Definitions and Terms
 
-## Defining Where Appropriate and Where Possible
-
-The Directive on Service and Digital - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment (A.2.3.8.1)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8.1) state that 'where possible', use open standards and open software first. As well the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) state 'Leverage open standards and embrace leading practices, including the use of open source software where appropriate'.
-
-Where Appropriate and Where Possible are defined as all items that are not exempt due to the following:
-
-- The Source Code is not owned exclusively by the Crown and is not already open-source.
-- The Source Code is protected
-
-In order for source code to potentially be deemed protected, it would have to contain any of the following information:
-
-- Information that is deemed Classified
-- Information obtained in confidence
-- Information about federal-provincial affairs
-- Information about international affairs and defence
-- Information about law enforcement and investigations
-- Information about the safety of individuals
-- Information about the economic interests of Canada
-- Personal information
-- Third party information
-- Advice about certain aspects of operations of government
-- Information about testing procedures, tests, and audits
-- Information that is subject to solicitor-client privilege
-- Information that is subject to statutory prohibitions
-- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
-- Confidences of the Queen’s Privy Council for Canada
-
-It is highly unlikely that developers would intentionally include such information in their source code. As a result, source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the items listed above.
-
-Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
-
-## Terms
-
-### Open Source Software (OSS)
+## Open Source Software (OSS)
 
 Open Source Software is generally, software for which the underlying programming code is available to users to read, change and build new versions of the software incorporating changes. In particular, GC considers that OSS is any Software that meets all the following basic requirements:
 
@@ -77,34 +44,34 @@ Open Source Software is generally, software for which the underlying programming
 
     No provision of the license may be predicated on any individual technology or style of interface.
 
-### Business Owner
+## Business Owner
 
 The business owner is the executive who is responsible for the business or program area for which the digital project has been established. The business owner is responsible for defining the required capabilities, intended business outcomes and benefits of a project or programme at its outset and for the achievement of the business outcomes and benefits following implementation of the digital project.
 
-### Business Requirement
+## Business Requirement
 
 A Business Requirement is defined as a specific need that must be addressed in order to achieve an objective. These drive the element of 'why' for a project defining the nature and purpose at a high level. In the Context of OSS, this means fulfilling Canada’s requirement to have the rights to use the software being acquired for a particular purpose, such as redistributing or carrying out modifications to software.
 
-### Concept Case
+## Concept Case
 
 A Concept Case means the creation of a case for a digital project (formerly known as IT-enabled projects) or initiative in accordance with Appendix C of Canada’s Policy on the Planning and Management of Investments, with the value of the digital project in Appendix C.2.2 calculated to include all project investments for software, servicing and professional services associated with a digital project.  A concept case is an examination of a business problem or opportunity for which a digital project may be established and includes a description of the conceptual future state and intended outcome(s) that are expected to result from the investment.  As such, it must take into account all elements of the digital project costed over its life cycle.
 
-### Functional Requirement
+## Functional Requirement
 
 A Functional Requirement is defined as a more specific working level need in order to achieve an objective. These drive the element of 'what' for a project defining the specific details and describe a particular function of software or part of it to attain an expected result.
 
-### Technical Requirement
+## Technical Requirement
 
 A Technical Requirement is defined as an architectural decision to support an objective. These drive the element of 'how' for a project defining the architecture of the software and how it should interface with other systems and software.
 
-### Source Code
+## Source Code
 
 Computer program in its original programming language, human readable, before translation into object code usually by a compiler or an interpreter. It consists of algorithms, computer instructions and may include developer's comments.
 
-### Proprietary Software
+## Proprietary Software
 
 This refers to all Software that is not Open Source Software as defined above, which is copyrighted and not subject to Open Source Software License terms.
 
-### Crown Institution
+## Crown Institution
 
 A Crown Institution includes all Departments, Agencies, Provincial, Municipal, Crown Corporation or any other form of Government of Canada institution operating under the authority of the Crown.
