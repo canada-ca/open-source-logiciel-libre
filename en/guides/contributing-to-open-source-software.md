@@ -20,6 +20,7 @@ The steps for GC to contribute code to open source software communities are:
 4. [Contribute to the project](#contribute-to-the-project)
 5. [Contribute through professional services](#contribute-through-professional-services)
 6. [Publish contributions regardless of upstream acceptance](#publish-contributions-regardless-of-upstream-acceptance)
+7. Start, attend or contribute to an open source software community or user group.
 
 ## Verify Open Source Software Licence
 
