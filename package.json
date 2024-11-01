@@ -1,13 +1,13 @@
 {
   "name": "open-source-contribution-logiciel-libre",
   "version": "0.0.1",
+  "type": "module",
   "description": "Draft requirements around open source - Brouillon des besoins liés aux logiciels libre.",
   "main": "index.js",
   "scripts": {
-    "link-check": "npx markdown-link-check -c .markdown-link-check.json en/**/*.md fr/**/*.md *.md -q",
-    "lint": "markdownlint -i node_modules \"**/*.md\"",
-    "spellcheck": "cspell en/**/*.md",
-    "test": "npm run lint && npm run spellcheck && npm run link-check"
+    "test": "mocha 'test/**/*.js' --timeout 5000 --experimental-modules",
+    "test:watch": "mocha 'test/**/*.js' --watch",
+    "test:coverage": "nyc mocha 'test/**/*.js'"
   },
   "repository": {
     "type": "git",
@@ -20,11 +20,15 @@
   },
   "homepage": "https://github.com/canada-ca/open-source-logiciel-libre#readme",
   "devDependencies": {
+    "chai": "^4.3.10",
     "chalk": "^4.1.0",
     "cspell": "^6.15.0",
     "glob": "^7.2.0",
+    "jsdom": "^22.1.0",
     "markdown-link-check": "^3.10.0",
-    "markdownlint-cli": "^0.32.0"
-  },
-  "dependencies": {}
+    "markdownlint-cli": "^0.32.0",
+    "mocha": "^10.2.0",
+    "sinon": "^15.2.0",
+    "sinon-chai": "^3.7.0"
+  }
 }
