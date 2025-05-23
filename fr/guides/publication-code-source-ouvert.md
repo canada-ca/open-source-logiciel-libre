@@ -155,7 +155,7 @@ Cependant, les employés du gouvernement du Canada ont des [Droits moraux](https
 
 Selon l’article des [Demandes de droit d’auteur de la Couronne](https://www.canada.ca/fr/patrimoine-canadien/services/demandes-droit-auteur-couronne.html) trouvé sur Canada.ca, la structure suivante devrait être appliquée pour l’avis de droit d’auteur du gouvernement du Canada.
 
-Droit d’auteur (c) Sa Majesté la Reine du chef du Canada, représentée par la ministre de (nom légal du ministère), (année de publication).
+Droit d’auteur (c) Sa Majesté le Roi du chef du Canada, représentée par la ministre de (nom légal du ministère), (année de publication).
 Remplacer le (nom légal du ministère) et (année de publication) avec l’information appropriée.
 
 Cet avis devrait être ajouté au fichier LICENCE dans votre projet. Voir [Ajouter des fichiers recommandés](#ajouter-des-fichiers-recommandés).
