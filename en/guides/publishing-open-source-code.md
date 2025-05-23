@@ -175,7 +175,7 @@ However, Government of Canada employees have [Moral Rights](https://laws-lois.ju
 
 As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html) article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
 
-> Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+> Copyright (c) His Majesty the King in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
 
 Replace the **(legal departmental name)** and **(year of publication)** with the appropriate information.
 
