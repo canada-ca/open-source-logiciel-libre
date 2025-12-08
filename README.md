@@ -38,8 +38,8 @@ Official translation will be done once a first version is completed.
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
   * Government Digital Services (EN): [Guidelines](https://alphagov.github.io/)
 * United States of America (EN):
-  * [Federal Source Code Policy](https://sourcecode.cio.gov/)
-  * [18F](https://18f.gsa.gov/open-source-policy/)
+  * [Federal Source Code Policy](https://web.archive.org/web/20200710190550/https://sourcecode.cio.gov/)
+  * [18F](https://web.archive.org/web/20250227233419/https://18f.gsa.gov/open-source-policy/)
 * Linux Foundation (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
   * TODO Group (EN):
     * [Guides](https://todogroup.org/guides/)
@@ -86,8 +86,8 @@ La traduction officielle sera effectuée une fois la première version terminée
 * Gouvernement de la Grande-Bretagne (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
   * Services numériques gouvernementaux (EN): [Guidelines](https://alphagov.github.io/)
 * Gouvernement fédéral des États-Unis d'Amérique (EN):
-  * [Federal Source Code Policy](https://sourcecode.cio.gov/)
-  * [18F](https://18f.gsa.gov/open-source-policy/)
+  * [Federal Source Code Policy](https://web.archive.org/web/20200710190550/https://sourcecode.cio.gov/)
+  * [18F](https://web.archive.org/web/20250227233419/https://18f.gsa.gov/open-source-policy/)
 * Fondation Linux (EN): [Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
   * Groupe TODO (EN):
     * [Guides](https://todogroup.org/guides/)
