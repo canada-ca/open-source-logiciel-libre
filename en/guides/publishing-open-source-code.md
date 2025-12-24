@@ -1,8 +1,8 @@
 # Guide for Publishing Open Source Code
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) includes alignment with the GC Enterprise Architecture Framework and the GC Digital Standards. These must be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and the requirement in C.2.3.8 and C.2.3.9.5 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that all source code must be released under an appropriate open source software license, and when not, it must be shared within the Government of Canada.
+The following guidance supports the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) (Work in the open and Collaborate widely) and the Business architecture criteria of the [GC Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html) to promote horizontal enablement of the enterprise and publish in the open all reusable common business capabilities, processes and enterprise solutions. It also supports the objective of the [Directive on Open Government](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=28108) to maximize the release of government information and data.
 
 As such it is recommended that where they have the right to do so, departments publish all source code as open source software, whether the software solution was (i) acquired as OSS; (ii) developed in-house by GC employees or (iii) acquired through the terms of procurement contracts where appropriate license terms were negotiated.
 
@@ -23,11 +23,7 @@ The steps to publish GC source code are:
 
 ### Team
 
-The Directive on Management of IT support the Digital Standard #3: Working in the open by default, via [Mandatory Procedures for Enterprise Architecture Assessment (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=C).
-
-> Share evidence, research and decision making openly. Make all non-sensitive data, information, and **new code developed in delivery of services open to the outside world for sharing and reuse under an open licence**.
-
-Aligned with the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
+Aligned with the Digital Standards and the Open Government vision, teams should by default consider adapting their process to develop as open source from the inception of projects to reduce the overhead required to release their source code later down the road.
 
 It has also been found that doing so improves the quality of the code developed and encourages collaboration.
 
@@ -39,10 +35,10 @@ That person may vary according to your department and delegation should be encou
 
 ## Obtain Rights to Custom Code in Contracts
 
-The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.ic.gc.ca/eic/site/068.nsf/eng/00005.html) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
+The ISED [Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=13697) provides that the contractor is to own the rights to foreground intellectual property (IP) created as a result of a Crown procurement contract.
 But when the Crown's intended use of the IP can be met through licence arrangements, it has the opportunity to seek the needed licence(s) whether broad or narrow.
 
-As part of the discussion with the institution’s legal services unit and the consideration of applicable policy, it should be noted that PSPC  [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/2), which can use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
+As part of the discussion with the institution’s legal services unit and the consideration of applicable policy, it should be noted that PSPC  [Standard Acquisition Clauses and Conditions Manual](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual) provides clauses to request a [License to Material Subject to Copyright](https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/K/K3030C/3), which can use the clauses in contracts if the department or agency wants the copyright in the work to belong to the contractor but wishes to obtain a license to exercise all rights comprised in the copyright.
 
 Departments or agencies are able to release code developed as a result of a Crown procurement contract under an open source software licence where such rights have been granted to Canada. The procurement contract could also require that the contracting body be responsible for publishing the source code under an acceptable open source software licence or contribute directly to existing open source software using that project's licence, and such clauses would be effective where agreed to by the supplier.
 

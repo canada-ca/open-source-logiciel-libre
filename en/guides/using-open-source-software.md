@@ -1,8 +1,8 @@
 # Guide for Using Open Source Software
 
-The [Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), Appendix C provides Mandatory Procedures for Enterprise Architecture Assessment, that will be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) includes alignment with the GC Enterprise Architecture Framework and the GC Digital Standards. These must be used by departmental Architecture Review Boards (ARB) and the Government of Canada Enterprise ARB as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
-These align with the [Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) and requirement C.2.3.8 of the [Mandatory Procedures for Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8) which provide that, where possible, open source software be used first.
+The following guidance supports the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) (Use open standards and open source software) and the Application architecture criteria of the [GC Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html) to use open source solutions.
 
 The steps for GC to use open source software are:
 
@@ -26,9 +26,8 @@ See [Verify Open Source Software Ownership or Licence](#verify-open-source-softw
 
 ### Selecting Open Source Software First
 
-The mandatory procedures for enterprise architecture assessment ( [see annex C of the Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#appC) ) require application architecture – for both new technology and upgrade/migration of existing solutions – to prioritize the use of open source software as well as open standards.
-Doing so maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
-It also helps mitigate the significant risks which arise from lock-in and similar issues.
+Aligned with the Digital Standards and the Enterprise Architecture Framework, this maximizes the substitutability and interoperability of software components and opens the door to creating highly flexible solutions.
+It also helps mitigate the significant risks which arise from vendor lock-in and similar issues.
 
 Sometimes an open source solution meets most user needs but would require additional investment to develop missing functionality (see [Guide for Contributing to Open Source Software][guide-contribute-oss]).
 In these cases, this investment must be considered by weighing the total cost of ownership against those of other candidate solutions.
