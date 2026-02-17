@@ -22,7 +22,7 @@
   "devDependencies": {
     "chalk": "^4.1.0",
     "cspell": "^9.4.0",
-    "glob": "^7.2.0",
+    "glob": "^13.0.4",
     "markdown-link-check": "^3.14.2",
     "markdownlint-cli": "^0.46.0"
   },
