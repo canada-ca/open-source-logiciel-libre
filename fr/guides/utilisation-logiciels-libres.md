@@ -1,8 +1,8 @@
 # Guide pour l’utilisation de logiciels libres
 
-La [Directive sur la gestion des technologies de l’information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC), annexe C, fournit les procédures obligatoires pour l’évaluation de l’architecture intégrée, qui seront utilisées par les Conseils d’examen de l’architecture (CEA) et le CEA intégré du gouvernement du Canada (GC) en tant que cadre d’évaluation pour examiner les initiatives numériques visant à assurer que le GC agit comme unique entreprise et à assurer l’harmonisation ministérielle avec l’orientation numérique du GC.
+La [Directive sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601) comprend l'alignement avec le Cadre de l’architecture intégrée du GC et les Normes numériques du GC. Ceux ci doivent être utilisées par les conseils d’examen de l’architecture (CEA) ministérielles et le CEA du GC comme cadre d'évaluation pour examiner les initiatives numériques afin de s'assurer que le GC agit comme une entreprise unique et que les ministères s'alignent sur l'orientation numérique du GC.
 
-Celles-ci s’harmonisent avec les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et l’exigence C.2.3.8 des [Procédures obligatoires pour l’évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#claC.2.3.8) qui prévoient que, dans la mesure du possible, des logiciels libres soient utilisés en premier.
+Les lignes directrices suivantes appuient les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) (Travailler ouvertement par défaut et Collaborer largement) et le critère d'Architecture d’application du [Cadre de l’architecture intégrée du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/cadre-architecture-integree-gouvernement-canada.html) d'utiliser des logiciel libres.
 
 Les étapes à suivre pour que le GC utilise des logiciels libres sont les suivantes:
 
@@ -23,9 +23,10 @@ Une solution fondée sur un logiciel libre, mais qui nécessite l’utilisation 
 
 ### Choisir des logiciels ouverts en priorité
 
-Les procédures obligatoires pour l’évaluation de l’architecture intégrée ([voir l’annexe C de la Directive sur la gestion des technologies de l’information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249#appC)) nécessitent une architecture d’application – pour la nouvelle technologie ainsi que la mise à niveau ou la migration des solutions existantes – afin de prioriser l’utilisation de logiciels libres de même que les normes ouvertes. Ce faisant, on maximise la substituabilité et l’interopérabilité des éléments de logiciels et ouvre la voie à la création de solutions très souples. Cela aide également à atténuer les risques importants liés au blocage et à des problèmes semblables.
+Conformément aux normes numériques et au Cadre de l’architecture intégrée du GC, ceci maximise la substituabilité et l’interopérabilité des éléments de logiciels et ouvre la voie à la création de solutions très souples.
+Cela aide également à atténuer les risques importants liés à enfermement propriétaire et à des problèmes semblables.
 
-Parfois, une solution libre satisfait la plupart des besoins de l’utilisateur, mais exigerait des investissements supplémentaires pour développer la fonctionnalité manquante (voir le Guide de contribution aux logiciels libres). Dans ces cas, cet investissement doit être considéré en pondérant le coût total de possession par rapport à ceux des autres solutions candidates.
+Parfois, une solution libre satisfait la plupart des besoins de l’utilisateur, mais exigerait des investissements supplémentaires pour développer la fonctionnalité manquante (voir le [Guide de contribution aux logiciels libres](contribution-à-des-logiciels-libres.md)). Dans ces cas, cet investissement doit être considéré en pondérant le coût total de possession par rapport à ceux des autres solutions candidates.
 
 ### Évaluation
 
