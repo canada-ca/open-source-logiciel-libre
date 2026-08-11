@@ -23,7 +23,7 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 ### Équipe
 
-La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
+La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
 
 Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tous les nouveaux codes source conçus dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
 
@@ -33,7 +33,7 @@ Il a également été constaté que cela améliore la qualité du code développ
 
 ### Ministère
 
-Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence de logiciel libre exige les approbations du bon ministère ou organisme.
+Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence de logiciel libre exige les approbations du bon ministère ou organisme.
 Cette personne peut varier en fonction du ministère et la délégation devrait être encouragée au niveau le plus bas possible pour encourager la publication du code source libre.
 
 ## Obtenir les droits de personnaliser le code dans les contrats
@@ -227,7 +227,7 @@ Les employés devraient utiliser leur nom au complet et l’adresse courriel du 
 
 ### Langues officielles
 
-La [Politique sur les langues officielles](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=26160) ne s’applique pas aux codes sources des logiciels (y compris les commentaires en ligne).
+La [Politique sur les langues officielles]/pol/doc-fra.aspx?id=26160) ne s’applique pas aux codes sources des logiciels (y compris les commentaires en ligne).
 Cependant, les mêmes règles sur les LO comme toute autre application élaborée par le GC ou au nom du GC dans le passé devrait s’appliquer pour ce qui est de la documentation de l’utilisateur final, si le projet a été publié ou non comme logiciel libre.
 
 ### Collectivité
