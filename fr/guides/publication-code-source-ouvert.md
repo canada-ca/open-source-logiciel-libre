@@ -227,7 +227,7 @@ Les employés devraient utiliser leur nom au complet et l’adresse courriel du 
 
 ### Langues officielles
 
-La [Politique sur les langues officielles]/pol/doc-fra.aspx?id=26160) ne s’applique pas aux codes sources des logiciels (y compris les commentaires en ligne).
+La [Politique sur les langues officielles](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=26160) ne s’applique pas aux codes sources des logiciels (y compris les commentaires en ligne).
 Cependant, les mêmes règles sur les LO comme toute autre application élaborée par le GC ou au nom du GC dans le passé devrait s’appliquer pour ce qui est de la documentation de l’utilisateur final, si le projet a été publié ou non comme logiciel libre.
 
 ### Collectivité
