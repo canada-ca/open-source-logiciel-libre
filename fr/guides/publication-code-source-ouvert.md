@@ -23,7 +23,7 @@ Voici les étapes à suivre pour publier le code source du GC :
 
 ### Équipe
 
-La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
+La Directive sur la gestion des TI appuie la norme numérique n° 3 : Travailler ouvertement par défaut, au moyen des [Procédures obligatoires pour l’évaluation de l’architecture intégrée (C2.3.8)](https://www.tbs-sct/pol/doc-fra.aspx?id=15249&section=procedure&p=C#appC).
 
 Partagez de façon ouverte les données probantes, les résultats de recherche et les prises de décisions. Rendez accessibles toutes les données de nature non sensible, tous les renseignements et tous les nouveaux codes source conçus dans le cadre de la prestation de services, afin que le monde extérieur puisse se les échanger et les réutiliser sous une licence ouverte.
 
@@ -33,14 +33,14 @@ Il a également été constaté que cela améliore la qualité du code développ
 
 ### Ministère
 
-Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence de logiciel libre exige les approbations du bon ministère ou organisme.
+Semblable aux données ouvertes ou aux renseignements ouverts visés par la [Directive sur le gouvernement ouvert](https://www.tbs-sct/pol/doc-fra.aspx?id=28108), la publication du code source sous une licence de logiciel libre exige les approbations du bon ministère ou organisme.
 Cette personne peut varier en fonction du ministère et la délégation devrait être encouragée au niveau le plus bas possible pour encourager la publication du code source libre.
 
 ## Obtenir les droits de personnaliser le code dans les contrats
 
-La [Politique sur les droits de propriété intellectuelle](https://www.ic.gc.ca/eic/site/068.nsf/fra/00005.html) issus de marchés conclus avec l’État d’Innovation, Sciences et Développement économique Canada (ISDE) stipule que l’entrepreneur est propriétaire des droits de propriété intellectuelle de base créée à la suite d’un contrat d’achat de l’État. Toutefois, lorsque l’utilisation prévue par l’État de la propriété intellectuelle peut être satisfaite par le biais d’accords de licence, elle a la possibilité de rechercher la ou les licence (s) nécessaire (s), qu’elle soit large ou restreinte.
+La [Politique sur les droits de propriété intellectuelle](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=13697) issus de marchés conclus avec l’État d’Innovation, Sciences et Développement économique Canada (ISDE) stipule que l’entrepreneur est propriétaire des droits de propriété intellectuelle de base créée à la suite d’un contrat d’achat de l’État. Toutefois, lorsque l’utilisation prévue par l’État de la propriété intellectuelle peut être satisfaite par le biais d’accords de licence, elle a la possibilité de rechercher la ou les licence (s) nécessaire (s), qu’elle soit large ou restreinte.
 
-Dans le cadre de la discussion avec l’unité des services juridiques de l’institution et de l’examen de la politique applicable, il convient de noter que le [Guide des clauses et conditions uniformisées d’achat](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2) de Services publics et Approvisionnement Canada (SPAC) renferme des clauses pour demander une [Licence concernant le matériel protégé par des droits d’auteur](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/5/K/K3030C/2), qui peut utiliser les clauses des contrats si le ministère ou l’organisme veut que les droits d’auteur sur l’œuvre appartiennent à l’entrepreneur, mais souhaite obtenir une licence pour exercer tous les droits compris dans les droits d’auteur.
+Dans le cadre de la discussion avec l’unité des services juridiques de l’institution et de l’examen de la politique applicable, il convient de noter que le [Guide des clauses et conditions uniformisées d’achat](https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond) de Services publics et Approvisionnement Canada (SPAC) renferme des clauses pour demander une [Licence concernant le matériel protégé par des droits d’auteur](https://achatscanada.canada.ca/fr/guide-des-clauses-et-cond-5k?saccid=2021-05-20-K3030C), qui peut utiliser les clauses des contrats si le ministère ou l’organisme veut que les droits d’auteur sur l’œuvre appartiennent à l’entrepreneur, mais souhaite obtenir une licence pour exercer tous les droits compris dans les droits d’auteur.
 
 Les ministères ou organismes peuvent publier le code développé à la suite d’un contrat d’approvisionnement de l’État sous une licence de logiciel libre, où ces droits ont été accordés au Canada. Le contrat d’approvisionnement pourrait également exiger à l’organisme contractant d’être responsable de la publication du code source sous une licence de logiciel libre acceptable ou de contribuer directement au logiciel libre existant à l’aide de la licence de ce projet, et ces clauses seraient efficaces si convenues par le fournisseur.
 
