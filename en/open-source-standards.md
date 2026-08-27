@@ -12,3 +12,7 @@ It is committed to doing so in a manner that is compatible with principles of tr
 - [Guide for Contribution to Open Source Software](guides/contributing-to-open-source-software.md)
 - [Guide for Publishing of Open Source Code](guides/publishing-open-source-code.md)
 - [Definitions and Terms](guides/definitions.md)
+
+Public Inquiries: 
+Which licenses does the Government of Canada consider "open source software" licenses?
+What Open Source Software is the Government of Canada currently using?
