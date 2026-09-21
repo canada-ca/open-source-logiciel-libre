@@ -20,7 +20,7 @@ For the purpose of the current drafts, the Standard template has been chosen to 
 
 During this drafting period, translation is being done manually and continuously by contributors as well as with the following tools and services:
 
-* [Termium Plus](http://www.btb.termiumplus.gc.ca/)
+* [Termium Plus](https://www.btb.termiumplus.gc.ca/)
 * [Google Translate](https://translate.google.com/)
 * [Deepl Translator](https://www.deepl.com/translator)
 
@@ -69,7 +69,7 @@ Pour l'exercice d'ébauche, le format du Standard a été utilisé pour commence
 
 Durant la période d'ébauche, la traduction du contenu est faite de façon manuelle et continuelle par les contributrices et les contributeurs ainsi qu'avec l'aide des outils et services suivants:
 
-* [Termium Plus](http://www.btb.termiumplus.gc.ca/)
+* [Termium Plus](https://www.btb.termiumplus.gc.ca/)
 * [Google Translate](https://translate.google.com/)
 * [Deepl Translator](https://www.deepl.com/translator)
 
