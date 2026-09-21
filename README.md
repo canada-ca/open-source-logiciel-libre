@@ -36,7 +36,7 @@ Official translation will be done once a first version is completed.
     * [Directive on Publication and Maintenance of an Open-Source Municipal Project](https://github.com/VilledeMontreal/politique-libre/blob/master/Directives/PublicationProjetVille.md#english-version)
 * France (EN): [DINSIC Open-source contribution policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)
 * United Kingdom Governement Digital Service (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
-  * Government Digital Services (EN): [Guidelines](https://alphagov.github.io/)
+  * Government Digital Services (EN): [Guidelines](https://github.com/alphagov/open-source-guidelines)
 * United States of America (EN):
   * [Federal Source Code Policy](https://web.archive.org/web/20200710190550/https://sourcecode.cio.gov/)
   * [18F](https://web.archive.org/web/20250227233419/https://18f.gsa.gov/open-source-policy/)
@@ -84,7 +84,7 @@ La traduction officielle sera effectuée une fois la première version terminée
     * [Directive sur la publication et le maintien d’un projet Ville en libre](https://github.com/VilledeMontreal/politique-libre/tree/master/Directives)
 * France (FR): [Politique de contribution open-source de la DINSIC](https://disic.github.io/politique-de-contribution-open-source)
 * Gouvernement de la Grande-Bretagne (EN): [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
-  * Services numériques gouvernementaux (EN): [Guidelines](https://alphagov.github.io/)
+  * Services numériques gouvernementaux (EN): [Guidelines](https://github.com/alphagov/open-source-guidelines)
 * Gouvernement fédéral des États-Unis d'Amérique (EN):
   * [Federal Source Code Policy](https://web.archive.org/web/20200710190550/https://sourcecode.cio.gov/)
   * [18F](https://web.archive.org/web/20250227233419/https://18f.gsa.gov/open-source-policy/)
